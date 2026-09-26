@@ -1,8 +1,10 @@
 # Hobbyprojecten · RDAM39
 
+> **Migratie in uitvoering (26 september 2026):** de documentatie staat hier alvast. De volledige website is lokaal gereed en getest, maar nog niet naar deze repository geüpload of via GitHub gepubliceerd. Zie [de actuele overdracht](docs/OVERDRACHT.md).
+
 Interactieve kaart van vooroorlogs Rotterdam. Bekijk historische gebouwen en buurten in 3D, vergelijk archiefbeelden met duidelijk gemarkeerde AI-bewerkingen en wissel naar de huidige stad. WOII-verhalen hebben eigen bronnen en historische locatieankers.
 
-**Nieuw hier, of verdergaan met een AI-tool? Begin bij [AGENTS.md](AGENTS.md) en [de overdracht](docs/OVERDRACHT.md).** Deze repository is zelfstandig bruikbaar; de oorspronkelijke chat en lokale onderzoeksmap zijn niet nodig om de website te draaien of aan te passen.
+**Nieuw hier, of verdergaan met een AI-tool? Begin bij [AGENTS.md](AGENTS.md) en [de overdracht](docs/OVERDRACHT.md).** De volledige projectopzet is zelfstandig bruikbaar; de oorspronkelijke chat en lokale onderzoeksmap zijn niet nodig om de website te draaien of aan te passen.
 
 ## Lokaal bekijken
 
