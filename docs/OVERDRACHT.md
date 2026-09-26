@@ -28,7 +28,7 @@ De huidige GitHub-kopie is de werkbasis voor vervolgwerk. Wijzigingen aan oude l
 
 ## Huisstijlupdate op 26 september 2026
 
-De moderne interface gebruikt nu de aangeleverde Aigenwijs-huisstijl; `site/aigenwijs.css` bevat de afgebakende overrides. Bron-skill, merkrichtlijnen en fontverantwoording staan in `brand/`. De makercredit is een gewone, toegankelijke link, geen tracking- of advertentiecomponent. De lokale projectcontrole, browsercontrole en visuele desktop/mobiele controle zijn geslaagd.
+De moderne interface gebruikt nu de aangeleverde Aigenwijs-huisstijl; `site/aigenwijs.css` bevat de afgebakende overrides. Bron-skill, merkrichtlijnen en fontverantwoording staan in `brand/`. De makercredit is een gewone, toegankelijke link, geen tracking- of advertentiecomponent. De lokale projectcontrole, browsercontrole en visuele desktop/mobiele controle zijn geslaagd. Gepubliceerd uit commit `7d034d6a636834e96afb683b9f8ad4e74119301e` en daarna anoniem op de live-URL getest zonder browser-/HTTP-fouten. HTML, huisstijl-CSS, logo en beide fonts zijn ook inhoudelijk met de live bestanden vergeleken. Zie `VERIFICATIE-HUISSTIJL.json`.
 
 Een eigen domein is nog niet ingesteld: het eerdere verzoek noemde zowel `rdam.nl` als `rdam39.nl`; de domeinkeuze en Hostnet-aanmelding ontbreken nog. Deze huisstijlupdate wijzigt geen DNS of domeininstellingen.
 

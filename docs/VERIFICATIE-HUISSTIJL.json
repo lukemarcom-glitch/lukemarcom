@@ -1,0 +1,27 @@
+{
+  "verifiedAt": "2026-09-26T08:49:54.573675+00:00",
+  "sourceCommit": "7d034d6a636834e96afb683b9f8ad4e74119301e",
+  "deploymentRun": "https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36230843344",
+  "deploymentConclusion": "success",
+  "liveFilesMatchSource": [
+    "index.html",
+    "aigenwijs.css",
+    "assets/brand/aigenwijs-logo-anthracite.svg",
+    "assets/fonts/geist-variable.ttf",
+    "assets/fonts/sora-variable.ttf"
+  ],
+  "browser": {
+    "base": "https://lukemarcom-glitch.github.io/lukemarcom/",
+    "buildings": 87,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  }
+}
