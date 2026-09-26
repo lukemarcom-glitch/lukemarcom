@@ -14,14 +14,17 @@ Het snapshot komt uit broncommit `f31a1b0009b3967d5ae79233364f3c8fb4c38a2d` van 
 
 - Oorspronkelijke website: https://rotterdam-1939-en-nu.aigenwijzer.chatgpt.site/ . Deze blijft tijdens de migratie bestaan.
 - Nieuwe GitHub-repository: https://github.com/lukemarcom-glitch/lukemarcom — openbaar, gecontroleerd via de GitHub API.
-- GitHub Pages is ingesteld met GitHub Actions. Doeladres: https://lukemarcom-glitch.github.io/lukemarcom/ . De eerste volledige deployment is in voorbereiding; nog geen liveverificatie.
+- Openbare website: https://lukemarcom-glitch.github.io/lukemarcom/ — succesvol gepubliceerd en anoniem getest op 26 september 2026. HTTPS is ingeschakeld.
+- Geslaagde deployment: https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36229985267 , uit commit `73ab011db8b71884b031ef6494a515d5abb95c05`. Latere documentatiecommits veranderen deze websitebestanden niet.
 - Lokale controle: 87 gebouwen/buurten, 18 verhalen, 233 bronfotovermeldingen en 213 AI-paren; geen ontbrekende runtimebestanden of markerregressies. Desktop, mobiele galerie/lichtbak en Nu 3D zijn op `/lukemarcom/` getest zonder JS- of HTTP-fouten.
-- De oorspronkelijke drie documentatiecommits blijven behouden. Deze migratie voegt de volledige website, lokale start-/controlescripts en GitHub-workflows toe.
+- De oorspronkelijke drie documentatiecommits blijven behouden. De volledige website, lokale start-/controlescripts en GitHub-workflows zijn toegevoegd en gepusht.
 - GitHub CLI is geautoriseerd als lukemarcom-glitch. De code is openbaar te clonen; schrijven blijft beperkt tot geautoriseerde accounts.
 - Claude Code kan de repository zelfstandig openen; `CLAUDE.md` importeert de afspraken en deze overdracht. Zie `CLAUDE-START.md`. De GitHub-koppeling binnen een afzonderlijk Claude-account is een aparte stap; die is hier niet uitgevoerd.
 - Geen geheime API-sleutels nodig voor gebruik van de website.
 
-Vervang deze status na een geslaagde publicatie door de echte repository-/site-URL en geverifieerde deployment. Een voorgenomen URL is geen bewijs dat de site live staat.
+Verificatie staat in `VERIFICATIE-GITHUB.json`. Een verse anonieme clone slaagde voor `npm run check`. De openbare website slaagde voor de browsercontrole: fotoparen/lichtbak, WOII-paneel, Nu 3D en mobiel zonder JavaScript-/HTTP-fouten of horizontale overflow.
+
+De huidige GitHub-kopie is de werkbasis voor vervolgwerk. Wijzigingen aan oude lokale `v1`- of Sites-kopieën komen niet vanzelf op GitHub terecht. De afzonderlijke GitHub-koppeling in Claude Code op het web kan pas na aanmelding in het eigen Claude-account worden afgerond; de browser vroeg bij controle opnieuw om inloggen.
 
 ## Vaste productkeuzes
 

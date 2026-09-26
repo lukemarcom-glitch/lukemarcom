@@ -6,7 +6,7 @@ De publicatiemap is **`site/`**. Upload deze map als statische website. Er is ge
 
 Repository: `lukemarcom-glitch/lukemarcom`.
 GitHub Pages-adres: `https://lukemarcom-glitch.github.io/lukemarcom/`.
-Controleer `OVERDRACHT.md` voor de werkelijke publicatiestatus; het adres hierboven is geen livebewijs.
+De eerste deployment is geslaagd en openbaar getest; zie `OVERDRACHT.md` en `VERIFICATIE-GITHUB.json`. Controleer na iedere nieuwe wijziging opnieuw de bijbehorende Actions-run en het openbare adres.
 
 1. Stel in GitHub **Settings → Pages → Build and deployment → Source → GitHub Actions** in.
 2. De Pages-workflow controleert eerst de inhoud en markerlogica en publiceert daarna alleen `site/`.

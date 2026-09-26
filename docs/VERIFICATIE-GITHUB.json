@@ -1,0 +1,30 @@
+{
+  "verifiedAt": "2026-09-26T08:34:47.713618+00:00",
+  "repository": "https://github.com/lukemarcom-glitch/lukemarcom",
+  "public": true,
+  "siteUrl": "https://lukemarcom-glitch.github.io/lukemarcom/",
+  "sourceCommit": "73ab011db8b71884b031ef6494a515d5abb95c05",
+  "deploymentRun": "https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36229985267",
+  "deploymentConclusion": "success",
+  "freshAnonymousCloneCheck": "passed",
+  "catalog": {
+    "buildings": 87,
+    "stories": 18,
+    "photoEntries": 233,
+    "aiPairs": 213
+  },
+  "browser": {
+    "base": "https://lukemarcom-glitch.github.io/lukemarcom/",
+    "buildings": 87,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  }
+}

@@ -3,7 +3,7 @@
 
 Interactieve kaart van vooroorlogs Rotterdam. Bekijk historische gebouwen en buurten in 3D, vergelijk archiefbeelden met duidelijk gemarkeerde AI-bewerkingen en wissel naar de huidige stad. WOII-verhalen hebben eigen bronnen en historische locatieankers.
 
-**Website:** https://lukemarcom-glitch.github.io/lukemarcom/ (zie [publicatiestatus](docs/OVERDRACHT.md)).
+**Website:** https://lukemarcom-glitch.github.io/lukemarcom/ — openbaar toegankelijk, zonder account. Zie [publicatiestatus](docs/OVERDRACHT.md).
 
 **Verder in Claude:** [startinstructies en een kopieerbare opdracht](docs/CLAUDE-START.md).
 
