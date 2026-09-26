@@ -15,7 +15,7 @@ Het snapshot komt uit broncommit `f31a1b0009b3967d5ae79233364f3c8fb4c38a2d` van 
 - Oorspronkelijke website: https://rotterdam-1939-en-nu.aigenwijzer.chatgpt.site/ . Deze blijft tijdens de migratie bestaan.
 - Nieuwe GitHub-repository: https://github.com/lukemarcom-glitch/lukemarcom — openbaar, gecontroleerd via de GitHub API.
 - Openbare website: https://lukemarcom-glitch.github.io/lukemarcom/ — succesvol gepubliceerd en anoniem getest op 26 september 2026. HTTPS is ingeschakeld.
-- Geslaagde deployment: https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36229985267 , uit commit `73ab011db8b71884b031ef6494a515d5abb95c05`. Latere documentatiecommits veranderen deze websitebestanden niet.
+- Eerste GitHub-deployment: https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36229985267 , uit commit `73ab011db8b71884b031ef6494a515d5abb95c05`. Actuele publicaties zijn terug te vinden onder [Publish RDAM39](https://github.com/lukemarcom-glitch/lukemarcom/actions/workflows/pages.yml).
 - Lokale controle: 87 gebouwen/buurten, 18 verhalen, 233 bronfotovermeldingen en 213 AI-paren; geen ontbrekende runtimebestanden of markerregressies. Desktop, mobiele galerie/lichtbak en Nu 3D zijn op `/lukemarcom/` getest zonder JS- of HTTP-fouten.
 - De oorspronkelijke drie documentatiecommits blijven behouden. De volledige website, lokale start-/controlescripts en GitHub-workflows zijn toegevoegd en gepusht.
 - GitHub CLI is geautoriseerd als lukemarcom-glitch. De code is openbaar te clonen; schrijven blijft beperkt tot geautoriseerde accounts.
@@ -26,11 +26,17 @@ Verificatie staat in `VERIFICATIE-GITHUB.json`. Een verse anonieme clone slaagde
 
 De huidige GitHub-kopie is de werkbasis voor vervolgwerk. Wijzigingen aan oude lokale `v1`- of Sites-kopieën komen niet vanzelf op GitHub terecht. De afzonderlijke GitHub-koppeling in Claude Code op het web kan pas na aanmelding in het eigen Claude-account worden afgerond; de browser vroeg bij controle opnieuw om inloggen.
 
+## Huisstijlupdate op 26 september 2026
+
+De moderne interface gebruikt nu de aangeleverde Aigenwijs-huisstijl; `site/aigenwijs.css` bevat de afgebakende overrides. Bron-skill, merkrichtlijnen en fontverantwoording staan in `brand/`. De makercredit is een gewone, toegankelijke link, geen tracking- of advertentiecomponent. De lokale projectcontrole, browsercontrole en visuele desktop/mobiele controle zijn geslaagd.
+
+Een eigen domein is nog niet ingesteld: het eerdere verzoek noemde zowel `rdam.nl` als `rdam39.nl`; de domeinkeuze en Hostnet-aanmelding ontbreken nog. Deze huisstijlupdate wijzigt geen DNS of domeininstellingen.
+
 ## Vaste productkeuzes
 
 - Historisch fotomateriaal en de vooroorlogse stad zijn de basis. Onderzoek binnen de brandgrens; bestaande Noordereiland-/bruguitbreiding behouden. De eigenaar heeft een verdere geografische uitbreiding met nieuwe kaartondergrond teruggedraaid.
 - Een voorgestelde 17e-/18e-eeuwse schilderijenlaag is afgewezen: niet alsnog bouwen. Een naoorlogse migratielaag is ook niet gevraagd.
-- De warme oude stijl blijft; Nu heeft een duidelijk andere vormgeving en standaard 3D. RDAM39-logo, Barlow Semi Condensed en mobiele bediening zijn aanwezig.
+- De warme oude stijl en Barlow Semi Condensed blijven in Toen; Nu heeft de Aigenwijs-huisstijl met paars, wit/ink, groen op de actieve Nu-knop, Sora-koppen en Geist-body. Alle fonts staan lokaal. RDAM39 blijft het hoofdlogo. Onderaan het uitklapmenu en bij Over staat een subtiele hobbyvermelding met het officiële Aigenwijs-logo en een link naar https://www.aigenwijs.com/. Zie `brand/README.md`. Nu opent standaard in 3D.
 - Linker navigatie inklapbaar; labels selectief zichtbaar om de kaart leesbaar te houden. Noordpijl is klikbaar. Muisslepen verplaatst de kaart.
 - Foto's staan paarsgewijs origineel/AI. Fullscreenvergelijking blijft binnen de website, miniaturen scrollen naar de gekozen foto. Hele gebouw heeft voorkeur; sfeerbeelden als aanvulling.
 - Automatisch verwijderen van achtergrondblokjes bij nieuwe modellen is verplicht. Het Hoffmanplein heeft afzonderlijke niet-overlappende gras-/padvlakken tegen flikkeren.

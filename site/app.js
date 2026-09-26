@@ -72,7 +72,7 @@ async function start(){
  
  function syncEra(){
   const now=era==='now';
-  scene.background.set(now?'#e7efeb':'#e8e8df');base.material.color.set(now?'#dfe9e4':'#e5e5da');sun.color.set(now?'#ffffff':'#ffefd2');sky.color.set(now?'#ffffff':'#ffffed');sky.groundColor.set(now?'#849a8d':'#65705f');
+  scene.background.set(now?'#f7f7f8':'#e8e8df');base.material.color.set(now?'#f7f7f8':'#e5e5da');sun.color.set(now?'#ffffff':'#ffefd2');sky.color.set(now?'#ffffff':'#ffffed');sky.groundColor.set(now?'#849a8d':'#65705f');
   $('scene').setAttribute('aria-label',now?'Draaibare 3D-kaart van het huidige Rotterdam, met kleurenluchtfoto en vereenvoudigde gebouwvolumes.':'Draaibaar 3D-volumemodel van historische bebouwing, afgeleid van een archiefkaart. Hoogten zijn schematisch.');$('era-now').textContent=$('modern-buildings').checked?'Nu · 3D':'Nu · kleur';document.body.classList.toggle('era-modern',now);$('era-old').setAttribute('aria-pressed',String(!now));$('era-now').setAttribute('aria-pressed',String(now));
   historicMap.visible=!now&&$('map-select').value==='historical';brandMap.visible=!now&&$('map-select').value==='brand';objects.visible=!now&&$('show-buildings').checked;landmarkGroup.visible=!now;if(highlight)highlight.visible=!now&&objects.visible;
   $('modern-options').hidden=!now;$('modern-attribution').hidden=!now;$('labels').hidden=now||!$('show-labels').checked;
