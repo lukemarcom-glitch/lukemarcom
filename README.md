@@ -3,7 +3,7 @@
 
 Interactieve kaart van vooroorlogs Rotterdam. Bekijk historische gebouwen en buurten in 3D, vergelijk archiefbeelden met duidelijk gemarkeerde AI-bewerkingen en wissel naar de huidige stad. WOII-verhalen hebben eigen bronnen en historische locatieankers.
 
-**Website:** https://lukemarcom-glitch.github.io/lukemarcom/ — openbaar toegankelijk, zonder account. Zie [publicatiestatus](docs/OVERDRACHT.md).
+**Website:** de openbare site verhuist naar **rdam39.nl**. De GitHub- en DNS-koppeling staan goed; het HTTPS-certificaat en de eindcontrole zijn nog in behandeling. Zie [domeinstatus](docs/DOMEIN.md) en [publicatiestatus](docs/OVERDRACHT.md). Het oorspronkelijke GitHub Pages-adres verwijst naar het eigen domein.
 
 **Verder in Claude:** [startinstructies en een kopieerbare opdracht](docs/CLAUDE-START.md).
 
