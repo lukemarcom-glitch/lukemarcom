@@ -90,6 +90,7 @@ body.era-modern {
   box-shadow: 0 0 0 4px rgb(33 33 33 / 20%);
 }
 .era-modern #landmark-markers .marker-name { font-size: 13px; line-height: 1.35; }
+.era-modern #landmark-markers .landmark-marker:is(:hover, :focus-visible) { outline-color: var(--focus); }
 .era-modern dialog::backdrop { background: rgb(0 0 0 / 45%); backdrop-filter: none; }
 .era-modern #intro-now { background: #7100f6; }
 .era-modern .image-lightbox,
