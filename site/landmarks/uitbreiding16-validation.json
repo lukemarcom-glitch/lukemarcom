@@ -1,0 +1,43 @@
+{
+  "destinations": 25,
+  "newPhotoPairs": 15,
+  "backgroundIntersectionSquareMetres": 3.6064559987681666e-12,
+  "buildings": [
+    {
+      "id": "stadhuis",
+      "photoPairs": 3,
+      "storyWords": 144,
+      "insideBoundary": true
+    },
+    {
+      "id": "hoofdpostkantoor",
+      "photoPairs": 3,
+      "storyWords": 136,
+      "insideBoundary": true
+    },
+    {
+      "id": "molen-de-noord",
+      "photoPairs": 3,
+      "storyWords": 136,
+      "insideBoundary": true
+    },
+    {
+      "id": "pschorr",
+      "photoPairs": 3,
+      "storyWords": 141,
+      "insideBoundary": true
+    },
+    {
+      "id": "zuiderkerk",
+      "photoPairs": 3,
+      "storyWords": 140,
+      "insideBoundary": true
+    }
+  ],
+  "browser": {
+    "threePairsAndSixThumbnailsEach": true,
+    "fullscreenViewerAllFive": true,
+    "consoleErrors": [],
+    "mobileViewport": "604 x 861"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "witte-huis",
+  "photos": [
+    {
+      "src": "landmarks/witte-huis/foto-1-origineel.jpg",
+      "ai": "landmarks/witte-huis/foto-1-ai.webp",
+      "title": "Het volledige Witte Huis · circa 1898–1905",
+      "shortTitle": "Het volledige Witte Huis · circa 1898–1905",
+      "date": "circa 1898–1905",
+      "author": "Onbekend; Photochrom, Photoglob/Detroit Publishing",
+      "license": "Publiek domein (Commons: PD-Detroit / PD Switzerland old-unknown / PD US expired)",
+      "url": "https://commons.wikimedia.org/wiki/File:Rotterdam-Het-Witte-Huis-1900.jpg",
+      "archiveUrl": "https://hdl.loc.gov/loc.pnp/ppmsc.05839",
+      "note": "Historische photochrom, destijds al ingekleurd. De AI-versie volgt die kleuren; ze bewijzen niet de werkelijke oorspronkelijke kleuren. Catalogusdatering 1890–1905; door de bouw in 1897–1898 kan dit gebouw pas vanaf circa 1898 zijn gefotografeerd.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/witte-huis/foto-2-origineel.jpg",
+      "ai": "landmarks/witte-huis/foto-2-ai.webp",
+      "title": "Drukte bij de Jan Kuitenbrug · 1902",
+      "shortTitle": "Drukte bij de Jan Kuitenbrug · 1902",
+      "date": "1902",
+      "author": "P.F. van den Ende",
+      "license": "Publiek domein (Commons: auteur >70 jaar overleden)",
+      "url": "https://commons.wikimedia.org/wiki/File:Drukte_op_de_Jan_Kuitenbrug_over_de_Wijnhaven_met_het_Witte_Huis_en_Geldersekade_1902.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/9E1731363CB2476F9ADD02A09E406935",
+      "note": "AI-kleurinterpretatie op basis van de historische opname; kleine details en kleuren zijn geen historisch bewijs. Het origineel blijft de bron. De roodbruine dakkleur is interpretatief; de RCE beschrijft een leien dak.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/witte-huis/foto-3-origineel.jpg",
+      "ai": "landmarks/witte-huis/foto-3-ai.webp",
+      "title": "Wijnhaven, spoorbrug en Witte Huis · 1933",
+      "shortTitle": "Wijnhaven, spoorbrug en Witte Huis · 1933",
+      "date": "1933",
+      "author": "François Henry van Dijk",
+      "license": "CC0 1.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Een_schip_vaart_onder_de_spoorbrug_over_de_Wijnhaven_met_op_de_achtergrond_het_Witte_Huis_1933.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/B7A07B672BFA430EB4DCF1F845BEFB0A",
+      "note": "AI-kleurinterpretatie op basis van de historische opname; kleine details en kleuren zijn geen historisch bewijs. Het origineel blijft de bron.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname.",
+      "aiLicense": "CC0 1.0",
+      "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bouwhistorie en materialen · monumentenregister.cultureelerfgoed.nl",
+      "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/334003"
+    },
+    {
+      "title": "Geschiedenis en beeldbron · nl.wikipedia.org",
+      "url": "https://nl.wikipedia.org/wiki/Witte_Huis_(Rotterdam)"
+    }
+  ],
+  "colorNote": "De RCE beschrijft natuursteen, witgeglazuurde baksteen, gekleurde gevelaccenten en een oorspronkelijk leien dak. Het model gebruikt een neutraal leigrijs dak. De roodbruine daken op twee AI-beelden volgen een historische inkleuring en zijn niet als bewezen kleur overgenomen."
+}

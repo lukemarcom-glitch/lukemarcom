@@ -1,0 +1,69 @@
+{
+  "id": "schielandshuis",
+  "photos": [
+    {
+      "src": "landmarks/schielandshuis/foto-1-origineel.jpg",
+      "ai": "landmarks/schielandshuis/foto-1-ai.webp",
+      "title": "Voorgevel en zijgevel van het Schielandshuis · mei 1920",
+      "date": "mei 1920",
+      "author": "Fotograaf onbekend; Rijksdienst voor het Cultureel Erfgoed",
+      "license": "CC BY-SA4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Voorgevel_-_Rotterdam_-_20191209_-_RCE.jpg",
+      "note": "Volledige voorgevel en zijgevel, gefotografeerd in mei 1920.",
+      "shortTitle": "Voorgevel en zijgevel van het Schielandshuis",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, personen, letters en fijne details kunnen afwijken; geen historische kleurenfoto.",
+      "aiLicense": "CC BY-SA4.0",
+      "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "src": "landmarks/schielandshuis/foto-2-origineel.jpg",
+      "ai": "landmarks/schielandshuis/foto-2-ai.webp",
+      "title": "Schielandshuis aan het Van Hogendorpsplein · 1935–1940 (archiefdatering; niet exact 1939)",
+      "date": "1935–1940 (archiefdatering; niet exact 1939)",
+      "author": "Jaap (J.) Tieman; Stadsarchief Rotterdam",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Het_Van_Hogendorpsplein_met_Schielandshuis_en_standbeeld_van_Karel_van_Hogendorp_1935_-_1940.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/AA3FAFD875F94E97A62FF4D121C18BC8",
+      "note": "Gezicht vanaf het Van Hogendorpsplein, met bomen, monument en steigerwerk.",
+      "shortTitle": "Schielandshuis aan het Van Hogendorpsplein",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, personen, letters en fijne details kunnen afwijken; geen historische kleurenfoto.",
+      "aiLicense": "CC0 1.0",
+      "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "src": "landmarks/schielandshuis/foto-3-origineel.jpg",
+      "ai": "landmarks/schielandshuis/foto-3-ai.webp",
+      "title": "Historische toegang aan de Korte Hoogstraat · mei 1920",
+      "date": "mei 1920",
+      "author": "Fotograaf onbekend; Rijksdienst voor het Cultureel Erfgoed",
+      "license": "CC BY-SA4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Korte_Hoogstraat,_gevel_-_Rotterdam_-_20191213_-_RCE.jpg",
+      "note": "De voormalige museumtoegang aan de Korte Hoogstraat; deze foto toont de straatgevel, niet het vrijstaande hoofdgebouw.",
+      "shortTitle": "Historische toegang aan de Korte Hoogstraat",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, personen, letters en fijne details kunnen afwijken; geen historische kleurenfoto.",
+      "aiLicense": "CC BY-SA4.0",
+      "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RCE monumentenregister 32781",
+      "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/32781",
+      "supports": "Bouw1662–1665; Pieter Post en Jacob Lois; herstel na brand1864"
+    },
+    {
+      "title": "Hoogheemraadschap: Schielandshuis",
+      "url": "https://www.schielandendekrimpenerwaard.nl/over-ons/geschiedenis/schielandshuis/",
+      "supports": "Koop1841, brand1864, heropening1867, overleefde1940, restauratiebesluit1978"
+    },
+    {
+      "title": "Museum Boijmans: geschiedenis museumgebouw",
+      "url": "https://www.boijmans.nl/de-geschiedenis-van-het-museumgebouw",
+      "supports": "Brand1864; nieuw museum opent1935"
+    }
+  ],
+  "colorNote": "De gevels waren voor de oorlog gepleisterd. Het warme grijs is een terughoudende interpretatie; exacte tinten zijn niet vastgesteld. De huidige rode baksteen is niet als vooroorlogse afwerking overgenomen."
+}

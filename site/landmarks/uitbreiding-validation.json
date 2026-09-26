@@ -1,0 +1,20 @@
+{
+  "destinations": 20,
+  "newDestinations": [
+    "witte-huis",
+    "schielandshuis",
+    "hang-steigers",
+    "hofplein-loos",
+    "marinierskazerne"
+  ],
+  "newPhotoPairs": 15,
+  "backgroundOverlapArea": 4.973289442982444e-13,
+  "allNewCentersWithinWorkBoundary": true,
+  "storyWords": {
+    "witte-huis": 105,
+    "schielandshuis": 158,
+    "hang-steigers": 106,
+    "hofplein-loos": 110,
+    "marinierskazerne": 124
+  }
+}

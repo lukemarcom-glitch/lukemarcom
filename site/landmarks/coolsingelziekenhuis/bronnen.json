@@ -1,0 +1,76 @@
+{
+  "building": "coolsingelziekenhuis",
+  "images": [
+    {
+      "id": "overzicht-1920",
+      "originalPath": "/tmp/rotterdam-research/coolsingelziekenhuis/overzicht-1920.jpg",
+      "originalExists": true,
+      "aiPath": "/tmp/rotterdam-research/coolsingelziekenhuis/overzicht-1920-ai.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Coolsingel_met_het_Coolsingelziekenhuis_1920.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Prentbriefkaart_de_Coolsingel_met_het_Coolsingelziekenhuis_1920.jpg",
+      "primarySourceUrls": [
+        "https://hdl.handle.net/21.12133/427A310F5EF543CC9FD8A130689BCF41"
+      ],
+      "date": "1920",
+      "creator": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "caption": "Series of 10 postcards such as Leporello together. This is the great hospital (Coolsingel). Year: 1920.",
+      "aiExists": true,
+      "promptPath": "/tmp/rotterdam-research/coolsingelziekenhuis/overzicht-1920-prompt.txt"
+    },
+    {
+      "id": "photochrom-1900",
+      "originalPath": "/tmp/rotterdam-research/coolsingelziekenhuis/photochrom-1900.jpg",
+      "originalExists": true,
+      "aiPath": "/tmp/rotterdam-research/coolsingelziekenhuis/photochrom-1900-ai.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rotterdam_-_Ziekenhuis.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rotterdam_-_Ziekenhuis.jpg",
+      "primarySourceUrls": [
+        "//commons.wikimedia.org/wiki/Library_of_Congress",
+        "//www.loc.gov/rr/print/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.05837",
+        "//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags",
+        "//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing"
+      ],
+      "date": "between 1890 and 1905<div style=\"display: none;\">date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1890-00-00T00:00:00Z/9,P1326,+1905-00-00T00:00:00Z/9</div>",
+      "creator": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "caption": "Rotterdam - Coolsingelziekenhuis",
+      "aiExists": true,
+      "promptPath": "/tmp/rotterdam-research/coolsingelziekenhuis/photochrom-1900-prompt.txt",
+      "downloadedImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rotterdam_-_Ziekenhuis.jpg/1280px-Rotterdam_-_Ziekenhuis.jpg"
+    }
+  ],
+  "note": "AI-kleuren en fijne details zijn interpretaties, geen nieuw historisch bewijs. Fotodatums expliciet tonen; bronbeelden zijn ouder dan 1939.",
+  "name": "Coolsingelziekenhuis",
+  "architect": "Willem Nicolaas Rose",
+  "opened": 1851,
+  "expanded": 1888,
+  "address": "Coolsingel bij Van Oldenbarneveltstraat; huidige Rotterdamsche Bank/Donner",
+  "centerLonLat": [
+    4.4791694,
+    51.9194389
+  ],
+  "locationConfidence": "Wikidata/Commons, controleren tegen archiefkaart",
+  "architecture": "Lange oostgerichte hoofdvleugel langs Coolsingel; achtervleugels westwaarts. Symmetrische gekleurde steen/stucgevel, midden- en eindrisalieten, gekoppelde rondboogvensters, lage bovenzone met kleine rondboogvensters, doorlopende balustrade en schoorstenen. Drie hoge vensterlagen, lage onderbouw en lage bovenlaag. Tuin en hek vóór gevel.",
+  "dimensions": {
+    "facadeWidthM": 82,
+    "widthSource": "https://vrijeuitgeverij.nl/wp-content/uploads/2024/09/Het-nieuwe-Rotterdamse-prentenboek-IV.pdf",
+    "heightEstimateM": 26,
+    "mainWingDepthEstimateM": 18,
+    "confidence": "Breedte82m uit secundairepublicatie; hoogte/diepte voorlopige foto-inschatting geen inmeting"
+  },
+  "sources": [
+    "https://stadsarchief.rotterdam.nl/op-de-coolsingel",
+    "https://commons.wikimedia.org/wiki/Category:Coolsingelziekenhuis_(Rotterdam)",
+    "https://vrijeuitgeverij.nl/wp-content/uploads/2024/09/Het-nieuwe-Rotterdamse-prentenboek-IV.pdf"
+  ],
+  "photochromNote": "photochrom-1900.jpg is oorspronkelijk al gekleurde fotolithografie,1890–1905, geen echte kleurenfoto. Gedownload als1280pxCommons-thumbnail na429opvolledigeversie. ToontCoolvestvóórdempen,dusgeen1939straatbeeld.",
+  "aiGeneration": {
+    "tool": "built-in image_gen",
+    "generatedCount": 2,
+    "visualReview": "Alle originele en AI-beelden bekeken. Hoofdmassa en perspectief behouden. Kleur, materialen, fijne ornamentiek, straatfiguren en verafgelegen stadsdetails blijven interpretatief. AI1 ziekenhuis heeft vrij sterk geïnterpreteerde achtergrond; niet voor bouwkundige bewijsvoering gebruiken."
+  }
+}

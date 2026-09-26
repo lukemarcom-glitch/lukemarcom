@@ -1,0 +1,101 @@
+{
+  "status": "Voorlopige kaartgebaseerde locatie, geen nauwkeurige landmeetkundige reconstructie",
+  "sourceLocal": "fase_1/kaarten/rotterdam-1938.jpg",
+  "sourceDescription": "Cito stadsplattegrond1938, centrum-inzet linksonder. Expliciet zwart poortsymbool bij DELFTSCHE POORT",
+  "imageDimensions": [
+    6890,
+    5165
+  ],
+  "insetCropOffset": [
+    0,
+    3280
+  ],
+  "gateCenterInsetPixel": [
+    568,
+    295
+  ],
+  "gateCenterFullPixel": [
+    568,
+    3575
+  ],
+  "controlPointMethod": "Vier handmatig afgelezen buitenhoeken Stadhuis in1938inzet gekoppeld aan1955centrumkaart. Niet onafhankelijk gevalideerd. Toeristische kaart kan schematiseren.",
+  "controlPointsInset": [
+    [
+      545.3,
+      403.3
+    ],
+    [
+      594.0,
+      394.0
+    ],
+    [
+      608.7,
+      443.7
+    ],
+    [
+      556.7,
+      452.0
+    ]
+  ],
+  "controlPoints1955": [
+    [
+      2244,
+      1665
+    ],
+    [
+      2436,
+      1619
+    ],
+    [
+      2480,
+      1768
+    ],
+    [
+      2286,
+      1818
+    ]
+  ],
+  "matrixInsetTo1955": [
+    [
+      3.8062053429214466,
+      -0.4001997855156542
+    ],
+    [
+      -0.13721120050062396,
+      3.174345229866907
+    ],
+    [
+      226.5342771541236,
+      604.5434928783125
+    ]
+  ],
+  "fitRmsPixels1955": 2.9902151322249138,
+  "pixel1955": [
+    2347.9816077858213,
+    1313.6618575161583
+  ],
+  "localMetersXYEastNorth": [
+    -353.98767027784197,
+    662.2964289625448
+  ],
+  "lonLat": [
+    4.479844292651467,
+    51.924949482832936
+  ],
+  "uncertaintyMeters": 30,
+  "uncertaintyNote": "Voorzichtige werkmarge, geen statistisch betrouwbaarheidsinterval. Vier hoeken van hetzelfde gebouw vormen zwakke lokale fit; extrapolatie naarpoort circa150–250m.",
+  "orientation": {
+    "widthAxisDegreesNorthOfEast": 32.4,
+    "northFacadeOutwardCompassBearing": 327.6,
+    "passageAxisDescription": "NNW–ZZO, noordgevel richtingNNW. Breedteas WZW–ONO.",
+    "uncertaintyDegrees": 10,
+    "basis": "Lange zijde van zwart symbool1938inzet diagonaal rechtsboven. Pixelvector[11,-7] door affiene transformaties. Hoofdkaart bevestigt plaats aan noordeinde Haagseveer/Delftschevaart maar te grof voor afzonderlijke hoekmeting."
+  },
+  "evidenceImages": [
+    "1938-inset.jpg",
+    "1938-hofplein-detail.jpg",
+    "1938-main-hofplein.jpg",
+    "1938-poort-symbol.jpg",
+    "1955-hofplein.jpg"
+  ]
+}

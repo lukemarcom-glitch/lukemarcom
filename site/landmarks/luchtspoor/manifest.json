@@ -1,0 +1,112 @@
+[
+  {
+    "id": "binnenrotte-grotekerkplein",
+    "originalPath": "foto-1-origineel.jpg",
+    "colorPath": "foto-1-ai.webp",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:HUA-170172-Gezicht_op_het_spoorviaduct_over_het_Grote_Kerkplein_te_Rotterdam.jpg",
+    "archiveURL": "https://hetutrechtsarchief.nl/beeld/B3272CD9D9CB50A3892082E02539B52C",
+    "title": "Binnenrotte bij Grotekerkplein",
+    "date": "1914–1919",
+    "author": "Niet vermeld",
+    "archive": "Het Utrechts Archief",
+    "license": "Publiek domein / Public Domain Mark 1.0 volgens Wikimedia Commons",
+    "description": "Een trein boven het Grotekerkplein, met het viaduct langs de Binnenrotte en straatleven onder de spoorbaan.",
+    "likelyMapLocation": "Grotekerkplein / Binnenrotte",
+    "schematicSubjectWorld": [
+      110,
+      320
+    ],
+    "locationCaveat": "Schematische plaats van het onderwerp; geen exact vastgesteld camerastandpunt.",
+    "QA": "Origineel en AI-versie visueel vergeleken. Hoofdcompositie, brug/viaduct, bebouwing en kader behouden. AI interpreteert kleuren en kan kleine details verscherpen of veranderen; geen bron voor exacte historische kleuren of detailgeometrie.",
+    "prompt": "Use case: style-transfer. Input image is the sole edit target, an archival photograph/postcard of Rotterdam before May 1940. Make one restrained AI color interpretation of this exact photograph, with gentle tonal clarity and noise cleanup only. Preserve the complete original framing and border, all building geometry and facades, viaduct beams, railings, tracks, columns, vehicles, ships, pedestrians, sky, weather, lighting, shadows and every visible text inscription exactly. Do not invent details hidden by grain, blur or shadow; do not add or remove or move anything. Keep all signs and printed captions unchanged. Apply subtle plausible muted material colors (brick, weathered stone, dull iron, water, restrained clothing) without dramatic saturation. No sunshine or blue sky if absent, no modernization, no fantasy reconstruction, no new text. It must remain visibly the identical historical photograph, including any postcard border and caption, with color as an explicitly uncertain interpretative layer. Output a single image with original aspect ratio.",
+    "generationTool": "built-in image_gen"
+  },
+  {
+    "id": "viaduct-beurs",
+    "originalPath": "foto-2-origineel.jpg",
+    "colorPath": "foto-2-ai.webp",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:HUA-169142-Gezicht_op_het_spoorviaduct_door_Rotterdam_ter_hoogte_van_het_station_Rotterdam_Beurs_later_Rotterdam_Blaak_.jpg",
+    "archiveURL": "https://hetutrechtsarchief.nl/beeld/82A44B6C638A559DACB35AB174D1C28E",
+    "title": "Luchtspoor langs de Kolk",
+    "date": "1920–1930",
+    "author": "Nederlandse Spoorwegen",
+    "archive": "Het Utrechts Archief",
+    "license": "Publiek domein / Public Domain Mark 1.0 volgens Wikimedia Commons",
+    "description": "Het viaduct langs het water van de Kolk, met schepen en de Laurenskerk achter de brug.",
+    "likelyMapLocation": "Kolk / Westnieuwland",
+    "schematicSubjectWorld": [
+      225,
+      130
+    ],
+    "locationCaveat": "Schematische plaats van het onderwerp; geen exact vastgesteld camerastandpunt.",
+    "QA": "Origineel en AI-versie visueel vergeleken. Hoofdcompositie, brug/viaduct, bebouwing en kader behouden. AI interpreteert kleuren en kan kleine details verscherpen of veranderen; geen bron voor exacte historische kleuren of detailgeometrie.",
+    "prompt": "Use case: style-transfer. Input image is the sole edit target, an archival photograph/postcard of Rotterdam before May 1940. Make one restrained AI color interpretation of this exact photograph, with gentle tonal clarity and noise cleanup only. Preserve the complete original framing and border, all building geometry and facades, viaduct beams, railings, tracks, columns, vehicles, ships, pedestrians, sky, weather, lighting, shadows and every visible text inscription exactly. Do not invent details hidden by grain, blur or shadow; do not add or remove or move anything. Keep all signs and printed captions unchanged. Apply subtle plausible muted material colors (brick, weathered stone, dull iron, water, restrained clothing) without dramatic saturation. No sunshine or blue sky if absent, no modernization, no fantasy reconstruction, no new text. It must remain visibly the identical historical photograph, including any postcard border and caption, with color as an explicitly uncertain interpretative layer. Output a single image with original aspect ratio.",
+    "generationTool": "built-in image_gen"
+  },
+  {
+    "id": "verzwaard-viaduct",
+    "originalPath": "foto-3-origineel.jpg",
+    "colorPath": "foto-3-ai.webp",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:HUA-163350-Gezicht_op_het_verzwaarde_spoorviaduct_bij_Rotterdam_Beurs_met_een_naderende_trein_getrokken_door_een_stoomlocomotief_uit_de_serie_1900_van_de_NS.jpg",
+    "archiveURL": "https://hetutrechtsarchief.nl/beeld/9B83DEC4C42658C48B208DB4BFC729BE",
+    "title": "Verzwaring van het viaduct",
+    "date": "februari 1934",
+    "author": "Nederlandse Spoorwegen",
+    "archive": "Het Utrechts Archief",
+    "license": "Publiek domein / Public Domain Mark 1.0 volgens Wikimedia Commons",
+    "description": "De staalconstructie tijdens versterkingswerkzaamheden, met een naderende stoomtrein van NS-serie 1900.",
+    "likelyMapLocation": "Viaduct langs Kolk, nabij station Beurs",
+    "schematicSubjectWorld": [
+      245,
+      100
+    ],
+    "locationCaveat": "Schematische plaats van het onderwerp; geen exact vastgesteld camerastandpunt.",
+    "QA": "Origineel en AI-versie visueel vergeleken. Hoofdcompositie, brug/viaduct, bebouwing en kader behouden. AI interpreteert kleuren en kan kleine details verscherpen of veranderen; geen bron voor exacte historische kleuren of detailgeometrie.",
+    "prompt": "Use case: style-transfer. Input image is the sole edit target, an archival photograph/postcard of Rotterdam before May 1940. Make one restrained AI color interpretation of this exact photograph, with gentle tonal clarity and noise cleanup only. Preserve the complete original framing and border, all building geometry and facades, viaduct beams, railings, tracks, columns, vehicles, ships, pedestrians, sky, weather, lighting, shadows and every visible text inscription exactly. Do not invent details hidden by grain, blur or shadow; do not add or remove or move anything. Keep all signs and printed captions unchanged. Apply subtle plausible muted material colors (brick, weathered stone, dull iron, water, restrained clothing) without dramatic saturation. No sunshine or blue sky if absent, no modernization, no fantasy reconstruction, no new text. It must remain visibly the identical historical photograph, including any postcard border and caption, with color as an explicitly uncertain interpretative layer. Output a single image with original aspect ratio.",
+    "generationTool": "built-in image_gen"
+  },
+  {
+    "id": "middensteiger",
+    "originalPath": "foto-4-origineel.jpg",
+    "colorPath": "foto-4-ai.webp",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_middensteiger_op_de_hoek_van_het_Moriaansplein_met_de_Kolk%2C_de_brug_bij_het_Luchtspoor_en_de_Sint-Laurenskerk_1938.jpg",
+    "archiveURL": "https://hdl.handle.net/21.12133/B709DFB77E4A416BAC61F4AD23182E04",
+    "title": "Middensteiger en Moriaansplein",
+    "date": "1938",
+    "author": "Anoniem",
+    "archive": "Stadsarchief Rotterdam",
+    "license": "Publiek domein (PD-anon-70-EU volgens Wikimedia Commons)",
+    "description": "Een tram en de boogbrug bij de Middensteiger; de bron noemt de Open Rijstuin als gezichtspunt, vanuit het oosten.",
+    "likelyMapLocation": "Middensteiger / Moriaansplein, noordzijde Kolk",
+    "schematicSubjectWorld": [
+      190,
+      195
+    ],
+    "locationCaveat": "Schematische plaats van het onderwerp; geen exact vastgesteld camerastandpunt.",
+    "QA": "Origineel en AI-versie visueel vergeleken. Hoofdcompositie, brug/viaduct, bebouwing en kader behouden. AI interpreteert kleuren en kan kleine details verscherpen of veranderen; geen bron voor exacte historische kleuren of detailgeometrie. Eerste variant afgewezen wegens te sterke detailverscherping; de terughoudender tweede variant geselecteerd. Schipper is ook in het vergrote origineel zichtbaar.",
+    "prompt": "Use case: style-transfer. Colorize only this exact supplied archival photo with a barely tinted, muted layer. Preserve original image pixels' shapes and luminance; no restoration, no sharpening, no invented detail. The low resolution and blur must remain low resolution and blurred. Keep EVERY object/person EXACTLY as visible. In particular leave the boat at bottom and the water unchanged: do not add a boatman or any person on the boat. Preserve existing blurred advertising signs and caption 'Middensteiger, Rotterdam' without relettering or interpretation. Preserve tram and pedestrians without adding clearer faces or details. Keep original sky texture and weather, lightly gray and muted, no vibrant blue. Keep postcard border. Apply very pale plausible brick/stone/metal/water colors only, with uncertain areas gray. Same composition and crop, same aspect ratio. A conservative tint of the existing photograph, not a redrawn scene.",
+    "generationTool": "built-in image_gen"
+  },
+  {
+    "id": "open-rijstuin-beurs",
+    "originalPath": "foto-5-origineel.jpg",
+    "colorPath": "foto-5-ai.webp",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:HUA-163081-Gezicht_op_het_N.S.-station_Rotterdam_Beurs_te_Rotterdam.jpg",
+    "archiveURL": "https://hetutrechtsarchief.nl/beeld/12A024B3A1D75D56BF8C9B79DE20D3A4",
+    "title": "Station Beurs vanaf Open Rijstuin",
+    "date": "1935–1939",
+    "author": "Niet vermeld",
+    "archive": "Het Utrechts Archief",
+    "license": "Publiek domein / Public Domain Mark 1.0 volgens Wikimedia Commons",
+    "description": "Een verhoogd gezicht vanaf Open Rijstuin naar de perrons en overkapping van station Beurs.",
+    "likelyMapLocation": "Station Beurs, zuideinde Kolk",
+    "schematicSubjectWorld": [
+      280,
+      45
+    ],
+    "locationCaveat": "Schematische plaats van het onderwerp; geen exact vastgesteld camerastandpunt.",
+    "QA": "Origineel en AI-versie visueel vergeleken. Hoofdcompositie, brug/viaduct, bebouwing en kader behouden. AI interpreteert kleuren en kan kleine details verscherpen of veranderen; geen bron voor exacte historische kleuren of detailgeometrie.",
+    "prompt": "Use case: style-transfer. Input image is the sole edit target, an archival photograph/postcard of Rotterdam before May 1940. Make one restrained AI color interpretation of this exact photograph, with gentle tonal clarity and noise cleanup only. Preserve the complete original framing and border, all building geometry and facades, viaduct beams, railings, tracks, columns, vehicles, ships, pedestrians, sky, weather, lighting, shadows and every visible text inscription exactly. Do not invent details hidden by grain, blur or shadow; do not add or remove or move anything. Keep all signs and printed captions unchanged. Apply subtle plausible muted material colors (brick, weathered stone, dull iron, water, restrained clothing) without dramatic saturation. No sunshine or blue sky if absent, no modernization, no fantasy reconstruction, no new text. It must remain visibly the identical historical photograph, including any postcard border and caption, with color as an explicitly uncertain interpretative layer. Output a single image with original aspect ratio.",
+    "generationTool": "built-in image_gen"
+  }
+]

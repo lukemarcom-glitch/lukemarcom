@@ -1,0 +1,70 @@
+{
+  "id": "passage",
+  "name": "De Passage",
+  "address": "Tussen Coolvest (later Coolsingel) en Korte Hoogstraat",
+  "architect": "Jan Christiaan van Wijk",
+  "opened": 1879,
+  "destroyed": 1940,
+  "coordinatesApprox": [
+    4.481111,
+    51.919719
+  ],
+  "architecture": {
+    "lengthMetres": 100,
+    "innerWidthMetres": [
+      6,
+      8
+    ],
+    "glassRoofHeightMetres": 20,
+    "source": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/de-passage/",
+    "widthSource": "https://rotterdamwoont.nl/projecten/passage/",
+    "description": "Overdekte galerij met gietijzeren/glazen kap, twee flankerende woningstroken boven winkelpuien, rijk versierde eclectische toegangsgevel. Interieurhoogte20m is bronmaat; buitenbreedte/hoogte complete gevel nog kaart/fotogeschat."
+  },
+  "sources": [
+    {
+      "id": "overzicht",
+      "title": "Ingang aan de Coolsingel",
+      "date": "1938",
+      "author": "Anoniem",
+      "collection": "Stadsarchief Rotterdam",
+      "sourceUrl": "https://hdl.handle.net/21.12133/5730835712DF46B7A81C8F12903C9EBB",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Passage_vanaf_de_Coolsingel_1938.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Prentbriefkaart_de_Passage_vanaf_de_Coolsingel_1938.jpg",
+      "license": "Publiek domein (PD-anon-70-EU, volgens Commons)",
+      "original": "overzicht.jpg",
+      "ai": "overzicht-ai.png",
+      "prompt": "Carefully restore and colourize this exact archival photograph of Passage entrance Rotterdam in 1938. Preserve exact composition, camera position, all architecture, shop awnings, signage, windows and doors, people and trees. Keep 1938 clothing and street environment. Improve clarity and remove scan damage, full natural colour as if taken with a clean modern camera in the same historical scene. Do not invent details, do not redesign architecture, do not add or remove objects. Use subdued warm stone and brick, muted painted wood, natural foliage, soft daylight. All signs and lettering stay exactly as reference, including cigarette advertisement on top. Keep whole original framing and original ratio; no added border, captions or watermarks. Colours are plausible interpretations. Do not crop.",
+      "aiNote": "AI-kleurinterpretatie. Kleuren en fijne details niet historisch geverifieerd. Sommige letters vervormd."
+    },
+    {
+      "id": "interieur",
+      "title": "Onder het glazen dak",
+      "date": "1879–1910",
+      "author": "Onbekend",
+      "collection": "Stadsarchief Rotterdam, gepubliceerd door Museum Rotterdam",
+      "sourceUrl": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/de-passage/",
+      "downloadUrl": "https://museumrotterdam.nl/wp-content/uploads/2025/07/Interieur-Stadsarchief-Rotterdam-1354x2048.jpg?image-crop-positioner-ts=1752741182",
+      "license": "Publiek domein (PD-anon-70-EU, volgens Commons)",
+      "candidateCommonsUrl": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Passage_tussen_de_Coolvest_en_Korte_Hoogstraat_1879_-_1910.jpg",
+      "original": "interieur.jpg",
+      "ai": "interieur-ai.png",
+      "aiNote": "AI-kleurinterpretatie; kaartkader behouden. Historische kleuren onbekend.",
+      "additionalSource": "https://www.roterodamum.nl/wp-content/uploads/2025/08/Kroniek.sept2025.pdf",
+      "additionalEvidence": "Dezelfde kaart4844 metR.&J.D. onderschrift gepubliceerd als Interieur van de Passage tussenCoolvest enKorteHoogstraat, Collectie Stadsarchief Rotterdam.",
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Passage_tussen_de_Coolvest_en_Korte_Hoogstraat_1879_-_1910.jpg",
+      "verification": "Museum scan and Commons 500px thumbnail visually compared: identical postcard4844, figures, signs, furniture and border."
+    },
+    {
+      "id": "extra-exterieur",
+      "title": "Ingang als historische kleurendia",
+      "date": "Onbekend, voor1940",
+      "author": "Onbekend",
+      "collection": "Museum Rotterdam",
+      "sourceUrl": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/de-passage/",
+      "license": "Niet expliciet vermeld op publicatie",
+      "original": "extra-exterieur.jpg",
+      "ai": null,
+      "note": "Researchreferentie, niet automatisch vrij verklaard. Gehele gevel vroege toestand mansardedak; verschilt van1938 met reclame."
+    }
+  ]
+}

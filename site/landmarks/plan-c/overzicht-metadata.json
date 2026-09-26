@@ -1,0 +1,79 @@
+{
+  "size": 225443,
+  "width": 800,
+  "height": 515,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Prentbriefkaart_de_Oudehavenkade_en_Plan_C_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Oudehavenkade_en_Plan_C_1910.jpg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99994623",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2021-02-17 21:49:42",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Prentbriefkaart de Oudehavenkade en Plan C 1910",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Plan C (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|Photographs by anonymous photographers in Stadsarchief Rotterdam|Kolkkade (Rotterdam)",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "View of Plan C on the Oudehavenkade. Year: 1910.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "1910",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/E772B6F96DAD416C8B050E7FBB46679A\">Stadsarchief Rotterdam</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "Public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Public domain",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Copyrighted": {
+      "value": "False",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "pd",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

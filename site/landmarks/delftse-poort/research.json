@@ -1,0 +1,112 @@
+{
+  "id": "delftse-poort",
+  "name": "Delftse Poort",
+  "architect": "Pieter de Swart",
+  "period": "1764–1772; hier getoond vóór demontage vanaf februari 1939",
+  "location": {
+    "description": "Oude standplaats aan noordzijde Schiekolk / Schiebrug, bij Hofplein en Haagseveer; niet zonder meer gelijkstellen aan monument Pompenburg1995",
+    "lonlat": [
+      4.479844292651467,
+      51.924949482832936
+    ],
+    "confidence": "Voorlopige1938kaartpassing, onzekerheidswerkmarge30m; zie locatie-voor1939.json",
+    "localMetersXYEastNorth": [
+      -353.98767027784197,
+      662.2964289625448
+    ],
+    "pixel1955": [
+      2347.9816077858213,
+      1313.6618575161583
+    ],
+    "orientation": {
+      "widthAxisDegreesNorthOfEast": 32.4,
+      "northFacadeOutwardCompassBearing": 327.6,
+      "passageAxisDescription": "NNW–ZZO, noordgevel richtingNNW. Breedteas WZW–ONO.",
+      "uncertaintyDegrees": 10,
+      "basis": "Lange zijde van zwart symbool1938inzet diagonaal rechtsboven. Pixelvector[11,-7] door affiene transformaties. Hoofdkaart bevestigt plaats aan noordeinde Haagseveer/Delftschevaart maar te grof voor afzonderlijke hoekmeting."
+    }
+  },
+  "dimensions": {
+    "width": 18,
+    "depth": 13,
+    "height": 19,
+    "unit": "m",
+    "status": "Benadering uit secundaire bron, geen ingemeten maatstaat",
+    "source": "https://www.engelfriet.net/Alie/Hans/eijgelsheim4.htm"
+  },
+  "architecture": [
+    "Rechthoekige poortmassa met centrale open rondboog; gebouwas noord-zuid bij benadering",
+    "Lage zijvleugels met afgeronde buitenhoeken, groot hoofdvolume smaller erboven",
+    "Vier vrijstaande/aangehechte Dorische zuilen op begane grond, vier Ionische pilasters boven",
+    "Driehoekfronton met klok op noord- en zuidzijde",
+    "Zuidgevel centrale allegorische beeldengroep; noordgevel stadswapen geflankeerd door leeuwen",
+    "Zandsteenkleurige gevel met verweerde donkere delen; houtdeuren donker. Kleur is interpretatie"
+  ],
+  "chronology": {
+    "source": "https://wederopbouwrotterdam.nl/artikelen/hofplein",
+    "note": "Besluit verplaatsing1938. Demontage feb–mei1939. In mei1940 nog slechts half herbouwd. In1941 afbouw opgegeven/restant gesloopt. Dus intact model label 'vóór februari1939'."
+  },
+  "photos": [
+    {
+      "id": "noord-overzicht",
+      "title": "De hele poort en het straatleven aan de noordzijde",
+      "original": "noord-overzicht.jpg",
+      "ai": "noord-overzicht-ai.png",
+      "maker": "Cornelis Johannes Steenbergh",
+      "date": "Uiterlijk1915 (gepubliceerd Buiten9, nr22, p257)",
+      "source": "https://commons.wikimedia.org/wiki/File:Overzicht_van_de_poort_met_straatbeeld_-_Rotterdam_-_20191099_-_RCE.jpg",
+      "archiveId": "RCE20191099",
+      "license": "CC BY-SA4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Cornelis Johannes Steenbergh / Rijksdienst voor het Cultureel Erfgoed, CC BY-SA4.0",
+      "aiLicense": "CC BY-SA4.0",
+      "aiDisclosure": "AI-ingekleurde en opgehelderde interpretatie, geen historische kleurenfoto. Inhoud/compositie gebaseerd op bron; kleuren en fijne details niet gevalideerd."
+    },
+    {
+      "id": "zuid-overzicht",
+      "title": "De zuidgevel met beeldhouwwerk en ronde zijramen",
+      "original": "zuid-overzicht.jpg",
+      "ai": "zuid-overzicht-ai.png",
+      "maker": "C. Hoogendijk",
+      "date": "Ongedateerd; vóór demontage1939",
+      "source": "https://commons.wikimedia.org/wiki/File:Aanzicht_-_Rotterdam_-_20191101_-_RCE.jpg",
+      "archiveId": "RCE20191101",
+      "license": "CC BY-SA4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "C. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed, CC BY-SA4.0",
+      "aiLicense": "CC BY-SA4.0",
+      "aiDisclosure": "AI-ingekleurde en opgehelderde interpretatie, geen historische kleurenfoto. Kleine details en materiaalpatronen kunnen afwijken."
+    },
+    {
+      "id": "noord-aanzicht",
+      "title": "Noordgevel vanaf de Schiebrug",
+      "original": "noord-aanzicht.jpg",
+      "ai": null,
+      "maker": "C. Hoogendijk",
+      "date": "Ongedateerd; zichtbaar stadhuis wijst op20e eeuw vóór1939",
+      "source": "https://commons.wikimedia.org/wiki/File:Aanzicht_-_Rotterdam_-_20191100_-_RCE.jpg",
+      "archiveId": "RCE20191100",
+      "license": "CC BY-SA4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "C. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed, CC BY-SA4.0"
+    }
+  ],
+  "drawings": [
+    {
+      "file": "doorsnede.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Doorsnede_naar_tekening_in_het_Gemeente_Archief_Rotterdam_-_Rotterdam_-_20191080_-_RCE.jpg",
+      "note": "Doorsnede uit Gemeentearchief Rotterdam, RCE20191080; schaalbalk vraagt hoge resolutiecontrole"
+    },
+    {
+      "file": "gevel-plattegrond.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Goetghebuer_-_1827_-_Choix_des_monuments_-_066_Porte_de_Delft_Rotterdam.jpg",
+      "note": "1827 gevel en plattegrond; primaire historische proportiebron, schaal nog niet numeriek gevalideerd"
+    }
+  ],
+  "generation": {
+    "tool": "built-in image_gen",
+    "count": 2,
+    "prompts": "prompts.json",
+    "qa": "Beide AI-beelden visueel vergeleken met bron. Hele gebouw en compositie behouden. Materiaalpatronen/heraldiek/kleuren interpretatief, niet geschikt als nauwkeurige metrische modelbron."
+  }
+}

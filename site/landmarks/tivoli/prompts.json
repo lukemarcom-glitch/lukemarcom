@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "prompt": "Use case: historical-scene photo restoration. Edit target: supplied archival 1890 photograph by Jules L. Faassen of Tivoli Schouwburg Rotterdam auditorium. Create conservative photorealistic full-color restoration, exact original viewpoint, crop, dimensions proportions, balcony, seats, curtains, stage and ornaments. Documented historical materials/colors: upholstery light blue with gold ornaments, curtain light-blue satin. Other colors uncertain: use restrained warm off-white plaster, natural dark wood, muted gold/brass fittings; low saturation. Retain photographic softness wherever source has no recoverable detail; do not invent patterns, people, text, ornament, lamps, architecture or seats. Do not widen, extend or redesign the scene. Reduce scanning noise and restore tonal range only. No labels, borders or watermarks. This is an explicitly interpretive colorization, not a source of exact historical color evidence.",
+    "tool": "image_gen__imagegen (built-in)",
+    "interpretation": "AI colorization with generative detail; not exact historical color proof"
+  },
+  {
+    "id": 2,
+    "prompt": "Conservative archival photo restoration and full natural colorization. Edit target: Cafe Restaurant Tivoli exterior Rotterdam photographed1934. Preserve exact original composition, all architecture, three arched windows, awning, lettering, people, bicycle, vehicle, tree and curb. Keep original image bounds without new scene extensions. Color only, gentle clarity and noise cleanup. Color evidence is absent: use plausible low-saturation warm stone, dark brown masonry, muted gray metal roof/canopy, natural skin and restrained period clothing. No invented facial detail, signs, patterns, additional pedestrians or cars. Photograph-like, not painted. Retain uncertain details softly; no hallucinated restoration or cinematic look. Preserve readable signage from the source without rewriting.",
+    "tool": "image_gen__imagegen (built-in)",
+    "interpretation": "AI colorization with generative detail; not exact historical color proof"
+  },
+  {
+    "id": 3,
+    "prompt": "Edit target: historical photo of Tivoli Schouwburg Rotterdam dated December1930. Make a conservative photorealistic full-color archival restoration of ONLY the original photograph on the left; remove the modern explanatory text column on right and caption strip below by cropping. Preserve exact photographed front facade, doors, marquee, all people positions and street, original perspective and architecture. Restore legibility only from existing pixels, do not invent text or details. Warm muted brown brick, pale cream/light stone trim, dark metal and subdued gray pavement are tentative historically plausible color interpretations, not documented exact colors. Natural subdued daylight, no cinematic grading. Preserve softness in unrecoverable areas. No invented people, buildings or windows. Do not repair architecture or extend beyond original photo.",
+    "tool": "image_gen__imagegen (built-in)",
+    "interpretation": "AI colorization with generative detail; not exact historical color proof"
+  },
+  {
+    "id": 4,
+    "prompt": "Use case historical photo restoration. Edit attached original old photograph of Tivoli complex Rotterdam before1926. Preserve exactly the whole original buildings, their gables, facade bands, cornices, windows, doors, tram, people, trees, curb, sky, camera position and crop. Conservative photorealistic full natural color restoration, no modernization, no missing architecture reconstruction. Plausible muted warm brown brick, pale limestone and painted cream trim, slate gray roofs, natural restrained street colors, not asserting documented exact colors. Keep all small details and text at source resolution rather than hallucinating them; reduce scan grain moderately only. Do not add new signs, faces, objects or detail. No cinematic effects or borders.",
+    "tool": "image_gen__imagegen (built-in)",
+    "interpretation": "AI colorization with generative detail; not exact historical color proof"
+  },
+  {
+    "id": 5,
+    "tool": "image_gen__imagegen (built-in)",
+    "interpretation": "AI colorization with generative detail; not exact historical color proof"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "hoofdpostkantoor",
+  "photos": [
+    {
+      "src": "landmarks/hoofdpostkantoor/foto-1-origineel.jpg",
+      "ai": "landmarks/hoofdpostkantoor/foto-1-ai.webp",
+      "title": "De volledige bouwmassa vanuit de lucht · 1933",
+      "shortTitle": "De volledige bouwmassa vanuit de lucht",
+      "date": "1933",
+      "author": "KLM Aerocarto",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_Coolsingel_met_de_Delftsevaart%2C_Delftsche_Poort%2C_Kruiskade%2C_stadhuis%2C_Hoofdpostkantoor%2C_hotel_Atlanta%2C_Bijenkorf_en_Sint-Laurenskerk_1933.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/BF620481D3324BCC8528477F74B2048A",
+      "note": "Dit overzicht is ook opgenomen bij het stadhuis.",
+      "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+    },
+    {
+      "src": "landmarks/hoofdpostkantoor/foto-2-origineel.jpg",
+      "ai": "landmarks/hoofdpostkantoor/foto-2-ai.webp",
+      "title": "Postkantoor en de Beurs in aanbouw · circa 1939 (afgeleid; catalogus ongedateerd)",
+      "shortTitle": "Postkantoor en de Beurs in aanbouw",
+      "date": "circa 1939 (afgeleid; catalogus ongedateerd)",
+      "author": "Fotograaf onbekend / Anefo",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Luchtopname._Rotterdam._Coolsingel_met_stadhuis%2C_postkantoor_en_beursgebouw%2C_Bestanddeelnr_900-0362.jpg",
+      "archiveUrl": "https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac04e14c-d0b4-102d-bcf8-003048976d84",
+      "note": "Opname ongedateerd in het archief; circa 1939 is afgeleid uit het Beursgebouw in aanbouw.",
+      "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+    },
+    {
+      "src": "landmarks/hoofdpostkantoor/foto-3-origineel.jpg",
+      "ai": "landmarks/hoofdpostkantoor/foto-3-ai.webp",
+      "title": "Postkantoor in het straatbeeld · circa 1929",
+      "shortTitle": "Postkantoor in het straatbeeld",
+      "date": "circa 1929",
+      "author": "Anoniem",
+      "license": "Publiek domein (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Rotterdam_%28Nederland%29_Postkantoor_en_Stadhuis_aan_de_Coolsingel_Rotterdam_ca%2C_SFA001013669.jpg",
+      "archiveUrl": "https://beeldbank.spaarnestadphoto.com/search.pp?flush=1&multikeyword=SFA001013669&searchtype=0#ctr-thumbnails",
+      "note": "",
+      "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rijksmonumentenregister 513764",
+      "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/513764"
+    }
+  ],
+  "colorNote": "Kirchheimer Muschelkalksteen voorgevel, granieten plint, baksteen deels zij/achtergevels; RCE vermeldt rode leipannen. Kap eind jaren 1940 verbouwd: prewar foto bepaalt geometrie; rode kleur is materiaalaanwijzing, niet onafhankelijk geverifieerde kleurmeting uit1939."
+}

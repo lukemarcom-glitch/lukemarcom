@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+*.blend1
+site/landmarks/*/geometry.json
+artifacts/
+backups/
+.auth/
+*.log
+CLAUDE.local.md
+.claude/settings.local.json

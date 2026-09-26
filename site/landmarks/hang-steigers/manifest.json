@@ -1,0 +1,67 @@
+{
+  "id": "hang-steigers",
+  "photos": [
+    {
+      "src": "landmarks/hang-steigers/foto-1-origineel.jpg",
+      "ai": "landmarks/hang-steigers/foto-1-ai.webp",
+      "title": "De Steigersgracht · circa 1890–1905",
+      "shortTitle": "De Steigersgracht · circa 1890–1905",
+      "date": "circa 1890–1905",
+      "author": "Onbekend; Photochrom, Photoglob/Detroit Publishing",
+      "license": "Publiek domein (Commons: PD-Detroit / PD Switzerland old-unknown / PD US expired)",
+      "url": "https://commons.wikimedia.org/wiki/File:Rotterdam_-_Het_Steiger_1900.jpg",
+      "archiveUrl": "https://hdl.loc.gov/loc.pnp/ppmsc.05848",
+      "note": "Historische photochrom, destijds al ingekleurd. De AI-versie volgt die kleuren; ze bewijzen niet de werkelijke oorspronkelijke kleuren.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/hang-steigers/foto-2-origineel.jpg",
+      "ai": "landmarks/hang-steigers/foto-2-ai.webp",
+      "title": "Het Hang en de Soetenbrug · 1900",
+      "shortTitle": "Het Hang en de Soetenbrug · 1900",
+      "date": "1900",
+      "author": "Eduard Gustav Radermacher",
+      "license": "CC0 1.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Verkeer_op_de_Soetenbrug_over_de_Steigersgracht_met_links_het_Hang%2C_op_de_achtergrond_de_Vissersdijk_en_Noordblaak_en_rechts_de_Zeevischmarkt_en_Leuvehaven_1900.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/1890A07043054A3E957F08B07106AF62",
+      "note": "AI-kleurinterpretatie op basis van de historische opname; kleine details en kleuren zijn geen historisch bewijs. Het origineel blijft de bron.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname.",
+      "aiLicense": "CC0 1.0",
+      "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "src": "landmarks/hang-steigers/foto-3-origineel.jpg",
+      "ai": "landmarks/hang-steigers/foto-3-ai.webp",
+      "title": "Het noord-zuiddeel van de Steigersgracht · 1884",
+      "shortTitle": "Het noord-zuiddeel van de Steigersgracht · 1884",
+      "date": "1884",
+      "author": "Onbekend",
+      "license": "CC0 1.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Schepen_in_de_Steigersgracht_met_op_de_achtergrond_het_Steiger_vanaf_de_Soetenbrug_1884.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/B7C11AE1FEC0416FA898B117036F0D38",
+      "note": "AI-kleurinterpretatie op basis van de historische opname; kleine details en kleuren zijn geen historisch bewijs. Het origineel blijft de bron.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname.",
+      "aiLicense": "CC0 1.0",
+      "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Geschiedenis en beeldbron · museumrotterdam.nl",
+      "url": "https://museumrotterdam.nl/verhalen/het-steiger/de-eerste-rotterdammers/"
+    },
+    {
+      "title": "Geschiedenis en beeldbron · hdl.loc.gov",
+      "url": "https://hdl.loc.gov/loc.pnp/ppmsc.05848"
+    },
+    {
+      "title": "Geschiedenis en beeldbron · hdl.handle.net",
+      "url": "https://hdl.handle.net/21.12133/1890A07043054A3E957F08B07106AF62"
+    },
+    {
+      "title": "Geschiedenis en beeldbron · hdl.handle.net",
+      "url": "https://hdl.handle.net/21.12133/B7C11AE1FEC0416FA898B117036F0D38"
+    }
+  ],
+  "colorNote": "Baksteen, pleisterwerk, lichte kozijnen en donkere of rode dakbedekking zijn materiaalinterpretaties. Historische photochroms zijn handmatig ingekleurd; hun tinten zijn geen gemeten historische kleurstaat."
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 3,
+    "title": "De Kolk met de Open Rijstuin, het Luchtspoor, het Westnieuwland en Sint-Laurenskerk 1936",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:De_Kolk_met_de_Open_Rijstuin%2C_het_Luchtspoor%2C_het_Westnieuwland_en_Sint-Laurenskerk_1936.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De_Kolk_met_de_Open_Rijstuin%2C_het_Luchtspoor%2C_het_Westnieuwland_en_Sint-Laurenskerk_1936.jpg",
+    "archivePage": "https://hdl.handle.net/21.12133/C8B48C8C9D7141338B1E48FD4BB2FC88",
+    "license": "Public domain (PD-anon-70-EU), as recorded on Wikimedia Commons",
+    "attribution": "Anonieme fotograaf / Stadsarchief Rotterdam, via Wikimedia Commons",
+    "date": "1936",
+    "viewDescription": "Open Rijstuin rechts, Luchtspoor links, Laurenskerk achteraan; duidelijke gevelrij.",
+    "colorUncertainty": "AI-inkleuring; exacte gevel-, kozijn-, dak- en scheepskleuren zijn niet vastgesteld. Bruinrode baksteen, licht natuursteen en grijze daken zijn materiaalgebaseerde interpretaties. Origineel blijft historisch bewijs; AI-details kunnen afwijken.",
+    "archiveAccess": "Archief-handle doorgestuurd naar Stadsarchief-pagina; generieke shell, geen hogere resolutie vastgesteld.",
+    "materialEvidence": [
+      {
+        "url": "https://www.flickr.com/photos/jansluijter/5307488949",
+        "note": "Secundaire beschrijving noemt natuursteen en baksteen voor Plan C; geen bewijs van exacte kleuren."
+      }
+    ],
+    "qaNote": "Hoofdcompositie en gevelritme behouden; AI voegt bladgroen toe aan grotendeels kale bomen en interpreteert fijne details. Kleuren en vegetatie zijn geen historisch bewijs.",
+    "generationTool": "Built-in image_gen",
+    "prompt": "Use case: precise-object-edit. The supplied historical photograph is the edit target, not a loose reference. Restore this exact photograph to restrained modern photographic clarity and plausible natural color. Keep exact camera, crop, perspective, dimensions, building silhouettes, all windows and doors, facade ornament, roof forms, quay edges, boats, masts, rigging, people, trees, signs and reflections in their exact positions. Preserve all visible lettering; never invent unreadable lettering. Remove only scan dust, scratches and print grain. No new objects, no new details where the source is ambiguous, no redesign, no contemporary objects. Materials: weathered dark brown/red Dutch brick where the source visibly shows masonry, warm pale gray stone and cream painted trim only where pale in source, muted charcoal slate roofs, tar-black boat hulls and weathered brown wood, desaturated gray-green harbor water, soft natural daylight consistent with original shadows. Do not assume orange roof tiles without clear evidence. Colors are a cautious artistic interpretation, not verified historical color. Aim for lifelike photographic detail while preserving the historical evidence, not a stylized illustration. Preserve any original postcard margins and text.\n Input ID 3. Return one restored color photograph.",
+    "galleryNumber": 1,
+    "originalPath": "foto-1-origineel.jpg",
+    "restoredPath": "foto-1-ai.webp",
+    "promptPath": "foto-1-prompt.txt",
+    "displayNote": "Kleuren en fijne details zijn interpretaties; de AI heeft ook meer blad aan de bomen toegevoegd."
+  },
+  {
+    "id": 4,
+    "title": "De Kolk met Open Rijstuin, Luchtspoor en station Beurs 1938 - 1939",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:De_Kolk_met_Open_Rijstuin%2C_Luchtspoor_en_station_Beurs_1938_-_1939.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De_Kolk_met_Open_Rijstuin%2C_Luchtspoor_en_station_Beurs_1938_-_1939.jpg",
+    "archivePage": "https://hdl.handle.net/21.12133/B1E0EDF60AAA45B79E9C503A9F0E6B23",
+    "license": "Public domain (PD-anon-70-EU), as recorded on Wikimedia Commons",
+    "attribution": "Anonieme fotograaf / Stadsarchief Rotterdam, via Wikimedia Commons",
+    "date": "1938–1939",
+    "viewDescription": "Omgekeerd zicht richting station Beurs; Open Rijstuin links, Luchtspoor rechts.",
+    "colorUncertainty": "AI-inkleuring; exacte gevel-, kozijn-, dak- en scheepskleuren zijn niet vastgesteld. Bruinrode baksteen, licht natuursteen en grijze daken zijn materiaalgebaseerde interpretaties. Origineel blijft historisch bewijs; AI-details kunnen afwijken.",
+    "archiveAccess": "Archief-handle doorgestuurd naar Stadsarchief-pagina; generieke shell, geen hogere resolutie vastgesteld.",
+    "materialEvidence": [
+      {
+        "url": "https://www.flickr.com/photos/jansluijter/5307488949",
+        "note": "Secundaire beschrijving noemt natuursteen en baksteen voor Plan C; geen bewijs van exacte kleuren."
+      }
+    ],
+    "qaNote": "Hoofdcompositie behouden; AI heeft mist sterk verminderd en onduidelijke gevel-, scheeps- en vegetatiedetails geïnterpreteerd. Niet gebruiken als bewijs voor de exacte historische architectuur.",
+    "generationTool": "Built-in image_gen",
+    "prompt": "Use case: precise-object-edit. The supplied historical photograph is the edit target, not a loose reference. Restore this exact photograph to restrained modern photographic clarity and plausible natural color. Keep exact camera, crop, perspective, dimensions, building silhouettes, all windows and doors, facade ornament, roof forms, quay edges, boats, masts, rigging, people, trees, signs and reflections in their exact positions. Preserve all visible lettering; never invent unreadable lettering. Remove only scan dust, scratches and print grain. No new objects, no new details where the source is ambiguous, no redesign, no contemporary objects. Materials: weathered dark brown/red Dutch brick where the source visibly shows masonry, warm pale gray stone and cream painted trim only where pale in source, muted charcoal slate roofs, tar-black boat hulls and weathered brown wood, desaturated gray-green harbor water, soft natural daylight consistent with original shadows. Do not assume orange roof tiles without clear evidence. Colors are a cautious artistic interpretation, not verified historical color. Aim for lifelike photographic detail while preserving the historical evidence, not a stylized illustration. Preserve any original postcard margins and text.\n Input ID 4. Return one restored color photograph.",
+    "galleryNumber": 2,
+    "originalPath": "foto-2-origineel.jpg",
+    "restoredPath": "foto-2-ai.webp",
+    "promptPath": "foto-2-prompt.txt",
+    "displayNote": "De AI heeft de mist sterk verminderd. Daardoor zichtbare details en kleuren zijn interpretaties."
+  },
+  {
+    "id": 5,
+    "title": "De Kolk met zicht op de Open Rijstuin, Luchtspoor, Westnieuwland en Sint-Laurenskerk 1938 - 1939",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:De_Kolk_met_zicht_op_de_Open_Rijstuin%2C_Luchtspoor%2C_Westnieuwland_en_Sint-Laurenskerk_1938_-_1939.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De_Kolk_met_zicht_op_de_Open_Rijstuin%2C_Luchtspoor%2C_Westnieuwland_en_Sint-Laurenskerk_1938_-_1939.jpg",
+    "archivePage": "https://hdl.handle.net/21.12133/7CF883B3E127472997FDF7973D63BCE4",
+    "license": "Public domain (PD-anon-70-EU), as recorded on Wikimedia Commons",
+    "attribution": "Anonieme fotograaf / Stadsarchief Rotterdam, via Wikimedia Commons",
+    "date": "1938–1939",
+    "viewDescription": "Zicht vanuit zuidoosten naar Open Rijstuin rechts en Laurenskerk; overzicht waterbekken.",
+    "colorUncertainty": "AI-inkleuring; exacte gevel-, kozijn-, dak- en scheepskleuren zijn niet vastgesteld. Bruinrode baksteen, licht natuursteen en grijze daken zijn materiaalgebaseerde interpretaties. Origineel blijft historisch bewijs; AI-details kunnen afwijken.",
+    "archiveAccess": "Archief-handle doorgestuurd naar Stadsarchief-pagina; generieke shell, geen hogere resolutie vastgesteld.",
+    "materialEvidence": [
+      {
+        "url": "https://www.flickr.com/photos/jansluijter/5307488949",
+        "note": "Secundaire beschrijving noemt natuursteen en baksteen voor Plan C; geen bewijs van exacte kleuren."
+      }
+    ],
+    "qaNote": "Hoofdcompositie behouden, maar AI vult veel onduidelijke architectuur aan; vooral Laurenskerk-toren toont afwijkende vensterdetails. Alleen tonen als artistieke AI-interpretatie, niet als betrouwbare restauratie of modelbron.",
+    "generationTool": "Built-in image_gen",
+    "prompt": "Use case: precise-object-edit. The supplied historical photograph is the edit target, not a loose reference. Restore this exact photograph to restrained modern photographic clarity and plausible natural color. Keep exact camera, crop, perspective, dimensions, building silhouettes, all windows and doors, facade ornament, roof forms, quay edges, boats, masts, rigging, people, trees, signs and reflections in their exact positions. Preserve all visible lettering; never invent unreadable lettering. Remove only scan dust, scratches and print grain. No new objects, no new details where the source is ambiguous, no redesign, no contemporary objects. Materials: weathered dark brown/red Dutch brick where the source visibly shows masonry, warm pale gray stone and cream painted trim only where pale in source, muted charcoal slate roofs, tar-black boat hulls and weathered brown wood, desaturated gray-green harbor water, soft natural daylight consistent with original shadows. Do not assume orange roof tiles without clear evidence. Colors are a cautious artistic interpretation, not verified historical color. Aim for lifelike photographic detail while preserving the historical evidence, not a stylized illustration. Preserve any original postcard margins and text.\n Input ID 5. Return one restored color photograph.",
+    "galleryNumber": 3,
+    "originalPath": "foto-3-origineel.jpg",
+    "restoredPath": "foto-3-ai.webp",
+    "promptPath": "foto-3-prompt.txt",
+    "displayNote": "Sfeerinterpretatie: de AI heeft onder meer de vensters van de Laurenstoren anders ingevuld. Gebruik het origineel voor architectonische details."
+  },
+  {
+    "id": 1,
+    "title": "De Kolk met binnenvaartbootjes, Kolkkade, Plan C en station Beurs 1928 - 1940",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:De_Kolk_met_binnenvaartbootjes%2C_Kolkkade%2C_Plan_C_en_station_Beurs_1928_-_1940.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De_Kolk_met_binnenvaartbootjes%2C_Kolkkade%2C_Plan_C_en_station_Beurs_1928_-_1940.jpg",
+    "archivePage": "https://hdl.handle.net/21.12133/909CD5203DE3419E863D818E261BCB1F",
+    "license": "Public domain (PD-anon-70-EU), as recorded on Wikimedia Commons",
+    "attribution": "Anonieme fotograaf / Stadsarchief Rotterdam, via Wikimedia Commons",
+    "date": "1928–1940 (bestandsdatering); beschrijving noemt 1928–1932",
+    "viewDescription": "Plan C en station Beurs gezien vanaf het water; nabij zicht met schepen.",
+    "colorUncertainty": "AI-inkleuring; exacte gevel-, kozijn-, dak- en scheepskleuren zijn niet vastgesteld. Bruinrode baksteen, licht natuursteen en grijze daken zijn materiaalgebaseerde interpretaties. Origineel blijft historisch bewijs; AI-details kunnen afwijken.",
+    "archiveAccess": "Archief-handle doorgestuurd naar Stadsarchief-pagina; generieke shell, geen hogere resolutie vastgesteld.",
+    "materialEvidence": [
+      {
+        "url": "https://www.flickr.com/photos/jansluijter/5307488949",
+        "note": "Secundaire beschrijving noemt natuursteen en baksteen voor Plan C; geen bewijs van exacte kleuren."
+      }
+    ],
+    "qaNote": "Compositie en hoofdobjecten visueel behouden, maar AI verscherpt/interpreteert fijne details. Kleuren, kleine details en vegetatie zijn geen geverifieerd historisch bewijs.",
+    "generationTool": "Built-in image_gen",
+    "prompt": "Use case: precise-object-edit. The supplied historical photograph is the edit target, not a loose reference. Restore this exact photograph to restrained modern photographic clarity and plausible natural color. Keep exact camera, crop, perspective, dimensions, building silhouettes, all windows and doors, facade ornament, roof forms, quay edges, boats, masts, rigging, people, trees, signs and reflections in their exact positions. Preserve all visible lettering; never invent unreadable lettering. Remove only scan dust, scratches and print grain. No new objects, no new details where the source is ambiguous, no redesign, no contemporary objects. Materials: weathered dark brown/red Dutch brick where the source visibly shows masonry, warm pale gray stone and cream painted trim only where pale in source, muted charcoal slate roofs, tar-black boat hulls and weathered brown wood, desaturated gray-green harbor water, soft natural daylight consistent with original shadows. Do not assume orange roof tiles without clear evidence. Colors are a cautious artistic interpretation, not verified historical color. Aim for lifelike photographic detail while preserving the historical evidence, not a stylized illustration. Preserve any original postcard margins and text.\n Input ID 1. Return one restored color photograph.",
+    "galleryNumber": 4,
+    "originalPath": "foto-4-origineel.jpg",
+    "restoredPath": "foto-4-ai.webp",
+    "promptPath": "foto-4-prompt.txt",
+    "displayNote": "Kleuren en fijne details zijn AI-interpretaties. De bron vermeldt verschillende dateringen: 1928–1940 en 1928–1932."
+  },
+  {
+    "id": 2,
+    "title": "De Kolk met een stuk van de Open Rijstuin, de Kolkkade en Plan C 1928 - 1932",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:De_Kolk_met_een_stuk_van_de_Open_Rijstuin%2C_de_Kolkkade_en_Plan_C_1928_-_1932.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De_Kolk_met_een_stuk_van_de_Open_Rijstuin%2C_de_Kolkkade_en_Plan_C_1928_-_1932.jpg",
+    "archivePage": "https://hdl.handle.net/21.12133/63CAA5CDE9C2481F9DDE001C413AA24F",
+    "license": "Public domain (PD-anon-70-EU), as recorded on Wikimedia Commons",
+    "attribution": "Anonieme fotograaf / Stadsarchief Rotterdam, via Wikimedia Commons",
+    "date": "1928–1932",
+    "viewDescription": "Plan C met brug, tram en deel Open Rijstuin; breed frontaal detail.",
+    "colorUncertainty": "AI-inkleuring; exacte gevel-, kozijn-, dak- en scheepskleuren zijn niet vastgesteld. Bruinrode baksteen, licht natuursteen en grijze daken zijn materiaalgebaseerde interpretaties. Origineel blijft historisch bewijs; AI-details kunnen afwijken.",
+    "archiveAccess": "Archief-handle doorgestuurd naar Stadsarchief-pagina; generieke shell, geen hogere resolutie vastgesteld.",
+    "materialEvidence": [
+      {
+        "url": "https://www.flickr.com/photos/jansluijter/5307488949",
+        "note": "Secundaire beschrijving noemt natuursteen en baksteen voor Plan C; geen bewijs van exacte kleuren."
+      }
+    ],
+    "qaNote": "Compositie en hoofdobjecten visueel behouden, maar AI verscherpt/interpreteert fijne details. Kleuren, kleine details en vegetatie zijn geen geverifieerd historisch bewijs.",
+    "generationTool": "Built-in image_gen",
+    "prompt": "Use case: precise-object-edit. The supplied historical photograph is the edit target, not a loose reference. Restore this exact photograph to restrained modern photographic clarity and plausible natural color. Keep exact camera, crop, perspective, dimensions, building silhouettes, all windows and doors, facade ornament, roof forms, quay edges, boats, masts, rigging, people, trees, signs and reflections in their exact positions. Preserve all visible lettering; never invent unreadable lettering. Remove only scan dust, scratches and print grain. No new objects, no new details where the source is ambiguous, no redesign, no contemporary objects. Materials: weathered dark brown/red Dutch brick where the source visibly shows masonry, warm pale gray stone and cream painted trim only where pale in source, muted charcoal slate roofs, tar-black boat hulls and weathered brown wood, desaturated gray-green harbor water, soft natural daylight consistent with original shadows. Do not assume orange roof tiles without clear evidence. Colors are a cautious artistic interpretation, not verified historical color. Aim for lifelike photographic detail while preserving the historical evidence, not a stylized illustration. Preserve any original postcard margins and text.\n Input ID 2. Return one restored color photograph.",
+    "galleryNumber": 5,
+    "originalPath": "foto-5-origineel.jpg",
+    "restoredPath": "foto-5-ai.webp",
+    "promptPath": "foto-5-prompt.txt",
+    "displayNote": "Kleuren en fijne details zijn AI-interpretaties."
+  }
+]

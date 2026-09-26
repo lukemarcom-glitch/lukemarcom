@@ -1,0 +1,54 @@
+{
+  "id": "stadhuis",
+  "photos": [
+    {
+      "src": "landmarks/stadhuis/foto-1-origineel.jpg",
+      "ai": "landmarks/stadhuis/foto-1-ai.webp",
+      "title": "De Coolsingelgevel en zijvleugel · 1920–1935",
+      "shortTitle": "De Coolsingelgevel en zijvleugel",
+      "date": "1920–1935",
+      "author": "Anoniem",
+      "license": "Publiek domein (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Het_stadhuis_van_Rotterdam%2C_1935_of_eerder%2C_SFA001007347.jpg",
+      "archiveUrl": "https://beeldbank.spaarnestadphoto.com/search.pp?flush=1&multikeyword=SFA001007347&searchtype=0#ctr-thumbnails",
+      "note": "",
+      "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+    },
+    {
+      "src": "landmarks/stadhuis/foto-2-origineel.jpg",
+      "ai": "landmarks/stadhuis/foto-2-ai.webp",
+      "title": "Verkeer op de Coolsingel · 1920",
+      "shortTitle": "Verkeer op de Coolsingel",
+      "date": "1920",
+      "author": "Anoniem",
+      "license": "Publiek domein (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Coolsingel_en_het_stadhuis_van_Rotterdam_1920.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/427A310F5EF543CC9FD8A130689BCF41",
+      "note": "",
+      "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+    },
+    {
+      "src": "landmarks/stadhuis/foto-3-origineel.jpg",
+      "ai": "landmarks/stadhuis/foto-3-ai.webp",
+      "title": "Stadhuis en postkantoor vanuit de lucht · 1933",
+      "shortTitle": "Stadhuis en postkantoor vanuit de lucht",
+      "date": "1933",
+      "author": "KLM Aerocarto",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_Coolsingel_met_de_Delftsevaart%2C_Delftsche_Poort%2C_Kruiskade%2C_stadhuis%2C_Hoofdpostkantoor%2C_hotel_Atlanta%2C_Bijenkorf_en_Sint-Laurenskerk_1933.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/BF620481D3324BCC8528477F74B2048A",
+      "note": "",
+      "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rijksmonumentenregister 513763",
+      "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/513763"
+    }
+  ],
+  "colorNote": "Zandsteen boven hardstenen plint; leien daken; koperen torenbekroning, gouden vredesbeeld. Geen exacte historische steenkleur of patina vastgesteld."
+}

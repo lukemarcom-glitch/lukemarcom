@@ -1,0 +1,88 @@
+{
+  "building": "schouwburg",
+  "images": [
+    {
+      "id": "oostzijde-1900",
+      "originalPath": "/tmp/rotterdam-research/schouwburg/oostzijde-1900.jpg",
+      "originalExists": true,
+      "aiPath": "/tmp/rotterdam-research/schouwburg/oostzijde-1900-ai.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1900_De_Schouwburg_aan_de_Aert_van_Nesstraat,_Rotterdam_vanuit_het_oosten.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1900_De_Schouwburg_aan_de_Aert_van_Nesstraat%2C_Rotterdam_vanuit_het_oosten.jpg",
+      "primarySourceUrls": [
+        "https://hdl.handle.net/21.12133/794311015AAA4E29BE251A815C9FB6C0"
+      ],
+      "date": "1900",
+      "creator": "Vervaardiger: Onbekend Downloadbaar: Ja ; Uitgever:\tDieten, J.L. van",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "caption": "De Schouwburg aan de Aert van Nesstraat, Rotterdam vanuit het oosten, 1900",
+      "aiExists": true,
+      "promptPath": "/tmp/rotterdam-research/schouwburg/oostzijde-1900-prompt.txt"
+    },
+    {
+      "id": "overzicht-1895",
+      "originalPath": "/tmp/rotterdam-research/schouwburg/overzicht-1895.jpg",
+      "originalExists": true,
+      "aiPath": "/tmp/rotterdam-research/schouwburg/overzicht-1895-ai.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1895_De_Rotterdamse_Schouwburg_aan_de_Aert_van_Nesstraat.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1895_De_Rotterdamse_Schouwburg_aan_de_Aert_van_Nesstraat.jpg",
+      "primarySourceUrls": [
+        "https://hdl.handle.net/21.12133/72DB663E3EB843918B40AE8AB3C42C72"
+      ],
+      "date": "1895",
+      "creator": "Vervaardiger: Onbekend ; Licentie: PDM 1.0 Public Domain Mark 1.0",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "caption": "De Rotterdamse Schouwburg aan de Aert van Nesstraat, uit het zuidwesten. Naast de schouwburg de Lijnbaanstraat., 1895",
+      "aiExists": true,
+      "promptPath": "/tmp/rotterdam-research/schouwburg/overzicht-1895-prompt.txt"
+    },
+    {
+      "id": "voorzijde-rce",
+      "originalPath": "/tmp/rotterdam-research/schouwburg/voorzijde-rce.jpg",
+      "originalExists": true,
+      "aiPath": "/tmp/rotterdam-research/schouwburg/voorzijde-rce-ai.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Voorgevel,_reproductie_van_groot_formaat_foto_-_Rotterdam_-_20191773_-_RCE.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Voorgevel%2C_reproductie_van_groot_formaat_foto_-_Rotterdam_-_20191773_-_RCE.jpg",
+      "primarySourceUrls": [
+        "http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/?mode=gallery&amp;view=horizontal&amp;q=20191773"
+      ],
+      "date": "1979",
+      "creator": "<bdi><a href=\"https://www.wikidata.org/wiki/Q100433355\" class=\"extiw\" title=\"d:Q100433355\"><span title=\"photographer\">J.P. de Koning</span></a></bdi>",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "voormalige Schouwburg: voorgevel, reproductie van groot formaat foto",
+      "aiExists": false,
+      "promptPath": null
+    }
+  ],
+  "note": "AI-kleuren en fijne details zijn interpretaties, geen nieuw historisch bewijs. Fotodatums expliciet tonen; bronbeelden zijn ouder dan 1939.",
+  "name": "Groote Schouwburg",
+  "architect": "Jan Verheul Dzn.",
+  "opened": 1887,
+  "address": "Aert van Nesstraat 45, naast Lijnbaanstraat",
+  "centerLonLat": [
+    4.4767306,
+    51.9211694
+  ],
+  "locationConfidence": "Wikidata/Commons, controleren tegen gegeorefereerde archiefkaart",
+  "architecture": "Baksteen met natuurstenen banden en hoekblokken. Symmetrische hoofdgevel, verhoogd centraal driehoekig fronton met beelden; drie grote rondbogen op de verdieping, drie ingangsbogen eronder met luifel. Twee lage zijrisalieten en hoger zaal-/toneelvolume achteraan. Twee hoge bouwlagen voor, derde volume achter.",
+  "dimensions": {
+    "widthEstimateM": 45,
+    "frontCorniceEstimateM": 17,
+    "pedimentTopEstimateM": 23,
+    "auditoriumRoofEstimateM": 28,
+    "confidence": "Indicatieve modelleringsschattingen aan de hand van gevelbeeld; niet archivalisch ingemeten"
+  },
+  "sources": [
+    "https://acc.stadsarchief.rotterdam.nl/architect",
+    "https://commons.wikimedia.org/wiki/Category:Schouwburg_Rotterdam_(1887)",
+    "https://id.rijksmuseum.nl/200844337"
+  ],
+  "rceNote": "voorzijde-rce.jpg is een reproductie van een geveltekening met schaalbalk, niet een straatfoto. RCE-opnamedatum1979 slaat op reproductie, gebouwtekening19e eeuw. CC BY-SA4.0 J.P. de Koning/RCE. Als onderzoeksbron gebruiken, niet als foto1939.",
+  "aiGeneration": {
+    "tool": "built-in image_gen",
+    "generatedCount": 2,
+    "visualReview": "Alle originele en AI-beelden bekeken. Hoofdmassa en perspectief behouden. Kleur, materialen, fijne ornamentiek, straatfiguren en verafgelegen stadsdetails blijven interpretatief. AI1 ziekenhuis heeft vrij sterk geïnterpreteerde achtergrond; niet voor bouwkundige bewijsvoering gebruiken."
+  }
+}

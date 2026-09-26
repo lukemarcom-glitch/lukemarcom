@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "woii-beurskelder",
+    "kind": "war-story",
+    "name": "De verborgen mannen van de Beurs",
+    "markerName": "Onderduik · Beurs Coolsingel",
+    "theme": "Onderduik & hulp",
+    "periodNote": "November 1944",
+    "place": "Beursgebouw aan de Coolsingel",
+    "center": [
+      -290.206,
+      208.463
+    ],
+    "height": 24,
+    "cameraDistance": 260,
+    "lead": "Een schuilplaats onder een verzamelplaats van de razzia.",
+    "story": "Tijdens de Rotterdamse razzia van november 1944 werden mannen in het Beursgebouw bijeengebracht voor hun transport. In datzelfde gebouw wisten zestien mannen zich te verbergen in de stookkelder. Boven hen bevonden zich ook Duitse troepen.\n\nVolgens Stichting Razzia Monument Rotterdam moedigde de directeur van het bedrijfsrestaurant de mannen aan om onder te duiken. Vanuit de restaurantkeuken werd hun in het geheim eten gebracht. Juist die dagelijkse hulp maakte de verborgen plek bruikbaar.\n\nEen plaquette in de kelder, aangebracht in november 1945, herinnert aan deze zestien onderduikers. Hun verhaal maakt zichtbaar dat hulp niet altijd bestond uit een spectaculaire actie: ook een deur openen, zwijgen en eten brengen konden het verschil maken.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Gebaseerd op de beschrijving van de kelderplaquette door Stichting Razzia Monument Rotterdam. De bron noemt de functie van de helper; zijn naam vullen we niet in.",
+    "locationNote": "De marker is gekoppeld aan het 3D-model van de Beurs aan de Coolsingel. De stookkelder is als schuilplaats gedocumenteerd; de precieze kamer binnen het complex is niet vastgesteld. Het model toont de vroege vorm omstreeks 1940–1944. In 1939 was het gebouw nog in aanbouw.",
+    "sources": [
+      {
+        "title": "Stichting Razzia Monument Rotterdam · de kelder en de zestien namen",
+        "url": "https://razziamonument.nl/razzia/plaquette-razzia-onderduikers-beursgebouw/"
+      },
+      {
+        "title": "Rijksdienst voor het Cultureel Erfgoed · het Beursgebouw (1936–1940)",
+        "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/513765"
+      }
+    ],
+    "relatedLandmark": "beurs-coolsingel",
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "beurs-coolsingel",
+      "sourceUrl": "https://razziamonument.nl/razzia/plaquette-razzia-onderduikers-beursgebouw/"
+    },
+    "locationContext": {
+      "role": "Het gebouw van de schuilplaats",
+      "then": "Nieuwe Beurs aan de Coolsingel, in gebruik vanaf 1940.",
+      "now": "Het historische laagbouwdeel van het Beurs-WTC, op dezelfde locatie."
+    },
+    "identityNote": "Dit is een ander gebouw dan de Oude Beurs aan de Blaak.",
+    "locationChecked": "2026-09-24",
+    "cameraAngle": -0.6606781299760311,
+    "photos": [
+      {
+        "src": "stories/photos/beurs-1941-1942.webp",
+        "title": "Beurshal en zuidzijde van de nieuwe Beurs aan de Coolsingel, 1941–1942. Dit toont het gebouw tijdens de bezetting, niet de onderduikers of hun schuilplaats.",
+        "date": "1941–1942",
+        "author": "Hendrik Ferdinand (H.F.) Grimeijer",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_lege_gebied_bij_het_Beursgebouw_en_Delftsevaart_met_de_Sint-Laurensstraat,_Roodezand,_Hoogstraat,_Minervahuis,_Meent,_Krattenbrug,_G.E.B._stadsverwarmingsgebouw_en_Luchtspoor_1941_-_1942.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "stories/photos/ai32-beurs-coolsingel.webp",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Kleur en verfijnde details zijn AI-interpretaties. De historische situatie, inclusief zichtbare oorlogsschade, is behouden; dit is geen nieuwe opname.",
+        "aiLicense": "CC BY 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "src": "stories/photos/beurs-plaquette.webp",
+        "title": "De plaquette in de kelder van het Beursgebouw noemt de zestien mannen en de razzia van 10–11 november 1944. Het gedenkteken werd op 9 november 1945 aangeboden; de foto is van latere datum.",
+        "date": "Onbekend; latere foto van de op 9 november 1945 onthulde plaquette",
+        "author": "Bouwinvest (credit van de bron; individuele fotograaf niet vermeld)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/3827/rotterdam-monument-voor-onderduikers-razzia-in-het-beursgebouw",
+        "role": "memorial",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": false
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Plaquette voor onderduikers van de razzia in het Beursgebouw",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/3827/rotterdam-monument-voor-onderduikers-razzia-in-het-beursgebouw",
+        "address": "Beursplein 37, 3011 AA Rotterdam; kelder van het Beurs-WTC",
+        "year": "1945-11-09",
+        "description": "De bron van Stichting Razzia Monument beschrijft in februari 2026 een nog gewenste gevelreplica; geen bevestiging dat deze al geplaatst is. Het oorspronkelijke exemplaar is in de kelder en niet vrij toegankelijk."
+      }
+    ]
+  },
+  {
+    "id": "woii-haagseveer",
+    "kind": "war-story",
+    "name": "De bevrijding aan het Haagseveer",
+    "markerName": "Bevrijding · historisch politiebureau",
+    "theme": "Verzet & bevrijding",
+    "periodNote": "24 oktober 1944",
+    "place": "Hoofdbureau van politie · Haagseveer / Doelwater",
+    "center": [
+      -313.81330259736484,
+      502.1734565580229
+    ],
+    "height": 28,
+    "cameraDistance": 360,
+    "lead": "Een gewaagde bevrijding, met een tragische nasleep.",
+    "story": "Op 24 oktober 1944 drongen Rotterdamse verzetsmensen het hoofdbureau van politie aan het Haagseveer binnen. Met hulp van binnenuit en vermomd als SS’ers wisten zij gevangenen naar buiten te krijgen. Het museum noemt 46 bevrijde mensen, onder wie 35 politieke gevangenen.\n\nDe actie was haastig voorbereid nadat verzetsleden waren gearresteerd. De conciërge hielp de bevrijders het gebouw binnen. Zijn hulp maakte de toegang tot het zwaar bewaakte gebouw mogelijk.\n\nHet verhaal eindigt niet bij de ontsnapping. Diezelfde avond executeerde de bezetter vier arrestanten aan het Doelwater als represaille. Ook hun lot hoort bij deze plek en bij de herinnering aan de bevrijdingsactie.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "De datum en aantallen volgen de museumcatalogus (object 8345-1); de conciërge en vermomming de historische reconstructie van de NOS. Oorlogsbronnen documenteert de vier slachtoffers van de represaille.",
+    "locationNote": "De marker is gecorrigeerd van een huidig straatmiddelpunt naar het historische politiecomplex op de kaart van vóór mei 1940. De kaart en de archieffoto uit 1944 tonen het complex westelijk van de Delftsevaart, noordelijk van het Doelwater. Dit is geen exacte cel of toegang tot de bevrijdingsactie. Het verhaalanker en het 3D-model delen dezelfde historische gebouwpositie; binnenruimtes en exacte gebeurtenisplekken zijn niet ingemeten.",
+    "sources": [
+      {
+        "title": "Museum Rotterdam ’40–’45 NU · verslag van de overval, object 8345-1",
+        "url": "https://beeldbank.40-45nu.nl/index.cfm?action=search.detail&id=aa53d241901511e383cd00163e3251a4"
+      },
+      {
+        "title": "NOS · reconstructie van de bevrijdingsactie",
+        "url": "https://nos.nl/bevrijdingsjaar/bericht/2307421"
+      },
+      {
+        "title": "Oorlogsbronnen · de fusillade aan het Doelwater",
+        "url": "https://www.oorlogsbronnen.nl/thema/Fusillade%20in%20Rotterdam%2C%2024%20oktober%201944"
+      },
+      {
+        "title": "RCE / Monumenten in Nederland · verplaatsing ingang naar Doelwater in 1993",
+        "url": "https://www.dbnl.org/tekst/sten009monu10_01/sten009monu10_01.pdf"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · politiegebouw langs de Delftsevaart, 1944",
+        "url": "https://hdl.handle.net/21.12133/79127C65F51946FFBCAD22B0E9C65C52"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · kaart van de stad vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "politie-haagseveer",
+      "sourceUrl": "https://zoeken.nieuweinstituut.nl/nl/projecten/detail/5ef7e8e7-58d5-5e87-b35d-b2168dac12e8"
+    },
+    "locationContext": {
+      "role": "Historisch gebouwcomplex · benaderd",
+      "then": "Hoofdbureau van politie aan het Haagseveer, noordelijk van het Doelwater.",
+      "now": "Onderdeel van het verbouwde en uitgebreide politiecomplex; de hoofdingang ligt sinds 1993 aan het Doelwater."
+    },
+    "locationChecked": "2026-09-25",
+    "photos": [
+      {
+        "title": "Hoofdbureau van politie aan het Haagseveer · contextbeeld van de plek",
+        "date": "1938",
+        "author": "Spaarnestad Fotoarchief (SFA); collectie Stadsarchief Rotterdam",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:De_Delftsevaart_met_links_het_hoofdbureau_van_de_politie_en_het_Haagseveer_en_op_de_achtergrond_de_Galerijbrug_1938.jpg",
+        "src": "landmarks/politie-haagseveer/foto-1-origineel.webp",
+        "ai": "landmarks/politie-haagseveer/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Hoofdvolume en compositie visueel behouden. Geen geometrisch of letter-voor-letter bewezen facsimile; kleine personen-, textuur- en letterdetails kunnen afwijken.",
+        "role": "place"
+      },
+      {
+        "src": "stories/photos/haagseveer-1944.webp",
+        "title": "Het hoofdbureau van politie aan het Haagseveer rechts, met een eerste schip op de verbrede Delftsevaart, 1944. Plaatsbeeld uit het jaar van de bevrijdingsactie; geen opname van de overval.",
+        "date": "1944",
+        "author": "Hendrik Ferdinand (H.F.) Grimeijer",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_eerste_schip_vaart_door_de_verbrede_Delftsevaart_met_rechts_het_hoofdbureau_van_de_politie_aan_het_Haagseveer_en_op_de_achtergrond_de_Meentbrug,_Meent_en_Minervahuis_1944.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": false
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Monument Doelwater",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/921/rotterdam-monument-doelwater",
+        "address": "Doelwater, Rotterdam; bij het politiecomplex",
+        "year": "1946",
+        "description": "Herdenkt de vier mannen die op 24 oktober 1944 werden gefusilleerd na de bevrijdingsactie; geen monument van de ontsnapte gevangenen. Het 4en5mei-record beschrijft een wit verzetskruis."
+      }
+    ],
+    "relatedLandmark": "politie-haagseveer"
+  },
+  {
+    "id": "woii-jan-van-garsel",
+    "kind": "war-story",
+    "name": "Jan van Garsel op de Willemsbrug",
+    "markerName": "Jan van Garsel",
+    "theme": "Moed & verlies",
+    "periodNote": "13 mei 1940",
+    "place": "Oude Willemsbrug · noordelijke aanloop",
+    "center": [
+      471.58,
+      -224.91
+    ],
+    "height": 15,
+    "cameraDistance": 470,
+    "cameraAngle": -1.15,
+    "lead": "Twee jonge mariniers, midden tussen de frontlijnen.",
+    "story": "Jan van Garsel was 28 jaar en had zijn mariniersopleiding net voltooid toen de Duitse inval begon. Op 13 mei 1940 nam hij deel aan een poging om de Willemsbrug weer in Nederlandse handen te krijgen.\n\nSamen met Eliza Cornelis Bernouw ging hij de brug op. Na ongeveer 75 meter kwamen zij vast te zitten onder vuur. Urenlang konden ze nauwelijks bewegen. Toen Van Garsel terug probeerde te komen naar de noordelijke oever, werd hij dodelijk getroffen.\n\nHet Mariniersmuseum beschrijft zijn laatste dag op basis van historisch onderzoek, in samenwerking met het Nederlands Instituut voor Militaire Historie. Het verhaal geeft de strijd om de Maasbruggen een naam en een gezicht. Ook de schijnbaar kleine details zijn belangrijk: volgens het museum staat op zijn grafsteen 14 mei, de dag waarop zijn overlijden officieel werd vastgesteld, terwijl hij op 13 mei omkwam.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Naverteld naar het onderzoek van het Mariniersmuseum en NIMH. De afwijkende datum op de grafsteen wordt door het museum toegelicht.",
+    "locationNote": "De marker is rechtstreeks gekoppeld aan het noordelijke eindpunt van het oude brugmodel. Hij schuift bij Nu niet naar de huidige Willemsbrug. Het is een herkenningspunt voor het strijdgebied, niet de exact vastgestelde plaats waar Van Garsel werd geraakt.",
+    "relatedLandmark": "willemsbrug-oud",
+    "sources": [
+      {
+        "title": "Mariniersmuseum / NIMH · Waar zijn moed zichtbaar werd",
+        "url": "https://www.mariniersmuseum.nl/nl/stories/waar-zijn-moed-zichtbaar-werd/"
+      }
+    ],
+    "anchor": {
+      "type": "route-start",
+      "landmarkId": "willemsbrug-oud",
+      "sourceUrl": "https://www.mariniersmuseum.nl/nl/stories/waar-zijn-moed-zichtbaar-werd/"
+    },
+    "locationContext": {
+      "role": "Strijdgebied · oude brugaanloop",
+      "then": "Het noordelijke uiteinde van de oude Willemsbrug.",
+      "now": "De oude brug is verdwenen. De huidige Willemsbrug ligt ernaast, op een andere as."
+    },
+    "locationChecked": "2026-09-24",
+    "photos": [
+      {
+        "src": "stories/photos/willemsbrug-1933.webp",
+        "title": "Vrachtverkeer op de oude Willemsbrug in 1933. Zeven jaar later betrad Jan van Garsel deze brug tijdens de gevechten van 13 mei 1940. De foto toont niet Jan of de strijd.",
+        "date": "1933",
+        "author": "Willem van de Poll",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "url": "https://commons.wikimedia.org/wiki/File:Verkeer_op_de_Willemsbrug_in_Rotterdam,_Bestanddeelnr_189-0494.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/maasbruggen/na-189-0494-ai.webp",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring van dezelfde foto uit 1933. Dit is een straatbeeld vóór de oorlog, geen opname van Jan van Garsels actie."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Mariniersmonument",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/897/rotterdam-mariniersmonument",
+        "address": "Oostplein, 3063 CE Rotterdam",
+        "year": "1963-07-05",
+        "description": "Titus Leesers monument herdenkt het optreden van het Korps Mariniers en de verdediging van stad en Maasbruggen in mei 1940. Het staat op Oostplein, niet op de gevechtsplek bij Witte Huis of Willemsbrug. Het is geen portret van Jan van Garsel."
+      }
+    ]
+  },
+  {
+    "id": "woii-zwarte-duivels",
+    "kind": "war-story",
+    "name": "De Zwarte Duivels: feit en overlevering",
+    "markerName": "De Zwarte Duivels",
+    "theme": "Feit & overlevering",
+    "periodNote": "Mei 1940 · later doorverteld",
+    "place": "Witte Huis · strijd om de Maasbruggen",
+    "center": [
+      461,
+      -22
+    ],
+    "height": 43,
+    "cameraDistance": 340,
+    "lead": "De strijd is bewezen. Niet elk detail van het heldenverhaal is dat ook.",
+    "story": "De Rotterdamse mariniers werden bekend als de ‘Zwarte Duivels’. Hun optreden bij de Maasbruggen groeide uit tot een krachtig verhaal over moed en volhouden. Het Witte Huis was een belangrijke Nederlandse positie tijdens de gevechten.\n\nMaar het beeld van mariniers die de stad alleen verdedigden, klopt niet. Zij vochten samen met andere Nederlandse militairen. Historici Kornaat en Poetiray beschrijven hoe de herinnering aan hun optreden na de verwoesting van Rotterdam mythische proporties kreeg.\n\nOok de precieze oorsprong van de bijnaam staat niet vast. Collectiebeheerder Sjak Draak van het Mariniersmuseum vertelde na onderzoek niet exact te kunnen bepalen wie de naam wanneer gaf. Daarom presenteren we een verhaal over een Duitse soldaat die de bijnaam bedacht niet als bewezen gebeurtenis.",
+    "evidenceLabel": "Feit + overlevering",
+    "evidenceNote": "Gedocumenteerd: de strijd en samenwerking tussen legeronderdelen. Onzeker: de precieze bedenker en het ontstaansmoment van de bijnaam. Historische moed en latere mythevorming staan hier naast elkaar.",
+    "locationNote": "De marker is rechtstreeks gekoppeld aan het Witte Huis-model. Het museum bevestigt het gebruik van dit gebouw tijdens de meidagen. De marker duidt niet aan waar de bijnaam Zwarte Duivels ontstond.",
+    "relatedLandmark": "witte-huis",
+    "sources": [
+      {
+        "title": "Militaire Spectator · Kornaat en Poetiray over strijd en mythevorming",
+        "url": "https://kvbk.nl/artikelen/het-korps-mariniers-en-rotterdam"
+      },
+      {
+        "title": "Gers! · interview met museumcollectiebeheerder Sjak Draak",
+        "url": "https://gersrotterdam.nl/verhalen/de-zwarte-duivels-van-rotterdam/"
+      },
+      {
+        "title": "Mariniersmuseum · het Witte Huis en de oude Maasbruggen",
+        "url": "https://www.mariniersmuseum.nl/nl/in-de-voetsporen-van/"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "witte-huis",
+      "sourceUrl": "https://www.mariniersmuseum.nl/nl/in-de-voetsporen-van/"
+    },
+    "locationContext": {
+      "role": "Herkenningspunt in het strijdgebied",
+      "then": "Het Witte Huis, door Nederlandse militairen als positie gebruikt.",
+      "now": "Hetzelfde Witte Huis staat nog op dezelfde plek."
+    },
+    "locationChecked": "2026-09-24",
+    "photos": [
+      {
+        "src": "stories/photos/witte-huis-1933.webp",
+        "title": "Witte Huis en Wijnhaven in 1933, achter de spoorbrug. Het gebouw werd in mei 1940 een Nederlandse positie bij de strijd om de Maasbruggen. Dit is een vooroorlogs plaatsbeeld, geen gevechtsfoto.",
+        "date": "1933",
+        "author": "François Henry (F.H.) van Dijk",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Een_schip_vaart_onder_de_spoorbrug_over_de_Wijnhaven_met_op_de_achtergrond_het_Witte_Huis_1933.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/witte-huis/foto-3-ai.webp",
+        "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname.",
+        "aiLicense": "CC0 1.0",
+        "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Mariniersmonument",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/897/rotterdam-mariniersmonument",
+        "address": "Oostplein, 3063 CE Rotterdam",
+        "year": "1963-07-05",
+        "description": "Titus Leesers monument herdenkt het optreden van het Korps Mariniers en de verdediging van stad en Maasbruggen in mei 1940. Het staat op Oostplein, niet op de gevechtsplek bij Witte Huis of Willemsbrug. Het is geen portret van Jan van Garsel."
+      }
+    ]
+  },
+  {
+    "id": "woii-erasmus",
+    "kind": "war-story",
+    "name": "Hoe Erasmus in veiligheid werd gebracht",
+    "markerName": "Erasmus · vertrekpunt",
+    "theme": "Erfgoed in veiligheid",
+    "periodNote": "Eind mei 1940 – 1945",
+    "place": "Grote Markt → Museum Boymans",
+    "center": [
+      143,
+      182
+    ],
+    "height": 10,
+    "cameraDistance": 350,
+    "lead": "Het beeld overleefde het bombardement. Daarna moest het worden verborgen.",
+    "story": "Het bronzen Erasmusbeeld uit 1622 stond vóór de oorlog op de Grote Markt. Op 14 mei 1940 werd vrijwel de hele omgeving verwoest, maar het beeld bleef onbeschadigd. Daarmee was het nog niet veilig: men vreesde dat het als oorlogsbuit zou worden weggehaald.\n\nEind mei brachten medewerkers van de gemeentelijke Kunstbescherming Erasmus naar Museum Boymans. Wim van den Berg, destijds een jonge tekenaar bij die dienst, beschreef later hoe de mannen het beeld met takels van zijn sokkel tilden en per vrachtwagen vervoerden. Op de binnenplaats verdween het achter betonplaten en zandzakken.\n\nDaar bleef Erasmus verborgen tijdens de oorlog. Het klinkt bijna als een stadslegende, maar het afschermen van het beeld is gedocumenteerd met foto's en een herinnering van een betrokkene. De marker toont het beginpunt van deze reddingsactie: de omgeving van de vroegere Grote Markt.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Museum Rotterdam en Sculpture International Rotterdam beschrijven de redding. Stichting Erasmushuis publiceert het verslag van Wim van den Berg. Zijn herinnering is een getuigenbron achteraf.",
+    "locationNote": "De marker is verschoven van het huidige straatmiddelpunt naar de oostzijde van het plantsoen op de historische Grote Markt. Dit is een benaderd vertrekpunt van de reddingsactie; geen exact ingemeten sokkel en geen markering van de schuilplaats in Museum Boymans.",
+    "sources": [
+      {
+        "title": "Museum Rotterdam · Erasmus op de Grote Markt",
+        "url": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/erasmus/"
+      },
+      {
+        "title": "Stichting Erasmushuis · Gered door een begrafenis (PDF)",
+        "url": "https://erasmushuisrotterdam.nl/wp-content/uploads/2018/05/standbeelden-1.pdf"
+      },
+      {
+        "title": "Sculpture International Rotterdam · Erasmus ingegraven",
+        "url": "https://www.sculptureinternationalrotterdam.nl/erasmus-ingegraven/"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · plantsoen op de vooroorlogse Grote Markt",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+    },
+    "locationContext": {
+      "role": "Vertrekpunt · niet de schuilplaats",
+      "then": "De omgeving van het plantsoen op de oude Grote Markt.",
+      "now": "Omgeving Grotemarkt. Het beeld zelf staat tegenwoordig bij de Laurenskerk op het Grotekerkplein."
+    },
+    "identityNote": "Erasmus werd verborgen op de binnenplaats van Museum Boymans, op een andere plek.",
+    "locationChecked": "2026-09-24",
+    "photos": [
+      {
+        "src": "stories/photos/erasmus-1937.webp",
+        "title": "Het Erasmusbeeld op de Grote Markt in 1937. Deze foto toont het beeld vóór het bombardement en vóór de overbrenging naar Museum Boymans in mei 1940.",
+        "date": "1937",
+        "author": "Fototechnische Dienst Rotterdam (Gemeentewerken, Openbare Werken)",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "url": "https://commons.wikimedia.org/wiki/File:Mannen_wandelen_bij_de_Grotemarkt_met_rechts_het_standbeeld_van_Erasmus_en_op_de_achtergrond_het_Luchtspoor_1937.jpg",
+        "role": "place",
+        "rightsNote": "Officiële archiefweergave van 400 × 280 pixels; geen AI-bewerking. Bron via de link beschikbaar.",
+        "ai": "stories/photos/ai32-erasmus.webp",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Kleuren en fijne details zijn AI-interpretaties van deze historische foto; geen nieuwe opname of bewijs voor oorspronkelijke kleuren."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Erasmus (1622), het bewaard gebleven beeld",
+        "url": "https://www.sculptureinternationalrotterdam.nl/collectie/erasmus/",
+        "address": "Grotekerkplein 5, Rotterdam",
+        "year": "1622; huidige locatie na de oorlog",
+        "description": "De Grote Markt op de foto uit 1937, Museum Boymans waar het beeld in 1940 werd geborgen, en het huidige Grotekerkplein zijn verschillende locaties."
+      }
+    ]
+  },
+  {
+    "id": "woii-coolsingelziekenhuis",
+    "kind": "war-story",
+    "name": "Patiënten naar buiten, het ziekenhuis brandt",
+    "markerName": "Evacuatie · Coolsingelziekenhuis",
+    "theme": "Zorg & hulp",
+    "periodNote": "14 mei 1940",
+    "place": "Coolsingelziekenhuis",
+    "center": [
+      -412.168,
+      67.381
+    ],
+    "height": 32,
+    "cameraDistance": 380,
+    "lead": "Verpleegkundigen en omstanders brachten patiënten naar buiten.",
+    "story": "Op 14 mei 1940 werkten Aagje Neeltje Monster en Maria, meestal Mies genoemd, Koeleman in het Coolsingelziekenhuis. Vier dagen eerder waren de verpleegkundigen tijdens hun vrije dag al naar hun werk gegaan: er moest ruimte komen voor gewonden. Nu vielen de bommen. In haar dagboek beschreef Aagje hoe ramen sprongen en puin naar beneden kwam. Verpleegkundigen, artsen, Rode Kruissoldaten en andere helpers droegen patiënten naar buiten. Volgens haar verslag waren zij binnen een halfuur uit het gebouw. Bij het hek aan de achterkant verdrongen mensen zich om te helpen. Aagje en Mies overleefden, maar ook hun woning aan de Van Oldenbarneveltstraat was verwoest. De zorg ging daarna verder in noodhospitalen. Hier stond hun ziekenhuis; de afgebeelde foto toont de schade na de aanval.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "De evacuatie wordt beschreven in het dagboek van verpleegkundige Aagje Neeltje Monster, gepubliceerd door het Museum voor de Verpleegkunde. De genoemde duur is haar getuigenis.",
+    "locationNote": "Gekoppeld aan het historische ziekenhuismodel. De marker duidt het complex aan; de achteruitgang en vluchtroute zijn niet afzonderlijk ingemeten.",
+    "sources": [
+      {
+        "title": "Museum voor de Verpleegkunde — Aagje Neeltje Monster",
+        "url": "https://museumvoordeverpleegkunde.nl/pioniers/aagje-neeltje-monster/"
+      },
+      {
+        "title": "Stadsarchief Rotterdam — Op de Coolsingel",
+        "url": "https://stadsarchief.rotterdam.nl/op-de-coolsingel"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "coolsingelziekenhuis",
+      "sourceUrl": "https://museumvoordeverpleegkunde.nl/pioniers/aagje-neeltje-monster/"
+    },
+    "locationContext": {
+      "role": "Het ziekenhuis van de evacuatie",
+      "then": "Het Coolsingelziekenhuis aan de westzijde van de Coolsingel.",
+      "now": "Omgeving Lijnbaan en Van Oldenbarneveltplaats. Het huidige Erasmus MC staat elders."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "coolsingelziekenhuis",
+    "photos": [
+      {
+        "src": "stories/photos/coolsingelziekenhuis-schade.webp",
+        "title": "Schade aan het Coolsingelziekenhuis na het bombardement",
+        "date": "ca. 14 mei 1940",
+        "author": "J. Nolte (toegeschreven aan) / Rijksmuseum, RP-F-F01132-CD",
+        "license": "CC0 1.0 / publiek domein",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Schade_aan_het_Coolsingelziekenhuis_te_Rotterdam,_RP-F-F01132-CD.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "stories/photos/ai32-ziekenhuis-ruine.webp",
+        "roleLabel": "Na het bombardement",
+        "note": "De schade, niet de evacuatie zelf.",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Kleur en verfijnde details zijn AI-interpretaties. De historische situatie, inclusief zichtbare oorlogsschade, is behouden; dit is geen nieuwe opname. De albumrand en scankalibratie zijn weggelaten."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "De brand van het Coolsingelziekenhuis, Louis van Roode (1961)",
+        "url": "https://www.bkor.nl/beeld/de-brand-van-het-coolsingelziekenhuis/",
+        "address": "Erasmus MC, Rotterdam — op een andere locatie dan het oude ziekenhuis",
+        "description": "Dit mozaïek herinnert aan de brand in het voorgangerziekenhuis. Het werd in 1961 gemaakt en later binnen Erasmus MC verplaatst."
+      }
+    ]
+  },
+  {
+    "id": "woii-diergaarde",
+    "kind": "war-story",
+    "name": "De oude Diergaarde tussen bommen en brand",
+    "markerName": "De Diergaarde in mei 1940",
+    "theme": "Dieren & stadsbrand",
+    "periodNote": "12–14 mei 1940",
+    "place": "Oude Rotterdamsche Diergaarde",
+    "center": [
+      -990.28,
+      409.09
+    ],
+    "height": 12,
+    "cameraDistance": 850,
+    "lead": "Een al geplande verhuizing kreeg door de oorlog een tragische wending.",
+    "story": "De oude Rotterdamse Diergaarde lag vlak bij het centrum. Een verhuizing naar Blijdorp was al vóór de oorlog voorbereid; de bommen waren dus niet de aanleiding voor dat plan. Op 12 mei 1940 werd de omgeving van de Diergaarde getroffen. Dieren kwamen om en gevaarlijke dieren werden uit voorzorg gedood. Twee dagen later bereikte de grote stadsbrand ook de tuin. Verzorgers probeerden dieren te redden, terwijl gebouwen en verblijven verloren gingen. Overlevende dieren verhuisden later naar het nieuwe terrein. Rond die dagen ontstonden verhalen over loslopende leeuwen op de Coolsingel. Die verhalen moeten niet als bewezen ontsnappingen worden verteld: de beroemde leeuwenfoto toont een opgezet dier. Deze historische kleurenfoto, gemaakt in juni 1940, laat ruïnes bij de oude tuin zien, geen ontsnapte dieren.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Schade op 12 mei, de latere brand en de al geplande verhuizing zijn gedocumenteerd. De bekende foto van een leeuw is geen bewijs voor een levend ontsnapt dier.",
+    "locationNote": "Gekoppeld aan de reconstructie van de oude Diergaarde. De foto laat de beschadigde omgeving zien; de exacte camerapositie is niet vastgesteld.",
+    "sources": [
+      {
+        "title": "Rotterdams Openbaar Vervoer Museum — De RET in oorlogstijd",
+        "url": "https://www.rovm.nl/nl/digitale-collectie-ov-verhalen/ovv-4007-de-ret-in-oorlogstijd~75u6Xgpw/"
+      },
+      {
+        "title": "Wageningen University & Research — Tuin database record 31836",
+        "url": "https://library.wur.nl/WebQuery/tuin/31836"
+      },
+      {
+        "title": "Gers! Rotterdam — Valse start in oorlogstijd",
+        "url": "https://gersrotterdam.nl/verhalen/valse-start-in-oorlogstijd/"
+      },
+      {
+        "title": "De Ster — Diergaarde Blijdorp op locatie (zoo campaign)",
+        "url": "https://www.desteronline.nl/diergaarde-blijdorp-op-locatie-wilde-dieren-in-het-centrum-van-rotterdam/"
+      },
+      {
+        "title": "Roterodamum — Digitaal café 18 juni",
+        "url": "https://www.roterodamum.nl/nieuwsbericht/digitaal-cafe-18-juni/"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "oude-diergaarde",
+      "sourceUrl": "https://www.rovm.nl/nl/digitale-collectie-ov-verhalen/ovv-4007-de-ret-in-oorlogstijd~75u6Xgpw/"
+    },
+    "locationContext": {
+      "role": "Historisch diergaardeterrein",
+      "then": "De oude Diergaarde bij de Kruiskade en Diergaardesingel.",
+      "now": "Het terrein van de oude tuin in het centrum; het huidige Diergaarde Blijdorp ligt elders."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "oude-diergaarde",
+    "photos": [
+      {
+        "src": "stories/photos/diergaarde-ruines.webp",
+        "title": "Ruïnes in de omgeving van de oude Diergaarde; historische kleurenopname",
+        "date": "1–30 juni 1940",
+        "author": "Hendrik (Henk) Sutterland / Stadsarchief Rotterdam, collectie 4287, 1978-2706",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://hdl.handle.net/21.12133/F354F963DB974F248AF51653BD63FC93",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "stories/photos/ai32-diergaarde-ruine.webp",
+        "roleLabel": "Historische kleurenfoto",
+        "note": "Originele kleurenopname na de verwoesting; geen AI-inkleuring.",
+        "aiLabel": "AI-beeldherstel",
+        "aiNote": "AI-beeldherstel van een oorspronkelijke kleurenopname. Kleurzweem en details zijn geïnterpreteerd; oorlogsschade is niet herbouwd.",
+        "sourceColor": true,
+        "aiLicense": "CC BY 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Zebra in de nesten",
+        "url": "https://www.bkor.nl/routes/lichtroute-rotterdam/interactieve-kaart/",
+        "address": "Diergaardesingel",
+        "year": "2015",
+        "description": "Herman Lamers’ kunstwerk verwijst naar de oude diergaarde en haar verhalen. Het is geen bewijs voor een werkelijk ontsnapte zebra."
+      }
+    ]
+  },
+  {
+    "id": "woii-laurenskerk",
+    "kind": "war-story",
+    "name": "De Laurenskerk brandt uit",
+    "markerName": "Laurenskerk · de brand",
+    "theme": "Verwoesting & herstel",
+    "periodNote": "14 mei 1940",
+    "place": "Laurenskerk",
+    "center": [
+      30,
+      284
+    ],
+    "height": 64,
+    "cameraDistance": 380,
+    "lead": "De muren bleven staan. Het herstel zou tientallen jaren duren.",
+    "story": "Na het Duitse bombardement van 14 mei 1940 greep het vuur ook om zich heen in de Laurenskerk. Het dak en grote delen van het interieur gingen verloren; muren en toren bleven als herkenbare resten in het verwoeste centrum staan. De kerk die hier nu staat, is daarom ook het resultaat van langdurige restauratie. In december 1968 kon zij weer feestelijk in gebruik worden genomen. De historische kleurenfoto bij dit verhaal is na de brand gemaakt: zij toont de open, beschadigde kerk vanuit het zuiden. De herinnering bleef onderdeel van het gebouw. In 2021 kreeg de kerk het raam Vrede en Verzoening van Janneke Viegers. Rode en oranje kleuren verwijzen naar de brand; bij het raam staat ook het Coventry-kruis als teken van verzoening.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "RCE en de kerk documenteren de brand, de restauratie en de latere herinneringskunst. De historische kleurenfoto dateert van na de brand.",
+    "locationNote": "Gekoppeld aan hetzelfde kerkmodel in Toen en Nu. De vooroorlogse 3D-kaart toont de kerk vóór de brand; de foto toont de ruïne uit 1940.",
+    "sources": [
+      {
+        "title": "Rijksdienst voor het Cultureel Erfgoed — Monument van vrede",
+        "url": "https://www.cultureelerfgoed.nl/actueel/weblogs/adviseurs/2023/monument-van-vrede"
+      },
+      {
+        "title": "Laurenskerk — History of the Laurenskerk",
+        "url": "https://laurenskerkrotterdam.nl/wp-content/uploads/history-of-the-Laurenskerk.pdf"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "laurenskerk",
+      "sourceUrl": "https://www.cultureelerfgoed.nl/actueel/weblogs/adviseurs/2023/monument-van-vrede"
+    },
+    "locationContext": {
+      "role": "Het getroffen gebouw",
+      "then": "De Laurenskerk in de historische binnenstad.",
+      "now": "De gerestaureerde Laurenskerk staat op dezelfde plek."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "laurenskerk",
+    "photos": [
+      {
+        "src": "stories/photos/laurenskerk-ruine.webp",
+        "title": "Restanten van de Sint-Laurenskerk, gezien vanuit het zuiden; historische kleurenopname",
+        "date": "juni–december 1940",
+        "author": "Hendrik (Henk) Sutterland / Stadsarchief Rotterdam, collectie 4287, 1978-2695",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://hdl.handle.net/21.12133/58956A3F595640EAB4072FA0DD59DD2F",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "stories/photos/ai32-laurenskerk-ruine.webp",
+        "roleLabel": "Historische kleurenfoto",
+        "note": "Originele kleurenopname na de verwoesting; geen AI-inkleuring.",
+        "aiLabel": "AI-beeldherstel",
+        "aiNote": "AI-beeldherstel van een oorspronkelijke kleurenopname. Kleurzweem en details zijn geïnterpreteerd; oorlogsschade is niet herbouwd.",
+        "sourceColor": true,
+        "aiLicense": "CC BY 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Vrede en Verzoening en het Coventry-kruis",
+        "url": "https://www.cultureelerfgoed.nl/actueel/weblogs/adviseurs/2023/monument-van-vrede",
+        "address": "In de Laurenskerk, Grotekerkplein",
+        "description": "Het raam van Janneke Viegers uit 2021 verwijst naar de brand en naar vrede. Ook het Coventry-kruis draagt de gedachte van verzoening."
+      }
+    ]
+  },
+  {
+    "id": "woii-synagoge-boompjes",
+    "kind": "war-story",
+    "name": "De synagoge aan de Boompjes gaat verloren",
+    "markerName": "Synagoge Boompjes",
+    "theme": "Joods gemeenschapsleven",
+    "periodNote": "14 mei 1940",
+    "place": "Boompjes · historische synagoge",
+    "center": [
+      259.88624428755793,
+      -349.96891201147696
+    ],
+    "height": 25.5,
+    "cameraDistance": 380,
+    "lead": "Een plaats van gebed die sinds 1725 bij de stad hoorde.",
+    "story": "Aan de Boompjes, naast het Oost-Indisch Huis, stond sinds 1725 een synagoge van de Rotterdamse Joodse gemeente. Het terrein liep door tot aan de Scheepmakershaven. Achter het hek lagen het voorplein en de gebedsruimte; de historische foto toont de gevel met klok en torentje. De gemeente veranderde met de stad. Toen veel leden elders gingen wonen, verschoof het zwaartepunt naar andere synagogen, waaronder die aan de Botersloot. Op 14 mei 1940 gingen beide gebouwen bij het bombardement en de brand verloren. Daarmee verdwenen plaatsen van gebed en gemeenschapsleven. Die verwoesting moet worden onderscheiden van de latere vervolging en deportaties tijdens de bezetting. Een gedenkplaat herinnert aan de Boompjes-synagoge. Na de oorlog bouwde de overlevende Rotterdamse Joodse gemeenschap haar religieuze leven opnieuw op.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "De Joodse instellingen NIK en Joods Cultureel Kwartier documenteren de geschiedenis en verwoesting. Er is geen onderbouwd verhaal over aanwezigen of slachtoffers in het gebouw toegevoegd.",
+    "locationNote": "Het NIK beschrijft het historische terrein naast het Oost-Indisch Huis, doorlopend naar de Scheepmakershaven. De marker is in die zone op de oude kaart geplaatst; geen exact ingemeten perceel, huidige huisnummerpositie of bewezen plek van de gedenkplaat. Het verhaalanker en het 3D-model delen dezelfde historische gebouwpositie; binnenruimtes en exacte gebeurtenisplekken zijn niet ingemeten.",
+    "sources": [
+      {
+        "title": "Nederlands-Israëlitisch Kerkgenootschap — Rotterdamse Joodse gemeenschap",
+        "url": "https://archief.nik.nl/index.html_p=4794.html"
+      },
+      {
+        "title": "Joods Cultureel Kwartier — Rotterdam",
+        "url": "https://jck.nl/en/jewish-communities/rotterdam"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "synagoge-boompjes",
+      "sourceUrl": "https://jck.nl/joodse-gemeenten/rotterdam"
+    },
+    "locationContext": {
+      "role": "Historische gebouwzone · benaderd",
+      "then": "Synagoge naast het Oost-Indisch Huis, tussen Boompjes en Scheepmakershaven.",
+      "now": "De Boompjes is herbouwd. De huidige Rotterdamse synagoge aan het A.B.N. Davidsplein ligt elders."
+    },
+    "locationChecked": "2026-09-25",
+    "photos": [
+      {
+        "src": "stories/photos/synagoge-boompjes-voorgevel.webp",
+        "title": "Voorgevel van de synagoge aan de Boompjes",
+        "date": "ongedateerd; vóór de verwoesting in mei 1940",
+        "author": "C. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed, 20191748",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191748_-_RCE.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/synagoge-boompjes/foto-1-ai.webp",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Kadrering en hoofdgeometrie zijn behoudend behandeld. Generatieve kleine details, letters, mensen en tinten kunnen afwijken; origineel is de primaire bron. Bronjaar blijft van toepassing en is niet noodzakelijk1939. Afgeleid van het gecrediteerde origineel; bewerking onder dezelfde licentie.",
+        "aiLicense": "CC BY-SA 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "stories/photos/synagoge-boompjes-gedenkplaat.webp",
+        "title": "Gedenkplaat voor de Boompjes-synagoge, gefotografeerd in 2013",
+        "date": "17 juli 2013",
+        "author": "AgainErick / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Synagogue_Boompjes_-_Stadsdriehoek_-_Rotterdam_-_Commemorative_plaque.jpg",
+        "role": "memorial",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": false
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Gedenkplaat Boompjes-synagoge",
+        "url": "https://commons.wikimedia.org/wiki/File:Synagogue_Boompjes_-_Stadsdriehoek_-_Rotterdam_-_Commemorative_plaque.jpg",
+        "address": "Boompjes · gefotografeerd in 2013",
+        "description": "De tweede foto toont de gedenkplaat voor de synagoge. De inscriptie noemt 1725 en de brand van mei 1940. De actuele fysieke plaatsing is niet opnieuw vastgesteld."
+      }
+    ],
+    "relatedLandmark": "synagoge-boompjes"
+  },
+  {
+    "id": "woii-maas-marineschepen",
+    "kind": "war-story",
+    "name": "Twee marineschepen naar de Maasbruggen",
+    "markerName": "Z5 & TM51 op de Maas",
+    "theme": "Strijd op de rivier",
+    "periodNote": "10 mei 1940",
+    "place": "Nieuwe Maas · oude Maasbruggen",
+    "center": [
+      470,
+      -470
+    ],
+    "height": 8,
+    "cameraDistance": 580,
+    "lead": "Het gevechtsverslag van een stuurman brengt de strijd op het water dichtbij.",
+    "story": "Op 10 mei 1940 trokken de torpedoboot Z5 en de kleinere motortorpedoboot TM51 samen naar de Maasbruggen. Duitse militairen hadden daar posities ingenomen. Vanaf de rivier opende de Z5 het vuur; uit de omgeving van de Maaskade en het Prinsenhoofd werd teruggeschoten. Ook de TM51 nam deel aan het gevecht. Aan haar roer stond stuurman Jan Glas. In zijn gevechtsverslag beschreef hij hoe hij zich op het sturen concentreerde, totdat hij in zijn rechterdij werd getroffen. Hij riep de commandant om het roer over te nemen. De TM51 keerde beschadigd terug naar de werf in Schiedam. Dit verhaal hoort bij het bruggengebied, maar de marker wijst geen vaste scheepspositie aan. De foto toont de Z5 in 1931, negen jaar vóór deze gevechten.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Defensie publiceert het gevechtsverslag van Jan Glas. Hij voer op TM51; de afgebeelde Z5 was het andere schip. De foto uit 1931 toont niet de beschreven strijd.",
+    "locationNote": "Gebiedsmarker op de Maas bij de historische bruggen. De schepen bewogen tijdens het gevecht; deze marker is geen vastgestelde positie of koers van Z5 of TM51.",
+    "sources": [
+      {
+        "title": "Ministerie van Defensie — Terugkijker, Defensiekrant 2025/34",
+        "url": "https://magazines.defensie.nl/defensiekrant/2025/34/04_terugkijker"
+      },
+      {
+        "title": "Zuidfront Holland 1940 — Maasbruggen Rotterdam, tweede fase",
+        "url": "https://zuidfront-holland1940.nl/10mei/rotterdam-ijselmonde/maasbruggen-rotterdam-2e-fase"
+      }
+    ],
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+    },
+    "locationContext": {
+      "role": "Vaar- en gevechtsgebied · benaderd",
+      "then": "De Maas bij de oude verkeers- en spoorbrug.",
+      "now": "Hetzelfde riviergebied; de oude bruggen zijn verdwenen."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "willemsbrug-oud",
+    "photos": [
+      {
+        "src": "stories/photos/z5-1931.webp",
+        "title": "Hr.Ms. Z5 afgemeerd; scheepsportret van vóór de oorlog",
+        "date": "1931",
+        "author": "Collectie Nederlands Instituut voor Militaire Historie, 2158_023638; fotograaf niet vermeld",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Hr.Ms._Z_5_(NIMH2158_023638).jpg",
+        "role": "object",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "stories/photos/ai32-z5.webp",
+        "roleLabel": "Het schip vóór de oorlog",
+        "note": "De foto toont Z5, niet de TM51 waarop Jan Glas voer. Geen opname van de gevechten in Rotterdam.",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Kleuren en fijne details zijn AI-interpretaties van deze historische foto; geen nieuwe opname of bewijs voor oorspronkelijke kleuren.",
+        "aiLicense": "CC BY 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "memorials": []
+  },
+  {
+    "id": "woii-coolsingel-fusillade",
+    "kind": "war-story",
+    "name": "Tien mannen tegenover het postkantoor",
+    "markerName": "Fusillade · Coolsingel",
+    "theme": "Bezetting en verzet",
+    "periodNote": "20 februari 1945",
+    "place": "Puinterrein tegenover het Hoofdpostkantoor",
+    "center": [
+      -460,
+      325
+    ],
+    "height": 8,
+    "cameraDistance": 380,
+    "lead": "Een dagelijkse stadsplek werd een plaats van terreur.",
+    "story": "Op 20 februari 1945 worden tien gevangenen aan de Coolsingel doodgeschoten. Tegenover het postkantoor ligt tussen de verwoeste bebouwing een terrein met een overgebleven muur. De mannen zijn uit het hoofdbureau van politie gehaald. Zij behoren tot de gevangenen die de bezetter achter de hand houdt voor vergeldingsacties. Onder de slachtoffers zijn Eleazar Blei Weissmann en Marinus Grabijn, betrokken bij het Delftse verzetsblad De Gids. Hun werk voor een verboden krant verbindt deze Rotterdamse plek met het verzet buiten de stad. Na de bevrijding komt op de fusilladeplaats een kruisje. In 1960 volgt de gedenkplaat bij De Utrecht. De plaats van herdenken verwijst daarmee naar een concrete executie, enkele maanden voordat de oorlog eindigt.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Gebaseerd op de genoemde bronnen. De precieze plaats van de muur is niet afzonderlijk gegeorefereerd. De verklaringen van de directe aanleiding variëren tussen bronnen; daarom niet uitgewerkt.",
+    "locationNote": "De beschrijving tegenover het historische postkantoor is vergeleken met de oude kaart. De marker staat in het betreffende gebied aan de westzijde van de Coolsingel, niet op een exact ingemeten muur. Het huidige plaquetteadres is geen bewijs voor die muurpositie.",
+    "sources": [
+      {
+        "title": "Nationaal Comité 4 en 5 mei — monument aan de Coolsingel",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/924/rotterdam-monument-aan-de-coolsingel"
+      },
+      {
+        "title": "NOS — Tien verzetsmannen tegen de muur op Coolsingel",
+        "url": "https://nos.nl/bevrijdingsjaar/bericht/2323790-tien-verzetsmannen-tegen-de-muur-op-coolsingel"
+      }
+    ],
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+    },
+    "locationContext": {
+      "role": "Fusilladegebied · benaderd",
+      "then": "Puinterrein met een muur tegenover het postkantoor, aan de Coolsingel.",
+      "now": "De Coolsingel is herbouwd; bij De Utrecht aan Coolsingel 75 hangt een latere plaquette."
+    },
+    "locationChecked": "2026-09-24",
+    "photos": [
+      {
+        "src": "stories/photos/woii-coolsingel-fusillade.webp",
+        "title": "De Coolsingel met postkantoor vóór de oorlog. Plekbeeld, geen foto van de fusillade.",
+        "date": "Ongedateerd; circa 1939 afgeleid uit de Beurs in aanbouw",
+        "author": "Fotograaf onbekend / Anefo",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Luchtopname._Rotterdam._Coolsingel_met_stadhuis%2C_postkantoor_en_beursgebouw%2C_Bestanddeelnr_900-0362.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/hoofdpostkantoor/foto-2-ai.webp",
+        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Gedenkplaat De Utrecht",
+        "description": "Herdenkt de fusillade op 20 februari 1945; onthuld in 1960.",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/924/rotterdam-monument-aan-de-coolsingel",
+        "address": "Coolsingel 75"
+      }
+    ]
+  },
+  {
+    "id": "woii-hofplein-fusillade",
+    "kind": "war-story",
+    "name": "Wat Bep op het Hofplein zag",
+    "markerName": "Fusillade · Hofplein",
+    "theme": "Bezetting en herinnering",
+    "periodNote": "12 maart 1945",
+    "place": "Historisch Hofplein",
+    "center": [
+      -475,
+      650
+    ],
+    "height": 8,
+    "cameraDistance": 380,
+    "lead": "Het dagboek van een vijftienjarige laat de gevolgen voor omstanders zien.",
+    "story": "Op 12 maart 1945 worden op het Hofplein twintig mannen geëxecuteerd. De bezetter zet hen tegen een schuilkelder; voor de omstanders verandert een vertrouwde stadsplek in een toneel van terreur. Tot de slachtoffers behoort de twintigjarige Abraham Limburg. Dezelfde dag worden ook twintig mannen op de Pleinweg in Rotterdam-Zuid vermoord. De vijftienjarige Bep van Daalen loopt die ochtend bij het Hofplein en ziet de slachtoffers liggen. In haar dagboek beschrijft zij hoe zij daarna bij bekenden en thuis in tranen uitbarst. Haar woorden laten zien dat het geweld ook de mensen tekent die toevallig voorbijgaan. Het bronzen verzetskruis dat sinds 1969 aan deze fusillade herinnert, verbindt het veranderde plein met de namen en levens van de vermoorde mannen.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Gebaseerd op de genoemde bronnen. De exacte positie van de schuilkelder is niet op een historische kaart vastgesteld. Oorlogsbronnen en gemeentelijke publieksbronnen verbinden de vergeldingen soms met Rauter; de procesverklaring specificeert lokale aanslagen. De aanleiding is daarom niet vereenvoudigd opgenomen.",
+    "locationNote": "Gebiedsmarker in de omgeving van het historische Hofplein. De precieze schuilkelder is niet afzonderlijk op de kaart vastgesteld; de huidige monumentpositie wordt niet als bewijs voor een exacte gebouwvoetafdruk gebruikt.",
+    "sources": [
+      {
+        "title": "Nationaal Comité 4 en 5 mei — monument op het Hofplein",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/910/rotterdam-monument-op-het-hofplein"
+      },
+      {
+        "title": "Gemeente Rotterdam — Dodenherdenking, dagboek Bep van Daalen",
+        "url": "https://www.rotterdam.nl/dodenherdenking"
+      },
+      {
+        "title": "UvA — gereproduceerde procesverklaring over de fusillades",
+        "url": "https://pure.uva.nl/ws/files/4308899/55345_24.pdf"
+      },
+      {
+        "title": "Stadsarchief Rotterdam via Oorlogsbronnen — Hofplein-monument",
+        "url": "https://www.oorlogsbronnen.nl/bronnen?term=fusillade+hofplein+rotterdam"
+      }
+    ],
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+    },
+    "locationContext": {
+      "role": "Fusilladegebied · benaderd",
+      "then": "Het Hofplein, bij een toenmalige schuilkelder.",
+      "now": "Het plein is ingrijpend veranderd; het verzetskruis aan Hofplein 20 herinnert aan de slachtoffers."
+    },
+    "locationChecked": "2026-09-24",
+    "photos": [
+      {
+        "src": "stories/photos/woii-hofplein-fusillade.webp",
+        "title": "Het Hofplein in 1939, met café Loos en De Kroon. Plekbeeld vóór de verwoesting; de schuilkelder en fusillade zijn niet afgebeeld.",
+        "date": "1939",
+        "author": "Anoniem / fotograaf onbekend",
+        "license": "Publiek domein; Commons PD-anon-70-EU",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+        "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Hofplein,_Caf%C3%A9_Loos,_Caf%C3%A9_De_Kroon,_spoorwegviaduct_bij_het_Strooveer_en_het_Slagveld_1939.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/hofplein-loos/foto-2-ai.webp",
+        "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Verzetskruis Hofplein",
+        "description": "Kruis van Huib Noorlander; onthuld op 12 maart 1969.",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/910/rotterdam-monument-op-het-hofplein",
+        "address": "Hofplein 20"
+      }
+    ]
+  },
+  {
+    "id": "woii-aat-zegers",
+    "kind": "war-story",
+    "name": "Aat Zegers: hulp met papieren",
+    "markerName": "Aat Zegers · werkplek",
+    "theme": "Hulp aan onderduikers",
+    "periodNote": "Bezettingsjaren, tot augustus 1944",
+    "place": "Stadhuis · werkplek van Aat Zegers",
+    "center": [
+      -353.63,
+      429.17
+    ],
+    "height": 71.5,
+    "cameraDistance": 380,
+    "lead": "Ook toegang tot papieren en bonkaarten kon levens helpen beschermen.",
+    "story": "Het stadhuis aan de Coolsingel is tijdens de bezetting ook de werkplek van Arie Jan Jacob Zegers, die door zijn familie Aat wordt genoemd. Als klerk kent hij de wereld van formulieren en persoonsgegevens. Volgens het familieverhaal vervalst hij persoonsbewijzen en bonkaarten voor onderduikers, onder wie Joden. Hij haalt zijn broer Marinus en diens vrouw Paulina over om eveneens mensen in huis te nemen. Nationaal Monument Kamp Vught bevestigt zijn hulp met bonkaarten en beschrijft het vervalsen van persoonsbewijzen voorzichtiger als vermoedelijk. Op 8 augustus 1944 wordt Aat gearresteerd. Via het Haagseveer komt hij in Kamp Vught terecht, waar hij op 30 augustus wordt gefusilleerd. Hij is 36 jaar. In 2021 krijgt hij postuum de onderscheiding Rechtvaardige onder de Volkeren.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Gebaseerd op de genoemde bronnen. Het familiegetuigenis noemt vervalste persoonsbewijzen; Kamp Vught omschrijft dat als vermoedelijk. Hulp met bonkaarten is wel gedocumenteerd.",
+    "locationNote": "De marker is gekoppeld aan zijn gedocumenteerde werkplek. Niet vastgesteld is in welke kamer hij werkte of waar hij papieren overdroeg. Hij werd in Vught geëxecuteerd; dit verhaal wijst het stadhuis niet als onderduikadres of executieplek aan.",
+    "sources": [
+      {
+        "title": "Nationaal Monument Kamp Vught — Arie Jan Jacob Zegers",
+        "url": "https://www.nmkampvught.nl/ontdekken/het-verhaal/vermoord-in-vught/zegers-arie-jan-jacob/"
+      },
+      {
+        "title": "Digitaal Monument Neuengamme — familieverhaal Marinus Zegers",
+        "url": "https://monument.vriendenkringneuengamme.nl/person/405535/marinus-zegers"
+      }
+    ],
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "stadhuis",
+      "sourceUrl": "https://www.nmkampvught.nl/ontdekken/het-verhaal/vermoord-in-vught/zegers-arie-jan-jacob/"
+    },
+    "locationContext": {
+      "role": "Werkplek · geen vastgestelde onderduikplek",
+      "then": "Zegers werkte als klerk in het Rotterdamse stadhuis.",
+      "now": "Hetzelfde stadhuis aan de Coolsingel."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "stadhuis",
+    "photos": [
+      {
+        "src": "stories/photos/woii-aat-zegers.webp",
+        "title": "Het Rotterdamse stadhuis vóór 1935. Aats werkplek, geen portret of foto van zijn verzetswerk.",
+        "date": "1920–1935",
+        "author": "Anoniem",
+        "license": "Publiek domein (PD-anon-70-EU)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_stadhuis_van_Rotterdam%2C_1935_of_eerder%2C_SFA001007347.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/stadhuis/foto-1-ai.webp",
+        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Digitaal gedenkverhaal — Arie Jan Jacob Zegers",
+        "description": "Persoonlijk gedenkverhaal van Nationaal Monument Kamp Vught; geen afzonderlijk lokaal stadhuis-monument vastgesteld.",
+        "url": "https://www.nmkampvught.nl/ontdekken/het-verhaal/vermoord-in-vught/zegers-arie-jan-jacob/",
+        "address": "Digitaal gedenkverhaal",
+        "linkLabel": "Lees het persoonlijke gedenkverhaal ↗"
+      }
+    ]
+  },
+  {
+    "id": "woii-bevrijding-stadhuis",
+    "kind": "war-story",
+    "name": "De vrije radio op de Coolsingel",
+    "markerName": "Vrije radio · stadhuis",
+    "theme": "Bevrijding",
+    "periodNote": "7 mei 1945",
+    "place": "Coolsingel vóór het stadhuis",
+    "center": [
+      -432,
+      426
+    ],
+    "height": 8,
+    "cameraDistance": 380,
+    "lead": "Na jaren bezetting klonken vrije stemmen en liederen op de Coolsingel.",
+    "story": "Op 7 mei 1945 staat een verslaggever van de Binnenlandse Strijdkrachten voor het Rotterdamse stadhuis. De komst van geallieerde militairen en de radiowagen van Herrijzend Nederland wordt er gevierd. Burgemeester Pieter Oud heeft de bezoekers ontvangen. Rond vijf uur klinkt op de Coolsingel weer een vrije Nederlandse radio-uitzending. De bevolking zingt het Wilhelmus en Oranje boven. In de bewaard gebleven reportage spreekt Oud vanaf het bordes de vertrekkende radiowagen toe. Hij bedankt het verzet voor het voorbereidende werk voor de bevrijding. Het archief bewaart zo meer dan een officiële toespraak: het legt een moment vast waarop stemmen, liederen en nieuws weer publiek de ruimte krijgen. De ontvangst van deze dag staat los van de grotere Canadese intocht die op 8 mei is vastgelegd.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Gebaseerd op de genoemde bronnen. Verhaal berust op de gedetailleerde catalogusbeschrijving; de audio zelf is niet afgespeeld en is niet vrij herbruikbaar. Niet aanduiden als de eerste Canadese intocht: de filmcatalogus dateert die op 8 mei.",
+    "locationNote": "De reportage plaatst de verslaggever vóór het stadhuis en burgemeester Oud op het bordes. De marker ligt daarom bij de voorzijde, niet op een hedendaags adrescentroïde; de exacte standplaats van de radiowagen is onbekend.",
+    "sources": [
+      {
+        "title": "Beeld en Geluid — NBS-reportage van de ontvangst bij het stadhuis",
+        "url": "https://schatkamer.beeldengeluid.nl/serie/2101608030026243631/reportage-nbs-van-welkom-geallieerde-strijdkrachten-bij-stadhuis-aan-coolsingel-te-rotterdam/aflevering/2101608150134286231"
+      },
+      {
+        "title": "Beeld en Geluid — Bevrijdingsbeelden Rotterdam",
+        "url": "https://schatkamer.beeldengeluid.nl/programma/2101608040030642531/bevrijdingsbeelden-rotterdam"
+      }
+    ],
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+    },
+    "locationContext": {
+      "role": "Bordes en voorplein · benaderd",
+      "then": "Ontvangst bij het stadhuis, met een radiowagen op de Coolsingel.",
+      "now": "De openbare ruimte vóór hetzelfde stadhuis."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "stadhuis",
+    "photos": [
+      {
+        "src": "stories/photos/woii-bevrijding-stadhuis.webp",
+        "title": "Coolsingel en stadhuis in 1920. Historisch plekbeeld; de ontvangst van mei 1945 is niet afgebeeld.",
+        "date": "1920",
+        "author": "Anoniem",
+        "license": "Publiek domein (PD-anon-70-EU)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+        "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Coolsingel_en_het_stadhuis_van_Rotterdam_1920.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/stadhuis/foto-2-ai.webp",
+        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+      }
+    ],
+    "memorials": []
+  },
+  {
+    "id": "woii-luchtspoor-aanslag",
+    "kind": "war-story",
+    "name": "Een mislukte aanslag, vijf gijzelaars",
+    "markerName": "Aanslag · noordelijk Luchtspoor",
+    "theme": "Verzet en vergelding",
+    "periodNote": "7 augustus 1942",
+    "place": "Luchtspoor · omgeving Haagseveer",
+    "center": [
+      -263,
+      570
+    ],
+    "height": 8,
+    "cameraDistance": 380,
+    "lead": "Een mislukte aanslag leidde tot de moord op vijf gijzelaars elders in het land.",
+    "story": "Op 7 augustus 1942 probeert de Nederlandse Volksmilitie een Duitse militaire trein te treffen op het Rotterdamse Luchtspoor, tussen de stations Beurs en Delftse Poort. De verzetsgroep rond Samuel Dormits heeft explosieven aangebracht. De trein loopt vertraging op. Een passerende baanopzichter raakt de verbinding met de lading; een deel ontploft en hij raakt zwaar gewond. De aanslag mislukt. Vervolgens dreigt de bezetter gijzelaars te doden wanneer de daders niet worden aangegeven. Op 15 augustus worden vijf mannen bij Goirle gefusilleerd, onder wie de Rotterdammers Willem Ruys, Robert Baelde en Christoffel Bennekers. Zij zijn niet de uitvoerders van de aanslag. Het spoor door de binnenstad is daarmee verbonden met een verzetsactie én met de moord op gevangenen ver buiten Rotterdam.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Gebaseerd op de genoemde bronnen. Historisch traject bevestigd; de exacte spoorpositie van de explosieven niet ingemeten. Geen foto van de aanslag hergebruikt. NTR noemt een fiets; een gespecialiseerde auteur betwist het voertuig. Het verhaal noemt alleen een passerende baanopzichter.",
+    "locationNote": "NTR bevestigt het traject Beurs–Delftse Poort; de specialistische politiegeschiedenis noemt tegenover het hoofdbureau. Dat gebied is vergeleken met de noordelijke spoorbocht op de historische kaart. De precieze explosieplek is niet ingemeten. De foto bij het Grotekerkplein en het beschikbare 3D-model tonen een zuidelijker deel van dezelfde lijn.",
+    "sources": [
+      {
+        "title": "NTR/NPS — De Oorlog: Aanslag in Rotterdam",
+        "url": "https://archief.ntr.nl/deoorlog/page/mappen/781255/Aanslag%2Bin%2BRotterdam.html"
+      },
+      {
+        "title": "Oorlogsbronnen — aanslag op het Luchtspoor",
+        "url": "https://www.oorlogsbronnen.nl/thema/Aanslag%20op%20spoorwegviaduct%20Luchtspoor%20te%20Rotterdam%2C%207%20augustus%201942"
+      },
+      {
+        "title": "Nationaal Comité 4 en 5 mei — Beekvliet",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2410/sint-michielsgestel-monument-in-voormalig-seminarie-beekvliet"
+      },
+      {
+        "title": "Geschiedenis Inlichtingendienst Rotterdam — Tweede Wereldoorlog",
+        "url": "https://inlichtingendienstrotterdam.jouwweb.nl/id-rtd-tijdens-2e-wo"
+      }
+    ],
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+    },
+    "locationContext": {
+      "role": "Historische spoorzone · benaderd",
+      "then": "Het noordelijke Luchtspoor, tegenover het politiecomplex aan het Haagseveer.",
+      "now": "Het viaduct is verdwenen; de stadsindeling rond Haagseveer en Pompenburg is gewijzigd."
+    },
+    "locationChecked": "2026-09-24",
+    "relatedLandmark": "luchtspoor",
+    "relatedLabel": "Bekijk een ander deel van het Luchtspoor in 3D →",
+    "photos": [
+      {
+        "src": "stories/photos/woii-luchtspoor-aanslag.webp",
+        "title": "Het Luchtspoor bij Grotekerkplein, 1914–1919. Contextbeeld elders langs dezelfde spoorlijn; geen afbeelding van de plek van de ontploffing.",
+        "date": "1914–1919",
+        "author": "Niet vermeld / Het Utrechts Archief",
+        "license": "Publiek domein / Public Domain Mark 1.0 volgens Wikimedia Commons",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:HUA-170172-Gezicht_op_het_spoorviaduct_over_het_Grote_Kerkplein_te_Rotterdam.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/luchtspoor/foto-1-ai.webp",
+        "aiNote": "AI-inkleuring: kleuren en fijn detail zijn interpretaties. Het origineel blijft de historische bron."
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Monument voormalig seminarie Beekvliet",
+        "description": "Herinnering aan gijzelaars; buiten Rotterdam. Niet als locatie van de aanslag gebruiken.",
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2410/sint-michielsgestel-monument-in-voormalig-seminarie-beekvliet",
+        "address": "Buiten Rotterdam: Sint-Michielsgestel"
+      }
+    ]
+  },
+  {
+    "id": "woii-burgerweeshuis",
+    "kind": "war-story",
+    "name": "De vlucht uit het Burgerweeshuis",
+    "markerName": "Vlucht · Burgerweeshuis",
+    "theme": "Kinderen in oorlog",
+    "periodNote": "14 mei 1940",
+    "place": "Gereformeerd Burgerweeshuis · Goudschewagenstraat 15",
+    "center": [
+      468.2682001329117,
+      503.7554757149944
+    ],
+    "height": 14,
+    "cameraDistance": 290,
+    "lead": "Het weeshuis leek gespaard, totdat de brand het alsnog bereikte.",
+    "story": "Aan de Goudschewagenstraat wonen kinderen rond twee grote binnenplaatsen, met afzonderlijke ruimten voor jongens en meisjes. Dit complex is sinds 1598 hun weeshuis.\n\nOp 14 mei 1940 wordt het gebouw niet rechtstreeks door bommen getroffen. Toch is het gevaar niet voorbij: de omliggende stad brandt. Volgens het door Engelfriet verzamelde historische relaas proberen personeel en kinderen neervallend vuur te doven. De schoenmakerswerkplaats dient als schuilkelder, ook voor buurtbewoners. Wanneer het vuur het weeshuis bereikt, moeten de kinderen weg. Directrice C.C. Verheul leidt de vlucht.\n\nNa omzwervingen en tijdelijke opvang krijgen de Rotterdamse kinderen onderdak in het weeshuis van Moordrecht. Hun vertrouwde gebouw gaat verloren. De foto's uit februari 1938 laten de binnenplaatsen zien zoals ze er kort vóór de oorlog uitzagen: de plek waar de kinderen woonden, vóór ze opnieuw hun thuis moesten verlaten.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "Museum Rotterdam bevestigt de vestiging op deze plek vanaf 1598 en de verwoesting door brand na het bombardement. De details over schuilen en vluchten zijn ontleend aan de historische samenstelling van Engelfriet; de oorspronkelijke getuigenverslagen zijn niet afzonderlijk onderzocht. De foto's tonen 1938, niet de evacuatie.",
+    "locationNote": "De marker staat binnen het grote complex met twee binnenplaatsen op de kaart van de toestand vóór mei 1940, westelijk van de Goudschewagenstraat tussen Goudschesingel en Breedestraat. Dit is vergeleken met de gebouwbeschrijving en het kaartpunt van Museum Rotterdam. Geen precieze schuilkelder of deur vastgesteld. Het verhaalanker en het 3D-model delen dezelfde historische gebouwpositie; binnenruimtes en exacte gebeurtenisplekken zijn niet ingemeten.",
+    "locationContext": {
+      "role": "Voormalig weeshuiscomplex · benaderd",
+      "then": "Goudschewagenstraat 15, met de achterzijde aan de Walensteeg.",
+      "now": "De herbouwde omgeving ten zuiden van de Goudsesingel. Het vooroorlogse complex en de Walensteeg zijn verdwenen."
+    },
+    "locationChecked": "2026-09-25",
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "burgerweeshuis",
+      "sourceUrl": "https://www.rotterdaminkaart.nl/gebouwde-stad/weeshuis-goudsewagenstraat/pointofinterest/MoreInfo/verhaal"
+    },
+    "sources": [
+      {
+        "title": "Museum Rotterdam — het weeshuis aan de Goudsewagenstraat",
+        "url": "https://www.rotterdaminkaart.nl/gebouwde-stad/weeshuis-goudsewagenstraat/pointofinterest/MoreInfo/verhaal"
+      },
+      {
+        "title": "Engelfriet — het weeshuis en de vlucht in mei 1940",
+        "url": "https://www.engelfriet.net/Alie/Hans/weeshuis.htm"
+      },
+      {
+        "title": "Fiom — opvang na de verwoesting en archiefverwijzingen",
+        "url": "https://fiom.nl/locatie/gereformeerd-burgerweeshuis-rotterdam"
+      },
+      {
+        "title": "Stadsarchief Rotterdam — archief van het Burgerweeshuis",
+        "url": "https://hdl.handle.net/21.12133/4F4556E3B26F4189B8F0517AAF2EB506"
+      }
+    ],
+    "memorials": [],
+    "photos": [
+      {
+        "src": "stories/photos/burgerweeshuis-20191755.webp",
+        "title": "Binnenplaats van het Gereformeerd Burgerweeshuis, februari 1938. Plekbeeld vóór de oorlog; geen foto van de vlucht.",
+        "date": "Februari 1938",
+        "author": "Fotograaf onbekend / Rijksdienst voor het Cultureel Erfgoed, 20191755",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191755_-_RCE.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking. CC BY-SA 4.0 blijft van toepassing op dit beeld.",
+        "ai": "landmarks/burgerweeshuis/foto-1-ai.webp",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Hoofdvolume en compositie visueel behouden. Geen geometrisch of letter-voor-letter bewezen facsimile; kleine personen-, textuur- en letterdetails kunnen afwijken. Afgeleid van het gecrediteerde origineel; bewerking onder dezelfde licentie.",
+        "aiLicense": "CC BY-SA 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "stories/photos/burgerweeshuis-20191756.webp",
+        "title": "Poort en binnenplaats van het Gereformeerd Burgerweeshuis, februari 1938. Plekbeeld vóór de oorlog; geen foto van de vlucht.",
+        "date": "Februari 1938",
+        "author": "Fotograaf onbekend / Rijksdienst voor het Cultureel Erfgoed, 20191756",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191756_-_RCE.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking. CC BY-SA 4.0 blijft van toepassing op dit beeld.",
+        "ai": false
+      },
+      {
+        "src": "stories/photos/burgerweeshuis-20191757.webp",
+        "title": "Binnenplaats met keukenreliëf van het Gereformeerd Burgerweeshuis, februari 1938. Plekbeeld vóór de oorlog; geen foto van de vlucht.",
+        "date": "Februari 1938",
+        "author": "Fotograaf onbekend / Rijksdienst voor het Cultureel Erfgoed, 20191757",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191757_-_RCE.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking. CC BY-SA 4.0 blijft van toepassing op dit beeld.",
+        "ai": false
+      }
+    ],
+    "relatedLandmark": "burgerweeshuis"
+  },
+  {
+    "id": "woii-ceres",
+    "kind": "war-story",
+    "name": "Vader en zoon bij broodfabriek Ceres",
+    "markerName": "Ceres · vader en zoon",
+    "theme": "Burgers tijdens het bombardement",
+    "periodNote": "14 mei 1940",
+    "place": "Voormalige Warmoeziersstraat · locatie bij benadering",
+    "center": [
+      57,
+      821
+    ],
+    "height": 8,
+    "cameraDistance": 320,
+    "lead": "Broodbezorger Engelbertus Boogmans en zijn elfjarige zoon Hendrikus kwamen samen om.",
+    "story": "Rotterdam is al enkele dagen in oorlog wanneer Engelbertus Boogmans op 14 mei naar zijn werk bij broodfabriek Ceres gaat. Zijn elfjarige zoon Hendrikus is bij hem. De fabriek staat aan de Warmoeziersstraat, in de dichtbebouwde buurt ten noorden van de Goudsesingel.\n\nNa het luchtalarm treffen de bommen en de brand de straat. Vader en zoon komen om het leven. Ze worden samen in één kist begraven op begraafplaats Crooswijk. Ook anderen verliezen bij de fabriek het leven; het gebouw wordt verwoest. Eigenaar C.P.T. Ebling laat later een gedenkzuiltje oprichten voor omgekomen medewerkers.\n\nHet verhaal maakt de ramp persoonlijk: achter de verdwenen gebouwen gaan gezinnen en alledaagse werkdagen schuil. De foto's tonen de vroegere Warmoeziersstraat en haar omgeving. Een foto die met zekerheid de broodfabriek zelf toont, is voor deze selectie niet gevonden.",
+    "evidenceLabel": "Verhaal bevestigd · plek benaderd",
+    "evidenceNote": "Het Stadsarchief en Stichting Voorouder documenteren de slachtoffers en de fabriek aan de Warmoeziersstraat. De bronnen geven verschillende slachtoffertotalen; daarom noemen we geen exact aantal. Een oudere adresvermelding noemt Ceres op 109–111. Niet rechtstreeks bevestigd is dat dit in mei 1940 nog het fabriekspand was.",
+    "locationNote": "Gebiedsmarker bij het westelijke deel van de verdwenen Warmoeziersstraat. Huisnummers 109–111 zijn teruggevonden op de huisnummerkaart van 1938 en vergeleken met de centrumkaart. De koppeling van deze nummers aan Ceres komt uit een oudere vermelding; de exacte fabriek in 1940 is niet vastgesteld. De foto's tonen andere delen van dezelfde straat, geen bewezen fabrieksgevel.",
+    "locationContext": {
+      "role": "Historische straatomgeving · geen vastgesteld fabriekspand",
+      "then": "Warmoeziersstraat, bij het westelijke deel tussen Kortebrantstraat en Jonker Fransstraat.",
+      "now": "Het herbouwde Rubroek. De oude Warmoeziersstraat bestaat niet meer."
+    },
+    "locationChecked": "2026-09-25",
+    "anchor": {
+      "type": "historic-map",
+      "sourceUrl": "https://hdl.handle.net/21.12133/04B63880EAAE4350B567A9006C94B9F8"
+    },
+    "sources": [
+      {
+        "title": "Stadsarchief Rotterdam — broodfabriek Ceres",
+        "url": "https://stadsarchief.rotterdam.nl/verhalen-over-het-bombardement"
+      },
+      {
+        "title": "Stichting Voorouder — slachtoffers Ceres",
+        "url": "https://voorouder.nl/slachtoffers-ceres-broodfabriek-bombardement-rotterdam-14-mei-1940"
+      },
+      {
+        "title": "Stadsarchief — huisnummerkaart 1938, blad Z13",
+        "url": "https://hdl.handle.net/21.12133/04B63880EAAE4350B567A9006C94B9F8"
+      },
+      {
+        "title": "Hendrik Westerdijk — oudere adresvermelding Ceres, p. 26",
+        "url": "https://hendrikwesterdijk.nl/Rowel%20stamboom%2014a.pdf"
+      }
+    ],
+    "memorials": [
+      {
+        "name": "Het verdwenen Ceres-gedenkzuiltje",
+        "description": "Ebling liet op Crooswijk een zuiltje plaatsen voor omgekomen medewerkers. Het bestaat niet meer. Het Stadsarchief toont een historische foto uit een particuliere collectie; die foto is hier niet overgenomen omdat de beeldrechten niet zijn vastgesteld.",
+        "url": "https://stadsarchief.rotterdam.nl/verhalen-over-het-bombardement",
+        "address": "Latere herdenkingsplek: begraafplaats Crooswijk, buiten deze kaart",
+        "linkLabel": "Bekijk de archieffoto bij het Stadsarchief ↗"
+      }
+    ],
+    "photos": [
+      {
+        "src": "stories/photos/ceres-straat-1.jpg",
+        "title": "Straatcontext: huizen aan de oude Warmoeziersstraat 22–28 in 1938. Deze foto toont niet aantoonbaar broodfabriek Ceres.",
+        "date": "1938",
+        "author": "Bouwpolitie. Collectie Stadsarchief Rotterdam, NL-RtSA_4202_XXV-699-03.",
+        "license": "Gebruik toegestaan volgens Stadsarchiefbeleid",
+        "licenseUrl": "https://stadsarchief.rotterdam.nl/bestellen-van-digitale-reproducties",
+        "url": "https://hdl.handle.net/21.12133/DB805C9576464050BE387E5D48892699",
+        "role": "place",
+        "roleLabel": "Straatcontext",
+        "rightsNote": "Oorspronkelijk JPG-bestand ongewijzigd overgenomen. Geen AI-bewerking. Rechthebbende: Gemeente Rotterdam (Stadsarchief). Geen CC0-licentie.",
+        "ai": false
+      },
+      {
+        "src": "stories/photos/ceres-straat-2.jpg",
+        "title": "Straatcontext: hoek Goudseweg en oude Warmoeziersstraat, 1936–1940. Deze foto toont niet aantoonbaar broodfabriek Ceres.",
+        "date": "1936–1940",
+        "author": "Niet vermeld in de beeldbankbeschrijving. Collectie Stadsarchief Rotterdam, NL-RtSA_4202_XXV-699-04-2.",
+        "license": "Gebruik toegestaan volgens Stadsarchiefbeleid",
+        "licenseUrl": "https://stadsarchief.rotterdam.nl/bestellen-van-digitale-reproducties",
+        "url": "https://hdl.handle.net/21.12133/C23B9C597B1B45F9969935EDE9CD16A9",
+        "role": "place",
+        "roleLabel": "Straatcontext",
+        "rightsNote": "Oorspronkelijk JPG-bestand ongewijzigd overgenomen. Geen AI-bewerking. Rechthebbende: Gemeente Rotterdam (Stadsarchief). Geen CC0-licentie.",
+        "ai": false
+      },
+      {
+        "src": "stories/photos/ceres-straat-3.jpg",
+        "title": "Oudere straatcontext: Warmoeziersstraat in 1908, met de Bosjeskerk op de achtergrond. Dit is geen opname van de straattoestand in 1939 of van Ceres zelf.",
+        "date": "1908",
+        "author": "Henri Berssenbrugge. Collectie Stadsarchief Rotterdam, NL-RtSA_4113_IX-3293-01.",
+        "license": "Gebruik toegestaan volgens Stadsarchiefbeleid",
+        "licenseUrl": "https://stadsarchief.rotterdam.nl/bestellen-van-digitale-reproducties",
+        "url": "https://hdl.handle.net/21.12133/2CA8B815A51147DC841BF8C19D89CB8B",
+        "role": "place",
+        "roleLabel": "Straatcontext",
+        "rightsNote": "Oorspronkelijk JPG-bestand ongewijzigd overgenomen. Geen AI-bewerking. Rechthebbende: Gemeente Rotterdam. Geen CC0-licentie.",
+        "ai": false
+      },
+      {
+        "title": "Bosjeskerk bij het Boschje · omgeving van de Ceres-ramp, niet de fabriek of de explosie",
+        "date": "ca.1900",
+        "author": "Onbekende fotograaf; historische prentbriefkaart",
+        "license": "Publiek domein — Public Domain Mark1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Bosjeskerk_Rotterdam_3.jpg",
+        "src": "landmarks/bosjeskerk/foto-1-origineel.webp",
+        "ai": "landmarks/bosjeskerk/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Hoofdvolume en compositie visueel behouden. Geen geometrisch of letter-voor-letter bewezen facsimile; kleine personen-, textuur- en letterdetails kunnen afwijken.",
+        "note": "Contextbeeld van de nabijgelegen kerk. De drie bestaande Ceres-foto’s blijven onbewerkt, overeenkomstig de bronvoorwaarden.",
+        "role": "context"
+      }
+    ]
+  },
+  {
+    "id": "woii-maas-en-rotte",
+    "kind": "war-story",
+    "name": "Maas en Rotte gered uit het puin",
+    "markerName": "Maas en Rotte · Hermes",
+    "theme": "Gered erfgoed",
+    "periodNote": "Mei 1940",
+    "place": "Hermesgebouw · toenmalige Glashaven 27",
+    "center": [
+      37.51,
+      -368.94
+    ],
+    "height": 33,
+    "cameraDistance": 280,
+    "lead": "Het kantoorgebouw verdween; twee stenen rivierfiguren bleven bewaard.",
+    "story": "Aan de Glashaven, op de hoek met de Joodensteeg, staat vóór de oorlog het Hermesgebouw van architect Albert Otten. Boven de entree waken twee langgerekte figuren: de Maas en de Rotte. Beeldhouwer Hendrik Albertus van den Eijnde maakte de hardstenen beelden in 1916–1917.\n\nDe brand na het bombardement van mei 1940 verwoest het kantoorgebouw. De gevelbeelden worden uit het puin gered en komen in de gemeentelijke museumcollectie terecht. Het zijn tastbare overblijfselen van een gebouw dat op straat niet meer terug te vinden is.\n\nDe luchtfoto toont de vooroorlogse omgeving bij de Zuiderkerk en de Glashaven. De afzonderlijke museumfoto's laten zien wat er van Hermes bewaard bleef. Zo verbindt deze plek een verdwenen stuk Waterstad met twee objecten die het verhaal nog kunnen vertellen.",
+    "evidenceLabel": "Gedocumenteerd",
+    "evidenceNote": "De museumrecords van beide beelden bevestigen maker, datering 1916–1917, het adres Glashaven 27 bij de Joodensteeg en de redding uit het puin in mei 1940. De monumentale figuren zijn echte collectieobjecten; de foto's zijn geen reconstructies van de berging.",
+    "locationNote": "De marker staat bij de zuidwesthoek van de historische Glashaven en Joodensteeg (op de gebruikte kaart Jodenstraat), naast de Zuiderkerk. De hoekpositie is vergeleken met de vooroorlogse kaart en een gevelaanzicht uit de collectie van Het Nieuwe Instituut. Het is een benaderd gebouwanker; de plek van een eventuele latere herplaatsing is daarvoor niet gebruikt. Het verhaalanker en het 3D-model delen dezelfde historische gebouwpositie. De bewaarde rivierbeelden worden hier bij hun oorspronkelijke gebouw beschreven.",
+    "locationContext": {
+      "role": "Oorspronkelijk Hermesgebouw · benaderd",
+      "then": "Glashaven 27, aan de zuidkant van de Joodensteeg, naast de Zuiderkerk.",
+      "now": "De herbouwde Glashaven, ongeveer ter hoogte van de huidige Jufferkade."
+    },
+    "locationChecked": "2026-09-25",
+    "anchor": {
+      "type": "landmark",
+      "landmarkId": "hermesgebouw",
+      "sourceUrl": "https://maritiemdistrict.nl/wp-content/uploads/2018/12/Folder-Maas-en-Rotte-MD-2018.pdf"
+    },
+    "sources": [
+      {
+        "title": "Museum Rotterdam — gevelbeeld Maas, 11614_1.A-C",
+        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454264"
+      },
+      {
+        "title": "Museum Rotterdam — gevelbeeld Rotte, 11614_2.A-C",
+        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454267"
+      },
+      {
+        "title": "Waterstadgenootschap — Hermes en de gevelbeelden",
+        "url": "https://maritiemdistrict.nl/wp-content/uploads/2018/12/Folder-Maas-en-Rotte-MD-2018.pdf"
+      },
+      {
+        "title": "Het Nieuwe Instituut — gevelaanzicht Hermes (locatiebewijs)",
+        "url": "https://commons.wikimedia.org/wiki/File:Kantoorgebouw_Hermes_-_Hermes_Office_Building_(4750950153).jpg"
+      }
+    ],
+    "memorials": [],
+    "photos": [
+      {
+        "src": "stories/photos/hermes-hermes-en-zuiderkerk-1938.webp",
+        "title": "Hermes en de Zuiderkerk aan de Gedempte Glashaven, 1938. Historisch plekbeeld; geen opname van de brand of berging.",
+        "date": "1938",
+        "author": "KLM Aerocarto / Stadsarchief Rotterdam, 1938. CC0 1.0, via Wikimedia Commons.",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_Zuiderkerk_en_omgeving_met_de_Gedempte_Glashaven,_Wijnhaven,_Leuvehaven_en_Scheepmakershaven_1938.jpg",
+        "role": "place",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": "landmarks/zuiderkerk/foto-1-ai.webp",
+        "aiNote": "AI-inkleuring en kwaliteitsherstel: interpretatie, geen historische kleurbron. Bruin metselwerk, grijze daken, groen gebladerte en waterkleuren zijn aannemelijk maar niet geverifieerd. Kleine details kunnen door generatieve bewerking afwijken; het origineel blijft de primaire bron."
+      },
+      {
+        "src": "stories/photos/hermes-maas.webp",
+        "title": "Maas, bewaard gevelbeeld van Hermes. Collectie Museum Rotterdam. Museumfoto van het bewaarde object; geen opname van de berging.",
+        "date": "Foto ongedateerd · beeld vervaardigd 1916–1917",
+        "author": "Fotograaf niet vermeld / Collectie Museum Rotterdam, inv. 11614_1.A-C. Publiek domein. Beeldhouwer: Hendrik Albertus van den Eijnde.",
+        "license": "Publiek domein (PDM 1.0)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454264",
+        "role": "object",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": false,
+        "roleLabel": "Gevelbeeld Maas"
+      },
+      {
+        "src": "stories/photos/hermes-rotte.webp",
+        "title": "Rotte, bewaard gevelbeeld van Hermes. Collectie Museum Rotterdam. Museumfoto van het bewaarde object; geen opname van de berging.",
+        "date": "Foto ongedateerd · beeld vervaardigd 1916–1917",
+        "author": "Fotograaf niet vermeld / Collectie Museum Rotterdam, inv. 11614_2.A-C. Publiek domein. Beeldhouwer: Hendrik Albertus van den Eijnde.",
+        "license": "Publiek domein (PDM 1.0)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454267",
+        "role": "object",
+        "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
+        "ai": false,
+        "roleLabel": "Gevelbeeld Rotte"
+      }
+    ],
+    "relatedLandmark": "hermesgebouw"
+  }
+]

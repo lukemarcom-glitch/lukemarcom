@@ -1,0 +1,62 @@
+{
+  "id": "pschorr",
+  "photos": [
+    {
+      "src": "landmarks/pschorr/foto-1-origineel.jpg",
+      "ai": "landmarks/pschorr/foto-1-ai.webp",
+      "title": "Pschorr: voorgevel met markiezen · 1931–1939 (catalogus); op scan staat 4.19.31",
+      "shortTitle": "Pschorr: voorgevel met markiezen",
+      "date": "1931–1939 (catalogus); op scan staat 4.19.31",
+      "author": "Fototechnische Dienst Rotterdam (Gemeentewerken, Openbare Werken)",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Pschorr_aan_de_Coolsingel_1931_-_1939.jpg",
+      "archiveUrl": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4202&minr=40099279&miview=ldt",
+      "note": "",
+      "aiNote": "AI-inkleuring is interpretatie; oorspronkelijke verf-, kleding- en decoratiekleuren niet bewezen. Kleine details en letters kunnen door AI afwijken; origineel blijft leidend."
+    },
+    {
+      "src": "landmarks/pschorr/foto-2-origineel.jpg",
+      "ai": "landmarks/pschorr/foto-2-ai.webp",
+      "title": "Pschorr uit het noordwesten · 1939 (catalogusdatum van prentbriefkaart)",
+      "shortTitle": "Pschorr uit het noordwesten",
+      "date": "1939 (catalogusdatum van prentbriefkaart)",
+      "author": "Anonieme fotograaf; Stadsarchief Rotterdam",
+      "license": "Publiek domein (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Pschorr_aan_de_Coolsingel_1939.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Pschorr_aan_de_Coolsingel_1939.jpg",
+      "archiveUrl": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4029&minr=40432394&miview=ldt",
+      "note": "De catalogusdatum van deze ansicht hoeft niet het opnamejaar te zijn; de gevel verschilt van het eerste beeld.",
+      "aiNote": "AI-inkleuring is interpretatie; oorspronkelijke verf-, kleding- en decoratiekleuren niet bewezen. Kleine details en letters kunnen door AI afwijken; origineel blijft leidend."
+    },
+    {
+      "src": "landmarks/pschorr/foto-3-origineel.jpg",
+      "ai": "landmarks/pschorr/foto-3-ai.webp",
+      "title": "Danszaal met Vrijheidsbeeld en orkestpodium · 1928–1932",
+      "shortTitle": "Danszaal met Vrijheidsbeeld en orkestpodium",
+      "date": "1928–1932",
+      "author": "Anonieme fotograaf; Stadsarchief Rotterdam",
+      "license": "Publiek domein (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_interieur_Pschorr_aan_de_Coolsingel_met_vrijheidsbeeld_1928_-_1932.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_interieur_Pschorr_aan_de_Coolsingel_met_vrijheidsbeeld_1928_-_1932.jpg",
+      "archiveUrl": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_interieur_Pschorr_aan_de_Coolsingel_met_vrijheidsbeeld_1928_-_1932.jpg",
+      "note": "",
+      "aiNote": "AI-inkleuring is interpretatie; oorspronkelijke verf-, kleding- en decoratiekleuren niet bewezen. Kleine details en letters kunnen door AI afwijken; origineel blijft leidend."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Historische bron · stadsarchief.rotterdam.nl",
+      "url": "https://stadsarchief.rotterdam.nl/amerikaansch"
+    },
+    {
+      "title": "Historische bron · www.roterodamum.nl",
+      "url": "https://www.roterodamum.nl/nieuwsbericht/artikel-van/"
+    },
+    {
+      "title": "Historische bron · nl.wikipedia.org",
+      "url": "https://nl.wikipedia.org/wiki/Dancing_Pschorr"
+    }
+  ],
+  "colorNote": "Baksteen, hout, steen en schilderwerk zijn met terughoudende tinten geïnterpreteerd; exacte verf- en materiaalkleuren zijn niet vastgesteld."
+}

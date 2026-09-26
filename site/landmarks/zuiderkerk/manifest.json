@@ -1,0 +1,62 @@
+{
+  "id": "zuiderkerk",
+  "photos": [
+    {
+      "src": "landmarks/zuiderkerk/foto-1-origineel.jpg",
+      "ai": "landmarks/zuiderkerk/foto-1-ai.webp",
+      "title": "Zuiderkerk en de havendriehoek vanuit de lucht · 1938",
+      "shortTitle": "Zuiderkerk en de havendriehoek vanuit de lucht",
+      "date": "1938",
+      "author": "KLM Aerocarto",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_Zuiderkerk_en_omgeving_met_de_Gedempte_Glashaven,_Wijnhaven,_Leuvehaven_en_Scheepmakershaven_1938.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/12383606FED94937BF78106D62238CD3",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsherstel: interpretatie, geen historische kleurbron. Bruin metselwerk, grijze daken, groen gebladerte en waterkleuren zijn aannemelijk maar niet geverifieerd. Kleine details kunnen door generatieve bewerking afwijken; het origineel blijft de primaire bron."
+    },
+    {
+      "src": "landmarks/zuiderkerk/foto-2-origineel.jpg",
+      "ai": "landmarks/zuiderkerk/foto-2-ai.webp",
+      "title": "Zuiderkerk aan de nog open Glashaven, stereofoto · 1852–1865",
+      "shortTitle": "Zuiderkerk aan de nog open Glashaven, stereofoto",
+      "date": "1852–1865",
+      "author": "Pieter Oosterhuis; collectie Rijksmuseum",
+      "license": "CC0 1.0 / publiek domein",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Rotterdam,_Zuiderkerk,_RP-F-F11970.jpg",
+      "archiveUrl": "https://hdl.handle.net/10934/RM0001.COLLECT.274531",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsherstel: interpretatie, geen historische kleurbron. Bruin metselwerk, grijze daken, groen gebladerte en waterkleuren zijn aannemelijk maar niet geverifieerd. Kleine details kunnen door generatieve bewerking afwijken; het origineel blijft de primaire bron."
+    },
+    {
+      "src": "landmarks/zuiderkerk/foto-3-origineel.jpg",
+      "ai": "landmarks/zuiderkerk/foto-3-ai.webp",
+      "title": "Rederijbrug richting Glashaven met de Zuiderkerk · 1914",
+      "shortTitle": "Rederijbrug richting Glashaven met de Zuiderkerk",
+      "date": "1914",
+      "author": "Anoniem; collectie Stadsarchief Rotterdam",
+      "license": "Publiek domein (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Rederijbrug_richting_de_Glashaven_met_de_Zuiderkerk_1914.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/2189CFEE6A9C4398850C2F5A9247D75E",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsherstel zijn interpretatie. Werkelijke historische kleurafwerking niet vastgesteld. AI heeft kleine details en bewolking ingevuld; gebruiken naast origineel, nooit als bouwkundig bewijs."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia: Zuiderkerk (Rotterdam)",
+      "url": "https://nl.wikipedia.org/wiki/Zuiderkerk_(Rotterdam)"
+    },
+    {
+      "title": "Stadsarchief Rotterdam: Publiek Domeindag 2026; Richters ramen",
+      "url": "https://backend-dvg.stadsarchief.rotterdam.nl/publiek-domeindag-2026"
+    },
+    {
+      "title": "Rotterdams Jaarboekje 1940, dagelijkse kroniek1939; laatste drie ramen",
+      "url": "https://rjb.x-cago.com/GARJB/1940/12/19401231/GARJB-19401231-0014/story.pdf"
+    }
+  ],
+  "colorNote": "De precieze historische kleuren zijn niet vastgesteld. Grijsbruine gevels en donkere daken zijn een fotografische interpretatie. De stereofoto toont de veel oudere toestand aan de nog open Glashaven; zij is geen opname uit 1939."
+}

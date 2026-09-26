@@ -1,0 +1,55 @@
+{
+  "id": "hofplein-loos",
+  "photos": [
+    {
+      "src": "landmarks/hofplein-loos/foto-1-origineel.jpg",
+      "ai": "landmarks/hofplein-loos/foto-1-ai.webp",
+      "title": "Station, café en tram in 1938",
+      "shortTitle": "Station, café en tram in 1938",
+      "date": "1938",
+      "author": "Anoniem / fotograaf onbekend",
+      "license": "Publiek domein; Commons PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_station_Hofplein,_Caf%C3%A9_Loos,_tramhuis_en_tram_en_terras_van_Caf%C3%A9_De_Kroon_1938.jpg",
+      "archiveUrl": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4029&minr=40464919&miview=ldt",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/hofplein-loos/foto-2-origineel.jpg",
+      "ai": "landmarks/hofplein-loos/foto-2-ai.webp",
+      "title": "Het Hofplein in 1939",
+      "shortTitle": "Het Hofplein in 1939",
+      "date": "1939",
+      "author": "Anoniem / fotograaf onbekend",
+      "license": "Publiek domein; Commons PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Hofplein,_Caf%C3%A9_Loos,_Caf%C3%A9_De_Kroon,_spoorwegviaduct_bij_het_Strooveer_en_het_Slagveld_1939.jpg",
+      "archiveUrl": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4029&minr=40464991&miview=ldt",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/hofplein-loos/foto-3-origineel.jpg",
+      "ai": "landmarks/hofplein-loos/foto-3-ai.webp",
+      "title": "Straatleven bij Loos in 1925–1930 · 1925–1930 (archiefdatering)",
+      "shortTitle": "Straatleven bij Loos in 1925–1930",
+      "date": "1925–1930 (archiefdatering)",
+      "author": "Anoniem / fotograaf onbekend",
+      "license": "Publiek domein; Commons PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Hofplein_met_Caf%C3%A9_Loos_1925-1930.jpg",
+      "archiveUrl": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4100&minr=39886188&miview=ldt",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Geschiedenis en architectuur · www.hofbogen.nl",
+      "url": "https://www.hofbogen.nl/station-hofplein/"
+    },
+    {
+      "title": "Aanvullende historische bron · retours.eu",
+      "url": "https://retours.eu/nl/08-decoraties-hofpleinstation-rotterdam/"
+    }
+  ],
+  "colorNote": "Witte verblendsteen en leien dakbedekking zijn beschreven in de architectuurbronnen. Raam-, luifel- en overige kleuren blijven interpretatie."
+}

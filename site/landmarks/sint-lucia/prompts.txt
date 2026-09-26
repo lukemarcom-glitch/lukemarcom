@@ -1,0 +1,11 @@
+Use case: style-transfer. Edit target: the attached historical photograph of Sint Lucia Institute, Rotterdam. Create a conservative photorealistic full-color restoration. Preserve the EXACT composition, perspective, crop, architecture, facade bay counts, windows, sculpture, people and expressions, all inscriptions and all visible watermarks and collection credits verbatim in their same positions. Never remove text or watermarks. No invented features or missing-detail reconstruction. Gently reduce scanning damage and improve tonal clarity while maintaining original texture. Historically plausible restrained neutral daylight colorization: brick muted reddish brown, pale stone grey/beige, wood brown, greenery naturally green. Colors are interpretative because the source is monochrome; do not embellish with specific unproven decorative colors. Do not add, remove, move, replace anything. No new borders or captions.
+
+Built-in image_gen;5 calls total. Input-specific instructions:
+exterieur: Preserve postwar street scene and exactlettering/crossing/people/bicycle. Not1939.
+facade: Keep entire handwritteninscription, archedbrickdoorway, two saintreliefs, three trapezoidwindows.
+voet1: Preserve BOTH watermarks exactly and Binnenplaats caption,statue,windowcount.
+voet4: Preserve BOTH watermarks and KapelInstituutSt.Lucia caption,allinteriorgeometry. Creamplaster,darkwood only; noinventedornamentation.
+students: Preserve exactnumber,faces,positions,expressions,uniforms,nun. Keep softfacessoft. Gently diminishscan scratcheswithoutfacereconstruction.
+
+Output QA: Five generatedoutputs inspected. Broadcomposition retained. However generatedskin/face details and some ornamentation are sharper than original, therefore derivedimagesmustbe labelledAIinterpretation, not archivaltruth. Voetwatermarksretained. Noadditionalgeneration.
+

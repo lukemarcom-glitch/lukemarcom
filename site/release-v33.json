@@ -1,0 +1,32 @@
+{
+  "version": 33,
+  "newLocations": 20,
+  "landmarks": 87,
+  "stories": 18,
+  "newPhotoPairs": 21,
+  "newIds": [
+    "westnieuwland",
+    "bierhaven",
+    "korte-wijnbrugstraat",
+    "scheepmakershaven",
+    "wijnhaven-west",
+    "leuvehaven-oost",
+    "haringvliet-west",
+    "goudsesingel-markt",
+    "binnenrotte-straatwand",
+    "oppert-woonhuizen",
+    "heerenstraat-winkels",
+    "slaak-straatbeeld",
+    "prinsenstraat-buurt",
+    "schiedamsedijk-noord",
+    "kruiskade-winkelstraat",
+    "binnenweg-oost",
+    "schiedamsesingel-noord",
+    "jungerhans-coolsingel",
+    "cafe-caland",
+    "botersloot-spaarbank"
+  ],
+  "publishedBytes": 256431932,
+  "historicalUnderlayChanged": false,
+  "modelGeometry": "Approximate source-based street and building models, not measured surveys."
+}

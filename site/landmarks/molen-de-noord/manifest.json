@@ -1,0 +1,58 @@
+{
+  "id": "molen-de-noord",
+  "photos": [
+    {
+      "src": "landmarks/molen-de-noord/foto-1-origineel.jpg",
+      "ai": "landmarks/molen-de-noord/foto-1-ai.webp",
+      "title": "De Noord vanaf de Goudsesingel · 1885",
+      "shortTitle": "De Noord vanaf de Goudsesingel",
+      "date": "1885",
+      "author": "Anonieme fotograaf; collectie Rijksmuseum",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Molen_De_Noord_te_Rotterdam%2C_RP-F-F17953.jpg",
+      "archiveUrl": "http://hdl.handle.net/10934/RM0001.COLLECT.258853",
+      "note": "",
+      "aiNote": "AI-inkleuring is interpretatie; oorspronkelijke verf-, kleding- en decoratiekleuren niet bewezen. Kleine details en letters kunnen door AI afwijken; origineel blijft leidend."
+    },
+    {
+      "src": "landmarks/molen-de-noord/foto-2-origineel.jpg",
+      "ai": "landmarks/molen-de-noord/foto-2-ai.webp",
+      "title": "De Noord met tram 20 op het Oostplein · 1920",
+      "shortTitle": "De Noord met tram 20 op het Oostplein",
+      "date": "1920",
+      "author": "Onbekend; via engelfriet.net",
+      "license": "Publiek domein volgens Commons",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Oostplein_molen_De_Noord_1920.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Oostplein_molen_De_Noord_1920.jpg",
+      "archiveUrl": "https://commons.wikimedia.org/wiki/File:Oostplein_molen_De_Noord_1920.jpg",
+      "note": "",
+      "aiNote": "AI-inkleuring is interpretatie; oorspronkelijke verf-, kleding- en decoratiekleuren niet bewezen. Kleine details en letters kunnen door AI afwijken; origineel blijft leidend."
+    },
+    {
+      "src": "landmarks/molen-de-noord/foto-3-origineel.jpg",
+      "ai": "landmarks/molen-de-noord/foto-3-ai.webp",
+      "title": "Oostplein en De Noord vanuit de lucht · 1938–1939",
+      "shortTitle": "Oostplein en De Noord vanuit de lucht",
+      "date": "1938–1939",
+      "author": "Nederlands Instituut voor Militaire Historie",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_het_Oostplein_en_Nieuwehaven_met_moutmolen_de_Noord_en_Marinierskazerne_1938_-_1939.jpg",
+      "archiveUrl": "https://nimh-beeldbank.defensie.nl/foto-s/detail/a5df2389-5319-125f-19b2-7412d7bdf7c7/media/2a1494bf-af8c-7d0b-8fb6-ddace95a130f",
+      "note": "",
+      "aiNote": "AI-inkleuring is interpretatie; oorspronkelijke verf-, kleding- en decoratiekleuren niet bewezen. Kleine details en letters kunnen door AI afwijken; origineel blijft leidend."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Historische bron · rjb.x-cago.com",
+      "url": "https://rjb.x-cago.com/GARJB/1969/12/19691231/GARJB-19691231-0304/story.pdf"
+    },
+    {
+      "title": "Historische bron · www.molenwereld.com",
+      "url": "https://www.molenwereld.com/assets/files/nr-75-oktober-2004.pdf"
+    }
+  ],
+  "colorNote": "De grijsbruine stenen romp en donker houtwerk zijn geïnterpreteerd uit zwart-witbeelden. Verf, reclameopschriften en verwering zijn niet exact gereconstrueerd."
+}

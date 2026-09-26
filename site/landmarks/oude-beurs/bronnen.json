@@ -1,0 +1,65 @@
+{
+  "id": "oude-beurs",
+  "name": "De Oude Beurs",
+  "address": "Hoek Westnieuwland / Noordblaak",
+  "architect": "Adriaen van der Werff",
+  "opened": 1736,
+  "destroyed": 1940,
+  "coordinatesApprox": [
+    4.488047,
+    51.919497
+  ],
+  "architecture": {
+    "source": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/de-oude-beurs-van-rotterdam/",
+    "description": "Classicistisch beursgebouw, drie frontpaviljoens met centrale kloktoren, overkapte binnenplaats. Glazen kap1867. Museum bezit houten gevelmodel1867.",
+    "estimatedCorniceHeightMetres": [
+      13,
+      15
+    ],
+    "estimatedRoofHeightMetres": [
+      18,
+      20
+    ],
+    "estimatedTowerHeightMetres": [
+      29,
+      32
+    ],
+    "confidence": "Heights are visual estimates based on photographs, not measured archive dimensions; adjust using map footprint and facade model."
+  },
+  "sources": [
+    {
+      "id": "overzicht",
+      "title": "De Oude Beurs met glazen kap",
+      "date": "Februari 1938",
+      "author": "Onbekend",
+      "collection": "Rijksdienst voor het Cultureel Erfgoed",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191312_-_RCE.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Exterieur_-_Rotterdam_-_20191312_-_RCE.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Rijksdienst voor het Cultureel Erfgoed, foto20191312, CC BY-SA4.0",
+      "original": "overzicht.jpg",
+      "ai": "overzicht-ai.png",
+      "aiLicense": "CC BY-SA 4.0 (bewerkte versie)",
+      "prompt": "Edit the supplied archival photograph of the Oude Beurs in Rotterdam in February 1938 into a carefully restored full-colour photograph with clean contemporary photographic quality. Preserve the exact viewpoint, framing, proportions, every building/window/door/roof, glass hall roof behind, clock tower, trees, tram rails and wires, and the riveted bridge edge at right. Keep the historic 1938 scene, do not modernize anything, add no objects, no invented architecture or people. Remove dust/scratches only, restrained natural colours: weathered warm grey sandstone, dark slate roofs, dark bronze metal dome, pale grey winter sky, bare trees, grey-brown cobbles. Colours are an interpretation, not evidence. Maintain the original aspect ratio and entire composition. No text overlay, border or watermark.",
+      "aiNote": "AI-kleurinterpretatie, broncompositie behouden; kleuren en fijnste details niet geverifieerd."
+    },
+    {
+      "id": "voorzijde",
+      "title": "Beursplein en luchtspoor",
+      "date": "Circa 1900",
+      "author": "Onbekend",
+      "collection": "Rijksdienst voor het Cultureel Erfgoed",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zicht_op_de_voorzijde_van_het_beursgebouw_tegenover_de_luchtspoorlijn_-_Rotterdam_-_20321020_-_RCE.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Zicht_op_de_voorzijde_van_het_beursgebouw_tegenover_de_luchtspoorlijn_-_Rotterdam_-_20321020_-_RCE.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Rijksdienst voor het Cultureel Erfgoed, foto20321020, CC BY-SA4.0",
+      "original": "voorzijde.jpg",
+      "ai": "voorzijde-ai.png",
+      "aiLicense": "CC BY-SA 4.0 (bewerkte versie)",
+      "prompt": "Restore this exact historic photograph of the Oude Beurs Rotterdam around 1900 to high quality natural colour, with clarity as if recorded today but all historical content unchanged. Preserve exact framing, camera perspective, buildings and silhouettes, clock tower, roof shapes, elevated railway and its station canopy at right, lamp post, entire crowd and each person's position, clothing and identity, cart and bicycle. Do not add or remove any people or objects. Colours plausible restrained neutral sandstone, dark slate, dark painted railway iron, natural green tree, black/brown/charcoal period clothing. Reduce stains and scan damage, retain fine authentic texture; no artificial plastic faces, no reimagined details, no invented text. All signs stay in their original locations and wording. No captions, no borders, no watermark. Exact aspect ratio, no crop.",
+      "aiNote": "AI-kleurinterpretatie, mensen en detail kunnen afwijken."
+    }
+  ]
+}

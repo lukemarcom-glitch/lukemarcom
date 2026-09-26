@@ -1,0 +1,172 @@
+{
+  "building": "Sint-Rosaliakerk",
+  "items": [
+    {
+      "id": "rosalia-1",
+      "title": "De nieuwe voorgevel van de Rosaliakerk",
+      "date": "1937",
+      "description": "De vernieuwde toegang door architect P.G. Buskens; deze gevel bestond in 1939.",
+      "source": "https://commons.wikimedia.org/wiki/File:Nieuwe_voorgevel_van_de_Sint_Rosaliakerk_Rotterdam_1937_-_NL-RtSA_4100_2005-1512-01.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nieuwe_voorgevel_van_de_Sint_Rosaliakerk_Rotterdam_1937_-_NL-RtSA_4100_2005-1512-01.jpg",
+      "original": "foto-1-origineel.jpg",
+      "ai": "foto-1-ai.webp",
+      "prompt": "foto-1-prompt.txt",
+      "credit": "Onbekende fotograaf / Stadsarchief Rotterdam",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "aiLicense": "CC0 1.0",
+      "aiNote": "AI-bewerking: ingekleurd en visueel opgefrist. Kleuren zijn materiaalinterpretaties; fijne details kunnen afwijken. Geen authentieke kleurenfoto.",
+      "originalDimensions": [
+        494,
+        801
+      ],
+      "aiDimensions": [
+        984,
+        1598
+      ],
+      "qa": "Compositie en hoofdarchitectuur behouden; subtiele reconstructie van texturen, opschriften en ornamentdetails blijft AI-interpretatie."
+    },
+    {
+      "id": "rosalia-2",
+      "title": "De Rosaliakerk vanaf de Meent",
+      "date": "1931",
+      "description": "De grote kerk kwam zichtbaar vrij te liggen door de doorbraak van de Meent. Deze foto toont de situatie vóór de gevelvernieuwing en de bouw van het Minervahuis.",
+      "source": "https://commons.wikimedia.org/wiki/File:De_Meent_met_Rosaliakerk_Rotterdam_-_NL-RtSA_4202_XVIII-376-01.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De_Meent_met_Rosaliakerk_Rotterdam_-_NL-RtSA_4202_XVIII-376-01.jpg",
+      "original": "foto-2-origineel.jpg",
+      "ai": "foto-2-ai.webp",
+      "prompt": "foto-2-prompt.txt",
+      "credit": "Onbekende fotograaf / Stadsarchief Rotterdam",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "aiLicense": "CC0 1.0",
+      "aiNote": "AI-bewerking: ingekleurd en visueel opgefrist. Kleuren zijn materiaalinterpretaties; fijne details kunnen afwijken. Geen authentieke kleurenfoto.",
+      "originalDimensions": [
+        800,
+        588
+      ],
+      "aiDimensions": [
+        1463,
+        1075
+      ],
+      "qa": "Compositie en hoofdarchitectuur behouden; subtiele reconstructie van texturen, opschriften en ornamentdetails blijft AI-interpretatie."
+    },
+    {
+      "id": "rosalia-3",
+      "title": "Het interieur richting het altaar",
+      "date": "mei 1920",
+      "description": "Rijksdienst voor het Cultureel Erfgoed, foto 20191708. De galerijen, zuilen en het altaar tonen het rijke interieur achter de sobere buitenkant.",
+      "source": "https://commons.wikimedia.org/wiki/File:Interieur_naar_het_oosten_-_Rotterdam_-_20191708_-_RCE.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Interieur_naar_het_oosten_-_Rotterdam_-_20191708_-_RCE.jpg",
+      "original": "foto-3-origineel.jpg",
+      "ai": "foto-3-ai.webp",
+      "prompt": "foto-3-prompt.txt",
+      "credit": "Rijksdienst voor het Cultureel Erfgoed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "aiLicense": "CC BY-SA 4.0",
+      "aiNote": "AI-bewerking: ingekleurd en visueel opgefrist. Kleuren zijn materiaalinterpretaties; fijne details kunnen afwijken. Geen authentieke kleurenfoto.",
+      "originalDimensions": [
+        2276,
+        3094
+      ],
+      "aiDimensions": [
+        1076,
+        1462
+      ],
+      "qa": "Compositie en hoofdarchitectuur behouden; subtiele reconstructie van texturen, opschriften en ornamentdetails blijft AI-interpretatie."
+    },
+    {
+      "id": "rosalia-4",
+      "title": "De galerijen en het orgel",
+      "date": "mei 1920",
+      "description": "Rijksdienst voor het Cultureel Erfgoed, foto 20191706. Het orgel is hier in de donkere toestand van 1920 te zien; het werd in 1935 lichter overgeschilderd volgens de orgelhistorische beschrijving.",
+      "source": "https://commons.wikimedia.org/wiki/File:Interieur_naar_het_westen_-_Rotterdam_-_20191706_-_RCE.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Interieur_naar_het_westen_-_Rotterdam_-_20191706_-_RCE.jpg",
+      "original": "foto-4-origineel.jpg",
+      "ai": "foto-4-ai.webp",
+      "prompt": "foto-4-prompt.txt",
+      "credit": "Rijksdienst voor het Cultureel Erfgoed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "aiLicense": "CC BY-SA 4.0",
+      "aiNote": "AI-bewerking: ingekleurd en visueel opgefrist. Kleuren zijn materiaalinterpretaties; fijne details kunnen afwijken. Geen authentieke kleurenfoto.",
+      "originalDimensions": [
+        2308,
+        3106
+      ],
+      "aiDimensions": [
+        1081,
+        1455
+      ],
+      "qa": "Compositie en hoofdarchitectuur behouden; subtiele reconstructie van texturen, opschriften en ornamentdetails blijft AI-interpretatie."
+    },
+    {
+      "id": "rosalia-5",
+      "title": "De rijk gesneden preekstoel",
+      "date": "1926",
+      "description": "Cornelis Johannes Steenbergh, Rijksdienst voor het Cultureel Erfgoed, foto 20191710. Gepubliceerd in Buiten, 20 (1926), nr. 17, p. 203.",
+      "source": "https://commons.wikimedia.org/wiki/File:Interieur%2C_preekstoel_-_Rotterdam_-_20191710_-_RCE.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Interieur%2C_preekstoel_-_Rotterdam_-_20191710_-_RCE.jpg",
+      "original": "foto-5-origineel.jpg",
+      "ai": "foto-5-ai.webp",
+      "prompt": "foto-5-prompt.txt",
+      "credit": "C.J. Steenbergh / Rijksdienst voor het Cultureel Erfgoed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "aiLicense": "CC BY-SA 4.0",
+      "aiNote": "AI-bewerking: ingekleurd en visueel opgefrist. Kleuren zijn materiaalinterpretaties; fijne details kunnen afwijken. Geen authentieke kleurenfoto.",
+      "originalDimensions": [
+        2849,
+        3824
+      ],
+      "aiDimensions": [
+        1083,
+        1453
+      ],
+      "qa": "Compositie en hoofdarchitectuur behouden; subtiele reconstructie van texturen, opschriften en ornamentdetails blijft AI-interpretatie."
+    }
+  ],
+  "research": {
+    "wikipedia": "https://nl.wikipedia.org/wiki/Sint-Rosaliakerk",
+    "location": {
+      "address": "Leeuwenstraat 25, Rotterdam",
+      "coordinates": [
+        4.4824,
+        51.921
+      ],
+      "replacement": "Minervahuis III (1949–1950)"
+    },
+    "building": {
+      "origin": "Schuilkerk, interieur ontworpen door Jan Giudici, 1777 volgens Wikipedia/Commons. Sommige secundaire bronnen dateren afwerking 1778–1779.",
+      "renovation": "Nieuwe toegang/gevel door P.G. Buskens, 1935. Foto 1937 aanwezig.",
+      "destruction": "Bombardement mei 1940; vervolgens gesloopt.",
+      "geometry": "Groot rechthoekig kerkvolume, steil kapdak, hoge rondboogvensters. Geen kerktoren of spits. Lage vernieuwde toegang bij Leeuwenstraat. Foto1931 toont vrijgekomen kopgevel.",
+      "dimensions": "Geen betrouwbare exacte maten gevonden; schaal op historische kaart en fotoproporties afstemmen, als schatting vermelden."
+    },
+    "colors": {
+      "evidence": "Zwart-witbron toont lichte bepleisterde kopgevel, donkere kap en bakstenen1935-toegang. Interieur toont licht stucwerk met marmerimitatie/adering, donker gesneden houten preekstoel en donkere banken. Exacte historische pigmenten/tinten niet bewezen.",
+      "interpretation": "Gedempt aardbruin baksteen, offwhite pleister, antraciet dak; interieur warmwit, donkerbruin hout, gedempt messing. Geen exacte kleurenclaim.",
+      "organ": "Orgel in1935 lichter overgeschilderd; beide overzichtsinterieurs zijn mei1920 en tonen eerdere toestand."
+    },
+    "sources": [
+      {
+        "url": "https://wederopbouwrotterdam.nl/artikelen/minervahuis",
+        "supports": "Positie achter Minervahuis I, protest tegen sloop, vernietiging1940 en latere MinervaIII."
+      },
+      {
+        "url": "https://nl.wikipedia.org/wiki/Sint-Rosaliakerk",
+        "supports": "Adres, architecten,1777,1935,stucwerk Castoldi,gebeurtenissen."
+      },
+      {
+        "url": "https://www.arpschnitger.nl/ArieBouman/ab-deel-01.html",
+        "supports": "I36 RotterdamH.Rosalia: orgel1935 in lichtere kleur overgeschilderd."
+      },
+      {
+        "url": "https://minervahuis.nl/gebouwHisV40.html",
+        "supports": "Aanvullende fotos voor context; niet gebruikt als eigen bron van vijfparen."
+      }
+    ],
+    "followUp": "Dalmatius van Heel, De Sint Rosaliakerk in de Leeuwenstraat in Rotterdam,1940,ca80paginas; mogelijke verdere archiefbron voor bouwdetails en kleuren."
+  }
+}

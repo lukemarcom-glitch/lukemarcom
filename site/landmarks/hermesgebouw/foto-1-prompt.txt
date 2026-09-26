@@ -1,0 +1,1 @@
+Bestaand AI-paar hergebruikt op expliciete aanwijzing van site-eigenaar. Originele generatieprompt is niet in het bestaande landmarkmanifest opgenomen. Geen nieuwe generatie van dezelfde1938foto uitgevoerd. Bron: v1/out/landmarks/zuiderkerk/manifest.json; foto-1-ai.webp. De nieuwe frontgevelgeneratie is uitgesloten wegens onvoldoende bronrechten en hoort niet in publicatieset.

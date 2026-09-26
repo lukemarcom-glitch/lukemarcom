@@ -4,7 +4,7 @@ Bijgewerkt: 26 september 2026.
 
 ## Doel en huidige staat
 
-RDAM39 is een Nederlandstalige ruimtelijke verkenning van Rotterdam vóór mei 1940, met historische foto's, AI-interpretaties, een moderne vergelijking en een afzonderlijke WOII-verhalenlaag. De eigenaar koos op GitHub de repositorynaam **lukemarcom**, eigenaar **lukemarcom-glitch**, omschrijving **Hobbyprojecten**. De repository is aangemaakt als Private, overeenkomstig de ingevulde keuze. De eigenaar is gevraagd of dit zo moet blijven, of openbaar mag worden voor gratis GitHub Pages; zie publicatiestatus hieronder.
+RDAM39 is een Nederlandstalige ruimtelijke verkenning van Rotterdam vóór mei 1940, met historische foto's, AI-interpretaties, een moderne vergelijking en een afzonderlijke WOII-verhalenlaag. De eigenaar koos op GitHub de repositorynaam **lukemarcom**, eigenaar **lukemarcom-glitch**, omschrijving **Hobbyprojecten**. De eigenaar heeft op 26 september 2026 expliciet gevraagd de repository openbaar te maken en GitHub te koppelen, zodat ook Claude aan het project kan werken.
 
 De overgenomen inhoud is versie 33 van het bestaande project: 87 gebouwen/buurten en 18 verhalen. Elk van de 105 locaties heeft minimaal één gekoppeld origineel/AI-fotopaar. De catalogi zijn de actuele waarheid; gebruik `npm run check` om aantallen en bestanden opnieuw te controleren.
 
@@ -13,12 +13,12 @@ Het snapshot komt uit broncommit `f31a1b0009b3967d5ae79233364f3c8fb4c38a2d` van 
 ## Publicatiestatus
 
 - Oorspronkelijke website: https://rotterdam-1939-en-nu.aigenwijzer.chatgpt.site/ . Deze blijft tijdens de migratie bestaan.
-- Nieuwe GitHub-repository: https://github.com/lukemarcom-glitch/lukemarcom — aangemaakt als Private.
-- Nieuwe openbare website: nog niet gepubliceerd of geverifieerd.
+- Nieuwe GitHub-repository: https://github.com/lukemarcom-glitch/lukemarcom — openbaar, gecontroleerd via de GitHub API.
+- GitHub Pages is ingesteld met GitHub Actions. Doeladres: https://lukemarcom-glitch.github.io/lukemarcom/ . De eerste volledige deployment is in voorbereiding; nog geen liveverificatie.
 - Lokale controle: 87 gebouwen/buurten, 18 verhalen, 233 bronfotovermeldingen en 213 AI-paren; geen ontbrekende runtimebestanden of markerregressies. Desktop, mobiele galerie/lichtbak en Nu 3D zijn op `/lukemarcom/` getest zonder JS- of HTTP-fouten.
-- Nog nodig voor afronding: keuze over zichtbaarheid/hosting en toestemming voor de GitHub CLI-koppeling met het account. Zonder die toestemming geen nieuw OAuth-accountrecht verlenen. Het browseraccount is lukemarcom-glitch; een reeds lokaal aangemeld ander GitHub-account mag niet stilzwijgend als eigenaar worden gebruikt.
-- Uploadstatus: voorlopig alleen de documentatie op GitHub. De volledige, geteste projectmap staat lokaal onder `rotterdam_1939/github/lukemarcom/` in de Rotterdam-werkmap. Upload na accountautorisatie ook `site/`, `scripts/`, `tests/`, `package.json`, `package-lock.json`, `requirements-models.txt`, `.gitignore` en `.github/`.
-- Haal vóór de eerste code-push de reeds via de browser gemaakte documentatiecommits op. Behoud die geschiedenis; geen force-push of nieuwe ongerelateerde hoofdbranch maken.
+- De oorspronkelijke drie documentatiecommits blijven behouden. Deze migratie voegt de volledige website, lokale start-/controlescripts en GitHub-workflows toe.
+- GitHub CLI is geautoriseerd als lukemarcom-glitch. De code is openbaar te clonen; schrijven blijft beperkt tot geautoriseerde accounts.
+- Claude Code kan de repository zelfstandig openen; `CLAUDE.md` importeert de afspraken en deze overdracht. Zie `CLAUDE-START.md`. De GitHub-koppeling binnen een afzonderlijk Claude-account is een aparte stap; die is hier niet uitgevoerd.
 - Geen geheime API-sleutels nodig voor gebruik van de website.
 
 Vervang deze status na een geslaagde publicatie door de echte repository-/site-URL en geverifieerde deployment. Een voorgenomen URL is geen bewijs dat de site live staat.

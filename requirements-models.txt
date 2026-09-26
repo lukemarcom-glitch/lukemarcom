@@ -1,0 +1,2 @@
+# Alleen nodig voor het uitsnijden van geometrie, niet om de website te bekijken.
+shapely>=2.0,<3

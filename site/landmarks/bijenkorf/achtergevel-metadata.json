@@ -1,0 +1,83 @@
+{
+  "size": 87672,
+  "width": 448,
+  "height": 600,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De_achtergevel_van_de_Rotterdamse_Bijenkorf_aan_het_Van_Hogendorpplein_en_Blaak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_achtergevel_van_de_Rotterdamse_Bijenkorf_aan_het_Van_Hogendorpplein_en_Blaak.jpg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102785554",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2021-04-01 09:37:27",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "De achtergevel van de Rotterdamse Bijenkorf aan het Van Hogendorpplein en Blaak",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Bijenkorf Rotterdam (1930)|CC-Zero|Collections of Het Nieuwe Instituut",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "View rear view.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2017-02-23 09:08:32",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://zoeken.hetnieuweinstituut.nl/nl/archieven/details/DUDO/keywords/dudok\">Het Nieuwe Instituut, Rotterdam, Dudok, W.M. (Willem Marinus) / Archief, DUDO_88FM.23-26a, DUDO.110280108 Warenhuis De Bijenkorf (Rotterdam), 1929-1930</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collectie.hetnieuweinstituut.nl/reproducties\">Het Nieuwe Instituut</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Zero, Public Domain Dedication",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

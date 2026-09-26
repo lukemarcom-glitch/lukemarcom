@@ -1,0 +1,146 @@
+{
+  "building": "Minervahuis I",
+  "count": 5,
+  "generationTool": "Built-in image_gen imagegen, edit referenced originals",
+  "research": {
+    "scope": "Uitsluitend Minervahuis I en zijn vooroorlogse omgeving. Minerva II/III/IV niet gebruikt als1939bouwvolume.",
+    "sources": [
+      {
+        "url": "https://wederopbouwrotterdam.nl/artikelen/minervahuis",
+        "facts": "I gebouwd1937–1938; ontwerpJ.P.L.Hendriks voor VerzekeringsmaatschappijSintWillebrordus. Betonskelet met baksteen en horizontale strookramen; afgeronde hoek Meent/Rodezand. Hersteld na1940. BodegaSandeman pasdecember1940."
+      },
+      {
+        "url": "https://minervahuis.nl/gebouwHisV40.html",
+        "facts": "Eigenaar biedt historische fotogalerij met dateringen. Geen makers/licenties perfoto."
+      },
+      {
+        "url": "https://wederopbouwrotterdam.nl/uploads/_1536xAUTO_crop_center-center_none/minervahuis-10_181121_150831.jpg",
+        "facts": "Huidig gevelbeeld van I vanaf Rodezand, gebruikt als aanvullende materiaalindicatie; geen bewijs van oorspronkelijke verfkleuren."
+      }
+    ],
+    "colorEvidence": {
+      "confirmed": "Betonskelet met bakstenen buitenbekleding, horizontale glasstroken.",
+      "observedToday": "Warm middenbruin/tan baksteen, lichte grijzige raamprofielen in huidig bewaard/gerestaureerd MinervaI-gevelbeeld.",
+      "interpretation": "Exacte1938tint baksteen/verf/natuursteen niet vastgelegd in gevonden bronnen. In AI muted bruin/tan en palegrey gebruikt; straat/kleding/auto kleuren speculatief.",
+      "excluded": "BONAS MinervaIIpagina vermengt rondehoekomschrijving metII; niet als preciezeI-kleurbewijs gebruiken. Zoekresultaat materiaalstaat Rodezand hoortbijandermonument, niet gebruiken."
+    },
+    "modelObservations": "Bronhis4toont beganegrond+5bovenste vensterstroken en platte dakrand, lagerezijvleugel met3bovenlagen. Bronplatform7toont setbackdakdeel. Parent heeft moderne3DBAGhoogtes20.82hoofddak/14.47zijvleugel/24.67bovenste dakdeel; modernehoogtesalleenschaalindicatie."
+  },
+  "items": [
+    {
+      "id": "minerva-01",
+      "title": "Minervahuis I: het hele gebouw",
+      "date": "1938",
+      "description": "Hoek Meent en Rodezand kort na de bouw. Het hele hoofdvolume en de lagere zijvleugel zijn zichtbaar. De bron is slechts350×350pixels; fijne details in de AI-versie zijn geen archiefbewijs.",
+      "original": "foto-1-origineel.jpg",
+      "ai": "foto-1-ai.webp",
+      "prompt": "foto-1-prompt.txt",
+      "sourceUrl": "https://minervahuis.nl/gebouwHisV40.html",
+      "imageUrl": "https://minervahuis.nl/data/images1/his_4.jpg",
+      "credit": "Historische galerij Minervahuis; fotograaf niet vermeld",
+      "license": "Geen expliciete hergebruiklicentie op de geraadpleegde bronpagina aangetroffen; rechtenstatus niet vastgesteld.",
+      "sourceDimensions": [
+        350,
+        350
+      ],
+      "aiCaption": "AI-inkleuring en kwaliteitsbewerking. Kleuren zijn een interpretatie op basis van materialen en bewaard gevelbeeld; kleine letters, gezichten en andere fijne details kunnen afwijken.",
+      "qa": {
+        "checked": true,
+        "watermark": "Bestaande bronvermelding behouden",
+        "limitations": "Lage bronresolutie350×350; fijne details en textuur door AI ingevuld."
+      }
+    },
+    {
+      "id": "minerva-02",
+      "title": "De winkels en de Rosaliakerk",
+      "date": "Kort voor14mei1940; precieze datum onbekend",
+      "description": "Minervahuis I met etalages en de Rosaliakerk aan het Rodezand. In deze opname valt de bovenste dakrand buiten beeld.",
+      "original": "foto-2-origineel.jpg",
+      "ai": "foto-2-ai.webp",
+      "prompt": "foto-2-prompt.txt",
+      "sourceUrl": "https://wederopbouwrotterdam.nl/artikelen/minervahuis",
+      "imageUrl": "https://wederopbouwrotterdam.nl/uploads/_1536xAUTO_crop_center-center_none/minervahuis-1.jpg",
+      "credit": "Nationaal Archief, via Platform Wederopbouw Rotterdam; fotograaf niet vermeld",
+      "license": "Geen expliciete hergebruiklicentie op de geraadpleegde bronpagina aangetroffen; rechtenstatus niet vastgesteld.",
+      "sourceDimensions": [
+        1536,
+        1084
+      ],
+      "aiCaption": "AI-inkleuring en kwaliteitsbewerking. Kleuren zijn een interpretatie op basis van materialen en bewaard gevelbeeld; kleine letters, gezichten en andere fijne details kunnen afwijken.",
+      "qa": {
+        "checked": true,
+        "watermark": "Geen watermerk in bron",
+        "limitations": "Onleesbare winkelopschriften deels vervormd door AI."
+      }
+    },
+    {
+      "id": "minerva-03",
+      "title": "De nieuwe Meent van boven",
+      "date": "1938",
+      "description": "De verbrede Meent met rechts de afgeronde hoek van Minervahuis I en het vooroorlogse straatleven. De datering1938 staat op de actuele Nederlandstalige pagina en in de galerij van Minervahuis.",
+      "original": "foto-3-origineel.jpg",
+      "ai": "foto-3-ai.webp",
+      "prompt": "foto-3-prompt.txt",
+      "sourceUrl": "https://wederopbouwrotterdam.nl/artikelen/minervahuis",
+      "imageUrl": "https://wederopbouwrotterdam.nl/uploads/_1536xAUTO_crop_center-center_none/minervahuis-7.jpg",
+      "credit": "Spaarnestad Foto / Stadsarchief Rotterdam, via Platform Wederopbouw Rotterdam",
+      "license": "Geen expliciete hergebruiklicentie op de geraadpleegde bronpagina aangetroffen; rechtenstatus niet vastgesteld.",
+      "sourceDimensions": [
+        1536,
+        2000
+      ],
+      "aiCaption": "AI-inkleuring en kwaliteitsbewerking. Kleuren zijn een interpretatie op basis van materialen en bewaard gevelbeeld; kleine letters, gezichten en andere fijne details kunnen afwijken.",
+      "qa": {
+        "checked": true,
+        "watermark": "Geen watermerk in bron",
+        "limitations": "Verre gebouwen, mensen en voertuigen zijn niet op detailniveau verifieerbaar."
+      }
+    },
+    {
+      "id": "minerva-04",
+      "title": "Fietsers op de Meent",
+      "date": "1939 volgens de galerij van Minervahuis",
+      "description": "Straatbeeld bij de afgeronde hoek van Minervahuis I. Fietsers, voetgangers en winkelpuien geven een indruk van de drukte op de nieuwe Meent.",
+      "original": "foto-4-origineel.jpg",
+      "ai": "foto-4-ai.webp",
+      "prompt": "foto-4-prompt.txt",
+      "sourceUrl": "https://minervahuis.nl/gebouwHisV40.html",
+      "imageUrl": "https://minervahuis.nl/data/images1/his_57.jpg",
+      "credit": "Historische galerij Minervahuis; fotograaf niet vermeld",
+      "license": "Geen expliciete hergebruiklicentie op de geraadpleegde bronpagina aangetroffen; rechtenstatus niet vastgesteld.",
+      "sourceDimensions": [
+        640,
+        403
+      ],
+      "aiCaption": "AI-inkleuring en kwaliteitsbewerking. Kleuren zijn een interpretatie op basis van materialen en bewaard gevelbeeld; kleine letters, gezichten en andere fijne details kunnen afwijken.",
+      "qa": {
+        "checked": true,
+        "watermark": "Bestaande bronvermelding behouden",
+        "limitations": "Onleesbare winkelopschriften deels vervormd door AI."
+      }
+    },
+    {
+      "id": "minerva-05",
+      "title": "De Meent als nieuwe winkelstraat",
+      "date": "1939 volgens de galerij van Minervahuis",
+      "description": "Overzicht van de Meent vanaf de Coolsingelzijde. Minervahuis I staat verderop rechts, herkenbaar aan de afgeronde hoek. Deze foto toont vooral de omgeving.",
+      "original": "foto-5-origineel.jpg",
+      "ai": "foto-5-ai.webp",
+      "prompt": "foto-5-prompt.txt",
+      "sourceUrl": "https://minervahuis.nl/gebouwHisV40.html",
+      "imageUrl": "https://minervahuis.nl/data/images1/his_50.jpg",
+      "credit": "Historische galerij Minervahuis; fotograaf niet vermeld",
+      "license": "Geen expliciete hergebruiklicentie op de geraadpleegde bronpagina aangetroffen; rechtenstatus niet vastgesteld.",
+      "sourceDimensions": [
+        609,
+        480
+      ],
+      "aiCaption": "AI-inkleuring en kwaliteitsbewerking. Kleuren zijn een interpretatie op basis van materialen en bewaard gevelbeeld; kleine letters, gezichten en andere fijne details kunnen afwijken.",
+      "qa": {
+        "checked": true,
+        "watermark": "Bestaande bronvermelding behouden",
+        "limitations": "Verre gebouwen, mensen en voertuigen zijn niet op detailniveau verifieerbaar."
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-21",
+  "buildings": 7,
+  "photoPairs": 20,
+  "counts": {
+    "plan-c": 5,
+    "bijenkorf": 5,
+    "passage": 2,
+    "oude-beurs": 2,
+    "schouwburg": 2,
+    "coolsingelziekenhuis": 2,
+    "delftse-poort": 2
+  },
+  "checks": [
+    "Every original/AI image and GLB present",
+    "Desktop landmark gallery and model view inspected",
+    "Mobile390x844 full10-slide PlanC sequence verified old/new alternating with disabled final next",
+    "No console warnings or errors observed",
+    "Source and deploy files match",
+    "AI source/date/licence per pair; gate preFeb1939 explicitly indicated"
+  ],
+  "remainingLimitations": [
+    "Dimensions and placement interpreted from maps and photos, not surveyed",
+    "Gate location uncertainty about30m",
+    "AI colours, lettering and fine detail are interpretations"
+  ]
+}

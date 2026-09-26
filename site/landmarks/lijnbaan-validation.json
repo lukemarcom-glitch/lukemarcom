@@ -1,0 +1,17 @@
+{
+  "background_overlap_m2": 0,
+  "models": [
+    {
+      "id": "sint-lucia",
+      "triangles": 9728,
+      "geometry_inside_cleared_area": true,
+      "story_words": 156
+    },
+    {
+      "id": "tivoli",
+      "triangles": 2388,
+      "geometry_inside_cleared_area": true,
+      "story_words": 179
+    }
+  ]
+}

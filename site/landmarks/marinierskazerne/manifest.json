@@ -1,0 +1,67 @@
+{
+  "id": "marinierskazerne",
+  "photos": [
+    {
+      "src": "landmarks/marinierskazerne/foto-1-origineel.jpg",
+      "ai": "landmarks/marinierskazerne/foto-1-ai.webp",
+      "title": "De kazerne vanaf het plein · 1933",
+      "shortTitle": "De kazerne vanaf het plein · 1933",
+      "date": "1933",
+      "author": "Anoniem / fotograaf onbekend",
+      "license": "Publiek domein; Commons PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Marinierskazerne_aan_het_Oostplein_1933.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/5FB820A7788745CFA0DA22DB411F09C0",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/marinierskazerne/foto-2-origineel.jpg",
+      "ai": "landmarks/marinierskazerne/foto-2-ai.webp",
+      "title": "Voorgevel en Nieuwehaven · 1920",
+      "shortTitle": "Voorgevel en Nieuwehaven · 1920",
+      "date": "1920",
+      "author": "Anoniem / fotograaf onbekend",
+      "license": "Publiek domein; Commons PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Marinierskazerne_aan_het_Oostplein_met_de_Nieuwehaven_1920.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/18C372208AD543128E4E1CAFDC225968",
+      "note": "Historisch ingekleurde prentbriefkaart; de oorspronkelijke inkleuring is geen fotografisch kleurbewijs.",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+    },
+    {
+      "src": "landmarks/marinierskazerne/foto-3-origineel.jpg",
+      "ai": "landmarks/marinierskazerne/foto-3-ai.webp",
+      "title": "De schildwacht bij de entree · 1939",
+      "shortTitle": "De schildwacht bij de entree · 1939",
+      "date": "1939",
+      "author": "Anoniem / fotograaf onbekend",
+      "license": "Publiek domein; Commons PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Marinierskazerne_aan_het_Oostplein_1939.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/7E707CDE85A049FF9D666E3D8CACC117",
+      "note": "",
+      "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Geschiedenis en architectuur · www.bkor.nl",
+      "url": "https://www.bkor.nl/beeld/mariniersmonument/"
+    },
+    {
+      "title": "Aanvullende historische bron · www.bkor.nl",
+      "url": "https://www.bkor.nl/beeld/zonder-titel-39/"
+    },
+    {
+      "title": "Aanvullende historische bron · magazines.defensie.nl",
+      "url": "https://magazines.defensie.nl/defensiekrant/2019/09/06_kazernenamen_09"
+    },
+    {
+      "title": "Aanvullende historische bron · stadsarchief.rotterdam.nl",
+      "url": "https://stadsarchief.rotterdam.nl/sites/default/files/educatie-wo2-Rotterdammers-in-de-oorlog.pdf"
+    },
+    {
+      "title": "Mariniersmuseum · de brand op12mei1940",
+      "url": "https://www.mariniersmuseum.nl/nl/12-mei-rotterdam/"
+    }
+  ],
+  "colorNote": "Roodbruine baksteen, lichte natuursteen en een donker pannendak. De vroegere kleurprentbriefkaart is een aanvullende aanwijzing, maar legt geen exacte tinten vast."
+}

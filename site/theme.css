@@ -1,0 +1,175 @@
+/* RDAM39: the same map, with a distinct material palette for each era. */
+:root{--ui:'Barlow Semi Condensed',Arial,sans-serif;--ink:#29332f;--muted:#626c63;--paper:#faf7ef;--panel:#faf7eff7;--soft:#eee9dc;--line:#d8d5c7;--accent:#945837;--green:#294d40;--focus:#a06a32;--label-bg:rgb(35 75 62 / 88%);--label-ink:#fffdf6;--label-line:#fff8;--selected:#945837;--shadow:0 5px 22px #182b2418}
+body.era-modern{--ink:#173d30;--muted:#52675e;--paper:#fafdfb;--panel:#fafdfbf7;--soft:#eaf2ed;--line:#ccdcd2;--accent:#007a52;--green:#006b49;--focus:#00835b;--label-bg:rgb(249 255 251 / 92%);--label-ink:#134d36;--label-line:#006b4966;--selected:#006b49;--shadow:0 5px 22px #00291a1a}
+body{color:var(--ink);background:var(--soft)}
+button,a,select,input{ -webkit-tap-highlight-color:transparent }
+button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{outline-color:var(--focus)}
+body>header{border-bottom:3px solid var(--accent);background:var(--paper);padding:0 24px;box-shadow:0 2px 10px #15291f08}
+.brand{display:block;position:relative;width:216px;height:42px;overflow:hidden;flex-shrink:0}
+.brand img{position:absolute;max-width:none;width:116.87%;height:auto;left:-8.3%;top:-48.2%}
+.era-switch{border:1px solid var(--line);border-radius:9px;background:var(--soft);box-shadow:none;padding:4px;gap:4px}
+.era-switch button{font:600 18px/1.15 var(--ui);letter-spacing:.015em;min-height:44px;padding:10px 26px;border-radius:5px}
+#era-old{color:#784225;background:#efe2ce}#era-now{color:#006b49;background:#e1eee7}
+#era-old[aria-pressed=true]{background:#945837;color:white;box-shadow:inset 0 -3px #643b25}
+#era-now[aria-pressed=true]{background:#007a52;color:white;box-shadow:inset 0 -3px #004d34}
+.era-modern .era-switch{border-color:#8cb5a1}
+.quiet{font:500 16px var(--ui);min-height:44px;padding:8px 0 8px 12px;color:var(--muted)}
+.quiet .about-label{font:inherit;margin:0}.quiet .about-icon{font-size:22px;margin-left:12px}
+.places,.tools,#landmark-panel,#modern-options,#location-status{background:var(--panel);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:8px}
+.places{border-top:3px solid var(--accent)}
+#places-toggle{font:600 18px/1.2 var(--ui);border-radius:0;min-height:52px;padding:12px 15px}
+#places-content{padding:0 8px 12px;scrollbar-color:var(--line) transparent}
+#places-content h2{font:600 13px/1.4 var(--ui);letter-spacing:.08em;color:var(--muted);margin:20px 12px 8px}
+#places-content button{font:500 17px/1.3 var(--ui);border-radius:4px;padding:10px 12px;min-height:43px;position:relative}
+#building-links button+button{border-top:1px solid color-mix(in srgb,var(--line) 55%,transparent)}
+#places-content button.active{background:var(--green);color:white;box-shadow:inset 3px 0 #bda269}
+.places button:hover:not(.active){background:var(--soft)}
+#places-content small,.menu-note{font:400 14px/1.5 var(--ui);color:var(--muted)}
+#places-content .active small{color:#e7f1e9}
+.segmented{background:var(--soft);padding:6px}.segmented button{font:500 16px/1.2 var(--ui);min-height:42px;border-radius:4px}
+.segmented button[aria-pressed=true]{background:var(--paper);color:var(--green);box-shadow:0 1px 4px #16392712;font-weight:600}
+.caption,.eyebrow{font:600 12px/1.4 var(--ui);letter-spacing:.09em;color:var(--muted)}
+.tool-body{padding:16px}.switch,.range-title{font:500 16px/1.3 var(--ui);min-height:36px}
+.switch input{accent-color:var(--green);width:19px;height:19px}.range-title output{color:var(--accent)}
+select{font:400 16px var(--ui);min-height:42px;border-radius:4px;background:var(--paper);border-color:var(--line);color:var(--ink)}
+input[type=range]{accent-color:var(--green)}
+.micro,.selection .selected-note{font-size:12px;color:var(--muted)}
+.selection{background:var(--soft);border-color:var(--line)}.selection p{font-size:14px}.selection button{font-size:14px;color:var(--green)}
+.mobile-toggle,.sheet-expand{background:var(--soft);color:var(--ink);font-family:var(--ui);font-weight:600}
+#landmark-panel{padding:24px}#landmark-panel h2{font:400 32px/1.12 Georgia,serif;letter-spacing:-.025em;margin:12px 0 20px}
+#landmark-panel .eyebrow{font-size:12px;color:var(--accent)}
+#landmark-panel p{color:var(--ink);font-size:16px;line-height:1.65}#landmark-panel .micro{font-size:12px;color:var(--muted)}
+#landmark-panel .photo-caption{font-size:14px;color:var(--muted)}
+.period-note{font:500 16px/1.4 var(--ui);background:var(--soft);border-color:var(--accent);padding:10px 12px}
+#landmark-panel .landmark-close{background:var(--soft);color:var(--ink);width:40px;height:40px;line-height:40px;box-shadow:none}
+#landmark-panel a,.source-link{color:var(--green);text-underline-offset:3px}
+#landmark-panel details{font-size:14px;border-top:1px solid var(--line);padding-top:12px}#landmark-panel summary{font:600 17px/1.4 var(--ui)}
+.photo-position,.photo-pair-title,.photo-thumb span{font-family:var(--ui);font-size:15px}
+.photo-navigation button{background:var(--soft);border-color:var(--line);border-radius:4px;min-height:40px}
+.photo-pair{background:var(--soft);border-color:var(--line);border-radius:5px;padding:8px}
+.photo-pair-title{color:var(--muted);font-weight:500;max-width:215px}.photo-list .photo-thumb{background:var(--paper);border-radius:3px}
+.photo-list .photo-thumb[aria-pressed=true]{background:var(--green);border-color:var(--green)}
+.photo-expand-hint{font:500 14px var(--ui);background:var(--green);border-radius:3px}
+.hero-photo{background:var(--soft);border-radius:4px}
+.era-modern #landmark-panel h2,.era-modern .building-story h3,.era-modern dialog:not(.image-lightbox) h2{font-family:var(--ui);font-weight:600;letter-spacing:0}
+.era-modern #landmark-panel h2{font-size:36px}.era-modern .building-story h3{font-size:27px}
+#modern-options>span{font:600 13px var(--ui);color:var(--green);letter-spacing:.06em}#modern-options label{font:500 16px var(--ui)}#modern-options small{font:400 13px/1.4 var(--ui);color:var(--muted)}
+#modern-options input{accent-color:var(--green)}
+#modern-attribution{background:var(--panel);font:400 12px/1.3 var(--ui)}#modern-attribution a{color:var(--green)}
+.navigation,button.compass{background:var(--paper);color:var(--green);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow)}
+.navigation button{min-width:40px;min-height:40px}.navigation button+button{border-left:1px solid var(--line)}
+button.compass{font-family:var(--ui)}button.compass:hover{background:var(--soft);border-color:var(--green)}button.compass:focus-visible{outline-color:var(--focus)}
+.bottom-left,.gesture{background:var(--panel);color:var(--muted);font:400 12px/1.3 var(--ui)}
+#landmark-markers .landmark-marker{left:0;top:0;will-change:transform;transition:none}
+#landmark-markers .landmark-marker::before{background:var(--green);border-color:var(--paper)}
+#landmark-markers .landmark-marker.selected::before{background:var(--selected);box-shadow:0 0 0 4px color-mix(in srgb,var(--selected) 20%,transparent)}
+#landmark-markers .marker-name{font:500 15px/1.2 var(--ui);border-radius:5px;padding:7px 10px;background:var(--label-bg);color:var(--label-ink);border-color:var(--label-line);box-shadow:0 2px 7px #17292418}
+#landmark-markers .selected .marker-name{background:var(--selected);color:white;border-color:#fff8}
+.place-label{background:var(--panel);color:var(--muted);border-color:var(--line);font:500 13px var(--ui);transition:none}
+.park-explorer{background:var(--soft);border-color:var(--line);border-radius:5px}.park-explorer h3{font-family:var(--ui)}
+.park-all,.park-point-list button{color:var(--green);border-color:var(--line);font-family:var(--ui);background:var(--paper)}
+.park-map-points button,.park-point-list button[aria-pressed=true]{background:var(--green)}
+.park-map-points button[aria-pressed=true]{background:var(--selected)}
+#loading{background:var(--paper);color:var(--muted)}.spinner{border-color:var(--line);border-top-color:var(--green)}
+dialog:not(.image-lightbox){border-radius:8px;border-color:var(--line);background:var(--paper)}
+dialog:not(.image-lightbox)>p,dialog dl{font-size:16px}dialog dd{color:var(--muted)}
+#time-intro .intro-help{color:var(--muted)}.intro-close{background:var(--soft)}#intro-old{background:#945837}#intro-now{background:#007a52}
+.image-lightbox header{border-bottom:1px solid #405148;padding-bottom:10px}.lightbox-position,.image-lightbox button{font-family:var(--ui);font-size:16px}
+@media(max-width:700px){
+ body>header{padding:env(safe-area-inset-top) 12px 0;height:calc(116px + env(safe-area-inset-top));grid-template-rows:48px 62px}
+ .brand{width:166px;height:32.5px;align-self:center}.era-switch{padding:3px;gap:3px;border-radius:7px;margin-bottom:7px}
+ .era-switch button{font-size:18px;padding:8px;min-height:44px;border-radius:4px}.quiet .about-icon{margin:0}
+ #places-toggle{font-size:17px;min-height:48px}#places-content button{min-height:44px;font-size:18px}
+ #places-content h2{font-size:13px}.menu-note{font-size:14px}
+ .tools{max-height:62dvh}.segmented button{font-size:16px}.tools>.segmented{padding-right:82px}.mobile-toggle{font-size:16px}
+ .switch{min-height:44px}.switch input{width:22px;height:22px}
+ #landmark-panel,.era-modern #landmark-panel{padding:0 16px calc(20px + env(safe-area-inset-bottom));border-radius:12px 12px 0 0}
+ #landmark-panel h2,.era-modern #landmark-panel h2{font-size:29px;line-height:1.15}.sheet-bar{background:var(--paper);border-color:var(--line)}
+ #landmark-panel .landmark-close{width:44px;height:44px;line-height:44px}.sheet-expand{font-size:16px;border-radius:5px}
+ #landmark-panel .photo-caption{font-size:14px}.photo-navigation button{min-height:44px}
+ #landmark-markers .marker-name{max-width:190px;font-size:15px}
+ .navigation button+button{border-left:0;border-top:1px solid var(--line)}
+ #modern-attribution{font-size:12px;line-height:1.25}
+}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+
+/* Override the previous era-specific marker rules with the shared tokens. */
+.era-modern #landmark-markers .landmark-marker::before{background:var(--green);border-color:var(--paper)}
+.era-modern #landmark-markers .landmark-marker.selected::before{background:var(--selected)}
+.era-modern #landmark-markers .marker-name{background:var(--label-bg);color:var(--label-ink);border-color:var(--label-line)}
+.era-modern #landmark-markers .selected .marker-name{background:var(--selected);color:white;border-color:#fff8}
+.downloads a{background:var(--soft);color:var(--green);font:500 14px var(--ui)}
+
+/* Stories are a separate, opt-in layer; buildings remain visible underneath. */
+:root{--story:#71506c;--story-soft:#eee5ec}
+#places-content .category-switch{display:flex;position:sticky;top:0;z-index:2;gap:4px;background:var(--paper);padding:5px 0 10px;border-bottom:1px solid var(--line);margin-bottom:8px}
+#places-content .category-switch button{flex:1;width:auto;padding:10px 5px;font-size:16px;white-space:nowrap;background:var(--soft);border:1px solid transparent;text-align:center}
+#places-content .category-switch button[aria-pressed=true]{background:var(--green);color:white}
+#places-content .category-switch [data-category=stories][aria-pressed=true]{background:var(--story)}
+#building-category[hidden],#stories-category[hidden],#category-status[hidden]{display:none}
+#places-content #stories-category h2{margin-top:16px;letter-spacing:0;text-transform:none;font-size:18px;color:var(--ink)}
+#story-count{display:block;font-size:13px;font-weight:400;color:var(--muted);margin-top:4px}
+#story-links button{width:100%;text-align:left;border-top:1px solid var(--line)}
+#story-links button span,#story-links button small{display:block}
+#places-content #story-links small{font-size:13px;margin-top:5px;line-height:1.35}
+#places-content #story-links button.active{background:var(--story);box-shadow:inset 3px 0 #cfb0c7}
+.stories-active .intro{display:none}
+#category-status{position:absolute;z-index:7;bottom:20px;left:50%;transform:translateX(-50%);padding:10px 16px;background:var(--panel);border:1px solid var(--line);border-radius:6px;color:var(--story);font:600 16px/1.3 var(--ui);box-shadow:var(--shadow);pointer-events:none;white-space:nowrap}
+#category-status small{display:block;margin-left:20px;color:var(--muted);font-size:12px;font-weight:400}
+.landmark-open #category-status{display:none}
+#landmark-markers .story-marker::before{border-radius:3px;inset:12px;background:var(--story);border-color:var(--paper)}
+#landmark-markers .story-marker::after{content:"";position:absolute;left:20px;top:18px;width:4px;height:7px;border-top:1px solid white;border-bottom:1px solid white;pointer-events:none}
+#landmark-markers .story-marker .marker-name,#landmark-markers .story-marker.selected .marker-name{background:rgb(91 60 85 / 90%);color:#fff9f0;border-color:#fff8}
+#landmark-markers .story-marker.selected::before{background:var(--story);box-shadow:0 0 0 4px #71506c33}
+.story-meta{display:flex;flex-wrap:wrap;gap:7px;margin-top:17px;font:500 14px/1.3 var(--ui);color:var(--story)}
+.story-meta>span{padding:5px 8px;border:1px solid var(--line);border-radius:4px}
+.story-meta .evidence-badge{background:var(--story-soft);border-color:transparent}
+#landmark-panel .story-date{font:600 17px/1.3 var(--ui);padding-bottom:16px;border-bottom:1px solid var(--line);color:var(--story)}
+.story-date span{display:block;font-weight:400;font-size:15px;margin-top:6px;color:var(--muted)}
+#landmark-panel .story-lead{font:400 22px/1.4 Georgia,serif;letter-spacing:-.01em;margin:22px 0}
+.story-evidence{padding:15px;background:var(--soft);border-left:3px solid var(--story);margin-top:22px}
+.story-evidence h3,.story-location h3,.story-sources h3{font:600 18px/1.35 var(--ui);margin:0 0 8px}
+#landmark-panel .story-evidence p,#landmark-panel .story-location p{font-size:14px;margin:0;line-height:1.6}
+.story-location,.story-sources{margin-top:24px}
+#landmark-panel .story-location .micro{margin-top:12px;font-size:12px}
+.story-related{background:var(--soft);border:1px solid var(--line);border-radius:4px;min-height:44px;margin-top:15px;padding:10px 12px;text-align:left;color:var(--green);font:500 16px/1.3 var(--ui)}
+.story-sources .source-list a{display:block;padding:10px 0;border-top:1px solid var(--line);font-size:14px;line-height:1.5}
+@media(max-width:700px){
+ #places-content .category-switch button{font-size:16px;min-height:44px}
+ #category-status{left:10px;bottom:12px;transform:none;padding:8px 12px;font-size:15px}
+ .stories-active .bottom-left{display:none}
+ #landmark-panel .story-lead{font-size:20px}
+}
+
+.story-place-context{background:var(--soft);border-left:3px solid var(--story);padding:12px 14px;margin:16px 0}
+.story-place-context>strong{font:600 16px/1.4 var(--ui);color:var(--story)}
+.story-place-context dl{display:grid;grid-template-columns:32px 1fr;gap:8px 10px;font-size:14px;line-height:1.5;margin:12px 0 0}
+.story-place-context dt{font-weight:700;color:var(--muted)}.story-place-context dd{margin:0}
+#landmark-panel .story-place-context p{font-size:14px;line-height:1.5;margin:12px 0 0}
+
+/* Story imagery retains the source, date and reuse conditions in the reading flow. */
+.story-gallery{margin:18px 0 24px}
+.story-gallery .hero-photo{width:100%;height:240px;object-fit:contain;background:var(--soft)}
+.story-photo-description,.story-photo-credit,.story-rights-note{display:block}
+.story-photo-credit{margin-top:8px;font-size:12px;line-height:1.5;color:var(--muted)}
+.story-photo-credit a{text-decoration:underline;text-underline-offset:3px}
+.story-rights-note{margin-top:3px;font-size:11px}
+.story-thumbnails{display:flex;gap:8px;margin-top:10px;overflow-x:auto;padding-bottom:5px}
+.story-thumbnails .photo-thumb{flex:0 0 108px;width:108px}
+.story-thumbnails .photo-thumb img{width:100%;height:70px;object-fit:cover}
+.story-thumbnails .photo-thumb span{font-size:12px}
+.story-memorials{margin-top:24px;border-top:1px solid var(--line);padding-top:18px}
+.story-memorials h3{font:600 19px/1.3 var(--ui);margin:0 0 12px}
+.story-memorials article{padding:14px;background:var(--soft);border-left:3px solid var(--story);margin:10px 0}
+.story-memorials h4{font:600 18px/1.3 var(--ui);margin:0 0 8px}
+#landmark-panel .story-memorials p{font-size:14px;line-height:1.5;margin:8px 0}
+#landmark-panel .story-memorials .micro{font-size:12px;color:var(--muted)}
+.story-memorials a{font-size:14px;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:700px){.story-gallery .hero-photo{height:220px}.story-gallery{margin:14px 0 20px}}
+
+.lightbox-caption .story-photo-credit{color:#dce4dd;font-size:12px}.lightbox-caption .story-photo-credit a{color:inherit}.lightbox-caption .story-rights-note{font-size:11px}
+
+/* Show complete historical photographs and museum objects in story thumbnails. */
+.story-thumbnails .photo-thumb img{object-fit:contain;background:var(--soft)}
+
+.story-thumbnails .photo-thumb span{font-size:14px}

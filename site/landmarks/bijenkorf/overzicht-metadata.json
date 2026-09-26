@@ -1,0 +1,84 @@
+{
+  "size": 2007513,
+  "width": 3345,
+  "height": 2003,
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bijenkorf_Rotterdam_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bijenkorf_Rotterdam_1930.jpg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14771926",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2011-04-02 21:03:45",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Bijenkorf Rotterdam 1930",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Bijenkorf Rotterdam (1930)|PD Old|CC-PD-Mark|Netherlands photographs taken on 1930-10-16|1930 aerial photographs of Rotterdam|Photographs by KLM Aerocarto",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "De Bijenkorf in Rotterdam",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "1930-10-16",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "KLM Aerocarto",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "KLM Aerocarto (no specific author as a person known by name)",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "PD-old",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "Public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Public domain",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Copyrighted": {
+      "value": "False",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "pd",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

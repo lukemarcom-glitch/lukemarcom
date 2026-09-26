@@ -1,0 +1,15 @@
+{
+  "parts": 25740,
+  "uniqueBuildings": 15390,
+  "osmLabels": 35,
+  "heightCorrections": [
+    {
+      "feature": "lod13.6808780",
+      "id": "NL.IMBAG.Pand.0599100100020123",
+      "original": 315.87274742126453,
+      "replacement": 66.86449241638182,
+      "reason": "Extreme invalid roof extent; used source median instead of 70th percentile"
+    }
+  ],
+  "validation": "All records paginated; unique source features; finite coordinates; closed rings; positive heights; colour orthophoto decoded. Browser: toggle, landmark panel, 3D layer and mobile layout checked."
+}

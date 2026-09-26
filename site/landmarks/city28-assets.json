@@ -1,0 +1,171 @@
+{
+  "created": "2026-09-24",
+  "buildings": [
+    {
+      "id": "cafe-de-unie",
+      "photos": [
+        {
+          "src": "landmarks/cafe-de-unie/foto-1-origineel.webp",
+          "title": "Volledige gevel van het oorspronkelijke Café De Unie",
+          "shortTitle": "Gevel",
+          "date": "circa 1925",
+          "author": "Anoniem",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://commons.wikimedia.org/wiki/File:Cafe_De_Unie.jpg",
+          "ai": "landmarks/cafe-de-unie/foto-1-ai.webp",
+          "aiLabel": "AI in kleur",
+          "aiNote": "Kleurinterpretatie van Ouds ontwerp uit 1925; geen authentieke kleurenfoto of bewijs voor 1939."
+        },
+        {
+          "src": "landmarks/cafe-de-unie/foto-2-origineel.webp",
+          "title": "Café De Unie vanaf de straat, foto uit Bouwkundig Weekblad",
+          "shortTitle": "Gevel",
+          "date": "1925; publicatie 1 augustus 1925",
+          "author": "Anoniem",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_De_Unie_2.jpg"
+        }
+      ],
+      "prompt": "landmarks/cafe-de-unie/ai-prompt.txt"
+    },
+    {
+      "id": "doelen-coolsingel",
+      "photos": [
+        {
+          "src": "landmarks/doelen-coolsingel/foto-1-origineel.webp",
+          "title": "Coolsingel met Doelen en stadhuis — originele kleurenfoto",
+          "shortTitle": "Coolsingel",
+          "date": "1937–1939",
+          "author": "Jaap (J.) Tieman",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "url": "https://hdl.handle.net/21.12133/DB6BD1B53BAF4DBAA1163A7955354188",
+          "ai": "landmarks/doelen-coolsingel/foto-1-ai.webp",
+          "aiLabel": "AI-beeldherstel",
+          "aiNote": "AI-opwaardering van een originele kleurenfoto; fijne details zijn interpretatie.",
+          "sourceColor": true
+        },
+        {
+          "src": "landmarks/doelen-coolsingel/foto-2-origineel.webp",
+          "title": "Coolsingel met de nieuwe Doelenzaal, gezien van boven",
+          "shortTitle": "Coolsingel",
+          "date": "1937–1938",
+          "author": "Anoniem",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://hdl.handle.net/21.12133/AE0196142D284ED8A1B4D3C088C286E0"
+        }
+      ],
+      "prompt": "landmarks/doelen-coolsingel/ai-prompt.txt"
+    },
+    {
+      "id": "grand-theatre",
+      "photos": [
+        {
+          "src": "landmarks/grand-theatre/foto-1-origineel.webp",
+          "title": "Pompenburgsingel bij het Grand Théâtre; rechts de Gedempte Karnemelkshaven",
+          "shortTitle": "Straatgevel",
+          "date": "1924–1928",
+          "author": "Anoniem; uitgever B.M.S.R. / Gebr. Spanjersberg",
+          "license": "Publiek domein (anonieme historische prentbriefkaart; afgeleid uit datering en SAR-beleid)",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://proxy.archieven.nl/0/0B4D0D28E3C249B1B1E9D0FFC8204F03",
+          "ai": "landmarks/grand-theatre/foto-1-ai.webp",
+          "aiLabel": "AI in kleur",
+          "aiNote": "Kleurinterpretatie. Fijne geveldetails en reclameletters wijken plaatselijk af van het origineel; gebruik de archieffoto als historische bron."
+        },
+        {
+          "src": "landmarks/grand-theatre/foto-2-origineel.webp",
+          "title": "Pompenburgsingel met Grand Theatre en kloktoren",
+          "shortTitle": "Straatbeeld 1935",
+          "date": "1935",
+          "author": "Anoniem",
+          "license": "Publiek domein (anonieme historische prentbriefkaart; afgeleid uit datering en SAR-beleid)",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://proxy.archieven.nl/0/DE8D1932F2C64731A32FA7BA24E644F5"
+        }
+      ],
+      "prompt": "landmarks/grand-theatre/ai-prompt.txt"
+    },
+    {
+      "id": "lumiere-coolsingel",
+      "photos": [
+        {
+          "src": "landmarks/lumiere-coolsingel/foto-1-origineel.webp",
+          "title": "Coolsingel met Lumière links en Handel en Nijverheid rechts",
+          "shortTitle": "Straatgevel",
+          "date": "1933",
+          "author": "François Henry (F.H.) van Dijk (1888–1977)",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "url": "https://proxy.archieven.nl/0/F20ECBE76A2D4B459A35C61824667B96",
+          "ai": "landmarks/lumiere-coolsingel/foto-1-ai.webp",
+          "aiLabel": "AI in kleur",
+          "aiNote": "Kleurinterpretatie. Fijne geveldetails en reclameletters wijken plaatselijk af van het origineel; gebruik de archieffoto als historische bron."
+        },
+        {
+          "src": "landmarks/lumiere-coolsingel/foto-2-origineel.webp",
+          "title": "De ingang van theater Lumière aan de Coolsingel",
+          "shortTitle": "Entree",
+          "date": "1930–1940 (catalogus)",
+          "author": "Anoniem",
+          "license": "Public domain (Commons PD-anon-70-EU)",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://commons.wikimedia.org/wiki/File:De_ingang_van_theater_Lumi%C3%A8re_aan_de_Coolsingel_1930_-_1940.jpg"
+        },
+        {
+          "src": "landmarks/lumiere-coolsingel/foto-3-origineel.webp",
+          "title": "Lumière: entree met loket en luifel",
+          "shortTitle": "Entree met loket",
+          "date": "1937–1941 (catalogusbereik)",
+          "author": "Anoniem",
+          "license": "Publiek domein (anoniem; uiterlijk gepubliceerd 27 januari 1955)",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://proxy.archieven.nl/0/220A19E711D74179A10EDFB06F8993ED"
+        }
+      ],
+      "prompt": "landmarks/lumiere-coolsingel/ai-prompt.txt"
+    },
+    {
+      "id": "scala-kruiskade",
+      "photos": [
+        {
+          "src": "landmarks/scala-kruiskade/foto-1-origineel.webp",
+          "title": "Entree Theater Soesman, de latere Scala-bioscoop (1923). De naam Scala werd vanaf 1924 gebruikt.",
+          "shortTitle": "Entree 1923",
+          "date": "1923",
+          "author": "Richard Strauss (catalogue attribution)",
+          "license": "Public domain / Public Domain Mark 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://commons.wikimedia.org/wiki/File:Theater_Soesman_aan_de_Kruiskade_in_Rotterdam_(in_%27Amsterdamse_School-stijl%27)_opent_in_1923_haar,_SFA001006630.jpg",
+          "ai": "landmarks/scala-kruiskade/foto-1-ai.webp",
+          "aiLabel": "AI in kleur",
+          "aiNote": "Entree van Theater Soesman uit 1923. AI-kleuren en fijne details zijn interpretatie; de foto toont niet de volledige gevel."
+        },
+        {
+          "src": "landmarks/scala-kruiskade/foto-2-origineel.webp",
+          "title": "Grote zaal Theater Soesman met balkons en loges (1923). De naam Scala werd vanaf 1924 gebruikt.",
+          "shortTitle": "Zaal",
+          "date": "1923",
+          "author": "Richard Strauss (catalogue attribution)",
+          "license": "Public domain / Public Domain Mark 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "url": "https://commons.wikimedia.org/wiki/File:Theater,_SFA022826928.jpg"
+        },
+        {
+          "src": "landmarks/scala-kruiskade/foto-3-origineel.webp",
+          "title": "Kruiskade bij Scala, 1939. Het Scala-uithangbord staat rechts; het pand zelf is gedeeltelijk buiten beeld.",
+          "shortTitle": "Kruiskade 1939",
+          "date": "1939",
+          "author": "Onbekend; archiefveld auteursrechthouder: Anoniem",
+          "license": "Geen expliciete CC-licentie in het record; anonieme prentbriefkaart uit 1939, Downloadbaar: Ja",
+          "licenseUrl": "https://stadsarchief.rotterdam.nl/publiceren-en-auteursrecht",
+          "url": "https://hdl.handle.net/21.12133/73B4C94F0BD0435195F9AA1431F1630A"
+        }
+      ],
+      "prompt": "landmarks/scala-kruiskade/ai-prompt.txt"
+    }
+  ]
+}

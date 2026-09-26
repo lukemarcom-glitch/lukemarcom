@@ -1,0 +1,619 @@
+{
+  "locations": [
+    {
+      "id": "plan-c",
+      "name": "Plan C",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "bijenkorf",
+      "name": "De oude Bijenkorf",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "passage",
+      "name": "De Passage",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "oude-beurs",
+      "name": "Oude Beurs · Blaak",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "beurs-coolsingel",
+      "name": "Beurs Coolsingel",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 1
+    },
+    {
+      "id": "schouwburg",
+      "name": "Groote Schouwburg",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "coolsingelziekenhuis",
+      "name": "Coolsingelziekenhuis",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "delftse-poort",
+      "name": "Delftse Poort",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "laurenskerk",
+      "name": "Laurenskerk",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "kolk-open-rijstuin",
+      "name": "Kolk & Open Rijstuin",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "hoogstraat",
+      "name": "Hoogstraat",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "luchtspoor",
+      "name": "Het Luchtspoor",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "minervahuis-i",
+      "name": "Minervahuis I",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "rosaliakerk",
+      "name": "Rosaliakerk",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "sint-lucia",
+      "name": "Sint-Luciacomplex",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "tivoli",
+      "name": "Tivoli Schouwburg",
+      "category": "landmark",
+      "originals": 5,
+      "pairs": 5
+    },
+    {
+      "id": "witte-huis",
+      "name": "Het Witte Huis",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "schielandshuis",
+      "name": "Het Schielandshuis",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "hang-steigers",
+      "name": "Het Hang & de Steigers",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "hofplein-loos",
+      "name": "Station Hofplein & café Loos",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "marinierskazerne",
+      "name": "Marinierskazerne Oostplein",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "stadhuis",
+      "name": "Stadhuis",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "hoofdpostkantoor",
+      "name": "Hoofdpostkantoor",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "molen-de-noord",
+      "name": "Molen De Noord",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "pschorr",
+      "name": "Dancing Pschorr",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "zuiderkerk",
+      "name": "Zuiderkerk",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "oude-diergaarde",
+      "name": "Oude Diergaarde",
+      "category": "landmark",
+      "originals": 30,
+      "pairs": 30
+    },
+    {
+      "id": "willemsbrug-oud",
+      "name": "Oude Willemsbrug",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "willemsspoorbrug",
+      "name": "Willemsspoorbrug",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "hulstkampgebouw",
+      "name": "Hulstkampgebouw",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "van-drielkantoor",
+      "name": "Van Drielkantoor · Maaskade 113",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "burgemeester-hoffmanplein",
+      "name": "Burgemeester Hoffmanplein",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 3
+    },
+    {
+      "id": "luthersekerk",
+      "name": "Lutherse kerk",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "dominicuskerk",
+      "name": "Sint-Dominicuskerk",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "waalsekerk",
+      "name": "Waalse kerk",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "erasmiaans-gymnasium",
+      "name": "Erasmiaans Gymnasium",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "gemeentebibliotheek",
+      "name": "Gemeentebibliotheek",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "luxor",
+      "name": "Luxor Palast",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "hotel-atlanta",
+      "name": "Hotel Atlanta",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "hotel-victoria",
+      "name": "Hotel Victoria",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "westerkerk",
+      "name": "Westerkerk",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "station-delftse-poort",
+      "name": "Station Delftse Poort",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 2
+    },
+    {
+      "id": "cafe-de-unie",
+      "name": "Café De Unie",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "doelen-coolsingel",
+      "name": "Doelenzaal Coolsingel",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "grand-theatre",
+      "name": "Grand Théâtre",
+      "category": "landmark",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "lumiere-coolsingel",
+      "name": "Lumière Coolsingel",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 1
+    },
+    {
+      "id": "scala-kruiskade",
+      "name": "Scala Kruiskade",
+      "category": "landmark",
+      "originals": 3,
+      "pairs": 1
+    },
+    {
+      "id": "ca-hoogstraat",
+      "name": "C&A aan de Hoogstraat",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "huf-hoogstraat",
+      "name": "Schoenenmagazijn Huf",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "thalia-hoogstraat",
+      "name": "Thalia aan de Hoogstraat",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "handel-nijverheid",
+      "name": "Handel en Nijverheid",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "gerzon-hoogstraat",
+      "name": "Modehuis Gerzon",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "erasmushuis",
+      "name": "Erasmushuis / HBU",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "esders-hoofdsteeg",
+      "name": "Magazijn Esders aan de Hoofdsteeg",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "burgerweeshuis",
+      "name": "Gereformeerd Burgerweeshuis",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "politie-haagseveer",
+      "name": "Hoofdbureau van politie Haagseveer",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "bosjeskerk",
+      "name": "Bosjeskerk — Sint-Antonius van Padua",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "synagoge-botersloot",
+      "name": "Synagoge aan de Botersloot",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "oude-raadhuis",
+      "name": "Oude Raadhuis aan de Kaasmarkt",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "telefoondienst-botersloot",
+      "name": "Gemeentelijke Telefoondienst Botersloot",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "hermesgebouw",
+      "name": "Kantoorgebouw Hermes",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "synagoge-boompjes",
+      "name": "Synagoge Boompjes",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "hotel-weimar",
+      "name": "Hotel Weimar",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "oostindisch-huis",
+      "name": "Oost-Indisch Huis",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "rotterdamsche-bank-boompjes",
+      "name": "Rotterdamsche Bank · Boompjes",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "nationale-boompjes",
+      "name": "Nationale Levensverzekering-Bank · Boompjes",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "hotel-smits",
+      "name": "Hotel Smits",
+      "category": "landmark",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-beurskelder",
+      "name": "De verborgen mannen van de Beurs",
+      "category": "story",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "woii-haagseveer",
+      "name": "De bevrijding aan het Haagseveer",
+      "category": "story",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "woii-jan-van-garsel",
+      "name": "Jan van Garsel op de Willemsbrug",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-zwarte-duivels",
+      "name": "De Zwarte Duivels: feit en overlevering",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-erasmus",
+      "name": "Hoe Erasmus in veiligheid werd gebracht",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-coolsingelziekenhuis",
+      "name": "Patiënten naar buiten, het ziekenhuis brandt",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-diergaarde",
+      "name": "De oude Diergaarde tussen bommen en brand",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-laurenskerk",
+      "name": "De Laurenskerk brandt uit",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-synagoge-boompjes",
+      "name": "De synagoge aan de Boompjes gaat verloren",
+      "category": "story",
+      "originals": 2,
+      "pairs": 1
+    },
+    {
+      "id": "woii-maas-marineschepen",
+      "name": "Twee marineschepen naar de Maasbruggen",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-coolsingel-fusillade",
+      "name": "Tien mannen tegenover het postkantoor",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-hofplein-fusillade",
+      "name": "Wat Bep op het Hofplein zag",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-aat-zegers",
+      "name": "Aat Zegers: hulp met papieren",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-bevrijding-stadhuis",
+      "name": "De vrije radio op de Coolsingel",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-luchtspoor-aanslag",
+      "name": "Een mislukte aanslag, vijf gijzelaars",
+      "category": "story",
+      "originals": 1,
+      "pairs": 1
+    },
+    {
+      "id": "woii-burgerweeshuis",
+      "name": "De vlucht uit het Burgerweeshuis",
+      "category": "story",
+      "originals": 3,
+      "pairs": 1
+    },
+    {
+      "id": "woii-ceres",
+      "name": "Vader en zoon bij broodfabriek Ceres",
+      "category": "story",
+      "originals": 4,
+      "pairs": 1
+    },
+    {
+      "id": "woii-maas-en-rotte",
+      "name": "Maas en Rotte gered uit het puin",
+      "category": "story",
+      "originals": 3,
+      "pairs": 1
+    }
+  ],
+  "errors": [],
+  "checked": "2026-09-25",
+  "scope": "Ten minste één historisch origineel plus AI-bewerking per locatie. Aanvullende originele documentaire beelden en gedenktekens hoeven geen AI-variant te hebben.",
+  "summary": {
+    "landmarks": 67,
+    "stories": 18,
+    "locations": 85,
+    "locationsWithPair": 85,
+    "uniqueReadableImages": 387
+  },
+  "photoPoints": [
+    {
+      "parent": "luchtspoor",
+      "count": 4
+    },
+    {
+      "parent": "oude-diergaarde",
+      "count": 8
+    }
+  ]
+}
