@@ -9,8 +9,11 @@ De eigenaar bevestigde op 26 september 2026 dat **rdam39.nl** het juiste domein 
 - De repository heeft custom domain `rdam39.nl`. Daarna zijn de onderstaande website-DNS-records bij Hostnet opgeslagen, met TTL 600.
 - Beide Hostnet-nameservers en de publieke resolvers van Cloudflare en Google geven de nieuwe A-, AAAA- en www-CNAME-records terug. Nameservers, root-MX en overige mail-/TXT-records zijn behouden.
 - De oude automatische A-/AAAA-records voor root en www zijn uitgeschakeld. Het automatische null-MX-record op www is eveneens uitgeschakeld, zodat het niet conflicteert met de CNAME. De root-MX blijft `0 .`.
-- HTTPS-certificaatuitgifte en anonieme livecontrole zijn nog in uitvoering. De oude Hostnet-server gaf een zelfondertekend certificaat; lokale DNS-caches kunnen die server nog bereiken. De GitHub-URL verwijst voortaan naar het eigen domein.
-- GitHub meldde tijdens de controle **DNS check successful**, maar latere controles wisselden nog tussen correct en de oude verwijzing. De afzonderlijke HTTPS-controle zag bij de laatste controle nog een oud IP-adres (`is_non_github_pages_ip_present: true`), terwijl beide autoritatieve servers uitsluitend GitHub-adressen teruggeven. Dit past bij DNS-cacheverloop. Wijzig daarom niet opnieuw de correcte DNS om deze tijdelijke situatie op te lossen. Het controlesnapshot staat in `VERIFICATIE-DOMEIN.json`; dit bewijst nog geen werkende HTTPS-site.
+- De openbare website is **https://rdam39.nl/**. GitHub heeft een geldig Let's Encrypt-certificaat voor `rdam39.nl` en `www.rdam39.nl` uitgegeven. **Enforce HTTPS** staat aan.
+- `https://www.rdam39.nl/`, beide HTTP-adressen en het oorspronkelijke GitHub Pages-adres sturen met HTTP 301 door naar `https://rdam39.nl/`; het hoofdadres geeft HTTP 200. TLS is voor beide hostnamen gecontroleerd met de gewone certificaatvalidatie, zonder bypass.
+- De live browsercontrole is geslaagd op desktop en mobiel: 87 gebouwen/buurten, 18 verhalen, fotoparen/lichtbak, Nu 3D en geen JavaScript-/HTTP-fouten of horizontale overflow. Screenshots zijn visueel beoordeeld. Live HTML, appcode, huisstijl-CSS en catalogi zijn gelijk aan de lokale publicatiebestanden. Zie `VERIFICATIE-DOMEIN.json`.
+
+De overstap is op 26 september 2026 afgerond. Aanvankelijk zag GitHub deels oude DNS-records; toen alle gecontroleerde resolvers de juiste adressen teruggaven, bleef het certificaat nog ontbreken. Het custom domain is daarom volgens de officiële GitHub-herstelprocedure eenmalig verwijderd en direct opnieuw opgeslagen. Hierna werd het certificaat goedgekeurd en is HTTPS ingeschakeld. De Hostnet-DNS hoefde daarvoor niet opnieuw te worden gewijzigd.
 
 ## Domeinverificatie bewaren
 
@@ -44,13 +47,13 @@ Schakel de oude domeindoorsturing/automatische website-records uit, zodat deze g
 
 Behoud de nameservers en overige mail-, TXT- en verificatierecords. Controleer bij www of Hostnet naast de webrecords ook een automatisch null-MX-record toont: een CNAME mag daar niet naast andere recordtypen bestaan. Wijzig geen echte mailbestemming zonder eerst de functie vast te stellen. Er is geen domeinverhuizing of betaald hostingpakket nodig voor deze koppeling.
 
-## HTTPS en livecontrole
+## HTTPS behouden en opnieuw controleren
 
 1. Controleer de DNS bij beide Hostnet-nameservers en een publieke resolver.
 2. Wacht op de domeincontrole en certificaatuitgifte in GitHub Pages en schakel **Enforce HTTPS** in zodra beschikbaar.
 3. Controleer `https://rdam39.nl/`, `https://www.rdam39.nl/` en de HTTP-doorsturingen zonder certificaatwaarschuwing of bypass. Het hoofdadres wordt `https://rdam39.nl/`.
 4. Draai `BASE_URL=https://rdam39.nl/ npm run test:browser`, controleer desktop en mobiel en bekijk de originele/AI-foto's en Nu 3D.
-5. Werk README, publicatiedocumentatie en overdracht bij met het werkelijk gecontroleerde hoofdadres en de verificatiestatus. De oude Sites-publicatie blijft een afzonderlijke deployment.
+5. Leg een wezenlijke wijziging vast in README, publicatiedocumentatie en overdracht. De oude Sites-publicatie blijft een afzonderlijke deployment; GitHub-pushes werken alleen de GitHub-website op rdam39.nl bij.
 
 ### Vervolgcontrole via GitHub CLI
 
@@ -59,7 +62,7 @@ Gebruik een al geautoriseerd account met beheerrechten op deze repository; geen 
 ```sh
 gh api repos/lukemarcom-glitch/lukemarcom/pages
 gh api repos/lukemarcom-glitch/lukemarcom/pages/health
-# Pas zodra het certificaat beschikbaar is:
+# Alleen als HTTPS onbedoeld uit staat en het certificaat beschikbaar is:
 gh api --method PUT repos/lukemarcom-glitch/lukemarcom/pages -F https_enforced=true
 curl -I https://rdam39.nl/
 curl -I https://www.rdam39.nl/

@@ -14,7 +14,7 @@ Het snapshot komt uit broncommit `f31a1b0009b3967d5ae79233364f3c8fb4c38a2d` van 
 
 - Oorspronkelijke website: https://rotterdam-1939-en-nu.aigenwijzer.chatgpt.site/ . Deze blijft tijdens de migratie bestaan.
 - Nieuwe GitHub-repository: https://github.com/lukemarcom-glitch/lukemarcom — openbaar, gecontroleerd via de GitHub API.
-- Website-domein: `rdam39.nl` — eigendom geverifieerd, ingesteld bij GitHub Pages en DNS omgezet op 26 september 2026. Certificaatuitgifte en de HTTPS-eindcontrole zijn nog niet afgerond; zie `DOMEIN.md`.
+- Openbare website: **https://rdam39.nl/** — eigendom geverifieerd, DNS via Hostnet naar GitHub Pages, geldig certificaat voor root en www en **Enforce HTTPS** ingeschakeld. Op 26 september 2026 anoniem gecontroleerd op desktop en mobiel; zie `DOMEIN.md` en `VERIFICATIE-DOMEIN.json`.
 - Het oorspronkelijke GitHub-adres https://lukemarcom-glitch.github.io/lukemarcom/ is eerder op 26 september 2026 succesvol anoniem getest en verwijst nu naar het eigen domein. Het is geen onafhankelijke uitwijkwebsite.
 - Eerste GitHub-deployment: https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36229985267 , uit commit `73ab011db8b71884b031ef6494a515d5abb95c05`. Actuele publicaties zijn terug te vinden onder [Publish RDAM39](https://github.com/lukemarcom-glitch/lukemarcom/actions/workflows/pages.yml).
 - Lokale controle: 87 gebouwen/buurten, 18 verhalen, 233 bronfotovermeldingen en 213 AI-paren; geen ontbrekende runtimebestanden of markerregressies. Desktop, mobiele galerie/lichtbak en Nu 3D zijn op `/lukemarcom/` getest zonder JS- of HTTP-fouten.
@@ -31,7 +31,7 @@ De huidige GitHub-kopie is de werkbasis voor vervolgwerk. Wijzigingen aan oude l
 
 De moderne interface gebruikt nu de aangeleverde Aigenwijs-huisstijl; `site/aigenwijs.css` bevat de afgebakende overrides. Bron-skill, merkrichtlijnen en fontverantwoording staan in `brand/`. De makercredit is een gewone, toegankelijke link, geen tracking- of advertentiecomponent. De lokale projectcontrole, browsercontrole en visuele desktop/mobiele controle zijn geslaagd. Gepubliceerd uit commit `7d034d6a636834e96afb683b9f8ad4e74119301e` en daarna anoniem op de live-URL getest zonder browser-/HTTP-fouten. HTML, huisstijl-CSS, logo en beide fonts zijn ook inhoudelijk met de live bestanden vergeleken. Zie `VERIFICATIE-HUISSTIJL.json`.
 
-De eigenaar heeft `rdam39.nl` bevestigd als eigen domein. Het domein is geverifieerd bij GitHub, ingesteld als custom domain van deze repository en de website-DNS is bij Hostnet omgezet. De certificaatuitgifte en livecontrole zijn nog in uitvoering. Zie `DOMEIN.md` voor de exacte instellingen en resterende stappen. Deze domeinwijziging staat los van de huisstijlupdate.
+De domeinoverstap naar **https://rdam39.nl/** is afgerond. Nadat de DNS was overgenomen, is de vastgelopen certificaataanvraag via GitHub Pages opnieuw gestart. GitHub heeft een Let's Encrypt-certificaat voor `rdam39.nl` en `www.rdam39.nl` uitgegeven en HTTPS wordt afgedwongen. HTTPS/TLS, alle HTTP-/www-/GitHub-doorsturingen, de live bronbestanden en de desktop-/mobiele browsercontrole zijn geslaagd zonder certificaatbypass, JavaScript- of HTTP-fouten. De controle omvat fotoparen, lichtbak, verhalen en Nu 3D; screenshots zijn visueel beoordeeld. Bewijs staat in `VERIFICATIE-DOMEIN.json`, beheerinstructies in `DOMEIN.md`. Er is geen wijziging van de historische inhoud of extra hostingabonnement uitgevoerd.
 
 ## Vaste productkeuzes
 

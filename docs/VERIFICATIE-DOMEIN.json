@@ -1,12 +1,20 @@
 {
-  "checkedAt": "2026-09-26T09:15:53.095261+00:00",
+  "checkedAt": "2026-09-26T12:14:22.351067+00:00",
   "repository": "lukemarcom-glitch/lukemarcom",
   "pages": {
     "cname": "rdam39.nl",
-    "html_url": "http://rdam39.nl/",
+    "html_url": "https://rdam39.nl/",
     "protected_domain_state": "verified",
-    "https_enforced": false,
-    "https_certificate": null,
+    "https_enforced": true,
+    "https_certificate": {
+      "state": "approved",
+      "description": "The certificate has been approved.",
+      "domains": [
+        "rdam39.nl",
+        "www.rdam39.nl"
+      ],
+      "expires_at": "2026-12-25"
+    },
     "build_type": "workflow"
   },
   "dns": {
@@ -25,33 +33,6 @@
       ],
       "www.rdam39.nl CNAME": [
         "lukemarcom-glitch.github.io."
-      ],
-      "rdam39.nl MX": [
-        "0 ."
-      ],
-      "rdam39.nl TXT": [
-        "\"v=spf1 a mx include:_spf.hostnet.nl -all\""
-      ],
-      "_dmarc.rdam39.nl TXT": [
-        "\"v=DMARC1; p=reject\""
-      ],
-      "_github-pages-challenge-lukemarcom-glitch.rdam39.nl TXT": [
-        "\"d255cff1cd52018e218def5d4ef03a\""
-      ],
-      "_autodiscover._tcp.rdam39.nl SRV": [
-        "40 10 443 autodiscover.hostnet.nl."
-      ],
-      "autoconfig.rdam39.nl CNAME": [
-        "autodiscover.hostnet.nl."
-      ],
-      "webmail.rdam39.nl CNAME": [
-        "ox.hostnet.nl."
-      ],
-      "www.webmail.rdam39.nl CNAME": [
-        "ox.hostnet.nl."
-      ],
-      "autocluster.rdam39.nl TXT": [
-        "\"1\""
       ]
     },
     "ns02.hostnet.nl": {
@@ -69,52 +50,160 @@
       ],
       "www.rdam39.nl CNAME": [
         "lukemarcom-glitch.github.io."
+      ]
+    },
+    "1.1.1.1": {
+      "rdam39.nl A": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.110.153",
+        "185.199.111.153"
       ],
-      "rdam39.nl MX": [
-        "0 ."
+      "rdam39.nl AAAA": [
+        "2606:50c0:8000::153",
+        "2606:50c0:8001::153",
+        "2606:50c0:8002::153",
+        "2606:50c0:8003::153"
       ],
-      "rdam39.nl TXT": [
-        "\"v=spf1 a mx include:_spf.hostnet.nl -all\""
+      "www.rdam39.nl CNAME": [
+        "lukemarcom-glitch.github.io."
+      ]
+    },
+    "8.8.8.8": {
+      "rdam39.nl A": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.110.153",
+        "185.199.111.153"
       ],
-      "_dmarc.rdam39.nl TXT": [
-        "\"v=DMARC1; p=reject\""
+      "rdam39.nl AAAA": [
+        "2606:50c0:8000::153",
+        "2606:50c0:8001::153",
+        "2606:50c0:8002::153",
+        "2606:50c0:8003::153"
       ],
-      "_github-pages-challenge-lukemarcom-glitch.rdam39.nl TXT": [
-        "\"d255cff1cd52018e218def5d4ef03a\""
-      ],
-      "_autodiscover._tcp.rdam39.nl SRV": [
-        "40 10 443 autodiscover.hostnet.nl."
-      ],
-      "autoconfig.rdam39.nl CNAME": [
-        "autodiscover.hostnet.nl."
-      ],
-      "webmail.rdam39.nl CNAME": [
-        "ox.hostnet.nl."
-      ],
-      "www.webmail.rdam39.nl CNAME": [
-        "ox.hostnet.nl."
-      ],
-      "autocluster.rdam39.nl TXT": [
-        "\"1\""
+      "www.rdam39.nl CNAME": [
+        "lukemarcom-glitch.github.io."
       ]
     }
   },
-  "githubHealth": {
-    "domain": {
-      "host": "rdam39.nl",
-      "is_valid": false,
-      "is_https_eligible": false,
-      "is_non_github_pages_ip_present": true,
-      "is_served_by_pages": false,
-      "caa_error": null
+  "tls": {
+    "rdam39.nl": {
+      "verified": true,
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "YR1"
+          ]
+        ]
+      ],
+      "names": [
+        [
+          "DNS",
+          "rdam39.nl"
+        ],
+        [
+          "DNS",
+          "www.rdam39.nl"
+        ]
+      ],
+      "expires": "Dec 25 11:13:12 2026 GMT"
     },
-    "alt_domain": {
-      "host": "www.rdam39.nl",
-      "is_valid": false,
-      "is_https_eligible": true,
-      "is_non_github_pages_ip_present": false,
-      "is_served_by_pages": false,
-      "caa_error": null
+    "www.rdam39.nl": {
+      "verified": true,
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "YR1"
+          ]
+        ]
+      ],
+      "names": [
+        [
+          "DNS",
+          "rdam39.nl"
+        ],
+        [
+          "DNS",
+          "www.rdam39.nl"
+        ]
+      ],
+      "expires": "Dec 25 11:13:12 2026 GMT"
+    }
+  },
+  "redirects": [
+    {
+      "url": "https://rdam39.nl/",
+      "status": "HTTP/2 200 ",
+      "location": null
+    },
+    {
+      "url": "https://www.rdam39.nl/",
+      "status": "HTTP/2 301 ",
+      "location": "https://rdam39.nl/"
+    },
+    {
+      "url": "http://rdam39.nl/",
+      "status": "HTTP/1.1 301 Moved Permanently",
+      "location": "https://rdam39.nl/"
+    },
+    {
+      "url": "http://www.rdam39.nl/",
+      "status": "HTTP/1.1 301 Moved Permanently",
+      "location": "https://rdam39.nl/"
+    },
+    {
+      "url": "https://lukemarcom-glitch.github.io/lukemarcom/",
+      "status": "HTTP/2 301 ",
+      "location": "https://rdam39.nl/"
+    }
+  ],
+  "liveFiles": {
+    "index.html": {
+      "matchesLocal": true,
+      "sha256": "84fe5cf611f5ab11166fe90ed59abc87f707ef725d5bc17aa02acf721ab2ecff"
+    },
+    "app.js": {
+      "matchesLocal": true,
+      "sha256": "77980e278a847fe952025f3d5b66ab97ba9bac62695dbb1e36adfe2836f0449c"
+    },
+    "aigenwijs.css": {
+      "matchesLocal": true,
+      "sha256": "14602845792fd55cb03a3bc58b010620a6fe9a9f59c2b747efe75b0042f2ef17"
+    },
+    "landmarks/catalog.json": {
+      "matchesLocal": true,
+      "sha256": "1c7470b07d3e9bee9ec1b329c2eb22b5a6c3f4850c4ff33bd0518ca6edc11428"
+    },
+    "stories/catalog.json": {
+      "matchesLocal": true,
+      "sha256": "3d2de6cf9fd68409b29ae751fc155c8ab0f5b3acdef3bae8822aac6528982b63"
     }
   },
   "projectCheck": {
@@ -125,12 +214,18 @@
     "markerTestsPassed": 3
   },
   "browserCheckOnCustomDomain": {
-    "completed": false,
-    "reason": "GitHub heeft nog geen certificaat uitgegeven. Geen certificaatcontrole overgeslagen."
+    "base": "https://rdam39.nl/",
+    "buildings": 87,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
   },
-  "pending": [
-    "Wacht totdat GitHub voor beide hostnamen https-eligible meldt en het certificaat is uitgegeven.",
-    "Schakel Enforce HTTPS in en controleer HTTP- en www-doorsturing.",
-    "Draai de browsercontrole op https://rdam39.nl/ en bekijk desktop en mobiel."
-  ]
+  "pending": []
 }

@@ -3,7 +3,7 @@
 
 Interactieve kaart van vooroorlogs Rotterdam. Bekijk historische gebouwen en buurten in 3D, vergelijk archiefbeelden met duidelijk gemarkeerde AI-bewerkingen en wissel naar de huidige stad. WOII-verhalen hebben eigen bronnen en historische locatieankers.
 
-**Website:** de openbare site verhuist naar **rdam39.nl**. De GitHub- en DNS-koppeling staan goed; het HTTPS-certificaat en de eindcontrole zijn nog in behandeling. Zie [domeinstatus](docs/DOMEIN.md) en [publicatiestatus](docs/OVERDRACHT.md). Het oorspronkelijke GitHub Pages-adres verwijst naar het eigen domein.
+**Website:** [rdam39.nl](https://rdam39.nl/) — openbaar toegankelijk, zonder account en met HTTPS. Het www-adres en het oorspronkelijke GitHub Pages-adres verwijzen hiernaar. Zie [domeininstellingen](docs/DOMEIN.md) en [publicatiestatus](docs/OVERDRACHT.md).
 
 **Verder in Claude:** [startinstructies en een kopieerbare opdracht](docs/CLAUDE-START.md).
 

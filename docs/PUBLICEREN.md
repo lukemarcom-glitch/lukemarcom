@@ -5,7 +5,7 @@ De publicatiemap is **`site/`**. Upload deze map als statische website. Er is ge
 ## GitHub Pages
 
 Repository: `lukemarcom-glitch/lukemarcom`.
-Custom domain: `rdam39.nl`; DNS is omgezet, HTTPS-certificaatuitgifte en eindcontrole zijn nog niet afgerond. Zie [domeinstatus](DOMEIN.md).
+Openbare website: **https://rdam39.nl/**. Domein, geldig HTTPS-certificaat en verplichte HTTPS-doorsturing zijn gecontroleerd op 26 september 2026. Zie [domeininstellingen](DOMEIN.md).
 Het oorspronkelijke GitHub Pages-adres `https://lukemarcom-glitch.github.io/lukemarcom/` verwijst nu naar het eigen domein en is geen onafhankelijke uitwijkwebsite.
 De eerste deployment is geslaagd en openbaar getest; zie `OVERDRACHT.md` en `VERIFICATIE-GITHUB.json`. Controleer na iedere nieuwe wijziging opnieuw de bijbehorende Actions-run en het openbare adres.
 
@@ -20,7 +20,7 @@ Officiële uitleg: https://docs.github.com/en/pages/getting-started-with-github-
 
 ## Eigen domein
 
-De eigenaar koos `rdam39.nl`. Domeinverificatie en DNS-koppeling zijn afgerond; HTTPS en de eindcontrole staan nog open. Zie [domeinstatus en instellingen](DOMEIN.md).
+De eigenaar koos `rdam39.nl`. Domeinverificatie, DNS-koppeling, HTTPS en de anonieme desktop-/mobiele eindcontrole zijn afgerond. GitHub beheert het certificaat; **Enforce HTTPS** blijft ingeschakeld. Zie [domeininstellingen](DOMEIN.md) en [controlebewijs](VERIFICATIE-DOMEIN.json).
 
 ## Veilige updates
 
