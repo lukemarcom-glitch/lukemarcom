@@ -17,6 +17,10 @@ GitHub Pages is gratis voor openbare repositories. Voor een privérepository is 
 
 Officiële uitleg: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages . Gepubliceerde site maximaal 1 GB; zachte bandbreedtelimiet 100 GB/maand. De migratieversie is ongeveer 245 MiB. Bij aanzienlijke groei vooral beeldoptimalisatie/caching en eventueel aparte assethosting onderzoeken.
 
+## Eigen domein
+
+De eigenaar koos `rdam39.nl`. De overstap is nog niet afgerond; zie [domeinstatus en instellingen](DOMEIN.md).
+
 ## Veilige updates
 
 ```sh
