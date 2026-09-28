@@ -1,0 +1,88 @@
+{
+  "release": "c6dd093b705ec4045642a8be43899cc5c50d9e4a",
+  "url": "https://rdam39.nl/",
+  "pagesRun": 36481677275,
+  "checkRun": 36481677336,
+  "deploymentStatus": "success",
+  "files": [
+    {
+      "path": "index.html",
+      "httpStatus": 200,
+      "sha256": "cb4f24759bde1c4532b03b5fd7420bd5e1f514d412c96d0b4b2f9a5300f2bb9f",
+      "equalsLocal": true
+    },
+    {
+      "path": "app.js",
+      "httpStatus": 200,
+      "sha256": "3bbdbdd34911d7e6cd1ac92671c689abf369f13c4f52e8b1587bb000b2cf0664",
+      "equalsLocal": true
+    },
+    {
+      "path": "sources.js",
+      "httpStatus": 200,
+      "sha256": "b71a931723b6991632dd9396dc28f982512f329f1d50d5f9b8ab4150cdb48464",
+      "equalsLocal": true
+    },
+    {
+      "path": "sources.css",
+      "httpStatus": 200,
+      "sha256": "e7bd00367fe772bf64acb379dd2e401e290c02f99f1ebcb58bfa86cf3bdf7392",
+      "equalsLocal": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "httpStatus": 200,
+      "sha256": "c0f10d9257ca9954e0cbeefe514912a4bd56eff3cdd1f273db274b79d61fcf52",
+      "equalsLocal": true
+    },
+    {
+      "path": "landmarks/panel.js",
+      "httpStatus": 200,
+      "sha256": "0df50061753bfa413a092c6d05116a442b6375a7fa0ac2f2ca289498d7c55818",
+      "equalsLocal": true
+    },
+    {
+      "path": "stories/catalog.json",
+      "httpStatus": 200,
+      "sha256": "cedc5a4b7a785c5b5bc3f1d5a737d32851b429725a9dd3d68e91dd24eddf8f30",
+      "equalsLocal": true
+    },
+    {
+      "path": "stories/panel.js",
+      "httpStatus": 200,
+      "sha256": "d0d2ded094987165c6750b368cd33299e0854f023f085748f2bc0be16d2c71a2",
+      "equalsLocal": true
+    },
+    {
+      "path": "stories/gallery.js",
+      "httpStatus": 200,
+      "sha256": "3760d4965158c640125b74caa7a5f12eaf5ab108672c11b27f0eed5fbce68cf7",
+      "equalsLocal": true
+    }
+  ],
+  "browser": {
+    "base": "https://rdam39.nl/",
+    "locations": 125,
+    "photos": 253,
+    "ai": 233,
+    "allCreditsMatchCatalog": true,
+    "allSourceListsVisible": true,
+    "mobileOverflow": false,
+    "fullscreenCredits": true,
+    "errors": []
+  },
+  "generalBrowser": {
+    "base": "https://rdam39.nl/",
+    "buildings": 107,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  }
+}
