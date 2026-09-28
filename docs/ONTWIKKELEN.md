@@ -81,3 +81,9 @@ BASE_URL=http://127.0.0.1:8765/lukemarcom/ npm run test:browser
 ```
 
 De browsercontrole schrijft screenshots in `artifacts/`, controleert laden, fotoparen/lichtbak, Nu 3D, mobiele overflow en browserfouten. Bekijk die afbeeldingen ook zelf. Veranderende aantallen worden uit de catalogi gelezen; er zijn geen hard gecodeerde oude totalen.
+
+## GPS / locatie op verzoek
+
+`site/location.js` bevat de afstandstoets en eenmalige locatiebediening; `site/location.css` de bediening en stip. `app.js` integreert de markerprojectie in iedere renderframe en verplaatst alleen het cameradoel. Gebruikerscoördinaten nooit opslaan, loggen of doorsturen. De huidige GPS-grens is de **voorlopige werkgrens** plus 500 m; geen claim van een ingemeten brandgrens. Zie de overdracht voor de onderzochte bronnen.
+
+Gerichte regressiecontrole: `CHROME_PATH=/pad/naar/chrome node scripts/location-browser-check.mjs`. `BASE_URL` kan naar localhost, een subpad of de openbare site wijzen. Browserposities worden gesimuleerd; dit is geen echte buitentest. Afstands- en nauwkeurigheidstests draaien automatisch mee in `npm run check`.

@@ -1,3 +1,4 @@
+import {createLocationControl} from './location.js?v=1';
 import {resolveStoryLocations} from './stories/locations.js?v=city-33';
 import {layoutMarkers} from './marker-layout.js?v=city-33';
 import * as THREE from './vendor/three.module.js';
@@ -113,6 +114,15 @@ async function start(){
   flight={type:'north',start:performance.now(),target,radius:spherical.radius,phi:spherical.phi,theta:spherical.theta};
  }
  $('north-reset').onclick=alignNorth;
+ const locationControl=createLocationControl({THREE,scene,camera,model,panTo(point){
+  // Preserve the complete camera offset: GPS cannot zoom, tilt or rotate the map.
+  const target=controls.target.clone(),position=camera.position.clone(),damping=controls.enableDamping;
+  flight=null;controls.enableDamping=false;controls.update();controls.target.copy(target);camera.position.copy(position);controls.enableDamping=damping;
+  const xs=model.mapCorners.map(p=>p[0]),ys=model.mapCorners.map(p=>p[1]);
+  const x=Math.max(Math.min(...xs)+50,Math.min(Math.max(...xs)-50,point[0]));
+  const y=Math.max(Math.min(...ys)+50,Math.min(Math.max(...ys)-50,point[1]));
+  move(new THREE.Vector3(x,target.y,-y),position.sub(target));
+ }});
  function zoom(factor){const distance=camera.position.distanceTo(controls.target);const delta=camera.position.clone().sub(controls.target).multiplyScalar(Math.max(controls.minDistance,Math.min(controls.maxDistance,distance*factor))/distance);move(controls.target.clone(),delta)}
  $('zoom-in').onclick=()=>zoom(.72);$('zoom-out').onclick=()=>zoom(1.38);
  $('about-open').onclick=()=>$('about').showModal();$('about-close').onclick=()=>$('about').close();$('about').onclick=e=>{if(e.target===$('about')){const r=$('about').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('about').close()}};
@@ -140,7 +150,7 @@ async function start(){
    if(t===1)flight=null;
   }
   controls.update();renderer.render(scene,camera);
-  const w=$('scene').clientWidth,h=$('scene').clientHeight;const mobile=w<700;
+  const w=$('scene').clientWidth,h=$('scene').clientHeight;const mobile=w<700;locationControl.update(w,h);
   const occupied=layoutMarkers(panel.markers,camera,controls,era,w,h,$('show-labels').checked,THREE);
   for(const label of (era==='now'&&modern?modern.labels:labels)){const p=label.position.clone().project(camera);const x=(p.x+1)/2*w,y=(1-p.y)/2*h;
    const occluded=(x>w-310&&y<570)||(x<300&&y<230)||(mobile&&(y>h-200||y<135));
