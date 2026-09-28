@@ -1,0 +1,180 @@
+{
+  "release": "63b0995",
+  "url": "https://rdam39.nl/",
+  "catalogCount": 107,
+  "newLocations": [
+    "lampe-hoogstraat",
+    "lucardie-grotemarkt",
+    "hotel-gouden-hert",
+    "amsterdamsche-bank-coolsingel",
+    "hotel-coomans",
+    "laurentius-houttuin",
+    "bervoets-heerenstraat",
+    "hofje-gerrit-de-koker",
+    "sint-laurenshofje",
+    "cafetaria-ruttens"
+  ],
+  "assets": [
+    {
+      "path": "landmarks/lampe-hoogstraat/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/lampe-hoogstraat/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/lampe-hoogstraat/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/lucardie-grotemarkt/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/lucardie-grotemarkt/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/lucardie-grotemarkt/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/hotel-gouden-hert/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/hotel-gouden-hert/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/hotel-gouden-hert/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/amsterdamsche-bank-coolsingel/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/amsterdamsche-bank-coolsingel/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/amsterdamsche-bank-coolsingel/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/hotel-coomans/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/hotel-coomans/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/hotel-coomans/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/laurentius-houttuin/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/laurentius-houttuin/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/laurentius-houttuin/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/bervoets-heerenstraat/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/bervoets-heerenstraat/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/bervoets-heerenstraat/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/hofje-gerrit-de-koker/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/hofje-gerrit-de-koker/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/hofje-gerrit-de-koker/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/sint-laurenshofje/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/sint-laurenshofje/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/sint-laurenshofje/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "path": "landmarks/cafetaria-ruttens/model.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "landmarks/cafetaria-ruttens/foto-1-origineel.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "path": "landmarks/cafetaria-ruttens/foto-1-ai.webp",
+      "status": 200,
+      "type": "image/webp"
+    }
+  ],
+  "actionsRun": 36448298580,
+  "browser": {
+    "url": "https://rdam39.nl/",
+    "errors": [],
+    "newModelsVisible": 10,
+    "photoPairsLoaded": 10,
+    "mobileViewport": [
+      390,
+      844
+    ]
+  }
+}
