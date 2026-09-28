@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-28",
+  "url": "https://rdam39.nl/",
+  "commit": "2672b3f3472e5cf09848eb182c54ef5fa400fd2e",
+  "workflow": "https://github.com/lukemarcom-glitch/lukemarcom/actions/runs/36433124207",
+  "deployment": "success",
+  "buildings": 97,
+  "stories": 18,
+  "newLocations": [
+    {
+      "id": "grand-hotel-central",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "ooglijdersgesticht",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "bank-mees-beursplein",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "vroom-dreesmann-binnenweg",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "leeskabinet-geldersekade",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "bijbank-boompjes",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "nieuwsblad-slagveld",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "amsterdamsche-bank-oostplein",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "twentsche-noordblaak",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    },
+    {
+      "id": "van-nelle-leuvehaven",
+      "modelPresent": true,
+      "modelVisible": true,
+      "originalAndAiLoaded": true
+    }
+  ],
+  "newGlbByteComparison": true,
+  "browserErrors": [],
+  "generalBrowserCheck": {
+    "httpErrors": [],
+    "javascriptErrors": [],
+    "mobileOverflow": false,
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "limitations": [
+    "Schematische hoofdvolumes; hoogten, diepten, onbekende gevels en exacte kleuren zijn geen ingemeten bewijs.",
+    "Twentsche Bank gebruikt een nachtelijk geveldetail; dak en perceel hebben lagere zekerheid.",
+    "Bijbank-AI wijkt af in gevelopschrift, vermeld bij het beeld."
+  ]
+}

@@ -76,4 +76,4 @@ Bronnen, licenties, fotodata, locatie- en kleuronzekerheden staan in `site/landm
 
 De bestaande kaart blijft behouden. Achtergrondbebouwing opnieuw uit de oorspronkelijke contouren geknipt, met 4 m vrijruimte bij de tien modellen. Geen geometrische overlap met andere landmarkmodellen. De generieke gevelgenerator ondersteunt nu ook afzonderlijke boogramen voor het Leeskabinet.
 
-Lokale inhoudscontrole, markerregressies, algemene desktop/mobiele browsercontrole en gerichte controle van alle tien modellen en fotoparen geslaagd. Publicatie wordt na de push apart geverifieerd.
+Lokale inhoudscontrole, markerregressies, algemene desktop/mobiele browsercontrole en gerichte controle van alle tien modellen en fotoparen geslaagd. Gepubliceerd via Actions-run 36433124207 uit commit `2672b3f3472e5cf09848eb182c54ef5fa400fd2e`. Op https://rdam39.nl/ anoniem gecontroleerd: 97 locaties in de gebouwencatalogus, alle tien nieuwe fotoparen geladen, alle tien GLB-bestanden bytegelijk aan lokaal, Nu 3D en mobiele galerie/lichtbak zonder JS-/HTTP-fouten. Zie `VERIFICATIE-UITBREIDING-20260928.json`.
