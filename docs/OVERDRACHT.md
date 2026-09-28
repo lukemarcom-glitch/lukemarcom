@@ -77,3 +77,14 @@ Bronnen, licenties, fotodata, locatie- en kleuronzekerheden staan in `site/landm
 De bestaande kaart blijft behouden. Achtergrondbebouwing opnieuw uit de oorspronkelijke contouren geknipt, met 4 m vrijruimte bij de tien modellen. Geen geometrische overlap met andere landmarkmodellen. De generieke gevelgenerator ondersteunt nu ook afzonderlijke boogramen voor het Leeskabinet.
 
 Lokale inhoudscontrole, markerregressies, algemene desktop/mobiele browsercontrole en gerichte controle van alle tien modellen en fotoparen geslaagd. Gepubliceerd via Actions-run 36433124207 uit commit `2672b3f3472e5cf09848eb182c54ef5fa400fd2e`. Op https://rdam39.nl/ anoniem gecontroleerd: 97 locaties in de gebouwencatalogus, alle tien nieuwe fotoparen geladen, alle tien GLB-bestanden bytegelijk aan lokaal, Nu 3D en mobiele galerie/lichtbak zonder JS-/HTTP-fouten. Zie `VERIFICATIE-UITBREIDING-20260928.json`.
+
+
+## 28 september 2026 — tien aanvullende gebouwen, ronde B
+
+Toegevoegd: Warenhuis Gebr. Lampe, Juwelier Lucardie, Hotel Het Gouden Hert, Amsterdamsche Bank Coolsingel, Grand Hotel Coomans, Sint-Laurentiuskerk Houttuin, Bervoets Heerenstraat, Hofje Gerrit de Koker, Sint-Laurenshofje en Cafetaria Ruttens. Totaal 107 locaties, 18 verhalen, 253 fotovermeldingen en 233 origineel/AI-paren. De twee laatste locaties met panoramabeeld delen dezelfde bronopname; dit zijn geen tien unieke foto-opnames.
+
+Elk nieuw item heeft een zichtbaar city33-model, GLB, verhaal, bron-/rechtenmetadata, prompt en fotopaar. De generieke Goudsesingel-straatwand is verplaatst naar de gedocumenteerde winkelwand ten westen van de Hoveniersstraat, zodat de twee hofjes zelfstandig kunnen worden getoond. Eerdere plaatsing/modelparameters zijn in de catalogus bewaard. Alle nieuwe footprints passen binnen de bestaande werkgrens; geen overlap met andere zelfstandige modellen. Achtergrond opnieuw uitgesneden uit de oorspronkelijke contouren.
+
+Historische beperkingen: plaatsing circa 10–15 m onzeker; geen ingemeten modellen. Hofjes alleen met voorgebouwen, zonder verzonnen binnenplaatsen. Gouden Hert toont een ouder hotelpand (foto 1911–1912, vóór demping); bedrijfsgebruik in 1939 is niet bevestigd. Boskes kerkfoto is al in kleur: AI-versie betreft herstel. Panoramabeeld behoudt de oorspronkelijke fotografische naden. Zie `site/landmarks/expansion-20260928-b-sources.md`.
+
+Lokaal gecontroleerd: `npm run check`, algemene browsercontrole met desktop/mobiel, alle tien nieuwe modellen en fotoparen afzonderlijk. Publicatiestatus volgt na Actions en anonieme livecontrole.

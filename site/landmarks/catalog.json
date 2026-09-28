@@ -14074,13 +14074,233 @@
   {
     "id": "goudsesingel-markt",
     "center": [
-      180.74787305156954,
-      643.2706782174671
+      114.84545786327052,
+      656.7965731863794
     ],
-    "angle": -0.1679078143907618,
-    "modelWidth": 50.53518892736274,
-    "modelDepth": 20,
+    "angle": -0.25219689211002305,
+    "modelWidth": 32.24933758158834,
+    "modelDepth": 17,
     "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": -8.062334395397086,
+          "z": 0.0,
+          "w": 16.044668790794173,
+          "d": 17,
+          "h": 13.5,
+          "floors": 3,
+          "bays": 4,
+          "roof": "hip",
+          "roofHeight": 2.8,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true
+        },
+        {
+          "x": 8.062334395397086,
+          "z": 0.0,
+          "w": 16.044668790794173,
+          "d": 17,
+          "h": 14,
+          "floors": 3,
+          "bays": 4,
+          "roof": "hip",
+          "roofHeight": 2.8,
+          "wall": "brick2",
+          "gableWall": "brick2",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3100,
+        1338
+      ],
+      [
+        3152,
+        1352
+      ]
+    ],
+    "frontage": [
+      [
+        97.1098461167062,
+        652.5890775431326
+      ],
+      [
+        128.33902634814626,
+        644.5418372383151
+      ]
+    ],
+    "placementNote": "Straatwand ten westen van Hoveniersstraat. Eerdere generieke volumes op het Gerrit-de-Kokerhofje vervangen door de afzonderlijke hofjemodellen.",
+    "uncertaintyMeters": 7,
+    "polygon": [
+      [
+        128.69565071977217,
+        643.8819743301574
+      ],
+      [
+        112.09332670857344,
+        648.1601170782674
+      ],
+      [
+        96.47873659285341,
+        652.1837372306761
+      ],
+      [
+        100.9952650067689,
+        669.7111720426014
+      ],
+      [
+        117.59758901796761,
+        665.4330292944915
+      ],
+      [
+        133.21217913368764,
+        661.4094091420827
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        128.69565071977217,
+        643.8819743301574
+      ],
+      [
+        112.09332670857344,
+        648.1601170782674
+      ],
+      [
+        96.47873659285341,
+        652.1837372306761
+      ],
+      [
+        100.9952650067689,
+        669.7111720426014
+      ],
+      [
+        117.59758901796761,
+        665.4330292944915
+      ],
+      [
+        133.21217913368764,
+        661.4094091420827
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          101.31874058020009,
+          669.1631177082573
+        ],
+        [
+          117.0495346836235,
+          665.1095537210603
+        ],
+        [
+          112.75758503062093,
+          648.4536488169102
+        ],
+        [
+          97.02679092719751,
+          652.5072128041073
+        ]
+      ],
+      [
+        [
+          116.93333069592012,
+          665.1394975558486
+        ],
+        [
+          132.66412479934354,
+          661.0859335686515
+        ],
+        [
+          128.37217514634096,
+          644.4300286645015
+        ],
+        [
+          112.64138104291754,
+          648.4835926516986
+        ]
+      ]
+    ],
+    "height": 16.8,
+    "cameraDistance": 100,
+    "name": "Goudsesingel — markt en winkelwand",
+    "modelFamily": "city33",
+    "kind": "streetscape",
+    "backgroundClearance": 2,
+    "story": "De Goudsesingel bood ruimte aan de weekmarkt en verbond een dicht netwerk van winkelstraten en woonbuurten. Het brede panorama van Heymans uit 1939 laat die schaal zien: marktverkeer op de voorgrond, daarachter een aaneengesloten wand van smalle huizen, winkels en grotere panden. Het Stadsarchief noemt bij de kruising met de Jonker Fransstraat cafetaria Ruttens en sigarenwinkel Weinthal & Co. Voor deze plek is de noordelijke winkelwand direct ten oosten van de Jonker Fransstraat gekozen. De oudere prentbriefkaart toont dezelfde kruising vanaf een andere zijde; zij bewijst niet dat alle gevels tot 1939 ongewijzigd bleven.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Goudsesingel",
+    "colorNote": "AI-inkleuring is een interpretatie. De oorspronkelijke kleuren zijn niet met kleurenfoto’s of materiaalonderzoek bewezen. Gebruik het archiefbeeld als bewijs voor vormen en opschriften; kleine details in de AI-versie kunnen afwijken.",
+    "periodNote": "Historische deelreconstructie van vóór mei 1940. De foto vermeldt het eigen bronjaar; eerdere bouwfasen kunnen verschillen van 1939.",
+    "description": "Een lichte deelreconstructie op de oorspronkelijke straatlocatie, met gevelritme, hoofdvolumes en dakvormen naar de archieffoto’s. Het model toont een beperkt fragment. Hoogten, individuele perceelbreedten en niet zichtbare achtergevels zijn benaderingen; geen ingemeten reconstructie.",
+    "sourceRegister": "landmarks/city33-sources.md",
+    "sources": [
+      {
+        "title": "Archiefbron — Panorama van de Goudsesingel met links de Heerenstraat en Jonker Fransstraat en rechts de Hoveniersstraat, hofje van Gerrit de Koker, Sint-Laurenshofje, Schoolstraat en Van Alkemadestraat 1939",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31"
+      },
+      {
+        "title": "Wikimedia Commons — beeld en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Panorama_van_de_Goudsesingel_met_links_de_Heerenstraat_en_Jonker_Fransstraat_en_rechts_de_Hoveniersstraat%2C_hofje_van_Gerrit_de_Koker%2C_Sint-Laurenshofje%2C_Schoolstraat_en_Van_Alkemadestraat_1939.jpg"
+      },
+      {
+        "title": "Extra archiefbeeld: Goudsesingel bij Heerenstraat, met Gebroeders Bervoets en café Heijer · 1910",
+        "url": "https://hdl.handle.net/21.12133/C0BA9283BDA44491B756B39521B3B4B1"
+      },
+      {
+        "title": "Historische stadskaart met de toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "photos": [
+      {
+        "title": "Panorama Goudsesingel, kruising Meent en Jonker Fransstraat",
+        "date": "1939",
+        "author": "Heymans Fotohandel",
+        "license": "Publiek domein (PDM 1.0; Stadsarchief Rotterdam)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31",
+        "src": "landmarks/goudsesingel-markt/foto-1-origineel.webp",
+        "ai": "landmarks/goudsesingel-markt/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een interpretatie. De oorspronkelijke kleuren zijn niet met kleurenfoto’s of materiaalonderzoek bewezen. Gebruik het archiefbeeld als bewijs voor vormen en opschriften; kleine details in de AI-versie kunnen afwijken. De AI-uitvoer bewaart het zeer brede panorama binnen een hoger beeldvlak met witte marges. Kleine winkelteksten niet als historische transcriptie gebruiken."
+      }
+    ],
+    "previousFrontagePixels": [
+      [
+        3195,
+        1364
+      ],
+      [
+        3278,
+        1379
+      ]
+    ],
+    "previousModelSpec": {
       "colors": {
         "brick": "#89684f",
         "brick2": "#78604e",
@@ -14461,278 +14681,7 @@
           "material": "dark"
         }
       ]
-    },
-    "frontagePixels": [
-      [
-        3195,
-        1364
-      ],
-      [
-        3278,
-        1379
-      ]
-    ],
-    "frontage": [
-      [
-        154.16442808204556,
-        637.6340317381008
-      ],
-      [
-        203.98891894050303,
-        629.1885932876867
-      ]
-    ],
-    "placementNote": "Noordelijke gevelwand aan de Goudsesingel, direct ten oosten van de Jonker Fransstraat. Het panorama is genomen vanaf de zuidzijde en toont de markt vóór de winkels. Het model beperkt zich tot dit ene blok; winkel Ruttens aan de andere kant van de Jonker Fransstraat is niet als duplicaat opgenomen. Gevelbreedten, bouwhoogten en losse marktkramen zijn benaderingen.",
-    "uncertaintyMeters": 7,
-    "polygon": [
-      [
-        204.39983061672007,
-        628.5610969973801
-      ],
-      [
-        197.8439765563967,
-        629.6723388987504
-      ],
-      [
-        196.83832125453023,
-        629.8428012518605
-      ],
-      [
-        171.48829754357703,
-        634.1397255410737
-      ],
-      [
-        153.56968445639612,
-        637.1769978009044
-      ],
-      [
-        157.09591548641905,
-        657.9802594375541
-      ],
-      [
-        167.5852819829364,
-        656.2022723953617
-      ],
-      [
-        194.81435352609628,
-        651.5868424367704
-      ],
-      [
-        207.926061646743,
-        649.3643586340298
-      ]
-    ],
-    "exclusionPolygon": [
-      [
-        204.39983061672007,
-        628.5610969973801
-      ],
-      [
-        197.8439765563967,
-        629.6723388987504
-      ],
-      [
-        196.83832125453023,
-        629.8428012518605
-      ],
-      [
-        171.48829754357703,
-        634.1397255410737
-      ],
-      [
-        153.56968445639612,
-        637.1769978009044
-      ],
-      [
-        157.09591548641905,
-        657.9802594375541
-      ],
-      [
-        167.5852819829364,
-        656.2022723953617
-      ],
-      [
-        194.81435352609628,
-        651.5868424367704
-      ],
-      [
-        207.926061646743,
-        649.3643586340298
-      ]
-    ],
-    "footprints": [
-      [
-        [
-          157.46438296381157,
-          657.461384001535
-        ],
-        [
-          168.07206184878382,
-          655.663342564859
-        ],
-        [
-          164.69623877738744,
-          635.747423841621
-        ],
-        [
-          154.0885598924152,
-          637.5454652782969
-        ]
-      ],
-      [
-        [
-          167.95374946032894,
-          655.6833969593425
-        ],
-        [
-          174.62791590910714,
-          654.5521006634887
-        ],
-        [
-          171.25209283771076,
-          634.6361819402506
-        ],
-        [
-          164.57792638893255,
-          635.7674782361045
-        ]
-      ],
-      [
-        [
-          174.50960352065226,
-          654.5721550579723
-        ],
-        [
-          181.1837699694305,
-          653.4408587621184
-        ],
-        [
-          177.80794689803412,
-          633.5249400388803
-        ],
-        [
-          171.13378044925588,
-          634.6562363347342
-        ]
-      ],
-      [
-        [
-          181.06545758097562,
-          653.4609131566019
-        ],
-        [
-          187.73962402975386,
-          652.3296168607482
-        ],
-        [
-          184.36380095835747,
-          632.4136981375101
-        ],
-        [
-          177.68963450957924,
-          633.5449944333639
-        ]
-      ],
-      [
-        [
-          187.62131164129897,
-          652.3496712552317
-        ],
-        [
-          194.2954780900772,
-          651.2183749593778
-        ],
-        [
-          190.91965501868083,
-          631.3024562361397
-        ],
-        [
-          184.2454885699026,
-          632.4337525319936
-        ]
-      ],
-      [
-        [
-          194.17716570162233,
-          651.2384293538614
-        ],
-        [
-          200.85133215040057,
-          650.1071330580075
-        ],
-        [
-          197.47550907900418,
-          630.1912143347695
-        ],
-        [
-          190.80134263022595,
-          631.3225106306234
-        ]
-      ],
-      [
-        [
-          200.73301976194568,
-          650.1271874524911
-        ],
-        [
-          207.40718621072392,
-          648.9958911566373
-        ],
-        [
-          204.03136313932754,
-          629.0799724333992
-        ],
-        [
-          197.3571966905493,
-          630.211268729253
-        ]
-      ]
-    ],
-    "height": 17.0,
-    "cameraDistance": 126.33797231840686,
-    "name": "Goudsesingel — markt en winkelwand",
-    "modelFamily": "city33",
-    "kind": "streetscape",
-    "backgroundClearance": 2,
-    "story": "De Goudsesingel bood ruimte aan de weekmarkt en verbond een dicht netwerk van winkelstraten en woonbuurten. Het brede panorama van Heymans uit 1939 laat die schaal zien: marktverkeer op de voorgrond, daarachter een aaneengesloten wand van smalle huizen, winkels en grotere panden. Het Stadsarchief noemt bij de kruising met de Jonker Fransstraat cafetaria Ruttens en sigarenwinkel Weinthal & Co. Voor deze plek is de noordelijke winkelwand direct ten oosten van de Jonker Fransstraat gekozen. De oudere prentbriefkaart toont dezelfde kruising vanaf een andere zijde; zij bewijst niet dat alle gevels tot 1939 ongewijzigd bleven.",
-    "wikipedia": "https://nl.wikipedia.org/wiki/Goudsesingel",
-    "colorNote": "AI-inkleuring is een interpretatie. De oorspronkelijke kleuren zijn niet met kleurenfoto’s of materiaalonderzoek bewezen. Gebruik het archiefbeeld als bewijs voor vormen en opschriften; kleine details in de AI-versie kunnen afwijken.",
-    "periodNote": "Historische deelreconstructie van vóór mei 1940. De foto vermeldt het eigen bronjaar; eerdere bouwfasen kunnen verschillen van 1939.",
-    "description": "Een lichte deelreconstructie op de oorspronkelijke straatlocatie, met gevelritme, hoofdvolumes en dakvormen naar de archieffoto’s. Het model toont een beperkt fragment. Hoogten, individuele perceelbreedten en niet zichtbare achtergevels zijn benaderingen; geen ingemeten reconstructie.",
-    "sourceRegister": "landmarks/city33-sources.md",
-    "sources": [
-      {
-        "title": "Archiefbron — Panorama van de Goudsesingel met links de Heerenstraat en Jonker Fransstraat en rechts de Hoveniersstraat, hofje van Gerrit de Koker, Sint-Laurenshofje, Schoolstraat en Van Alkemadestraat 1939",
-        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31"
-      },
-      {
-        "title": "Wikimedia Commons — beeld en rechten",
-        "url": "https://commons.wikimedia.org/wiki/File:Panorama_van_de_Goudsesingel_met_links_de_Heerenstraat_en_Jonker_Fransstraat_en_rechts_de_Hoveniersstraat%2C_hofje_van_Gerrit_de_Koker%2C_Sint-Laurenshofje%2C_Schoolstraat_en_Van_Alkemadestraat_1939.jpg"
-      },
-      {
-        "title": "Extra archiefbeeld: Goudsesingel bij Heerenstraat, met Gebroeders Bervoets en café Heijer · 1910",
-        "url": "https://hdl.handle.net/21.12133/C0BA9283BDA44491B756B39521B3B4B1"
-      },
-      {
-        "title": "Historische stadskaart met de toestand vóór mei 1940",
-        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
-      }
-    ],
-    "photos": [
-      {
-        "title": "Panorama Goudsesingel, kruising Meent en Jonker Fransstraat",
-        "date": "1939",
-        "author": "Heymans Fotohandel",
-        "license": "Publiek domein (PDM 1.0; Stadsarchief Rotterdam)",
-        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31",
-        "src": "landmarks/goudsesingel-markt/foto-1-origineel.webp",
-        "ai": "landmarks/goudsesingel-markt/foto-1-ai.webp",
-        "shortTitle": "Archiefbeeld",
-        "aiLabel": "AI in kleur",
-        "aiNote": "AI-inkleuring is een interpretatie. De oorspronkelijke kleuren zijn niet met kleurenfoto’s of materiaalonderzoek bewezen. Gebruik het archiefbeeld als bewijs voor vormen en opschriften; kleine details in de AI-versie kunnen afwijken. De AI-uitvoer bewaart het zeer brede panorama binnen een hoger beeldvlak met witte marges. Kleine winkelteksten niet als historische transcriptie gebruiken."
-      }
-    ]
+    }
   },
   {
     "id": "binnenrotte-straatwand",
@@ -22446,5 +22395,1752 @@
     "height": 31.8,
     "cameraDistance": 110,
     "modelDownload": "landmarks/van-nelle-leuvehaven/model.glb"
+  },
+  {
+    "id": "lampe-hoogstraat",
+    "center": [
+      -55.95357970448535,
+      205.95056700761563
+    ],
+    "angle": 0.2213093558750086,
+    "modelWidth": 34.38873271047688,
+    "modelDepth": 22,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 34.30873271047688,
+          "d": 22,
+          "h": 19,
+          "floors": 4,
+          "bays": 7,
+          "roof": "hip",
+          "roofHeight": 5,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": true,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 5,
+          "bands": true,
+          "pilasters": true,
+          "dormers": 3
+        }
+      ],
+      "towers": [
+        {
+          "x": -15.19436635523844,
+          "z": 9,
+          "radius": 1.8,
+          "base": 18,
+          "h": 7.5,
+          "roofHeight": 2.2,
+          "wall": "stone"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        2817,
+        2105
+      ],
+      [
+        2873,
+        2093
+      ]
+    ],
+    "frontage": [
+      [
+        -70.31401090882764,
+        191.44455963192786
+      ],
+      [
+        -36.76398938059697,
+        198.99313518549297
+      ]
+    ],
+    "name": "Warenhuis Gebr. Lampe",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Gebroeders Lampe had een groot winkelpand aan de Hoogstraat, op de hoek van het Spui. De foto van 4 mei 1939 toont de hoge winkelvensters, het gebogen hoekdeel en de kleine koepel boven het dak. Zo’n hoekpand fungeerde als herkenningspunt in de drukke winkelstraat. Het Spui verbond deze omgeving met de Delftsevaart en de Vlasmarkt. Deze reconstructie volgt de hoofdvorm van het gefotografeerde warenhuis. Het latere Lampe aan de herbouwde Hoogstraat is een ander gebouw.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Hoogstraat_(Rotterdam)",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Noordzijde Hoogstraat, oostelijke hoek Spui. Gevelpunten van de historische straatwand, met de kap en hoekkoepel uit de foto van 1939.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Kledingwarenhuis Lampe aan de Hoogstraat, gezien vanaf de Vlasmarkt.",
+        "date": "04-05-1939",
+        "author": "Technisch Fotobureau",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/DDA668ABAF1C43C0AB6E0E841FE5D4A1",
+        "src": "landmarks/lampe-hoogstraat/foto-1-origineel.jpg",
+        "ai": "landmarks/lampe-hoogstraat/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/DDA668ABAF1C43C0AB6E0E841FE5D4A1"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/DDA668ABAF1C43C0AB6E0E841FE5D4A1"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        -70.69084347587915,
+        190.79602496330222
+      ],
+      [
+        -75.76146055140254,
+        213.33263612100313
+      ],
+      [
+        -41.21631593309156,
+        221.10510905192905
+      ],
+      [
+        -36.145698857568156,
+        198.56849789422813
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -70.69084347587915,
+        190.79602496330222
+      ],
+      [
+        -75.76146055140254,
+        213.33263612100313
+      ],
+      [
+        -41.21631593309156,
+        221.10510905192905
+      ],
+      [
+        -36.145698857568156,
+        198.56849789422813
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -75.22365740400207,
+          212.99238948303866
+        ],
+        [
+          -41.556562571056055,
+          220.56730590452855
+        ],
+        [
+          -36.68350200496864,
+          198.9087445321926
+        ],
+        [
+          -70.35059683791465,
+          191.3338281107027
+        ]
+      ]
+    ],
+    "height": 27.7,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/lampe-hoogstraat/model.glb"
+  },
+  {
+    "id": "lucardie-grotemarkt",
+    "center": [
+      83.19008281416752,
+      210.8262271041291
+    ],
+    "angle": 0.228855974874888,
+    "modelWidth": 16.608294213932222,
+    "modelDepth": 13,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 16.528294213932224,
+          "d": 13,
+          "h": 12.5,
+          "floors": 3,
+          "bays": 3,
+          "roof": "hip",
+          "roofHeight": 5,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": true,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 4,
+          "archedEntry": true,
+          "archedWindows": true,
+          "bands": true,
+          "dormers": 2
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3062,
+        2089
+      ],
+      [
+        3089,
+        2083
+      ]
+    ],
+    "frontage": [
+      [
+        76.57706589968302,
+        202.6117967244329
+      ],
+      [
+        92.75232491367592,
+        206.3796120764341
+      ]
+    ],
+    "name": "Juwelier Lucardie",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "De verlichte winkel van juwelier Lucardie stond op de hoek van de Grotemarkt en de Moriaanstraat. Op deze prentbriefkaart uit 1939 is de avondverlichting onderdeel van de aantrekkingskracht van de winkel. Boven de etalages lagen verdiepingen met hoge vensters en een forse kap. De foto maakt ook zichtbaar hoe winkelpanden en woonhuizen één aaneengesloten straatwand vormden. In het model zijn de hoek, kap en het ritme van de gevelopeningen benaderd; de precieze etalage-inrichting is niet gereconstrueerd.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Hoogstraat_(Rotterdam)",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Noordzijde Grotemarkt, hoek Moriaanstraat. Hoofdvolume op de historische rooilijn; geveldetails volgen de nachtelijke prentbriefkaart.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Een winkelpand van Lucardie op de hoek van de Grotemarkt en de Moriaanstraat, bij avond.",
+        "date": "1939",
+        "author": "Anoniem",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/06AFEC5D8131436B9A98E39A0052F996",
+        "src": "landmarks/lucardie-grotemarkt/foto-1-origineel.jpg",
+        "ai": "landmarks/lucardie-grotemarkt/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/06AFEC5D8131436B9A98E39A0052F996"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/06AFEC5D8131436B9A98E39A0052F996"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        76.20513826075947,
+        201.96043673840006
+      ],
+      [
+        73.00636325238739,
+        215.69280137257044
+      ],
+      [
+        90.17502736757558,
+        219.69201746985811
+      ],
+      [
+        93.37380237594766,
+        205.95965283568773
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        76.20513826075947,
+        201.96043673840006
+      ],
+      [
+        73.00636325238739,
+        215.69280137257044
+      ],
+      [
+        90.17502736757558,
+        219.69201746985811
+      ],
+      [
+        93.37380237594766,
+        205.95965283568773
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          73.54671877289407,
+          215.35662298025773
+        ],
+        [
+          89.83884897526288,
+          219.15166194935148
+        ],
+        [
+          92.83344685544098,
+          206.29583122800045
+        ],
+        [
+          76.54131665307217,
+          202.5007922589067
+        ]
+      ]
+    ],
+    "height": 17.5,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/lucardie-grotemarkt/model.glb"
+  },
+  {
+    "id": "hotel-gouden-hert",
+    "center": [
+      353.14964789328934,
+      273.97841020517035
+    ],
+    "angle": 0.2255574659978946,
+    "modelWidth": 19.669241512501287,
+    "modelDepth": 18,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 19.58924151250129,
+          "d": 18,
+          "h": 17.2,
+          "floors": 4,
+          "bays": 4,
+          "roof": "gable",
+          "roofHeight": 5.8,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "archedTop": true,
+          "bands": true,
+          "pediment": 0.85,
+          "canopy": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3511,
+        1993
+      ],
+      [
+        3543,
+        1986
+      ]
+    ],
+    "frontage": [
+      [
+        345.5769898756505,
+        263.0068735777345
+      ],
+      [
+        364.7480012670369,
+        267.40589436745995
+      ]
+    ],
+    "name": "Hotel Het Gouden Hert",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Hotel Het Gouden Hert stond aan het Boerensteiger. De foto uit 1911–1912 is genomen vanaf de Hoofdsteeg, vlak vóór de demping van dit deel van de Steigersgracht. Het archief wijst het hotel aan als het pand met de witte zonnekappen. De hoge gevel, etalages en bedrijvigheid aan de kade laten zien hoe logies, handel en dagelijks straatleven hier samenkwamen. De foto toont een oudere situatie dan de kaart: het water op deze opname was in 1939 al verdwenen. De kaartvisualisatie betreft het historische hotelpand; de beschikbare foto bewijst niet dat het hotelbedrijf of alle opschriften in 1939 nog ongewijzigd waren.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Stadsdriehoek",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Foto 1911–1912, vóór de demping. Model van het historische pand; bedrijfsgebruik in 1939 niet met deze opname vastgesteld.",
+    "placementNote": "Noordzijde Boerensteiger, oostelijk van de Hoofdsteeg. Perceel afgeleid van de gevelvolgorde op de foto; plaatsing heeft circa 15 m onzekerheid.",
+    "uncertaintyMeters": 15,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Het Boerensteiger, vlak voor de demping in 1912, gezien vanaf de Hoofdsteeg. Links o.a. hotel Het Gouden Hert (het pand met de witte zonnekappen).",
+        "date": "1911 - 1912",
+        "author": "Anoniem",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/E68BB9F3B7A4474B92394015F384CC43",
+        "src": "landmarks/hotel-gouden-hert/foto-1-origineel.jpg",
+        "ai": "landmarks/hotel-gouden-hert/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/E68BB9F3B7A4474B92394015F384CC43"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/E68BB9F3B7A4474B92394015F384CC43"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        345.2029157472414,
+        262.35674393954304
+      ],
+      [
+        340.931205674926,
+        280.972932944226
+      ],
+      [
+        361.0963800393373,
+        285.60007647079766
+      ],
+      [
+        365.3680901116527,
+        266.9838874661147
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        345.2029157472414,
+        262.35674393954304
+      ],
+      [
+        340.931205674926,
+        280.972932944226
+      ],
+      [
+        361.0963800393373,
+        285.60007647079766
+      ],
+      [
+        365.3680901116527,
+        266.9838874661147
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          341.47044937045735,
+          280.6349740165001
+        ],
+        [
+          360.75842111161137,
+          285.06083277526625
+        ],
+        [
+          364.82884641612134,
+          267.3218463938406
+        ],
+        [
+          345.5408746749673,
+          262.89598763507445
+        ]
+      ]
+    ],
+    "height": 23.0,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/hotel-gouden-hert/model.glb"
+  },
+  {
+    "id": "amsterdamsche-bank-coolsingel",
+    "center": [
+      -407.6533766051331,
+      159.28324415274074
+    ],
+    "angle": 1.7737323136232965,
+    "modelWidth": 36.60407970693635,
+    "modelDepth": 29,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 36.524079706936355,
+          "d": 29,
+          "h": 25.5,
+          "floors": 6,
+          "bays": 7,
+          "roof": "hip",
+          "roofHeight": 8,
+          "wall": "stone",
+          "gableWall": "stone",
+          "shop": false,
+          "sides": true,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 6,
+          "bands": true,
+          "dormers": 2
+        }
+      ],
+      "accents": [
+        {
+          "x": 4,
+          "y": 29,
+          "z": 12,
+          "w": 3,
+          "h": 10,
+          "d": 2,
+          "material": "brick"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        2284,
+        2178
+      ],
+      [
+        2272,
+        2118
+      ]
+    ],
+    "frontage": [
+      [
+        -389.7622284791289,
+        144.27919531479984
+      ],
+      [
+        -397.13963187375225,
+        180.13212504647936
+      ]
+    ],
+    "name": "Amsterdamsche Bank Coolsingel",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "De Amsterdamsche Bank was een van de grote zakelijke gebouwen aan de vernieuwde Coolsingel. De foto uit 1939 toont het hoge bankgebouw links, tegenover de nieuwe Beurs die nog in de steigers staat. Aan het gebouw zijn de lichte gevelbekleding, lange rijen vensters en steile kap goed te herkennen. De omgeving laat een stad in verandering zien: bank, beurs, postkantoor en stadhuis maakten van de voormalige singel een brede stadsboulevard. Dit is de vestiging aan de Coolsingel, los van de Amsterdamsche Bank aan het Oostplein die elders op de kaart staat.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Amsterdamsche_Bank",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Westzijde Coolsingel, noordelijke hoek Van Oldenbarneveltstraat; hoofdvolume tegenover de Beurs.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Gezicht op het Van Hogendorpsplein en de Coolsingel vanaf de Bijenkorf, in noordelijke richting. In het midden het Calandmonument, rechts de Passage en het Erasmiaans Gymnasium. Het Beursgebouw is in aanbouw en staat nog deels in de steigers. Links de Amsterdamsche Bank .",
+        "date": "1939",
+        "author": "Arbeiderspers Zwart-wit/kleur: Zwart/wit",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/AAE238EECE464F5EAB087AC8562AEAA6",
+        "src": "landmarks/amsterdamsche-bank-coolsingel/foto-1-origineel.jpg",
+        "ai": "landmarks/amsterdamsche-bank-coolsingel/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/AAE238EECE464F5EAB087AC8562AEAA6"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/AAE238EECE464F5EAB087AC8562AEAA6"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        -418.6030463959313,
+        137.82397867321055
+      ],
+      [
+        -426.18602664217235,
+        174.67597705021882
+      ],
+      [
+        -396.70370681433485,
+        180.74250963227092
+      ],
+      [
+        -389.1207265680938,
+        143.89051125526265
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -418.6030463959313,
+        137.82397867321055
+      ],
+      [
+        -426.18602664217235,
+        174.67597705021882
+      ],
+      [
+        -396.70370681433485,
+        180.74250963227092
+      ],
+      [
+        -389.1207265680938,
+        143.89051125526265
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -418.2529764869412,
+          138.35543992186336
+        ],
+        [
+          -425.65456539351953,
+          174.32590714122864
+        ],
+        [
+          -397.053776723325,
+          180.2110483836181
+        ],
+        [
+          -389.6521878167466,
+          144.24058116425283
+        ]
+      ]
+    ],
+    "height": 33.5,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/amsterdamsche-bank-coolsingel/model.glb"
+  },
+  {
+    "id": "hotel-coomans",
+    "center": [
+      363.0314843399694,
+      177.07398732100546
+    ],
+    "angle": -1.324919965827313,
+    "modelWidth": 30.173128663594248,
+    "modelDepth": 19,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 30.09312866359425,
+          "d": 19,
+          "h": 21,
+          "floors": 5,
+          "bays": 10,
+          "roof": "hip",
+          "roofHeight": 4.3,
+          "wall": "stone",
+          "gableWall": "stone",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "bands": true,
+          "canopy": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3518,
+        2116
+      ],
+      [
+        3530,
+        2165
+      ]
+    ],
+    "frontage": [
+      [
+        350.14503603247226,
+        189.39445295164046
+      ],
+      [
+        357.48936932168385,
+        160.12879967195454
+      ]
+    ],
+    "name": "Grand Hotel Coomans",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Grand Hotel Coomans lag aan de Hoofdsteeg, tussen het drukke winkelgebied en de Oudehaven. De straatfoto uit 1925 kijkt vanaf Plan C naar het noorden. Het hoge, brede hotel is verderop rechts in de straat te zien. Het hotel bood reizigers logies en had ook café- en restaurantvoorzieningen. Een vroege kleurenopname vanaf het Witte Huis bevestigt het grote hotelvolume en de naam op de achtergevel in de jaren vóór de oorlog. Het model beperkt zich tot het herkenbare hoofdvolume aan de straat; de volledige indeling van zalen en achtergebouwen is niet gereconstrueerd.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Oude_Haven_(Rotterdam)",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Oostzijde Hoofdsteeg, ten zuiden van magazijn Esders. Alleen het straatvolume; positie gecontroleerd tegenover het kerkvolume aan Houttuin.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Hoofdsteeg, uit het zuiden, vanaf Plan C. Het pand links op de hoek is de Kolkkade nummer 43 en het pand rechts op de hoek van de Mosseltrap huisnummer 38.",
+        "date": "1925",
+        "author": "Anoniem",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/379240677A5F4BFE8E1D40FCE636DFD0",
+        "src": "landmarks/hotel-coomans/foto-1-origineel.jpg",
+        "ai": "landmarks/hotel-coomans/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/379240677A5F4BFE8E1D40FCE636DFD0"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/379240677A5F4BFE8E1D40FCE636DFD0"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      },
+      {
+        "title": "Hotel Coomans in de geschiedenis van de Rotterdamse studentenverenigingen",
+        "url": "https://www.rsc-rvsv.nl/societeit/geschiedenis"
+      }
+    ],
+    "polygon": [
+      [
+        357.0800481848529,
+        159.50026470320307
+      ],
+      [
+        349.48744034517904,
+        189.75524085616786
+      ],
+      [
+        368.98292049508586,
+        194.64770993880785
+      ],
+      [
+        376.5755283347597,
+        164.39273378584306
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        357.0800481848529,
+        159.50026470320307
+      ],
+      [
+        349.48744034517904,
+        189.75524085616786
+      ],
+      [
+        368.98292049508586,
+        194.64770993880785
+      ],
+      [
+        376.5755283347597,
+        164.39273378584306
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          368.6559874114903,
+          194.1017110753926
+        ],
+        [
+          376.0295294713445,
+          164.71966686943858
+        ],
+        [
+          357.4069812684485,
+          160.04626356661834
+        ],
+        [
+          350.03343920859425,
+          189.42830777257234
+        ]
+      ]
+    ],
+    "height": 25.3,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/hotel-coomans/model.glb"
+  },
+  {
+    "id": "laurentius-houttuin",
+    "center": [
+      404.71779047448587,
+      219.919979356628
+    ],
+    "angle": -2.9003636207268273,
+    "modelWidth": 20.974832767202628,
+    "modelDepth": 32,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 20.89483276720263,
+          "d": 32,
+          "h": 14,
+          "floors": 1,
+          "bays": 3,
+          "roof": "gable",
+          "roofHeight": 5.5,
+          "wall": "stone",
+          "gableWall": "stone",
+          "shop": false,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "windows": false,
+          "pediment": 0.9
+        }
+      ],
+      "towers": [
+        {
+          "x": 0,
+          "z": 8,
+          "radius": 1.9,
+          "base": 19,
+          "h": 4,
+          "roofHeight": 2.5,
+          "wall": "brick"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -5,
+          "z": 16.15,
+          "y": 7,
+          "w": 2,
+          "h": 8,
+          "arched": true
+        },
+        {
+          "x": 5,
+          "z": 16.15,
+          "y": 7,
+          "w": 2,
+          "h": 8,
+          "arched": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3620,
+        2036
+      ],
+      [
+        3586,
+        2044
+      ]
+    ],
+    "frontage": [
+      [
+        411.0792046874319,
+        237.96210538474224
+      ],
+      [
+        390.71169616901966,
+        232.95129643163682
+      ]
+    ],
+    "name": "Sint-Laurentiuskerk Houttuin",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "De rooms-katholieke Sint-Laurentiuskerk stond aan de Houttuin en was in gebruik van 1835 tot de verwoesting in 1940. Deze kerk moet niet worden verward met de grote middeleeuwse Laurenskerk of met de oud-katholieke kerk aan de Lange Torenstraat. Op de vroege kleurenfoto van Richard Boske is het kerkgebouw op de voorgrond zichtbaar, met de kleine dakkoepel boven de omliggende huizen. Het model verbeeldt het kerkvolume, het fronton en de dakruiter. De oorspronkelijke kleurenfoto is leidend; de AI-versie is alleen een interpretatieve herstelbewerking.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Laurentius_en_Elisabethkathedraal",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Zuidzijde Houttuin, achter Hotel Coomans. Hoofdvolume binnen het smalle bouwblok; de koepel en kap zijn getoetst aan de opname vanaf het Witte Huis.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "De foto van Richard Boske is een oorspronkelijke kleurenopname. Veroudering en atmosferische waas beperken de zekerheid over exacte materiaaltonen. AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Luchtfoto richting het noorden vanaf het Witte Huis. Op de voorgrond de kerk Heilige Laurentius aan de Houttuin . Links hotel Coomans aan de Hoofdsteeg",
+        "date": "01-01-1936 - 31-12-1939",
+        "author": "Richard (R.) Boske",
+        "license": "CC BY 4.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://hdl.handle.net/21.12133/1E34197455ED45CDB8F1D7829575A1F9",
+        "src": "landmarks/laurentius-houttuin/foto-1-origineel.jpg",
+        "ai": "landmarks/laurentius-houttuin/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI-beeldherstel",
+        "aiNote": "De foto van Richard Boske is een oorspronkelijke kleurenopname. Veroudering en atmosferische waas beperken de zekerheid over exacte materiaaltonen. AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+        "sourceColor": true
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/1E34197455ED45CDB8F1D7829575A1F9"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/1E34197455ED45CDB8F1D7829575A1F9"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      },
+      {
+        "title": "Bisdom Rotterdam — historie van de Laurentiuskerk aan de Houttuin",
+        "url": "https://www.bisdomrotterdam.nl/files/saved/h34ae883ad43ca0eb390d5d9c018b619b.pdf"
+      }
+    ],
+    "polygon": [
+      [
+        397.99253620117395,
+        201.2219414362043
+      ],
+      [
+        390.08507023047343,
+        233.36353414599722
+      ],
+      [
+        411.4430447477978,
+        238.6180172770517
+      ],
+      [
+        419.3505107184983,
+        206.4764245672588
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        397.99253620117395,
+        201.2219414362043
+      ],
+      [
+        390.08507023047343,
+        233.36353414599722
+      ],
+      [
+        411.4430447477978,
+        238.6180172770517
+      ],
+      [
+        419.3505107184983,
+        206.4764245672588
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          418.8060371110596,
+          206.8058915470954
+        ],
+        [
+          398.3220031810106,
+          201.76641504364304
+        ],
+        [
+          390.62954383791214,
+          233.0340671661606
+        ],
+        [
+          411.11357776796115,
+          238.07354366961297
+        ]
+      ]
+    ],
+    "height": 25.5,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/laurentius-houttuin/model.glb"
+  },
+  {
+    "id": "bervoets-heerenstraat",
+    "center": [
+      128.58482487552226,
+      599.0209366750036
+    ],
+    "angle": 0.7162051154004495,
+    "modelWidth": 22.167358405815296,
+    "modelDepth": 22,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 22.087358405815298,
+          "d": 22,
+          "h": 16.5,
+          "floors": 4,
+          "bays": 6,
+          "roof": "hip",
+          "roofHeight": 4,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": true,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 8,
+          "bands": true,
+          "pilasters": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3150,
+        1454
+      ],
+      [
+        3178,
+        1430
+      ]
+    ],
+    "frontage": [
+      [
+        127.4461729162615,
+        583.4468743793583
+      ],
+      [
+        144.1670689624309,
+        598.0003418048575
+      ]
+    ],
+    "name": "Bervoets Heerenstraat",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Bervoets had een groot kledingmagazijn aan de Heerenstraat 2–10. De bedrijfsreportage van F.H. van Dijk uit oktober 1931 toont een hoekpand met grote etalages, hoge vensters en de firmanaam boven de gevel. De winkel stond op de hoek met de Lange Pannekoekstraat, vlak bij de markt op de Goudsesingel. Dit was een plek waar dagelijks winkelen en de drukte van de markt samenkwamen. Het compacte 3D-model toont het hoofdvolume en het gevelritme; reclames en winkelinrichting zijn niet tot in detail nagebouwd.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Goudsesingel",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Hoek Heerenstraat en Lange Pannekoekstraat, aan de zuidzijde van de Goudsesingel. Het hoofdvolume sluit aan op het bestaande straatbeeld zonder dat te verdubbelen.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Bervoets kledingmagazijn aan de Heerenstraat 2-10.",
+        "date": "01-10-1931 - 31-10-1931",
+        "author": "François Henry (F.H.) van Dijk, 11/08/1888-07/07/1977",
+        "license": "CC0 1.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://hdl.handle.net/21.12133/14E02DF6D5304141B52F0BF3C68C531B",
+        "src": "landmarks/bervoets-heerenstraat/foto-1-origineel.jpg",
+        "ai": "landmarks/bervoets-heerenstraat/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/14E02DF6D5304141B52F0BF3C68C531B"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/14E02DF6D5304141B52F0BF3C68C531B"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        127.42256839424572,
+        582.697179223618
+      ],
+      [
+        112.25679666021544,
+        600.1215692476989
+      ],
+      [
+        129.74708135679882,
+        615.3446941263891
+      ],
+      [
+        144.9128530908291,
+        597.9203041023083
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        127.42256839424572,
+        582.697179223618
+      ],
+      [
+        112.25679666021544,
+        600.1215692476989
+      ],
+      [
+        129.74708135679882,
+        615.3446941263891
+      ],
+      [
+        144.9128530908291,
+        597.9203041023083
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          112.89166994121761,
+          600.0775701901006
+        ],
+        [
+          129.70308229920042,
+          614.7098208453868
+        ],
+        [
+          144.27797980982692,
+          597.9643031599065
+        ],
+        [
+          127.46656745184409,
+          583.3320525046203
+        ]
+      ]
+    ],
+    "height": 20.5,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/bervoets-heerenstraat/model.glb"
+  },
+  {
+    "id": "hofje-gerrit-de-koker",
+    "center": [
+      171.6816288494317,
+      640.7323590339048
+    ],
+    "angle": -0.16896883841709037,
+    "modelWidth": 33.4933996337689,
+    "modelDepth": 12,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 33.413399633768904,
+          "d": 12,
+          "h": 9,
+          "floors": 2,
+          "bays": 9,
+          "roof": "hip",
+          "roofHeight": 4,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": false,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "bands": true,
+          "archedEntry": true,
+          "dormers": 3
+        }
+      ],
+      "towers": [
+        {
+          "x": -7,
+          "z": 5,
+          "radius": 1.6,
+          "base": 8,
+          "h": 3,
+          "roofHeight": 2,
+          "wall": "stone"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3195,
+        1364
+      ],
+      [
+        3250,
+        1374
+      ]
+    ],
+    "frontage": [
+      [
+        154.16442808204556,
+        637.6340317381008
+      ],
+      [
+        187.18083807097628,
+        632.0015819628976
+      ]
+    ],
+    "name": "Hofje Gerrit de Koker",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Het hofje van Gerrit de Koker lag aan de Goudsesingel bij de Hoveniersstraat. De detailfoto laat bewoners bij de toegang zien; een panorama uit 1939 plaatst het gebouw in de levendige omgeving van de markt. Achter de straatgevel lag een beschutte woonomgeving, een sterk contrast met de handel en het verkeer buiten. Deze visualisatie toont het voorgebouw met de herkenbare erkerachtige toren. De binnenplaatsen en achterwoningen zijn niet ingevuld met onbewezen details. Het vooroorlogse hofje op deze plek moet worden onderscheiden van latere huisvesting onder dezelfde naam.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Hofje",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Detailfoto in het archief gedateerd 1937–1941; het gebouw is vóór de verwoesting in mei 1940 gefotografeerd. Overzichtsfoto: 1939.",
+    "placementNote": "Noordzijde Goudsesingel, oostelijke hoek Hoveniersstraat. Alleen het voorgebouw is gereconstrueerd; achterbouw blijft oningevuld.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Ingang van het Hofje Gerrit de Koker aan de Goudsesingel. De dame links op de voorgrond is mevrouw Lysina Catharina Brutsch.",
+        "date": "1937 - 1941",
+        "author": "Vereenigde Fotobureaux",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/E95D06397B4B47499271C313BA1A5DDD",
+        "src": "landmarks/hofje-gerrit-de-koker/foto-1-origineel.jpg",
+        "ai": "landmarks/hofje-gerrit-de-koker/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/E95D06397B4B47499271C313BA1A5DDD"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/E95D06397B4B47499271C313BA1A5DDD"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      },
+      {
+        "title": "Overzicht van beide hofjes aan de Goudsesingel, 1939",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31"
+      }
+    ],
+    "polygon": [
+      [
+        187.59108372738132,
+        631.3736500387205
+      ],
+      [
+        153.56919986727166,
+        637.1776290953202
+      ],
+      [
+        155.77217397148206,
+        650.0910680290891
+      ],
+      [
+        189.79405783159172,
+        644.2870889724894
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        187.59108372738132,
+        631.3736500387205
+      ],
+      [
+        153.56919986727166,
+        637.1776290953202
+      ],
+      [
+        155.77217397148206,
+        650.0910680290891
+      ],
+      [
+        189.79405783159172,
+        644.2870889724894
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          156.1400907022684,
+          649.5718019323646
+        ],
+        [
+          189.27479173486725,
+          643.919172241703
+        ],
+        [
+          187.22316699659498,
+          631.892916135445
+        ],
+        [
+          154.08846596399613,
+          637.5455458261066
+        ]
+      ]
+    ],
+    "height": 13,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/hofje-gerrit-de-koker/model.glb"
+  },
+  {
+    "id": "sint-laurenshofje",
+    "center": [
+      238.70246389472666,
+      632.2055794058498
+    ],
+    "angle": -0.1355877297627307,
+    "modelWidth": 36.951048723006025,
+    "modelDepth": 12,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 36.87104872300603,
+          "d": 12,
+          "h": 10.2,
+          "floors": 2,
+          "bays": 9,
+          "roof": "hip",
+          "roofHeight": 4.2,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": false,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "bands": true,
+          "pediment": 0.3,
+          "dormers": 3
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3304,
+        1380
+      ],
+      [
+        3365,
+        1389
+      ]
+    ],
+    "frontage": [
+      [
+        219.58547081690767,
+        628.7580330181834
+      ],
+      [
+        256.19738493335467,
+        623.7632611054856
+      ]
+    ],
+    "name": "Sint-Laurenshofje",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Het Sint-Laurenshofje lag naast het hofje van Gerrit de Koker aan de Goudsesingel. Het Stadsarchief noemt beide hofjes in de beschrijving van dit panorama uit 1939. De lange opname toont ook de Hoveniersstraat, Schoolstraat en Van Alkemadestraat, zodat het gebouw in zijn toenmalige omgeving te plaatsen is. Voor de deur staan de kramen van de Goudsesingelmarkt. De reconstructie beperkt zich tot het voorgebouw en zijn dakvorm. De interne indeling en niet zichtbare achtergevels zijn onvoldoende gedocumenteerd om ze als zeker te tonen. De huidige straat Sint-Laurenshof is niet de locatie van dit verdwenen hofje.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Hofje",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Noordzijde Goudsesingel, tussen Hoveniersstraat en Schoolstraat, naast het Gerrit-de-Kokerhofje. Alleen het straatvolume, afgeleid van panorama en kaart.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Panorama van de Goudsesingel met links de Heerenstraat en Jonker Fransstraat en rechts de Hoveniersstraat, hofje van Gerrit de Koker, Sint-Laurenshofje, Schoolstraat en Van Alkemadestraat 1939",
+        "date": "1939",
+        "author": "Heymans Fotohandel",
+        "license": "CC0 1.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31",
+        "src": "landmarks/sint-laurenshofje/foto-1-origineel.jpg",
+        "ai": "landmarks/sint-laurenshofje/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Panorama_van_de_Goudsesingel_met_links_de_Heerenstraat_en_Jonker_Fransstraat_en_rechts_de_Hoveniersstraat%2C_hofje_van_Gerrit_de_Koker%2C_Sint-Laurenshofje%2C_Schoolstraat_en_Van_Alkemadestraat_1939.jpg"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        256.628359214133,
+        623.1493709122853
+      ],
+      [
+        219.00580659920345,
+        628.2820189483143
+      ],
+      [
+        220.77656857532028,
+        641.2617878994142
+      ],
+      [
+        258.3991211902499,
+        636.1291398633853
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        256.628359214133,
+        623.1493709122853
+      ],
+      [
+        219.00580659920345,
+        628.2820189483143
+      ],
+      [
+        220.77656857532028,
+        641.2617878994142
+      ],
+      [
+        258.3991211902499,
+        636.1291398633853
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          221.16161079965175,
+          640.7550902721434
+        ],
+        [
+          257.89242356297905,
+          635.7440976390537
+        ],
+        [
+          256.24331698980154,
+          623.6560685395561
+        ],
+        [
+          219.51250422647425,
+          628.6670611726458
+        ]
+      ]
+    ],
+    "height": 14.399999999999999,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/sint-laurenshofje/model.glb"
+  },
+  {
+    "id": "cafetaria-ruttens",
+    "center": [
+      23.759566639806096,
+      670.0832569575826
+    ],
+    "angle": -0.21046289433768078,
+    "modelWidth": 24.55903939001319,
+    "modelDepth": 16,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 24.47903939001319,
+          "d": 16,
+          "h": 12.5,
+          "floors": 3,
+          "bays": 5,
+          "roof": "hip",
+          "roofHeight": 3,
+          "wall": "stone",
+          "gableWall": "stone",
+          "shop": true,
+          "sides": true,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 5,
+          "bands": true,
+          "canopy": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        2955,
+        1316
+      ],
+      [
+        2995,
+        1325
+      ]
+    ],
+    "frontage": [
+      [
+        10.079702138117455,
+        664.825128853828
+      ],
+      [
+        34.09682950199135,
+        659.6944360207226
+      ]
+    ],
+    "name": "Cafetaria Ruttens",
+    "modelFamily": "city33",
+    "backgroundClearance": 2,
+    "kind": "building",
+    "story": "Het lichte hoekpand van cafetaria Ruttens is op het panorama uit 1939 een herkenningspunt bij de kruising Goudsesingel en Jonker Fransstraat. Het stond tegenover de aansluiting van de Heerenstraat en vlak bij de markt. De grote ramen en de brede luifel onder de cafetaria-naam tonen hoe horeca deel uitmaakte van deze dagelijkse stadsomgeving. Het model volgt de drie bouwlagen en de kap van het hoekpand. De volledige panorama-opname is beschikbaar, zodat ook de verhouding tot de omliggende winkels en het tramverkeer zichtbaar blijft.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Goudsesingel",
+    "sourceRegister": "landmarks/expansion-20260928-b-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Noordzijde Goudsesingel, westelijke hoek Jonker Fransstraat. Het witte hoekpand wordt in de bronbeschrijving expliciet als cafetaria Ruttens geïdentificeerd.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Panorama van de Goudsesingel met links de Heerenstraat en Jonker Fransstraat en rechts de Hoveniersstraat, hofje van Gerrit de Koker, Sint-Laurenshofje, Schoolstraat en Van Alkemadestraat 1939",
+        "date": "1939",
+        "author": "Heymans Fotohandel",
+        "license": "CC0 1.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31",
+        "src": "landmarks/cafetaria-ruttens/foto-1-origineel.jpg",
+        "ai": "landmarks/cafetaria-ruttens/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/C792FEF88827446AA206814FFABCCB31"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Panorama_van_de_Goudsesingel_met_links_de_Heerenstraat_en_Jonker_Fransstraat_en_rechts_de_Hoveniersstraat%2C_hofje_van_Gerrit_de_Koker%2C_Sint-Laurenshofje%2C_Schoolstraat_en_Van_Alkemadestraat_1939.jpg"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        34.480674071303014,
+        659.0500267201924
+      ],
+      [
+        9.466053706089932,
+        664.3938104078161
+      ],
+      [
+        13.03845920830918,
+        681.1164871949729
+      ],
+      [
+        38.053079573522254,
+        675.7727035073492
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        34.480674071303014,
+        659.0500267201924
+      ],
+      [
+        9.466053706089932,
+        664.3938104078161
+      ],
+      [
+        13.03845920830918,
+        681.1164871949729
+      ],
+      [
+        38.053079573522254,
+        675.7727035073492
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          13.384518978965431,
+          680.5824060820946
+        ],
+        [
+          37.51899846064394,
+          675.426643736693
+        ],
+        [
+          34.13461430064676,
+          659.5841078330707
+        ],
+        [
+          10.000134818968252,
+          664.7398701784723
+        ]
+      ]
+    ],
+    "height": 15.5,
+    "cameraDistance": 105,
+    "modelDownload": "landmarks/cafetaria-ruttens/model.glb"
   }
 ]
