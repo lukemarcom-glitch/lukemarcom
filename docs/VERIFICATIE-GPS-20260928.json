@@ -1,0 +1,25 @@
+{
+  "base": "https://rdam39.nl/",
+  "passed": true,
+  "noAutomaticPermission": true,
+  "rejectedLocationsDoNotMoveCamera": true,
+  "lateCallbackIgnored": true,
+  "zoomAndAnglePreserved": true,
+  "mobileThenAndNow": true,
+  "errors": [],
+  "verifiedAt": "2026-09-28T20:15:17.198360+00:00",
+  "releaseCommit": "1efb7684ba56d90059fd77019fb69a08271350e7",
+  "pagesRun": 36477688047,
+  "pagesConclusion": "success",
+  "checkRun": 36477688010,
+  "checkConclusion": "success",
+  "publicFilesSha256": {
+    "location.js": "044d689666cc64bf9bebe90285ef9a64b655e61a861eae9140cbfb63aa3187a6",
+    "location.css": "3095c81d2cf34a4f603c3fc72e92ab2fa7c436a737b396f268cd73ed1de63af2",
+    "app.js": "fac761e6c8d60aff3d68e069e92019cf797525d8a4ca10eeb15a970e2cb22ba5",
+    "index.html": "6e48d058b83bd114d8c3b39881008cfdeb34910a9093ab71c804ebd3ff9777e3"
+  },
+  "nativeChromiumGeolocationWithEmulatedCoordinates": true,
+  "physicalPhoneGpsTest": false,
+  "geofence": "Existing provisional model.boundary + 500 m; not a verified historical fire-boundary polygon"
+}
