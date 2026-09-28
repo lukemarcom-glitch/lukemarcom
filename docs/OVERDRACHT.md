@@ -1,12 +1,12 @@
 # Overdracht — zelfstandig verder zonder de chat
 
-Bijgewerkt: 26 september 2026.
+Bijgewerkt: 28 september 2026.
 
 ## Doel en huidige staat
 
 RDAM39 is een Nederlandstalige ruimtelijke verkenning van Rotterdam vóór mei 1940, met historische foto's, AI-interpretaties, een moderne vergelijking en een afzonderlijke WOII-verhalenlaag. De eigenaar koos op GitHub de repositorynaam **lukemarcom**, eigenaar **lukemarcom-glitch**, omschrijving **Hobbyprojecten**. De eigenaar heeft op 26 september 2026 expliciet gevraagd de repository openbaar te maken en GitHub te koppelen, zodat ook Claude aan het project kan werken.
 
-De overgenomen inhoud is versie 33 van het bestaande project: 87 gebouwen/buurten en 18 verhalen. Elk van de 105 locaties heeft minimaal één gekoppeld origineel/AI-fotopaar. De catalogi zijn de actuele waarheid; gebruik `npm run check` om aantallen en bestanden opnieuw te controleren.
+De overgenomen inhoud is versie 33 van het bestaande project: 97 gebouwen/buurten en 18 verhalen. Elk van de 115 locaties heeft minimaal één gekoppeld origineel/AI-fotopaar. De catalogi zijn de actuele waarheid; gebruik `npm run check` om aantallen en bestanden opnieuw te controleren.
 
 Het snapshot komt uit broncommit `f31a1b0009b3967d5ae79233364f3c8fb4c38a2d` van de oude publicatierepository. Dit is een herkomstverwijzing; deze commit hoeft niet in deze nieuwe Git-geschiedenis te staan. Alle direct benodigde bestanden zijn meegekopieerd naar `site/`.
 
@@ -67,3 +67,13 @@ Onder meer Plan C, oude Bijenkorf, Laurenskerk, Delftse Poort, Beursgebouwen, Co
 5. Controleer het echte publieke adres en rapporteer precies wat lokaal, gepusht of live is.
 
 Deze overdracht is geen opdracht om eerdere afgewezen voorstellen of losse historische ideeën alsnog uit te voeren.
+
+## Tien aanvullingen op 28 september 2026
+
+Toegevoegd: Grand Hotel Central, Ooglijdersgesticht Oostmolenwerf, Bank R. Mees & Zoonen, Vroom & Dreesmann – De Zon, Rotterdamsch Leeskabinet, Bijbank Nederlandsche Bank, Rotterdamsch Nieuwsblad, Amsterdamsche Bank Oostplein, Twentsche Bank Noordblaak en Van Nelle – De Rijzende Hoop. Elk heeft een licht 3D-model, GLB/Blender-export, achtergrondverhaal, Wikipedia-link, ongewijzigde bronfoto en AI-kleurinterpretatie. Totaal: 97 gebouwen/buurten, 18 verhalen, 243 bronfotovermeldingen en 223 AI-paren.
+
+Bronnen, licenties, fotodata, locatie- en kleuronzekerheden staan in `site/landmarks/expansion-20260928-sources.md` en per locatie in `image-source.json` / `PROMPT.txt`. De hoofdvolumes en gevelritmes zijn schematisch; geen ingemeten reconstructies. Hotel Central beperkt zich tot de voorbouw naast Luxor. Twentsche Bank heeft een lagere zekerheid: de vrij beschikbare foto is een avondopname van een deel van de gevel. Bijbank-AI heeft een afwijkend gevelopschrift; dit staat bij de foto vermeld.
+
+De bestaande kaart blijft behouden. Achtergrondbebouwing opnieuw uit de oorspronkelijke contouren geknipt, met 4 m vrijruimte bij de tien modellen. Geen geometrische overlap met andere landmarkmodellen. De generieke gevelgenerator ondersteunt nu ook afzonderlijke boogramen voor het Leeskabinet.
+
+Lokale inhoudscontrole, markerregressies, algemene desktop/mobiele browsercontrole en gerichte controle van alle tien modellen en fotoparen geslaagd. Publicatie wordt na de push apart geverifieerd.

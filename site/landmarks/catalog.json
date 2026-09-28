@@ -20216,5 +20216,2235 @@
         "aiNote": "AI-inkleuring is een interpretatie. De oorspronkelijke kleuren zijn niet met kleurenfoto’s of materiaalonderzoek bewezen. Gebruik het archiefbeeld als bewijs voor vormen en opschriften; kleine details in de AI-versie kunnen afwijken. Deze foto toont de oudere gevel. Niet combineren met de gevelonderdelen uit 1935."
       }
     ]
+  },
+  {
+    "id": "grand-hotel-central",
+    "center": [
+      -563.9201357603094,
+      424.42037906182685
+    ],
+    "angle": -2.3235759538179255,
+    "modelWidth": 16.57986554722213,
+    "modelDepth": 14,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 16.499865547222132,
+          "d": 14,
+          "h": 20.5,
+          "floors": 5,
+          "bays": 5,
+          "roof": "flat",
+          "roofHeight": 2.8,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "archedTop": true,
+          "bands": true,
+          "parapet": true
+        }
+      ],
+      "accents": [
+        {
+          "x": 0,
+          "y": 7.5,
+          "z": 7.5,
+          "w": 9.450523361916614,
+          "h": 0.25,
+          "d": 1.1,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 11,
+          "z": 7.5,
+          "w": 9.450523361916614,
+          "h": 0.25,
+          "d": 1.1,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 14.5,
+          "z": 7.5,
+          "w": 9.450523361916614,
+          "h": 0.25,
+          "d": 1.1,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 8.2,
+          "z": 8,
+          "w": 9.450523361916614,
+          "h": 0.8,
+          "d": 0.12,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 11.7,
+          "z": 8,
+          "w": 9.450523361916614,
+          "h": 0.8,
+          "d": 0.12,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 15.2,
+          "z": 8,
+          "w": 9.450523361916614,
+          "h": 0.8,
+          "d": 0.12,
+          "material": "dark"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        1997,
+        1689
+      ],
+      [
+        1978,
+        1709
+      ]
+    ],
+    "frontage": [
+      [
+        -563.3610972684905,
+        435.25598985936176
+      ],
+      [
+        -574.6962530564338,
+        423.1561475121648
+      ]
+    ],
+    "name": "Grand Hotel Central",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Aan de Kruiskade stond Hotel Central, op de prentbriefkaart uit 1938 ook aangeduid als het vroegere hotel Alard. De hoge, smalle gevel heeft vijf vensterassen, balkons en een grote naam boven de ingang. Het hotel hoorde bij het uitgaansgebied rond de Kruiskade en het Luxor Theater. Het uit 1917 daterende gebouw overleefde het bombardement van mei 1940. De reconstructie toont het oude hotelvolume, zonder de latere plannen voor hoogbouw achter de behouden gevel.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Kruiskade",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Kruiskade, direct ten westen van het Oude Luxor; voorgevel op de historische schuine straatwand.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie. Het model beperkt zich tot het voorste hotelvolume; de achterbouw naast de diepe Luxorzaal is niet uitgewerkt.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Prentbriefkaart Hotel Central (voorheen hotel \"Alard\") 1938",
+        "date": "1938",
+        "author": "Anonymous Unknown author",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4029&minr=40467462&miview=ldt",
+        "src": "landmarks/grand-hotel-central/foto-1-origineel.jpg",
+        "ai": "landmarks/grand-hotel-central/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4029&minr=40467462&miview=ldt"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Hotel_Central_%28voorheen_hotel_%22Alard%22%29_1938.jpg"
+      },
+      {
+        "title": "Raad van State — historie en herontwikkeling Kruiskade 12",
+        "url": "https://www.raadvanstate.nl/uitspraken/@146269/202304066-1-r3/"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        -564.4264606859889,
+        412.8365562088258
+      ],
+      [
+        -575.4463099677754,
+        423.159972397603
+      ],
+      [
+        -563.41381083463,
+        436.0042019148279
+      ],
+      [
+        -552.3939615528435,
+        425.6807857260507
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -564.4264606859889,
+        412.8365562088258
+      ],
+      [
+        -575.4463099677754,
+        423.159972397603
+      ],
+      [
+        -563.41381083463,
+        436.0042019148279
+      ],
+      [
+        -552.3939615528435,
+        425.6807857260507
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -553.0300191330921,
+          425.66003109745105
+        ],
+        [
+          -564.4472153145884,
+          413.4726137890744
+        ],
+        [
+          -574.8102523875268,
+          423.18072702620265
+        ],
+        [
+          -563.3930562060305,
+          435.3681443345793
+        ]
+      ]
+    ],
+    "height": 23.3,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/grand-hotel-central/model.glb"
+  },
+  {
+    "id": "ooglijdersgesticht",
+    "center": [
+      903.6705894953645,
+      285.9429156293359
+    ],
+    "angle": 2.181634650972879,
+    "modelWidth": 32.651813659743986,
+    "modelDepth": 26,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 32.57181365974399,
+          "d": 26,
+          "h": 13.6,
+          "floors": 3,
+          "bays": 7,
+          "roof": "hip",
+          "roofHeight": 4.8,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "bands": true,
+          "archedTop": true,
+          "dormers": 3
+        },
+        {
+          "x": 0,
+          "z": 12.5,
+          "w": 6,
+          "d": 3,
+          "h": 15,
+          "roof": "gable",
+          "roofHeight": 3,
+          "bays": 2,
+          "floors": 3,
+          "bands": true
+        },
+        {
+          "x": -10,
+          "z": -8,
+          "w": 5,
+          "d": 5,
+          "h": 19,
+          "roof": "flat",
+          "floors": 4,
+          "bays": 1
+        }
+      ],
+      "towers": [
+        {
+          "x": -10,
+          "z": -8,
+          "radius": 2.2,
+          "base": 19,
+          "h": 3.7,
+          "roofHeight": 2.8,
+          "wall": "stone"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        4475,
+        1975
+      ],
+      [
+        4444,
+        1930
+      ]
+    ],
+    "frontage": [
+      [
+        923.683562275816,
+        280.0254707156448
+      ],
+      [
+        904.9559712271532,
+        306.7727746692153
+      ]
+    ],
+    "name": "Ooglijdersgesticht Oostmolenwerf",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Het Ooglijdersgesticht aan de Oostmolenwerf, op de hoek van het Haringvliet, was een gespecialiseerde zorginstelling voor mensen met oogziekten. De archiefreeks documenteert de opening van het nieuwe gebouw in 1915. De bakstenen gevel, hoge kap en het torentje maakten het herkenbaar tussen de havengebouwen. Foto’s uit 1939 tonen het nog aan het Haringvliet; beelden van de ruïne leggen de verwoesting in 1940 vast. De getoonde vroegere opname laat ook het hek en de ruimte vóór de ingang zien.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Het_Oogziekenhuis_Rotterdam",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Westzijde Oostmolenwerf, hoek Haringvliet. Model begrensd tot het hoofdgebouw; geen invulling van onbekende zorgvleugels.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Zicht op het Ooglijdersgesticht aan de Oostmolenwerf hoek Haringvliet 1915 - 1921",
+        "date": "between 1915 and 1921 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1915-00-00T00:00:00Z/9,P1326,+1921-00-00T00:00:00Z/9",
+        "author": "Cornelis (C.) Vreedenburgh",
+        "license": "CC BY 4.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://hdl.handle.net/21.12133/61F586ADB6104205B6B81DA7DEE9351C",
+        "src": "landmarks/ooglijdersgesticht/foto-1-origineel.jpg",
+        "ai": "landmarks/ooglijdersgesticht/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/61F586ADB6104205B6B81DA7DEE9351C"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Zicht_op_het_Ooglijdersgesticht_aan_de_Oostmolenwerf_hoek_Haringvliet_1915_-_1921.jpg"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        902.2271783875229,
+        264.3798262598163
+      ],
+      [
+        882.914561861602,
+        291.9626810442516
+      ],
+      [
+        905.1140006032061,
+        307.50600499885553
+      ],
+      [
+        913.5533582647925,
+        297.19617655450867
+      ],
+      [
+        917.6255944300208,
+        291.3800874377046
+      ],
+      [
+        924.4266171291271,
+        279.9231502144202
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        902.2271783875229,
+        264.3798262598163
+      ],
+      [
+        882.914561861602,
+        291.9626810442516
+      ],
+      [
+        905.1140006032061,
+        307.50600499885553
+      ],
+      [
+        913.5533582647925,
+        297.19617655450867
+      ],
+      [
+        917.6255944300208,
+        291.3800874377046
+      ],
+      [
+        924.4266171291271,
+        279.9231502144202
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          902.3377042788201,
+          265.00655110163524
+        ],
+        [
+          883.541286703421,
+          291.8521551529546
+        ],
+        [
+          905.003474711909,
+          306.8792801570366
+        ],
+        [
+          923.7998922873081,
+          280.03367610571723
+        ]
+      ],
+      [
+        [
+          914.3775336482339,
+          289.6552392827016
+        ],
+        [
+          910.8214964335274,
+          294.7340776663897
+        ],
+        [
+          913.4428323734953,
+          296.5694517126897
+        ],
+        [
+          916.9988695882018,
+          291.49061332900163
+        ]
+      ],
+      [
+        [
+          902.2141995015271,
+          269.54172883734276
+        ],
+        [
+          899.2317166762895,
+          273.8013997397908
+        ],
+        [
+          903.4913875787374,
+          276.7838825650284
+        ],
+        [
+          906.4738704039751,
+          272.52421166258046
+        ]
+      ]
+    ],
+    "height": 25.5,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/ooglijdersgesticht/model.glb"
+  },
+  {
+    "id": "bank-mees-beursplein",
+    "center": [
+      225.18419209951546,
+      -36.02458000244002
+    ],
+    "angle": -2.862444356765475,
+    "modelWidth": 36.1363197532673,
+    "modelDepth": 30,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 36.0563197532673,
+          "d": 30,
+          "h": 20,
+          "floors": 4,
+          "bays": 9,
+          "roof": "gable",
+          "roofHeight": 8,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 6,
+          "roofAlongFront": true,
+          "bands": true,
+          "archedEntry": true,
+          "windowWidth": 1.7,
+          "chimneys": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3330,
+        2458
+      ],
+      [
+        3272,
+        2474
+      ]
+    ],
+    "frontage": [
+      [
+        238.41988665041026,
+        -16.62677623286322
+      ],
+      [
+        203.6823871148115,
+        -26.58366989126148
+      ]
+    ],
+    "name": "Bank R. Mees & Zoonen",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Het bankgebouw van R. Mees & Zoonen aan het Beursplein stond op de hoek van de Vissteeg. De foto uit 1935 toont een breed bakstenen gebouw met natuurstenen accenten, een hoge kap en forse schoorstenen. Het was een zakelijke tegenhanger van de levendige beurs- en havenomgeving eromheen. Dit is het gebouw dat tegenwoordig aan de Blaak staat, niet het eerdere kantoor van dezelfde bank aan de Zuidblaak. De oude straatwand en het Beursplein om het gebouw zijn na de oorlog sterk veranderd.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/MeesPierson",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Zuidzijde Beursplein, westelijk van de Vissteeg. De oude rooilijn wordt gevolgd.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Zicht op het nieuwe bankgebouw van Mees & Zonen aan het Beursplein hoek Vissteeg 1935 2",
+        "date": "1935",
+        "author": "Evert Marinus (E.M.) van Ojen",
+        "license": "CC BY 4.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://hdl.handle.net/21.12133/703ED73DEB7E4A22B6D9B2EC05E7784C",
+        "src": "landmarks/bank-mees-beursplein/foto-1-origineel.jpg",
+        "ai": "landmarks/bank-mees-beursplein/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/703ED73DEB7E4A22B6D9B2EC05E7784C"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Zicht_op_het_nieuwe_bankgebouw_van_Mees_%26_Zonen_aan_het_Beursplein_hoek_Vissteeg_1935_2.jpg"
+      },
+      {
+        "title": "Gebouw en aanvullende foto’s — Blaak 10",
+        "url": "https://commons.wikimedia.org/wiki/Category:Blaak_10,_Rotterdam"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        211.60978477060098,
+        -56.09161740387209
+      ],
+      [
+        203.04058362088546,
+        -26.195484014155713
+      ],
+      [
+        238.75859942842993,
+        -15.957542601007948
+      ],
+      [
+        247.32780057814546,
+        -45.85367599072433
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        211.60978477060098,
+        -56.09161740387209
+      ],
+      [
+        203.04058362088546,
+        -26.195484014155713
+      ],
+      [
+        238.75859942842993,
+        -15.957542601007948
+      ],
+      [
+        247.32780057814546,
+        -45.85367599072433
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          246.77122821342698,
+          -45.54508693902013
+        ],
+        [
+          211.91837382230517,
+          -55.53504503915362
+        ],
+        [
+          203.59715598560393,
+          -26.504073065859906
+        ],
+        [
+          238.45001037672574,
+          -16.514114965726414
+        ]
+      ]
+    ],
+    "height": 28,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/bank-mees-beursplein/model.glb"
+  },
+  {
+    "id": "vroom-dreesmann-binnenweg",
+    "center": [
+      -546.8364440694239,
+      -81.86368504540563
+    ],
+    "angle": 0.29795360376882035,
+    "modelWidth": 33.829025098018505,
+    "modelDepth": 24,
+    "modelSpec": {
+      "colors": {
+        "brick": "#b59a73",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#bdae8b",
+        "trim": "#d6c9ad",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#344b42",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 33.74902509801851,
+          "d": 24,
+          "h": 16.5,
+          "floors": 3,
+          "bays": 5,
+          "roof": "hip",
+          "roofHeight": 3,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 5.7,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 5,
+          "windowWidth": 2.8,
+          "windowHeight": 4.1,
+          "pilasters": true,
+          "canopy": true,
+          "bands": true
+        }
+      ],
+      "towers": [
+        {
+          "x": -14.914512549009252,
+          "z": 10,
+          "radius": 2.8,
+          "base": 15,
+          "h": 7,
+          "roofHeight": 5.3,
+          "wall": "stone"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        1999,
+        2580
+      ],
+      [
+        2053,
+        2564
+      ]
+    ],
+    "frontage": [
+      [
+        -559.4829152299221,
+        -98.30045790254758
+      ],
+      [
+        -527.1444226948136,
+        -88.36945394327472
+      ]
+    ],
+    "name": "Vroom & Dreesmann – De Zon",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Vroom & Dreesmann opende in 1892 aan de Binnenweg zijn eerste vestiging buiten Amsterdam. Het warenhuis heette ook “De Zon”. Het hoekpand aan de Crispijnlaan combineerde grote etalages met hoge winkelvensters, markiezen en een torentje boven de hoek. Dat maakte de winkel tot een herkenningspunt in een veel smallere winkelstraat dan de huidige Coolsingel. Het fotojaar wordt door de collectie ruim gedateerd op circa 1925–1935. Deze plek moet niet worden verward met de naoorlogse V&D aan de Hoogstraat.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Vroom_%26_Dreesmann",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Noordzijde Binnenweg bij de historische Crispijnlaan; hoek en bouwdiepte bij benadering.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Het filiaal van warenhuisketen Vroom & Dreesmann op de Binnenweg te Rotterdam, Nederland circa, SFA002000958",
+        "date": "circa 1925–1935",
+        "author": "Unknown author Unknown author",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://beeldbank.spaarnestadphoto.com/search.pp?flush=1&multikeyword=SFA002000958&searchtype=0#ctr-thumbnails",
+        "src": "landmarks/vroom-dreesmann-binnenweg/foto-1-origineel.jpg",
+        "ai": "landmarks/vroom-dreesmann-binnenweg/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://beeldbank.spaarnestadphoto.com/search.pp?flush=1&multikeyword=SFA002000958&searchtype=0#ctr-thumbnails"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_filiaal_van_warenhuisketen_Vroom_%26_Dreesmann_op_de_Binnenweg_te_Rotterdam%2C_Nederland_circa%2C_SFA002000958.jpg"
+      },
+      {
+        "title": "Bedrijfsgeschiedenis — eerste Rotterdamse vestiging",
+        "url": "https://bvs.nl/ronald-kahn/"
+      },
+      {
+        "title": "Adreshistorie Binnenweg 49, hoek Crispijnlaan",
+        "url": "https://www.flickr.com/photos/hans_r_van_der_woude/31281754478"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        -559.8089837164761,
+        -98.97594242648313
+      ],
+      [
+        -567.1774549820683,
+        -74.98186750770077
+      ],
+      [
+        -533.8639044223718,
+        -64.75142766432813
+      ],
+      [
+        -526.4954331567795,
+        -88.7455025831105
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -559.8089837164761,
+        -98.97594242648313
+      ],
+      [
+        -567.1774549820683,
+        -74.98186750770077
+      ],
+      [
+        -533.8639044223718,
+        -64.75142766432813
+      ],
+      [
+        -526.4954331567795,
+        -88.7455025831105
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -566.6151782576472,
+          -75.27993609909261
+        ],
+        [
+          -534.1619730137637,
+          -65.3137043887492
+        ],
+        [
+          -527.0577098812006,
+          -88.44743399171865
+        ],
+        [
+          -559.5109151250841,
+          -98.41366570206206
+        ]
+      ]
+    ],
+    "height": 27.3,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/vroom-dreesmann-binnenweg/model.glb"
+  },
+  {
+    "id": "leeskabinet-geldersekade",
+    "center": [
+      346.2356378165131,
+      20.66303585669082
+    ],
+    "angle": -2.8959270923050804,
+    "modelWidth": 15.43931040226944,
+    "modelDepth": 23,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 15.35931040226944,
+          "d": 23,
+          "h": 11.8,
+          "floors": 2,
+          "bays": 5,
+          "roof": "hip",
+          "roofHeight": 3,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 4.8,
+          "cornice": true,
+          "entrance": false,
+          "windowHeight": 4.5,
+          "archedTop": true,
+          "bands": true,
+          "windows": false
+        }
+      ],
+      "accents": [
+        {
+          "x": -5.712544848839693,
+          "y": 2.6,
+          "z": 11.65,
+          "w": 1.55,
+          "h": 3.4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": -2.779075872408499,
+          "y": 2.6,
+          "z": 11.65,
+          "w": 1.55,
+          "h": 3.4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 0,
+          "y": 2.6,
+          "z": 11.65,
+          "w": 1.55,
+          "h": 3.4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 2.779075872408499,
+          "y": 2.6,
+          "z": 11.65,
+          "w": 1.55,
+          "h": 3.4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 5.712544848839693,
+          "y": 2.6,
+          "z": 11.65,
+          "w": 1.55,
+          "h": 3.4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": -6.175724160907777,
+          "y": 7.25,
+          "z": 11.65,
+          "w": 1.25,
+          "h": 4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 6.175724160907777,
+          "y": 7.25,
+          "z": 11.65,
+          "w": 1.25,
+          "h": 4,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 0,
+          "y": 4.4,
+          "z": 11.7,
+          "w": 15.68931040226944,
+          "h": 0.3,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 10.6,
+          "z": 11.7,
+          "w": 15.68931040226944,
+          "h": 0.3,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 11.7,
+          "z": 11.7,
+          "w": 15.68931040226944,
+          "h": 0.3,
+          "d": 0.35,
+          "material": "stone"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -2.65,
+          "y": 7.6,
+          "z": 11.53,
+          "w": 2.25,
+          "h": 5.5,
+          "arched": true
+        },
+        {
+          "x": 0,
+          "y": 7.6,
+          "z": 11.53,
+          "w": 2.25,
+          "h": 5.5,
+          "arched": true
+        },
+        {
+          "x": 2.65,
+          "y": 7.6,
+          "z": 11.53,
+          "w": 2.25,
+          "h": 5.5,
+          "arched": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3518,
+        2376
+      ],
+      [
+        3493,
+        2382
+      ]
+    ],
+    "frontage": [
+      [
+        350.9266930694687,
+        33.695191359067394
+      ],
+      [
+        335.9509375557211,
+        29.94032085662866
+      ]
+    ],
+    "name": "Rotterdamsch Leeskabinet",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Het Rotterdamsch Leeskabinet werd in 1859 opgericht om goede lectuur beschikbaar te maken aan een breed publiek. Vanaf 1865 had de vereniging een eigen gebouw aan de Geldersekade, ontworpen door J.F. Metzelaar. Achter de drie grote boogramen lag een bijna zes meter hoge leeszaal met gaanderijen. Tijdens het bombardement van 14 mei 1940 gingen het gebouw en ongeveer 130.000 boeken verloren; de medewerkers bleven ongedeerd. Dankzij schenkingen kon de bibliotheek nog datzelfde jaar aan de Parklaan heropenen. Tegenwoordig is het Leeskabinet verbonden aan de Erasmus Universiteit.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Rotterdamsch_Leeskabinet",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Zuidelijke gevelwand van de Geldersekade, westelijk van de Wijde Nieuwsteeg. Perceelpositie circa 10 m onzeker.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Pand van het Rotterdamsch Leeskabinet aan de Geldersekade, 1918-1922",
+        "date": "1918–1922",
+        "author": "Anonymous Unknown author",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Pand_van_het_Rotterdamsch_Leeskabinet_aan_de_Geldersekade%2C_1918-1922.jpg",
+        "src": "landmarks/leeskabinet-geldersekade/foto-1-origineel.jpg",
+        "ai": "landmarks/leeskabinet-geldersekade/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://commons.wikimedia.org/wiki/File:Pand_van_het_Rotterdamsch_Leeskabinet_aan_de_Geldersekade%2C_1918-1922.jpg"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Pand_van_het_Rotterdamsch_Leeskabinet_aan_de_Geldersekade%2C_1918-1922.jpg"
+      },
+      {
+        "title": "Erasmus Universiteit — geschiedenis van het Leeskabinet",
+        "url": "https://www.eur.nl/library/leeskabinet/over-het-rlk/onze-geschiedenis"
+      },
+      {
+        "title": "Erasmus Universiteit — Metzelaar, leeszaal en gevel",
+        "url": "https://www.eur.nl/nieuws/rotterdamsch-leeskabinet-verwerft-schilderij-aw-van-voorden"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        341.1836560460849,
+        6.973360735606871
+      ],
+      [
+        335.3224888856998,
+        30.34977447933633
+      ],
+      [
+        338.1407296751358,
+        31.324439824280937
+      ],
+      [
+        348.34291377993685,
+        33.882432983317265
+      ],
+      [
+        351.2876195869413,
+        34.35271097777476
+      ],
+      [
+        357.14878674732637,
+        10.976297234045308
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        341.1836560460849,
+        6.973360735606871
+      ],
+      [
+        335.3224888856998,
+        30.34977447933633
+      ],
+      [
+        338.1407296751358,
+        31.324439824280937
+      ],
+      [
+        348.34291377993685,
+        33.882432983317265
+      ],
+      [
+        351.2876195869413,
+        34.35271097777476
+      ],
+      [
+        357.14878674732637,
+        10.976297234045308
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          356.6028568134321,
+          11.30334540676336
+        ],
+        [
+          341.5107042188029,
+          7.519290669501128
+        ],
+        [
+          335.86841881959407,
+          30.022726306618278
+        ],
+        [
+          350.96057141422324,
+          33.806781043880505
+        ]
+      ],
+      [
+        [
+          348.14233062478723,
+          32.8321156989359
+        ],
+        [
+          338.8131246265985,
+          30.49300430107578
+        ],
+        [
+          338.68665960903,
+          30.997391651562886
+        ],
+        [
+          348.01586560721876,
+          33.33650304942301
+        ]
+      ]
+    ],
+    "height": 14.8,
+    "cameraDistance": 65,
+    "modelDownload": "landmarks/leeskabinet-geldersekade/model.glb"
+  },
+  {
+    "id": "bijbank-boompjes",
+    "center": [
+      105.19280923803613,
+      -499.99448394369756
+    ],
+    "angle": 0.7925277646886097,
+    "modelWidth": 19.550164899171204,
+    "modelDepth": 57,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 22,
+          "w": 19.470164899171206,
+          "d": 13,
+          "h": 19,
+          "floors": 4,
+          "bays": 5,
+          "roof": "flat",
+          "roofHeight": 2.8,
+          "wall": "stone",
+          "gableWall": "stone",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 4,
+          "cornice": true,
+          "entrance": true,
+          "bands": true,
+          "pilasters": true,
+          "parapet": true,
+          "sideBays": 10
+        },
+        {
+          "x": 0,
+          "z": -6.5,
+          "w": 18.550164899171204,
+          "d": 44,
+          "h": 8,
+          "roof": "flat",
+          "wall": "brick",
+          "windows": false
+        },
+        {
+          "x": 0,
+          "z": -24,
+          "w": 19.550164899171204,
+          "d": 9,
+          "h": 14,
+          "roof": "flat",
+          "wall": "brick",
+          "floors": 3,
+          "bays": 5,
+          "back": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3126,
+        3308
+      ],
+      [
+        3149,
+        3285
+      ]
+    ],
+    "frontage": [
+      [
+        118.62594686175112,
+        -526.9639676332035
+      ],
+      [
+        132.35109053052724,
+        -513.0417056454287
+      ]
+    ],
+    "name": "Bijbank Nederlandsche Bank",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "De Nederlandsche Bank kreeg in 1907 een nieuw bijkantoor aan de Boompjes. Jan Verheul Dzn. en A. Salm ontwierpen een bankgebouw met een smalle maar monumentale voorgevel en een veel diepere bouwmassa richting de Rederijkade. Achter de ingang lag een centrale publiekshal met kantoorruimten eromheen. De gevel aan de Maas was bekleed met Oberkirchner zandsteen; aan de achterzijde werd baksteen gebruikt. Het pand ging in mei 1940 verloren. De naoorlogse Bijbank is een ander ontwerp en wordt hier niet met het oude gebouw vermengd.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Bijbank_van_De_Nederlandsche_Bank_(Rotterdam)",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Boompjes, tweede pand westelijk van de Reederijstraat; langgerekt perceel richting Rederijkade. Gevelbreedte circa 19 m, bouwdiepte circa 57 m.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "Oberkirchner zandsteen voor en baksteen achter zijn beschreven in de bouwgeschiedenis. De exacte verwering en kozijnkleur zijn interpretatief. AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Bijbank van de Nederlandsche Bank aan de Boompjes",
+        "date": "1907",
+        "author": "Carl Emile Mögle",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/5A78707B1B334C6B9FB446A556848D43",
+        "src": "landmarks/bijbank-boompjes/foto-1-origineel.jpg",
+        "ai": "landmarks/bijbank-boompjes/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Oberkirchner zandsteen voor en baksteen achter zijn beschreven in de bouwgeschiedenis. De exacte verwering en kozijnkleur zijn interpretatief. AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron. Het gevelopschrift is door de AI niet volledig correct overgenomen; lees tekst uitsluitend op de originele foto."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/5A78707B1B334C6B9FB446A556848D43"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/5A78707B1B334C6B9FB446A556848D43"
+      },
+      {
+        "title": "Bouwgeschiedenis, maten en materialen — naar BONAS",
+        "url": "https://nieuws.top010.nl/bijbank-de-nederlandsche-bank-1907-1940.htm"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        118.65957424165256,
+        -527.7132801176324
+      ],
+      [
+        84.44924483474831,
+        -494.04348709968974
+      ],
+      [
+        77.25673025485916,
+        -486.9528077233477
+      ],
+      [
+        77.60775398636125,
+        -486.59674264513535
+      ],
+      [
+        91.75412613293987,
+        -472.2472025635057
+      ],
+      [
+        98.94664071282902,
+        -479.33788193984776
+      ],
+      [
+        133.10080632269293,
+        -513.0646453703043
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        118.65957424165256,
+        -527.7132801176324
+      ],
+      [
+        84.44924483474831,
+        -494.04348709968974
+      ],
+      [
+        77.25673025485916,
+        -486.9528077233477
+      ],
+      [
+        77.60775398636125,
+        -486.59674264513535
+      ],
+      [
+        91.75412613293987,
+        -472.2472025635057
+      ],
+      [
+        98.94664071282902,
+        -479.33788193984776
+      ],
+      [
+        133.10080632269293,
+        -513.0646453703043
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          109.25491896480771,
+          -517.8098736772346
+        ],
+        [
+          123.06430832914434,
+          -503.8021560706887
+        ],
+        [
+          132.46442639394996,
+          -513.0691825823436
+        ],
+        [
+          118.65503702961334,
+          -527.0769001888895
+        ]
+      ],
+      [
+        [
+          78.24413391510421,
+          -486.5922054330961
+        ],
+        [
+          91.40763961347702,
+          -473.23964757046105
+        ],
+        [
+          122.88379252744735,
+          -504.2701454352449
+        ],
+        [
+          109.72028682907455,
+          -517.62270329788
+        ]
+      ],
+      [
+        [
+          77.89311018360215,
+          -486.94827051130846
+        ],
+        [
+          91.75866334497911,
+          -472.8835824922487
+        ],
+        [
+          98.31026078408605,
+          -479.342419151887
+        ],
+        [
+          84.44470762270909,
+          -493.40710717094674
+        ]
+      ]
+    ],
+    "height": 21.8,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/bijbank-boompjes/model.glb"
+  },
+  {
+    "id": "nieuwsblad-slagveld",
+    "center": [
+      -488.8626242622769,
+      700.0490605544235
+    ],
+    "angle": 2.265723033672208,
+    "modelWidth": 38.63659903435204,
+    "modelDepth": 25,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 38.55659903435204,
+          "d": 25,
+          "h": 15,
+          "floors": 3,
+          "bays": 7,
+          "roof": "hip",
+          "roofHeight": 3,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 3.6,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 4,
+          "bands": true,
+          "archedTop": true
+        }
+      ],
+      "towers": [
+        {
+          "x": 15,
+          "z": 10,
+          "radius": 2.3,
+          "base": 14,
+          "h": 6,
+          "roofHeight": 3.4,
+          "wall": "brick"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        2160,
+        1260
+      ],
+      [
+        2119,
+        1210
+      ]
+    ],
+    "frontage": [
+      [
+        -466.8912961095639,
+        693.2147767264628
+      ],
+      [
+        -491.6314365255482,
+        722.8915730013081
+      ]
+    ],
+    "name": "Rotterdamsch Nieuwsblad",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Het Rotterdamsch Nieuwsblad vond onderdak in het complex van het voormalige hotel en feestgebouw De Vereeniging bij het Slagveld en de Schiekade. Daarmee zat de krant aan een druk verkeersknooppunt bij het Hofplein. De foto uit 1939 toont de gevel aan het Slagveld, een verkeersagent, fietsers en een deel van de lichtkrant. Het Stadsarchief documenteert zowel het vooroorlogse gebouw als de restanten na het bombardement. De naam op het dak maakte het krantenbedrijf ook op grotere afstand herkenbaar. Dit model verbeeldt het hoofdvolume aan de hoek; het volledige bedrijfsterrein met alle drukkerijruimten is niet gereconstrueerd.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Rotterdams_Nieuwsblad",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Archiefbeeld 1939, gevel aan het Slagveld. Het model is een benadering van het vooroorlogse hoofdvolume; overige drukkerijruimten zijn niet uitgewerkt.",
+    "placementNote": "Westelijke oever van de voormalige Schie, hoek Slagveld. De historische kaart bevat al wijzigingen van het Hofplein; rooilijn bij benadering.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Prentbriefkaart het Slagveld met het kantoor van het Rotterdamsch Nieuwsblad 1939.jpg",
+        "date": "1939",
+        "author": "Anonymous Unknown author",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/DD046208627D4A298E6FA29C96CAA8FC",
+        "src": "landmarks/nieuwsblad-slagveld/foto-1-origineel.jpg",
+        "ai": "landmarks/nieuwsblad-slagveld/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/DD046208627D4A298E6FA29C96CAA8FC"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_het_Slagveld_met_het_kantoor_van_het_Rotterdamsch_Nieuwsblad_1939.jpg"
+      },
+      {
+        "title": "Stadsarchief — Nieuwsblad vóór en na het bombardement",
+        "url": "https://stadsarchief.rotterdam.nl/woii-fotos-van-lex-de-herder"
+      },
+      {
+        "title": "Een Rotterdams dagbladpaleis — historische locatie en complex",
+        "url": "https://tmgonline.nl/articles/511/files/submission/proof/511-1-1502-1-10-20191120.pdf"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        -486.1896994847472,
+        676.4626357537779
+      ],
+      [
+        -511.5829756283836,
+        706.9228946769124
+      ],
+      [
+        -491.53554903980654,
+        723.635485355069
+      ],
+      [
+        -466.14227289617014,
+        693.1752264319346
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -486.1896994847472,
+        676.4626357537779
+      ],
+      [
+        -511.5829756283836,
+        706.9228946769124
+      ],
+      [
+        -491.53554903980654,
+        723.635485355069
+      ],
+      [
+        -466.14227289617014,
+        693.1752264319346
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -486.1322023138779,
+          677.0964291549284
+        ],
+        [
+          -510.9491822272331,
+          706.865397506043
+        ],
+        [
+          -491.5930462106759,
+          723.0016919539186
+        ],
+        [
+          -466.77606629732065,
+          693.232723602804
+        ]
+      ]
+    ],
+    "height": 23.4,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/nieuwsblad-slagveld/model.glb"
+  },
+  {
+    "id": "amsterdamsche-bank-oostplein",
+    "center": [
+      938.864183262489,
+      480.7350508913155
+    ],
+    "angle": -1.4175757277917187,
+    "modelWidth": 28.433435843472843,
+    "modelDepth": 20,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 28.353435843472845,
+          "d": 20,
+          "h": 17,
+          "floors": 4,
+          "bays": 4,
+          "roof": "hip",
+          "roofHeight": 4.5,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 4.3,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 5,
+          "windowHeight": 2.5,
+          "bands": true,
+          "dormers": 2
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        4482,
+        1619
+      ],
+      [
+        4489,
+        1666
+      ]
+    ],
+    "frontage": [
+      [
+        926.8115556606319,
+        493.2589974081757
+      ],
+      [
+        931.151117452793,
+        465.1586686322182
+      ]
+    ],
+    "name": "Amsterdamsche Bank Oostplein",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Aan het Oostplein zat een bijkantoor van de Amsterdamsche Bank. De bankarchieven noemen het adres Oostplein 24a. Op het straatbeeld uit 1930 staat het bankgebouw links, met de Marinierskazerne aan de overzijde en de haven op de achtergrond. De lichte banden in de bakstenen gevel en de hoge kap helpen het pand te herkennen. Deze opname vertelt tegelijk iets over het dagelijkse leven rond het plein: tramrails, voetgangers en scheepvaart kwamen hier dicht bij elkaar. Het beeld toont de omgeving ruim; de bank zelf valt deels buiten de uitsnede.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Amsterdamsche_Bank",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Gebouw in het vooroorlogse centrum. De datering bij iedere foto geldt voor die opname; niet alle beelden zijn uit 1939.",
+    "placementNote": "Oostelijke gevelwand Oostplein, tegenover de Marinierskazerne. Geselecteerde foto toont slechts een deel van het bankpand; bouwdiepte en achtergevel zijn onzeker. Voorgevel geplaatst op de oostelijke rooilijn, direct ten noorden van de Admiraliteitsstraat; niet op het open plein. Voorgevel geplaatst op de oostelijke rooilijn, direct ten noorden van de Admiraliteitsstraat; niet op het open plein.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Prentbriefkaart het Oostplein met bijgebouw Spaarbank Rotterdam en Amsterdamsche bank, Marinierskazerne, Boerengat en Oude Oostbrug 1930",
+        "date": "1930",
+        "author": "Anonymous Unknown author",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/E05EAA3A31B94D45BFB87725FB558AD0",
+        "src": "landmarks/amsterdamsche-bank-oostplein/foto-1-origineel.jpg",
+        "ai": "landmarks/amsterdamsche-bank-oostplein/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/E05EAA3A31B94D45BFB87725FB558AD0"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_het_Oostplein_met_bijgebouw_Spaarbank_Rotterdam_en_Amsterdamsche_bank%2C_Marinierskazerne%2C_Boerengat_en_Oude_Oostbrug_1930.jpg"
+      },
+      {
+        "title": "Nationaal Archief — bankarchief, Oostplein 24a",
+        "url": "https://www.nationaalarchief.nl/onderzoeken/archief/2.18.32/download/pdf"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        930.6853979954022,
+        464.5707014673121
+      ],
+      [
+        926.1901619803872,
+        493.6790806072588
+      ],
+      [
+        947.0429685295757,
+        496.89940031531887
+      ],
+      [
+        951.5382045445907,
+        467.7910211753722
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        930.6853979954022,
+        464.5707014673121
+      ],
+      [
+        926.1901619803872,
+        493.6790806072588
+      ],
+      [
+        947.0429685295757,
+        496.89940031531887
+      ],
+      [
+        951.5382045445907,
+        467.7910211753722
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          946.6669202320161,
+          496.3859924093586
+        ],
+        [
+          951.0247966386305,
+          468.1670694729318
+        ],
+        [
+          931.0614462929618,
+          465.0841093732724
+        ],
+        [
+          926.7035698863474,
+          493.3030323096992
+        ]
+      ]
+    ],
+    "height": 21.5,
+    "cameraDistance": 100,
+    "modelDownload": "landmarks/amsterdamsche-bank-oostplein/model.glb"
+  },
+  {
+    "id": "twentsche-noordblaak",
+    "center": [
+      77.64432109284408,
+      41.45047368688731
+    ],
+    "angle": 0.25506100255790015,
+    "modelWidth": 19.80886321760954,
+    "modelDepth": 27,
+    "modelSpec": {
+      "colors": {
+        "brick": "#89684f",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#dcd3bb",
+        "roof": "#535750",
+        "glass": "#4c6265",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 19.728863217609543,
+          "d": 27,
+          "h": 18,
+          "floors": 3,
+          "bays": 4,
+          "roof": "flat",
+          "roofHeight": 2.8,
+          "wall": "stone",
+          "gableWall": "stone",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 6.6,
+          "cornice": true,
+          "entrance": true,
+          "windowHeight": 3.7,
+          "bands": true,
+          "archedTop": true,
+          "parapet": true
+        }
+      ],
+      "accents": [
+        {
+          "x": -7,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": -5.5,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": -4,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": -2.5,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": -1,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": 0.5,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": 2,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": 3.5,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": 5,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        },
+        {
+          "x": 6.5,
+          "y": 3.9,
+          "z": 13.7,
+          "w": 0.1,
+          "h": 5.8,
+          "d": 0.1,
+          "material": "dark"
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        3052,
+        2384
+      ],
+      [
+        3084,
+        2376
+      ]
+    ],
+    "frontage": [
+      [
+        71.46642849812702,
+        25.888294900430992
+      ],
+      [
+        90.63443351629417,
+        30.886159003973944
+      ]
+    ],
+    "name": "Twentsche Bank Noordblaak",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Vóór de oorlog zat de Twentsche Bank aan de Noordblaak. Het bankgebouw had hoge vensters, een zware natuurstenen gevel en sierlijk hekwerk. De gekozen avondopname uit 1935–1939 laat vooral de verlichte ramen zien, met takken ervoor: een klein nachtelijk inkijkje in het financiële centrum. Bij het bombardement raakte het gebouw zwaar beschadigd. De bewaarde kluis speelde een rol in het voortzetten van het bedrijf. Na de oorlog verhuisde de bank naar een nieuw gebouw aan de zuidzijde van de Blaak. Dat latere gebouw is dus niet de plek die hier op de historische kaart wordt getoond.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Twentsche_Bank",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "De galerie toont een gedateerde avondopname, geen volledig overzicht van het gebouw. Het 3D-volume heeft daarom een lagere zekerheid dan de geveldetails.",
+    "placementNote": "Noordelijke gevelwand van de oude Blaak; niet de naoorlogse bank aan Blaak 28. Perceel en dak zijn globaal benaderd.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "Avondopname van de Twentsche Bank aan de Noordblaak",
+        "date": "1935–1939",
+        "author": "Spaarnestad; fotograaf niet vermeld",
+        "license": "Publiek domein — zie rechten bij de archiefbron",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/83E882AE056A4735899315FA31DC5B5B",
+        "src": "landmarks/twentsche-noordblaak/foto-1-origineel.jpg",
+        "ai": "landmarks/twentsche-noordblaak/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/83E882AE056A4735899315FA31DC5B5B"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://hdl.handle.net/21.12133/83E882AE056A4735899315FA31DC5B5B"
+      },
+      {
+        "title": "Platform Wederopbouw — onderscheid oude en nieuwe banklocatie",
+        "url": "https://wederopbouwrotterdam.nl/artikelen/bankgebouwen-blaak"
+      },
+      {
+        "title": "Gevelreferentie Noordblaak 25 — alleen als onderzoeksbron, niet overgenomen",
+        "url": "https://www.flickr.com/photos/jansluijter/4117336465/"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        71.11169550688346,
+        25.22741328854924
+      ],
+      [
+        64.02194079623912,
+        52.41831945481917
+      ],
+      [
+        84.1769466788047,
+        57.67353408522537
+      ],
+      [
+        91.26670138944904,
+        30.48262791895544
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        71.11169550688346,
+        25.22741328854924
+      ],
+      [
+        64.02194079623912,
+        52.41831945481917
+      ],
+      [
+        84.1769466788047,
+        57.67353408522537
+      ],
+      [
+        91.26670138944904,
+        30.48262791895544
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          64.57091935120751,
+          52.096414894141894
+        ],
+        [
+          83.8550421181274,
+          57.12455553025699
+        ],
+        [
+          90.71772283448065,
+          30.80453247963272
+        ],
+        [
+          71.43360006756076,
+          25.776391843517622
+        ]
+      ]
+    ],
+    "height": 20.8,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/twentsche-noordblaak/model.glb"
+  },
+  {
+    "id": "van-nelle-leuvehaven",
+    "center": [
+      -183.044480733947,
+      -84.70270574831963
+    ],
+    "angle": 1.3247985439170906,
+    "modelWidth": 24.146549623907887,
+    "modelDepth": 35,
+    "modelSpec": {
+      "colors": {
+        "brick": "#8d6652",
+        "brick2": "#78604e",
+        "brick3": "#a07c62",
+        "stone": "#c5b99e",
+        "trim": "#adb197",
+        "roof": "#535750",
+        "glass": "#36574b",
+        "dark": "#343b37",
+        "foliage": "#627151"
+      },
+      "parts": [
+        {
+          "x": 0.0,
+          "z": 0.0,
+          "w": 24.06654962390789,
+          "d": 35,
+          "h": 29,
+          "floors": 8,
+          "bays": 3,
+          "roof": "flat",
+          "roofHeight": 2.8,
+          "wall": "brick",
+          "gableWall": "brick",
+          "shop": true,
+          "sides": false,
+          "back": false,
+          "groundHeight": 4.4,
+          "cornice": true,
+          "entrance": true,
+          "sideBays": 7,
+          "windowWidth": 2.5,
+          "archedEntry": true,
+          "parapet": true
+        }
+      ]
+    },
+    "frontagePixels": [
+      [
+        2650,
+        2591
+      ],
+      [
+        2660,
+        2552
+      ]
+    ],
+    "frontage": [
+      [
+        -169.01145579474883,
+        -100.67418582190089
+      ],
+      [
+        -163.13118684907295,
+        -77.25457233520206
+      ]
+    ],
+    "name": "Van Nelle – De Rijzende Hoop",
+    "modelFamily": "city33",
+    "backgroundClearance": 4,
+    "kind": "building",
+    "story": "Vóór de beroemde fabriek aan de Delfshavense Schie had Van Nelle zijn bedrijfspanden midden in de stad, tussen Leuvehaven en Schiedamsedijk. Het hoge gebouw bij de Witte Leeuwensteeg droeg boven de gevel de namen “De Rijzende Hoop” en “The Rising Hope”. Koffie, thee en tabak verbonden de fabriek rechtstreeks met de haven voor de deur. Na de verhuizing naar de nieuwe fabriek bleef het oude complex bestaan; bij het bombardement ging ook het daar bewaarde bedrijfsarchief verloren. De foto toont de vroegere bedrijfsgevel met de Keizersbrug en het schip Rotowsky op de voorgrond.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Van_Nelle",
+    "sourceRegister": "landmarks/expansion-20260928-sources.md",
+    "periodNote": "Foto 1920–1930; de fabriek verhuisde rond 1930. Het oude complex bleef staan, maar de foto bewijst niet dat alle reclames in 1939 nog aanwezig waren.",
+    "placementNote": "Westzijde Leuvehaven, zuidelijk van de Witte Leeuwensteeg / latere Van Hogendorpstraat. Alleen het hoge frontvolume met aansluitend fabrieksdeel.",
+    "uncertaintyMeters": 10,
+    "description": "Lichte, schematische reconstructie van hoofdvolumes, dakvormen en gevelritme. Plaatsing is afgeleid van de historische kaart en de genoemde straatlocatie. Hoogten, diepten en niet zichtbare gevels zijn benaderingen; geen ingemeten of bouwhistorisch volledige reconstructie.",
+    "colorNote": "Een historisch reclameblik in Museum Rotterdam toont rode baksteen en groene kozijnen; dit is aanvullende kleurinformatie, geen verfonderzoek. AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron.",
+    "photos": [
+      {
+        "title": "De Blaak met het schip Rotowsky, Keizersbrug, Zeevischmarkt, Leuvehaven en het gebouw van Van Nelle 1920 - 1930",
+        "date": "1920–1930",
+        "author": "(P.F.) van den Ende",
+        "license": "CC0 1.0 — Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://hdl.handle.net/21.12133/F6DE549E528E46CEAE8A117CBAFCE028",
+        "src": "landmarks/van-nelle-leuvehaven/foto-1-origineel.jpg",
+        "ai": "landmarks/van-nelle-leuvehaven/foto-1-ai.webp",
+        "shortTitle": "Archiefbeeld",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Een historisch reclameblik in Museum Rotterdam toont rode baksteen en groene kozijnen; dit is aanvullende kleurinformatie, geen verfonderzoek. AI-inkleuring is een hedendaagse interpretatie. Zwart-witbeelden bewijzen de exacte kleuren niet. Kleine details, personen en opschriften in AI-beelden kunnen afwijken; het origineel blijft de historische bron."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Archiefbeeld en datering",
+        "url": "https://hdl.handle.net/21.12133/F6DE549E528E46CEAE8A117CBAFCE028"
+      },
+      {
+        "title": "Beeldverantwoording en rechten",
+        "url": "https://commons.wikimedia.org/wiki/File:De_Blaak_met_het_schip_Rotowsky%2C_Keizersbrug%2C_Zeevischmarkt%2C_Leuvehaven_en_het_gebouw_van_Van_Nelle_1920_-_1930.jpg"
+      },
+      {
+        "title": "KNOB — oude bedrijfspanden en archiefverlies in 1940",
+        "url": "https://bulletin.knob.nl/index.php/knob/issue/download/291/284"
+      },
+      {
+        "title": "Museum Rotterdam — reclameblik met rode baksteen en groene kozijnen",
+        "url": "https://museumrotterdam.nl/collectie/item/30337"
+      },
+      {
+        "title": "Historische ligging Witte Leeuwensteeg en Van Nelle",
+        "url": "https://www.engelfriet.net/Alie/Hans/10vismarkt.htm"
+      },
+      {
+        "title": "Historische kaart: toestand vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+      }
+    ],
+    "polygon": [
+      [
+        -168.6022109788516,
+        -101.30277048657324
+      ],
+      [
+        -203.61541410882324,
+        -92.5115472167807
+      ],
+      [
+        -197.48675048904244,
+        -68.10264101006602
+      ],
+      [
+        -162.47354735907078,
+        -76.89386427985856
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -168.6022109788516,
+        -101.30277048657324
+      ],
+      [
+        -203.61541410882324,
+        -92.5115472167807
+      ],
+      [
+        -197.48675048904244,
+        -68.10264101006602
+      ],
+      [
+        -162.47354735907078,
+        -76.89386427985856
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -203.06937555259353,
+          -92.18468043182
+        ],
+        [
+          -197.15988370408175,
+          -68.64867956629578
+        ],
+        [
+          -163.0195859153005,
+          -77.22073106481926
+        ],
+        [
+          -168.92907776381227,
+          -100.75673193034348
+        ]
+      ]
+    ],
+    "height": 31.8,
+    "cameraDistance": 110,
+    "modelDownload": "landmarks/van-nelle-leuvehaven/model.glb"
   }
 ]
