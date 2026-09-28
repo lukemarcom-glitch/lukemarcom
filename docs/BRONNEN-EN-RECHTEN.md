@@ -15,3 +15,7 @@ Dit project combineert eigen code en reconstructies met archiefmateriaal en exte
 Een AI-kleurversie is geen nieuw ontdekte kleurenfoto en geen garantie dat oorspronkelijke bronrechten vervallen. Controleer voor nieuwe beelden de voorwaarden bij de bron; neem geen algemene licentie aan omdat een foto oud is of op internet staat. Citeer korte eigen samenvattingen met links in plaats van volledige artikelen over te nemen.
 
 De migratie naar GitHub bewaart de bestaande bronmetadata; dit is geen nieuwe volledige juridische of historische audit van alle collecties. Nieuwe bevindingen of correcties horen bij het betreffende item te worden vastgelegd.
+
+## Bronvermelding sinds 28 september 2026
+
+Iedere foto heeft een direct zichtbare credit; een AI-afgeleide verwijst naar hetzelfde origineel. De inhoudelijke bronnen staan bij het verhaal met een toelichting op hun gebruiksdoel. Zie [de bronnenronde](BRONNENAUDIT-20260928.md) en [het register per locatie](BRONNENAUDIT-20260928.json) voor correcties, bereikbaarheid en resterende beperkingen. Een ontoegankelijke bron of onbekende rechtenstatus wordt expliciet getoond; een geslaagde linkcontrole is geen nieuwe juridische vrijgave.

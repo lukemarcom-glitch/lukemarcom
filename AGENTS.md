@@ -18,7 +18,8 @@ Lees eerst `README.md`, `docs/OVERDRACHT.md` en voor je taak `docs/ONTWIKKELEN.m
 - Maak bewezen feiten, aannames en onzekerheden herkenbaar. Kleuren onderbouwen met materiaalbeschrijvingen/kleurbronnen; geen zekerheid afleiden uit zwart-witfoto's of AI.
 - Bewaar het origineel ongewijzigd. De AI-versie is een aparte, gelabelde interpretatie met bron en prompt; geen historisch bewijs. Bij voorkeur hele gebouw in beeld, details als aanvulling.
 - Nieuwe locaties hebben minimaal één origineel/AI-fotopaar met rechteninformatie. Gewoonlijk maximaal vijf AI-bewerkingen per gebouw, tenzij expliciet anders gevraagd (de Diergaarde heeft meer).
-- Achtergrondtekst per gebouw maximaal 400 woorden, met relevante Wikipedia-link en inhoudelijke bronnen.
+- Achtergrondtekst per gebouw maximaal 400 woorden, met inhoudelijke bronnen die rechtstreeks naar het gebruikte artikel, archiefstuk of de relevante PDF leiden. Iedere bron heeft `supports`: benoem welke informatie of passage ermee is onderbouwd. Wikipedia is alleen aanvullende achtergrond; laat een link naar een ander gebouw weg. Een algemene pagina over een straat of organisatie is geen bewijs voor een specifiek pand.
+- Toon bij iedere foto en AI-afgeleide direct de bronregistratie, maker, datering (of onbekend), rechten en waar beschikbaar collectienummer. `url` bewaart de herkomstpagina, `archiveUrl` mag aanvullend naar het exacte oorspronkelijke archiefstuk verwijzen. Neem geen upload-/scandatum over als historische opnamedatum. `unavailable` + `accessNote` markeren aantoonbaar onbereikbare tekstbronnen; bewaar de bibliografische vindplaats. Zie `docs/BRONNENAUDIT-20260928.md`.
 - WOII-verhalen hebben `anchor`, `locationContext` en bronverantwoording. Gebruik `resolveStoryLocations`; verplaats ze niet naar een gelijknamig nieuw gebouw. Geen verzonnen oorlogsscènes, portretten of dialogen. Eventuele AI-bewerking betreft bestaand plekbeeld en wordt als interpretatie toegelicht.
 
 ## Technische werkwijze

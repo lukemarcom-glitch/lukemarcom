@@ -1,3 +1,4 @@
+import {photoCredit} from '../sources.js?v=1';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const roles={event:'De gebeurtenis',place:'De plek destijds',person:'Betrokken persoon',memorial:'Later gedenkteken',object:'Historisch object'};
 export function storyGalleryMarkup(photos=[]){
@@ -14,7 +15,7 @@ export function bindStoryGallery(panel,photos,onEnlarge,onChange){
   const {p,i,ai}=slides[current],role=p.roleLabel||roles[p.role]||'Beeld bij het verhaal',label=ai?(p.aiLabel||'AI vernieuwd'):'Origineel';
   const img=panel.querySelector('.hero-photo');img.src=ai?p.ai:p.src;img.alt=`${p.alt||p.title} — ${label}`;
   panel.querySelector('.photo-position').textContent=`Foto ${i+1} · ${label}`;
-  panel.querySelector('.photo-caption').innerHTML=`<span class="story-photo-description">${esc(p.title)}${p.note?' — '+esc(p.note):''}${ai?`<br><strong>${esc(label)}</strong> · ${esc(p.aiNote||'Kleuren en fijne details zijn AI-interpretaties; geen authentieke kleurenopname.')}`:''}</span><span class="story-photo-credit">${esc(p.date)} · ${esc(p.author)}<br><a href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">Bron bekijken ↗</a> · <a href="${esc(p.licenseUrl)}" target="_blank" rel="noopener noreferrer">${esc(p.license)}</a>${ai&&p.aiLicense?`<br>AI-bewerking: <a href="${esc(p.aiLicenseUrl||p.licenseUrl)}" target="_blank" rel="noopener noreferrer">${esc(p.aiLicense)}</a>`:''}${!ai&&p.rightsNote?`<span class="story-rights-note">${esc(p.rightsNote)}</span>`:''}</span>`;
+  panel.querySelector('.photo-caption').innerHTML=`<span class="story-photo-description">${esc(p.title)}${p.note?' — '+esc(p.note):''}${ai?`<br><strong>${esc(label)}</strong> · ${esc(p.aiNote||'Kleuren en fijne details zijn AI-interpretaties; geen authentieke kleurenopname.')}`:''}</span>${photoCredit(p,ai)}`;
   panel.querySelector('.photo-prev').disabled=current===0;panel.querySelector('.photo-next').disabled=current===slides.length-1;
   buttons.forEach((b,i)=>b.setAttribute('aria-pressed',String(i===current)));onChange();
   if(scroll){const photo=panel.querySelector('.photo-viewer'),bar=panel.querySelector('.sheet-bar');panel.scrollTo({top:Math.max(0,panel.scrollTop+photo.getBoundingClientRect().top-panel.getBoundingClientRect().top-(bar?.getBoundingClientRect().height||44)-8),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});}

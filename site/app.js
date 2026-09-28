@@ -5,13 +5,13 @@ import * as THREE from './vendor/three.module.js';
 import { OrbitControls } from './vendor/OrbitControls.js';
 import {createLandmark,inside,configureLandmarkContext} from './landmarks/models.js?v=city-33';
 import {loadModern} from './modern/view.js';
-import {createPanel} from './landmarks/panel.js?v=city-33';
+import {createPanel} from './landmarks/panel.js?v=sources-1';
 const $=id=>document.getElementById(id);
 const loading=$('loading');
 async function start(){
  const response=await fetch('./data/model-landmarks.json?v=city-33'); if(!response.ok)throw Error('Modelbestand ontbreekt');const model=await response.json();
- const catalog=await (await fetch('./landmarks/catalog.json?v=city-33')).json();
- const storiesResponse=await fetch('./stories/catalog.json?v=city-33');if(!storiesResponse.ok)throw Error('Verhalenbestand ontbreekt');const stories=resolveStoryLocations(await storiesResponse.json(),catalog);
+ const catalog=await (await fetch('./landmarks/catalog.json?v=sources-1')).json();
+ const storiesResponse=await fetch('./stories/catalog.json?v=sources-1');if(!storiesResponse.ok)throw Error('Verhalenbestand ontbreekt');const stories=resolveStoryLocations(await storiesResponse.json(),catalog);
  $('landmark-count').textContent=`${catalog.length} gebouwen & plekken`;
  const scene=new THREE.Scene();scene.background=new THREE.Color('#e8e8df');
  const camera=new THREE.PerspectiveCamera(38,1,8,14000);

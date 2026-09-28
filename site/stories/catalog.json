@@ -21,11 +21,17 @@
     "sources": [
       {
         "title": "Stichting Razzia Monument Rotterdam · de kelder en de zestien namen",
-        "url": "https://razziamonument.nl/razzia/plaquette-razzia-onderduikers-beursgebouw/"
+        "url": "https://razziamonument.nl/razzia/plaquette-razzia-onderduikers-beursgebouw/",
+        "supports": "Onderwerp van deze verwijzing: Stichting Razzia Monument Rotterdam · de kelder en de zestien namen.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Rijksdienst voor het Cultureel Erfgoed · het Beursgebouw (1936–1940)",
-        "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/513765"
+        "url": "https://monumentenregister.cultureelerfgoed.nl/monumenten/513765",
+        "supports": "Onderwerp van deze verwijzing: Rijksdienst voor het Cultureel Erfgoed · het Beursgebouw (1936–1940).",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "relatedLandmark": "beurs-coolsingel",
@@ -57,7 +63,10 @@
         "aiLabel": "AI in kleur",
         "aiNote": "Kleur en verfijnde details zijn AI-interpretaties. De historische situatie, inclusief zichtbare oorlogsschade, is behouden; dit is geen nieuwe opname.",
         "aiLicense": "CC BY 4.0",
-        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "archiveUrl": "https://hdl.handle.net/21.12133/00C7873E111E4CE6967537C7CAE33931",
+        "sourceChecked": "2026-09-28",
+        "identifier": "1980-5197"
       },
       {
         "src": "stories/photos/beurs-plaquette.webp",
@@ -69,7 +78,8 @@
         "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/3827/rotterdam-monument-voor-onderduikers-razzia-in-het-beursgebouw",
         "role": "memorial",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
-        "ai": false
+        "ai": false,
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -104,27 +114,46 @@
     "sources": [
       {
         "title": "Museum Rotterdam ’40–’45 NU · verslag van de overval, object 8345-1",
-        "url": "https://beeldbank.40-45nu.nl/index.cfm?action=search.detail&id=aa53d241901511e383cd00163e3251a4"
+        "url": "https://beeldbank.40-45nu.nl/index.cfm?action=search.detail&id=aa53d241901511e383cd00163e3251a4",
+        "supports": "Onderwerp van deze verwijzing: Museum Rotterdam ’40–’45 NU · verslag van de overval, object 8345-1.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "NOS · reconstructie van de bevrijdingsactie",
-        "url": "https://nos.nl/bevrijdingsjaar/bericht/2307421"
+        "url": "https://nos.nl/bevrijdingsjaar/bericht/2307421",
+        "supports": "Onderwerp van deze verwijzing: NOS · reconstructie van de bevrijdingsactie.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Oorlogsbronnen · de fusillade aan het Doelwater",
-        "url": "https://www.oorlogsbronnen.nl/thema/Fusillade%20in%20Rotterdam%2C%2024%20oktober%201944"
+        "url": "https://www.oorlogsbronnen.nl/thema/Fusillade%20in%20Rotterdam%2C%2024%20oktober%201944",
+        "supports": "Onderwerp van deze verwijzing: Oorlogsbronnen · de fusillade aan het Doelwater.",
+        "role": "historie",
+        "accessNote": "De website beperkte geautomatiseerde inzage tijdens de broncontrole; controle van de volledige inhoud was daardoor niet mogelijk. De exacte verwijzing is behouden.",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "RCE / Monumenten in Nederland · verplaatsing ingang naar Doelwater in 1993",
-        "url": "https://www.dbnl.org/tekst/sten009monu10_01/sten009monu10_01.pdf"
+        "url": "https://www.dbnl.org/tekst/sten009monu10_01/sten009monu10_01.pdf",
+        "supports": "Onderwerp van deze verwijzing: RCE / Monumenten in Nederland · verplaatsing ingang naar Doelwater in 1993.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
-        "title": "Stadsarchief Rotterdam · politiegebouw langs de Delftsevaart, 1944",
-        "url": "https://hdl.handle.net/21.12133/79127C65F51946FFBCAD22B0E9C65C52"
+        "title": "Beeldregistratie · 1980-5458",
+        "url": "https://hdl.handle.net/21.12133/79127C65F51946FFBCAD22B0E9C65C52",
+        "role": "beeld",
+        "supports": "Opname: Het hoofdbureau van politie aan het Haagseveer rechts, met een eerste schip op de verbrede Delftsevaart, 1944. Plaatsbeeld uit het jaar van de bevrijdingsactie; geen opname van de overval.. Bron voor de zichtbare gevels en omgeving; datering: 1944. Maker en rechten staan ook direct onder de foto.",
+        "checkedAt": "2026-09-28"
       },
       {
-        "title": "Stadsarchief Rotterdam · kaart van de stad vóór mei 1940",
-        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+        "title": "Stadsarchief Rotterdam · kaart NL-RtSA_4001_1972-755-1",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "role": "kaart",
+        "supports": "Ligging van straten en bouwblokken vóór mei 1940. De kaart is later uitgegeven; zij bewijst geen exacte bouwhoogten of gevelkleuren.",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -151,7 +180,10 @@
         "shortTitle": "Archiefbeeld",
         "aiLabel": "AI in kleur",
         "aiNote": "Hoofdvolume en compositie visueel behouden. Geen geometrisch of letter-voor-letter bewezen facsimile; kleine personen-, textuur- en letterdetails kunnen afwijken.",
-        "role": "place"
+        "role": "place",
+        "archiveUrl": "https://hdl.handle.net/21.12133/0C8624E8DB9B4FEDBDE28042F6A7D3B6",
+        "identifier": "VIII-36-00-07-03",
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/haagseveer-1944.webp",
@@ -163,7 +195,10 @@
         "url": "https://commons.wikimedia.org/wiki/File:Het_eerste_schip_vaart_door_de_verbrede_Delftsevaart_met_rechts_het_hoofdbureau_van_de_politie_aan_het_Haagseveer_en_op_de_achtergrond_de_Meentbrug,_Meent_en_Minervahuis_1944.jpg",
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
-        "ai": false
+        "ai": false,
+        "archiveUrl": "https://hdl.handle.net/21.12133/79127C65F51946FFBCAD22B0E9C65C52",
+        "identifier": "1980-5458",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -201,7 +236,10 @@
     "sources": [
       {
         "title": "Mariniersmuseum / NIMH · Waar zijn moed zichtbaar werd",
-        "url": "https://www.mariniersmuseum.nl/nl/stories/waar-zijn-moed-zichtbaar-werd/"
+        "url": "https://www.mariniersmuseum.nl/nl/stories/waar-zijn-moed-zichtbaar-werd/",
+        "supports": "Onderwerp van deze verwijzing: Mariniersmuseum / NIMH · Waar zijn moed zichtbaar werd.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -222,13 +260,15 @@
         "date": "1933",
         "author": "Willem van de Poll",
         "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "url": "https://commons.wikimedia.org/wiki/File:Verkeer_op_de_Willemsbrug_in_Rotterdam,_Bestanddeelnr_189-0494.jpg",
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/maasbruggen/na-189-0494-ai.webp",
         "aiLabel": "AI in kleur",
-        "aiNote": "AI-inkleuring van dezelfde foto uit 1933. Dit is een straatbeeld vóór de oorlog, geen opname van Jan van Garsels actie."
+        "aiNote": "AI-inkleuring van dezelfde foto uit 1933. Dit is een straatbeeld vóór de oorlog, geen opname van Jan van Garsels actie.",
+        "archiveUrl": "https://proxy.handle.net/10648/ae9a0176-d0b4-102d-bcf8-003048976d84",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -264,15 +304,24 @@
     "sources": [
       {
         "title": "Militaire Spectator · Kornaat en Poetiray over strijd en mythevorming",
-        "url": "https://kvbk.nl/artikelen/het-korps-mariniers-en-rotterdam"
+        "url": "https://kvbk.nl/artikelen/het-korps-mariniers-en-rotterdam",
+        "supports": "Onderwerp van deze verwijzing: Militaire Spectator · Kornaat en Poetiray over strijd en mythevorming.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Gers! · interview met museumcollectiebeheerder Sjak Draak",
-        "url": "https://gersrotterdam.nl/verhalen/de-zwarte-duivels-van-rotterdam/"
+        "url": "https://gersrotterdam.nl/verhalen/de-zwarte-duivels-van-rotterdam/",
+        "supports": "Onderwerp van deze verwijzing: Gers! · interview met museumcollectiebeheerder Sjak Draak.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Mariniersmuseum · het Witte Huis en de oude Maasbruggen",
-        "url": "https://www.mariniersmuseum.nl/nl/in-de-voetsporen-van/"
+        "url": "https://www.mariniersmuseum.nl/nl/in-de-voetsporen-van/",
+        "supports": "Onderwerp van deze verwijzing: Mariniersmuseum · het Witte Huis en de oude Maasbruggen.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -300,7 +349,10 @@
         "ai": "landmarks/witte-huis/foto-3-ai.webp",
         "aiNote": "AI-inkleuring en kwaliteitsbewerking; kleuren, gezichten, letters en ornamenten kunnen afwijken. Geen nieuwe historische opname.",
         "aiLicense": "CC0 1.0",
-        "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+        "aiLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "archiveUrl": "https://hdl.handle.net/21.12133/B7A07B672BFA430EB4DCF1F845BEFB0A",
+        "sourceChecked": "2026-09-28",
+        "identifier": "1976-4433"
       }
     ],
     "memorials": [
@@ -335,19 +387,31 @@
     "sources": [
       {
         "title": "Museum Rotterdam · Erasmus op de Grote Markt",
-        "url": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/erasmus/"
+        "url": "https://museumrotterdam.nl/verhalen/toerisme-in-rotterdam/erasmus/",
+        "supports": "Onderwerp van deze verwijzing: Museum Rotterdam · Erasmus op de Grote Markt.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Stichting Erasmushuis · Gered door een begrafenis (PDF)",
-        "url": "https://erasmushuisrotterdam.nl/wp-content/uploads/2018/05/standbeelden-1.pdf"
+        "url": "https://erasmushuisrotterdam.nl/wp-content/uploads/2018/05/standbeelden-1.pdf",
+        "supports": "Onderwerp van deze verwijzing: Stichting Erasmushuis · Gered door een begrafenis (PDF).",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Sculpture International Rotterdam · Erasmus ingegraven",
-        "url": "https://www.sculptureinternationalrotterdam.nl/erasmus-ingegraven/"
+        "url": "https://www.sculptureinternationalrotterdam.nl/erasmus-ingegraven/",
+        "supports": "Onderwerp van deze verwijzing: Sculpture International Rotterdam · Erasmus ingegraven.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
-        "title": "Stadsarchief Rotterdam · plantsoen op de vooroorlogse Grote Markt",
-        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492"
+        "title": "Stadsarchief Rotterdam · kaart NL-RtSA_4001_1972-755-1",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "role": "kaart",
+        "supports": "Ligging van straten en bouwblokken vóór mei 1940. De kaart is later uitgegeven; zij bewijst geen exacte bouwhoogten of gevelkleuren.",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -368,13 +432,16 @@
         "date": "1937",
         "author": "Fototechnische Dienst Rotterdam (Gemeentewerken, Openbare Werken)",
         "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "url": "https://commons.wikimedia.org/wiki/File:Mannen_wandelen_bij_de_Grotemarkt_met_rechts_het_standbeeld_van_Erasmus_en_op_de_achtergrond_het_Luchtspoor_1937.jpg",
         "role": "place",
         "rightsNote": "Officiële archiefweergave van 400 × 280 pixels; geen AI-bewerking. Bron via de link beschikbaar.",
         "ai": "stories/photos/ai32-erasmus.webp",
         "aiLabel": "AI in kleur",
-        "aiNote": "Kleuren en fijne details zijn AI-interpretaties van deze historische foto; geen nieuwe opname of bewijs voor oorspronkelijke kleuren."
+        "aiNote": "Kleuren en fijne details zijn AI-interpretaties van deze historische foto; geen nieuwe opname of bewijs voor oorspronkelijke kleuren.",
+        "archiveUrl": "https://hdl.handle.net/21.12133/C6B415D8FA2C48DD82414469D25AA4A9",
+        "sourceChecked": "2026-09-28",
+        "identifier": "IX-1110-1-TM-6"
       }
     ],
     "memorials": [
@@ -409,11 +476,17 @@
     "sources": [
       {
         "title": "Museum voor de Verpleegkunde — Aagje Neeltje Monster",
-        "url": "https://museumvoordeverpleegkunde.nl/pioniers/aagje-neeltje-monster/"
+        "url": "https://museumvoordeverpleegkunde.nl/pioniers/aagje-neeltje-monster/",
+        "supports": "Onderwerp van deze verwijzing: Museum voor de Verpleegkunde — Aagje Neeltje Monster.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Stadsarchief Rotterdam — Op de Coolsingel",
-        "url": "https://stadsarchief.rotterdam.nl/op-de-coolsingel"
+        "url": "https://stadsarchief.rotterdam.nl/op-de-coolsingel",
+        "supports": "Geschiedenis van de Coolsingel; afzonderlijke passages over het ziekenhuis, het postkantoor en de nieuwe beurs. Zoek binnen de pagina op de gebouwnaam.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -443,7 +516,9 @@
         "roleLabel": "Na het bombardement",
         "note": "De schade, niet de evacuatie zelf.",
         "aiLabel": "AI in kleur",
-        "aiNote": "Kleur en verfijnde details zijn AI-interpretaties. De historische situatie, inclusief zichtbare oorlogsschade, is behouden; dit is geen nieuwe opname. De albumrand en scankalibratie zijn weggelaten."
+        "aiNote": "Kleur en verfijnde details zijn AI-interpretaties. De historische situatie, inclusief zichtbare oorlogsschade, is behouden; dit is geen nieuwe opname. De albumrand en scankalibratie zijn weggelaten.",
+        "archiveUrl": "https://hdl.handle.net/10934/RM0001.COLLECT.267407",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -477,23 +552,39 @@
     "sources": [
       {
         "title": "Rotterdams Openbaar Vervoer Museum — De RET in oorlogstijd",
-        "url": "https://www.rovm.nl/nl/digitale-collectie-ov-verhalen/ovv-4007-de-ret-in-oorlogstijd~75u6Xgpw/"
+        "url": "https://www.rovm.nl/nl/digitale-collectie-ov-verhalen/ovv-4007-de-ret-in-oorlogstijd~75u6Xgpw/",
+        "supports": "Onderwerp van deze verwijzing: Rotterdams Openbaar Vervoer Museum — De RET in oorlogstijd.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Wageningen University & Research — Tuin database record 31836",
-        "url": "https://library.wur.nl/WebQuery/tuin/31836"
+        "url": "https://library.wur.nl/WebQuery/tuin/31836",
+        "supports": "Tuin-databaserecord van de oude Rotterdamse Diergaarde; ontwerp- en parkgeschiedenis. Niet hetzelfde terrein als het huidige Blijdorp.",
+        "role": "historie",
+        "accessNote": "De website beperkte geautomatiseerde inzage tijdens de broncontrole; controle van de volledige inhoud was daardoor niet mogelijk. De exacte verwijzing is behouden.",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Gers! Rotterdam — Valse start in oorlogstijd",
-        "url": "https://gersrotterdam.nl/verhalen/valse-start-in-oorlogstijd/"
+        "url": "https://gersrotterdam.nl/verhalen/valse-start-in-oorlogstijd/",
+        "supports": "Onderwerp van deze verwijzing: Gers! Rotterdam — Valse start in oorlogstijd.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "De Ster — Diergaarde Blijdorp op locatie (zoo campaign)",
-        "url": "https://www.desteronline.nl/diergaarde-blijdorp-op-locatie-wilde-dieren-in-het-centrum-van-rotterdam/"
+        "url": "https://www.desteronline.nl/diergaarde-blijdorp-op-locatie-wilde-dieren-in-het-centrum-van-rotterdam/",
+        "supports": "Terugblik rond een publieksactie van Blijdorp; aanvullende context bij het verhaal over de oude Diergaarde.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Roterodamum — Digitaal café 18 juni",
-        "url": "https://www.roterodamum.nl/nieuwsbericht/digitaal-cafe-18-juni/"
+        "url": "https://www.roterodamum.nl/nieuwsbericht/digitaal-cafe-18-juni/",
+        "supports": "Aankondiging van een historische bijeenkomst over de Diergaarde; alleen aanvullende context, geen zelfstandig verslag van alle oorlogsdagen.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -526,7 +617,9 @@
         "aiNote": "AI-beeldherstel van een oorspronkelijke kleurenopname. Kleurzweem en details zijn geïnterpreteerd; oorlogsschade is niet herbouwd.",
         "sourceColor": true,
         "aiLicense": "CC BY 4.0",
-        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "1978-2706",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -561,11 +654,17 @@
     "sources": [
       {
         "title": "Rijksdienst voor het Cultureel Erfgoed — Monument van vrede",
-        "url": "https://www.cultureelerfgoed.nl/actueel/weblogs/adviseurs/2023/monument-van-vrede"
+        "url": "https://www.cultureelerfgoed.nl/actueel/weblogs/adviseurs/2023/monument-van-vrede",
+        "supports": "Onderwerp van deze verwijzing: Rijksdienst voor het Cultureel Erfgoed — Monument van vrede.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Laurenskerk — History of the Laurenskerk",
-        "url": "https://laurenskerkrotterdam.nl/wp-content/uploads/history-of-the-Laurenskerk.pdf"
+        "url": "https://laurenskerkrotterdam.nl/wp-content/uploads/history-of-the-Laurenskerk.pdf",
+        "supports": "Onderwerp van deze verwijzing: Laurenskerk — History of the Laurenskerk.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -598,7 +697,9 @@
         "aiNote": "AI-beeldherstel van een oorspronkelijke kleurenopname. Kleurzweem en details zijn geïnterpreteerd; oorlogsschade is niet herbouwd.",
         "sourceColor": true,
         "aiLicense": "CC BY 4.0",
-        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "1978-2695",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -632,11 +733,17 @@
     "sources": [
       {
         "title": "Nederlands-Israëlitisch Kerkgenootschap — Rotterdamse Joodse gemeenschap",
-        "url": "https://archief.nik.nl/index.html_p=4794.html"
+        "url": "https://archief.nik.nl/index.html_p=4794.html",
+        "supports": "Onderwerp van deze verwijzing: Nederlands-Israëlitisch Kerkgenootschap — Rotterdamse Joodse gemeenschap.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Joods Cultureel Kwartier — Rotterdam",
-        "url": "https://jck.nl/en/jewish-communities/rotterdam"
+        "url": "https://jck.nl/en/jewish-communities/rotterdam",
+        "supports": "Onderwerp van deze verwijzing: Joods Cultureel Kwartier — Rotterdam.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -665,7 +772,8 @@
         "aiLabel": "AI in kleur",
         "aiNote": "Kadrering en hoofdgeometrie zijn behoudend behandeld. Generatieve kleine details, letters, mensen en tinten kunnen afwijken; origineel is de primaire bron. Bronjaar blijft van toepassing en is niet noodzakelijk1939. Afgeleid van het gecrediteerde origineel; bewerking onder dezelfde licentie.",
         "aiLicense": "CC BY-SA 4.0",
-        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/synagoge-boompjes-gedenkplaat.webp",
@@ -677,7 +785,8 @@
         "url": "https://commons.wikimedia.org/wiki/File:Synagogue_Boompjes_-_Stadsdriehoek_-_Rotterdam_-_Commemorative_plaque.jpg",
         "role": "memorial",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
-        "ai": false
+        "ai": false,
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -712,11 +821,17 @@
     "sources": [
       {
         "title": "Ministerie van Defensie — Terugkijker, Defensiekrant 2025/34",
-        "url": "https://magazines.defensie.nl/defensiekrant/2025/34/04_terugkijker"
+        "url": "https://magazines.defensie.nl/defensiekrant/2025/34/04_terugkijker",
+        "supports": "Onderwerp van deze verwijzing: Ministerie van Defensie — Terugkijker, Defensiekrant 2025/34.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Zuidfront Holland 1940 — Maasbruggen Rotterdam, tweede fase",
-        "url": "https://zuidfront-holland1940.nl/10mei/rotterdam-ijselmonde/maasbruggen-rotterdam-2e-fase"
+        "url": "https://zuidfront-holland1940.nl/10mei/rotterdam-ijselmonde/maasbruggen-rotterdam-2e-fase",
+        "supports": "Onderwerp van deze verwijzing: Zuidfront Holland 1940 — Maasbruggen Rotterdam, tweede fase.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -747,7 +862,8 @@
         "aiLabel": "AI in kleur",
         "aiNote": "Kleuren en fijne details zijn AI-interpretaties van deze historische foto; geen nieuwe opname of bewijs voor oorspronkelijke kleuren.",
         "aiLicense": "CC BY 4.0",
-        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": []
@@ -774,11 +890,17 @@
     "sources": [
       {
         "title": "Nationaal Comité 4 en 5 mei — monument aan de Coolsingel",
-        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/924/rotterdam-monument-aan-de-coolsingel"
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/924/rotterdam-monument-aan-de-coolsingel",
+        "supports": "Onderwerp van deze verwijzing: Nationaal Comité 4 en 5 mei — monument aan de Coolsingel.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "NOS — Tien verzetsmannen tegen de muur op Coolsingel",
-        "url": "https://nos.nl/bevrijdingsjaar/bericht/2323790-tien-verzetsmannen-tegen-de-muur-op-coolsingel"
+        "url": "https://nos.nl/bevrijdingsjaar/bericht/2323790-tien-verzetsmannen-tegen-de-muur-op-coolsingel",
+        "supports": "Onderwerp van deze verwijzing: NOS — Tien verzetsmannen tegen de muur op Coolsingel.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -803,7 +925,9 @@
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/hoofdpostkantoor/foto-2-ai.webp",
-        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen.",
+        "archiveUrl": "https://proxy.handle.net/10648/ac04e14c-d0b4-102d-bcf8-003048976d84",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -837,19 +961,32 @@
     "sources": [
       {
         "title": "Nationaal Comité 4 en 5 mei — monument op het Hofplein",
-        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/910/rotterdam-monument-op-het-hofplein"
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/910/rotterdam-monument-op-het-hofplein",
+        "supports": "Onderwerp van deze verwijzing: Nationaal Comité 4 en 5 mei — monument op het Hofplein.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Gemeente Rotterdam — Dodenherdenking, dagboek Bep van Daalen",
-        "url": "https://www.rotterdam.nl/dodenherdenking"
+        "url": "https://www.rotterdam.nl/dodenherdenking",
+        "supports": "Onder “De herinnering van mevrouw Bep van Daalen (1929)”: het dagboekfragment van 12 maart 1945, aangeleverd door haar zoon Ruud Lamers. Dit is een ooggetuigenherinnering; aantallen worden daarnaast met de monumentbeschrijving vergeleken.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "UvA — gereproduceerde procesverklaring over de fusillades",
-        "url": "https://pure.uva.nl/ws/files/4308899/55345_24.pdf"
+        "url": "https://pure.uva.nl/ws/files/4308899/55345_24.pdf",
+        "supports": "Onderwerp van deze verwijzing: UvA — gereproduceerde procesverklaring over de fusillades.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Stadsarchief Rotterdam via Oorlogsbronnen — Hofplein-monument",
-        "url": "https://www.oorlogsbronnen.nl/bronnen?term=fusillade+hofplein+rotterdam"
+        "url": "https://www.oorlogsbronnen.nl/bronnen?term=fusillade+hofplein+rotterdam",
+        "supports": "Onderwerp van deze verwijzing: Stadsarchief Rotterdam via Oorlogsbronnen — Hofplein-monument.",
+        "role": "historie",
+        "accessNote": "De website beperkte geautomatiseerde inzage tijdens de broncontrole; controle van de volledige inhoud was daardoor niet mogelijk. De exacte verwijzing is behouden.",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -874,7 +1011,9 @@
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/hofplein-loos/foto-2-ai.webp",
-        "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname."
+        "aiNote": "AI-inkleuring en kwaliteitsbewerking. Kleuren, gezichten, opschriften en fijne details zijn interpretaties. Geen nieuwe historische opname.",
+        "archiveUrl": "https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&mizig=299&miadt=184&miaet=14&micode=4029&minr=40464991&miview=ldt",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -908,11 +1047,17 @@
     "sources": [
       {
         "title": "Nationaal Monument Kamp Vught — Arie Jan Jacob Zegers",
-        "url": "https://www.nmkampvught.nl/ontdekken/het-verhaal/vermoord-in-vught/zegers-arie-jan-jacob/"
+        "url": "https://www.nmkampvught.nl/ontdekken/het-verhaal/vermoord-in-vught/zegers-arie-jan-jacob/",
+        "supports": "Onderwerp van deze verwijzing: Nationaal Monument Kamp Vught — Arie Jan Jacob Zegers.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Digitaal Monument Neuengamme — familieverhaal Marinus Zegers",
-        "url": "https://monument.vriendenkringneuengamme.nl/person/405535/marinus-zegers"
+        "url": "https://monument.vriendenkringneuengamme.nl/person/405535/marinus-zegers",
+        "supports": "Onderwerp van deze verwijzing: Digitaal Monument Neuengamme — familieverhaal Marinus Zegers.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -939,7 +1084,9 @@
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/stadhuis/foto-1-ai.webp",
-        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen.",
+        "identifier": "SFA001007347",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -974,11 +1121,17 @@
     "sources": [
       {
         "title": "Beeld en Geluid — NBS-reportage van de ontvangst bij het stadhuis",
-        "url": "https://schatkamer.beeldengeluid.nl/serie/2101608030026243631/reportage-nbs-van-welkom-geallieerde-strijdkrachten-bij-stadhuis-aan-coolsingel-te-rotterdam/aflevering/2101608150134286231"
+        "url": "https://schatkamer.beeldengeluid.nl/serie/2101608030026243631/reportage-nbs-van-welkom-geallieerde-strijdkrachten-bij-stadhuis-aan-coolsingel-te-rotterdam/aflevering/2101608150134286231",
+        "supports": "Onderwerp van deze verwijzing: Beeld en Geluid — NBS-reportage van de ontvangst bij het stadhuis.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Beeld en Geluid — Bevrijdingsbeelden Rotterdam",
-        "url": "https://schatkamer.beeldengeluid.nl/programma/2101608040030642531/bevrijdingsbeelden-rotterdam"
+        "url": "https://schatkamer.beeldengeluid.nl/programma/2101608040030642531/bevrijdingsbeelden-rotterdam",
+        "supports": "Onderwerp van deze verwijzing: Beeld en Geluid — Bevrijdingsbeelden Rotterdam.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -1004,7 +1157,10 @@
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/stadhuis/foto-2-ai.webp",
-        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen."
+        "aiNote": "Materialen zijn beschreven in RCE; exacte tinten ten tijde van de opname zijn niet bewezen. AI-inkleuring blijft interpretatie; geen bron voor historische kleding-, voertuig-, lucht- of patinakleuren. Generatief herstel kan microdetails veranderen.",
+        "archiveUrl": "https://hdl.handle.net/21.12133/427A310F5EF543CC9FD8A130689BCF41",
+        "sourceChecked": "2026-09-28",
+        "identifier": "PBK-2006-8-3-TM-6"
       }
     ],
     "memorials": []
@@ -1031,19 +1187,32 @@
     "sources": [
       {
         "title": "NTR/NPS — De Oorlog: Aanslag in Rotterdam",
-        "url": "https://archief.ntr.nl/deoorlog/page/mappen/781255/Aanslag%2Bin%2BRotterdam.html"
+        "url": "https://archief.ntr.nl/deoorlog/page/mappen/781255/Aanslag%2Bin%2BRotterdam.html",
+        "supports": "Onderwerp van deze verwijzing: NTR/NPS — De Oorlog: Aanslag in Rotterdam.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Oorlogsbronnen — aanslag op het Luchtspoor",
-        "url": "https://www.oorlogsbronnen.nl/thema/Aanslag%20op%20spoorwegviaduct%20Luchtspoor%20te%20Rotterdam%2C%207%20augustus%201942"
+        "url": "https://www.oorlogsbronnen.nl/thema/Aanslag%20op%20spoorwegviaduct%20Luchtspoor%20te%20Rotterdam%2C%207%20augustus%201942",
+        "supports": "Onderwerp van deze verwijzing: Oorlogsbronnen — aanslag op het Luchtspoor.",
+        "role": "historie",
+        "accessNote": "De website beperkte geautomatiseerde inzage tijdens de broncontrole; controle van de volledige inhoud was daardoor niet mogelijk. De exacte verwijzing is behouden.",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Nationaal Comité 4 en 5 mei — Beekvliet",
-        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2410/sint-michielsgestel-monument-in-voormalig-seminarie-beekvliet"
+        "url": "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2410/sint-michielsgestel-monument-in-voormalig-seminarie-beekvliet",
+        "supports": "Onderwerp van deze verwijzing: Nationaal Comité 4 en 5 mei — Beekvliet.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Geschiedenis Inlichtingendienst Rotterdam — Tweede Wereldoorlog",
-        "url": "https://inlichtingendienstrotterdam.jouwweb.nl/id-rtd-tijdens-2e-wo"
+        "url": "https://inlichtingendienstrotterdam.jouwweb.nl/id-rtd-tijdens-2e-wo",
+        "supports": "Onderwerp van deze verwijzing: Geschiedenis Inlichtingendienst Rotterdam — Tweede Wereldoorlog.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       }
     ],
     "anchor": {
@@ -1070,7 +1239,10 @@
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/luchtspoor/foto-1-ai.webp",
-        "aiNote": "AI-inkleuring: kleuren en fijn detail zijn interpretaties. Het origineel blijft de historische bron."
+        "aiNote": "AI-inkleuring: kleuren en fijn detail zijn interpretaties. Het origineel blijft de historische bron.",
+        "archiveUrl": "https://hetutrechtsarchief.nl/beeld/B3272CD9D9CB50A3892082E02539B52C",
+        "identifier": "GUID: B3272CD9D9CB50A3892082E02539B52C , HUA Catalogusnummer: 170172",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "memorials": [
@@ -1115,19 +1287,33 @@
     "sources": [
       {
         "title": "Museum Rotterdam — het weeshuis aan de Goudsewagenstraat",
-        "url": "https://www.rotterdaminkaart.nl/gebouwde-stad/weeshuis-goudsewagenstraat/pointofinterest/MoreInfo/verhaal"
+        "url": "https://www.rotterdaminkaart.nl/gebouwde-stad/weeshuis-goudsewagenstraat/pointofinterest/MoreInfo/verhaal",
+        "supports": "Onderwerp van deze verwijzing: Museum Rotterdam — het weeshuis aan de Goudsewagenstraat.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Engelfriet — het weeshuis en de vlucht in mei 1940",
-        "url": "https://www.engelfriet.net/Alie/Hans/weeshuis.htm"
+        "url": "https://www.engelfriet.net/Alie/Hans/weeshuis.htm",
+        "supports": "Beschrijving van het Gereformeerd Burgerweeshuis en de vlucht tijdens het bombardement; naast de museum- en Fiom-bronnen.",
+        "role": "historie",
+        "accessNote": "Bij de controle gaf deze website een certificaatfout. De verwijzing is bewaard als bronverantwoording; omzeil een browserwaarschuwing niet.",
+        "unavailable": true,
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Fiom — opvang na de verwoesting en archiefverwijzingen",
-        "url": "https://fiom.nl/locatie/gereformeerd-burgerweeshuis-rotterdam"
+        "url": "https://fiom.nl/locatie/gereformeerd-burgerweeshuis-rotterdam",
+        "supports": "Onderwerp van deze verwijzing: Fiom — opvang na de verwoesting en archiefverwijzingen.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Stadsarchief Rotterdam — archief van het Burgerweeshuis",
-        "url": "https://hdl.handle.net/21.12133/4F4556E3B26F4189B8F0517AAF2EB506"
+        "url": "https://hdl.handle.net/21.12133/4F4556E3B26F4189B8F0517AAF2EB506",
+        "supports": "Specifiek archiefstuk / beeldregistratie: 1182 Archief van het college van Regenten en Regentessen van het Ge.... Onderbouwing beperkt tot wat de opname of archiefbeschrijving laat zien.",
+        "role": "beeld",
+        "checkedAt": "2026-09-28"
       }
     ],
     "memorials": [],
@@ -1146,7 +1332,8 @@
         "aiLabel": "AI in kleur",
         "aiNote": "Hoofdvolume en compositie visueel behouden. Geen geometrisch of letter-voor-letter bewezen facsimile; kleine personen-, textuur- en letterdetails kunnen afwijken. Afgeleid van het gecrediteerde origineel; bewerking onder dezelfde licentie.",
         "aiLicense": "CC BY-SA 4.0",
-        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/burgerweeshuis-20191756.webp",
@@ -1158,7 +1345,8 @@
         "url": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191756_-_RCE.jpg",
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking. CC BY-SA 4.0 blijft van toepassing op dit beeld.",
-        "ai": false
+        "ai": false,
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/burgerweeshuis-20191757.webp",
@@ -1170,10 +1358,12 @@
         "url": "https://commons.wikimedia.org/wiki/File:Exterieur_-_Rotterdam_-_20191757_-_RCE.jpg",
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking. CC BY-SA 4.0 blijft van toepassing op dit beeld.",
-        "ai": false
+        "ai": false,
+        "sourceChecked": "2026-09-28"
       }
     ],
-    "relatedLandmark": "burgerweeshuis"
+    "relatedLandmark": "burgerweeshuis",
+    "sourceAuditNote": "Een of meer oudere bronwebsites zijn momenteel niet bereikbaar. Dat is bij de betreffende verwijzing vermeld; de onbereikbaarheid is geen onafhankelijke bevestiging van de inhoud."
   },
   {
     "id": "woii-ceres",
@@ -1207,19 +1397,31 @@
     "sources": [
       {
         "title": "Stadsarchief Rotterdam — broodfabriek Ceres",
-        "url": "https://stadsarchief.rotterdam.nl/verhalen-over-het-bombardement"
+        "url": "https://stadsarchief.rotterdam.nl/verhalen-over-het-bombardement",
+        "supports": "Onderwerp van deze verwijzing: Stadsarchief Rotterdam — broodfabriek Ceres.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Stichting Voorouder — slachtoffers Ceres",
-        "url": "https://voorouder.nl/slachtoffers-ceres-broodfabriek-bombardement-rotterdam-14-mei-1940"
-      },
-      {
-        "title": "Stadsarchief — huisnummerkaart 1938, blad Z13",
-        "url": "https://hdl.handle.net/21.12133/04B63880EAAE4350B567A9006C94B9F8"
+        "url": "https://voorouder.nl/slachtoffers-ceres-broodfabriek-bombardement-rotterdam-14-mei-1940",
+        "supports": "Onderwerp van deze verwijzing: Stichting Voorouder — slachtoffers Ceres.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Hendrik Westerdijk — oudere adresvermelding Ceres, p. 26",
-        "url": "https://hendrikwesterdijk.nl/Rowel%20stamboom%2014a.pdf"
+        "url": "https://hendrikwesterdijk.nl/Rowel%20stamboom%2014a.pdf",
+        "supports": "Onderwerp van deze verwijzing: Hendrik Westerdijk — oudere adresvermelding Ceres, p. 26.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "title": "Stadsarchief — huisnummerkaart 1938, blad Z13",
+        "url": "https://hdl.handle.net/21.12133/04B63880EAAE4350B567A9006C94B9F8",
+        "supports": "Specifiek archiefstuk / beeldregistratie: 40110-Z13 Kadastrale kaart van de wijk Rubroek, sectie D, in 1 blad.... Onderbouwing beperkt tot wat de opname of archiefbeschrijving laat zien.",
+        "role": "beeld",
+        "checkedAt": "2026-09-28"
       }
     ],
     "memorials": [
@@ -1243,7 +1445,9 @@
         "role": "place",
         "roleLabel": "Straatcontext",
         "rightsNote": "Oorspronkelijk JPG-bestand ongewijzigd overgenomen. Geen AI-bewerking. Rechthebbende: Gemeente Rotterdam (Stadsarchief). Geen CC0-licentie.",
-        "ai": false
+        "ai": false,
+        "identifier": "XXV-699-03",
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/ceres-straat-2.jpg",
@@ -1256,7 +1460,9 @@
         "role": "place",
         "roleLabel": "Straatcontext",
         "rightsNote": "Oorspronkelijk JPG-bestand ongewijzigd overgenomen. Geen AI-bewerking. Rechthebbende: Gemeente Rotterdam (Stadsarchief). Geen CC0-licentie.",
-        "ai": false
+        "ai": false,
+        "identifier": "XXV-699-04-2",
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/ceres-straat-3.jpg",
@@ -1269,7 +1475,9 @@
         "role": "place",
         "roleLabel": "Straatcontext",
         "rightsNote": "Oorspronkelijk JPG-bestand ongewijzigd overgenomen. Geen AI-bewerking. Rechthebbende: Gemeente Rotterdam. Geen CC0-licentie.",
-        "ai": false
+        "ai": false,
+        "identifier": "IX-3293-01",
+        "sourceChecked": "2026-09-28"
       },
       {
         "title": "Bosjeskerk bij het Boschje · omgeving van de Ceres-ramp, niet de fabriek of de explosie",
@@ -1284,7 +1492,8 @@
         "aiLabel": "AI in kleur",
         "aiNote": "Hoofdvolume en compositie visueel behouden. Geen geometrisch of letter-voor-letter bewezen facsimile; kleine personen-, textuur- en letterdetails kunnen afwijken.",
         "note": "Contextbeeld van de nabijgelegen kerk. De drie bestaande Ceres-foto’s blijven onbewerkt, overeenkomstig de bronvoorwaarden.",
-        "role": "context"
+        "role": "context",
+        "sourceChecked": "2026-09-28"
       }
     ]
   },
@@ -1320,20 +1529,32 @@
     },
     "sources": [
       {
-        "title": "Museum Rotterdam — gevelbeeld Maas, 11614_1.A-C",
-        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454264"
-      },
-      {
-        "title": "Museum Rotterdam — gevelbeeld Rotte, 11614_2.A-C",
-        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454267"
-      },
-      {
         "title": "Waterstadgenootschap — Hermes en de gevelbeelden",
-        "url": "https://maritiemdistrict.nl/wp-content/uploads/2018/12/Folder-Maas-en-Rotte-MD-2018.pdf"
+        "url": "https://maritiemdistrict.nl/wp-content/uploads/2018/12/Folder-Maas-en-Rotte-MD-2018.pdf",
+        "supports": "Onderwerp van deze verwijzing: Waterstadgenootschap — Hermes en de gevelbeelden.",
+        "role": "historie",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "title": "Beeldregistratie · Maas, bewaard gevelbeeld van Hermes. Collectie Museum Rotterdam. Museumfoto van het bewaarde object; geen opname van de berging.",
+        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454264",
+        "role": "beeld",
+        "supports": "Opname: Maas, bewaard gevelbeeld van Hermes. Collectie Museum Rotterdam. Museumfoto van het bewaarde object; geen opname van de berging.. Bron voor de zichtbare gevels en omgeving; datering: Foto ongedateerd · beeld vervaardigd 1916–1917. Maker en rechten staan ook direct onder de foto.",
+        "checkedAt": "2026-09-28"
+      },
+      {
+        "title": "Beeldregistratie · Rotte, bewaard gevelbeeld van Hermes. Collectie Museum Rotterdam. Museumfoto van het bewaarde object; geen opname van de berging.",
+        "url": "https://collectie.museumrotterdam.nl/detail.php?id=2454267",
+        "role": "beeld",
+        "supports": "Opname: Rotte, bewaard gevelbeeld van Hermes. Collectie Museum Rotterdam. Museumfoto van het bewaarde object; geen opname van de berging.. Bron voor de zichtbare gevels en omgeving; datering: Foto ongedateerd · beeld vervaardigd 1916–1917. Maker en rechten staan ook direct onder de foto.",
+        "checkedAt": "2026-09-28"
       },
       {
         "title": "Het Nieuwe Instituut — gevelaanzicht Hermes (locatiebewijs)",
-        "url": "https://commons.wikimedia.org/wiki/File:Kantoorgebouw_Hermes_-_Hermes_Office_Building_(4750950153).jpg"
+        "url": "https://commons.wikimedia.org/wiki/File:Kantoorgebouw_Hermes_-_Hermes_Office_Building_(4750950153).jpg",
+        "supports": "Specifiek archiefstuk / beeldregistratie: File:Kantoorgebouw Hermes - Hermes Office Building (4750950153).jpg. Onderbouwing beperkt tot wat de opname of archiefbeschrijving laat zien.",
+        "role": "beeld",
+        "checkedAt": "2026-09-28"
       }
     ],
     "memorials": [],
@@ -1349,7 +1570,10 @@
         "role": "place",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": "landmarks/zuiderkerk/foto-1-ai.webp",
-        "aiNote": "AI-inkleuring en kwaliteitsherstel: interpretatie, geen historische kleurbron. Bruin metselwerk, grijze daken, groen gebladerte en waterkleuren zijn aannemelijk maar niet geverifieerd. Kleine details kunnen door generatieve bewerking afwijken; het origineel blijft de primaire bron."
+        "aiNote": "AI-inkleuring en kwaliteitsherstel: interpretatie, geen historische kleurbron. Bruin metselwerk, grijze daken, groen gebladerte en waterkleuren zijn aannemelijk maar niet geverifieerd. Kleine details kunnen door generatieve bewerking afwijken; het origineel blijft de primaire bron.",
+        "archiveUrl": "https://hdl.handle.net/21.12133/12383606FED94937BF78106D62238CD3",
+        "sourceChecked": "2026-09-28",
+        "identifier": "III-168-03-13"
       },
       {
         "src": "stories/photos/hermes-maas.webp",
@@ -1362,7 +1586,8 @@
         "role": "object",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": false,
-        "roleLabel": "Gevelbeeld Maas"
+        "roleLabel": "Gevelbeeld Maas",
+        "sourceChecked": "2026-09-28"
       },
       {
         "src": "stories/photos/hermes-rotte.webp",
@@ -1375,7 +1600,8 @@
         "role": "object",
         "rightsNote": "Alleen verkleind en opgeslagen als WebP; beeldinhoud ongewijzigd, geen AI-bewerking.",
         "ai": false,
-        "roleLabel": "Gevelbeeld Rotte"
+        "roleLabel": "Gevelbeeld Rotte",
+        "sourceChecked": "2026-09-28"
       }
     ],
     "relatedLandmark": "hermesgebouw"

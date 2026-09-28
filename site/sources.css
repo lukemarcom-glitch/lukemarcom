@@ -1,0 +1,14 @@
+.photo-credit{display:flex;flex-direction:column;gap:5px;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;font-size:13px;line-height:1.5;color:var(--muted)}
+.photo-credit-heading{font-weight:600;color:var(--ink)}
+.photo-credit a,.content-sources a,.wiki-background a{color:var(--green);text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.photo-rights-note,.source-note{font-size:12px;line-height:1.5;color:var(--muted)}
+.content-sources{border-top:1px solid var(--line);margin-top:20px;padding-top:8px}
+.content-sources ol{padding-left:22px;margin:12px 0}
+.content-sources li{margin-bottom:14px;padding-left:3px;font-size:14px;line-height:1.5}
+.content-sources li p{font-size:13px!important;line-height:1.5;margin:4px 0!important}
+.wiki-background small{display:block;margin-top:5px;font-size:12px;color:var(--muted)}
+.image-lightbox .photo-credit{color:#ccd7d0;border-color:#567267;text-align:left;max-width:780px;margin:12px auto 0}
+.image-lightbox .photo-credit-heading{color:white}.image-lightbox .photo-credit a{color:#c8e8ff}.image-lightbox .photo-rights-note,.image-lightbox .source-note{color:#ccd7d0}
+@media(max-width:700px){.photo-credit{font-size:14px}.content-sources li{font-size:15px}.photo-credit a{display:inline-block;padding:4px 0}.content-sources li p{font-size:14px!important}}
+.source-unavailable{font-weight:600}.source-original-url{font-size:12px}.source-original-url p{overflow-wrap:anywhere}.content-sources .source-original-url summary{font-size:12px;padding:4px 0}
+.image-lightbox .lightbox-source{color:#c8e8ff;align-self:center;padding:10px;text-decoration:underline;text-underline-offset:3px;font-size:14px}

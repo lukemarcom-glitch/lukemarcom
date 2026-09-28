@@ -1,4 +1,5 @@
-import {storyGalleryMarkup} from './gallery.js?v=city-32';
+import {sourceList} from '../sources.js?v=1';
+import {storyGalleryMarkup} from './gallery.js?v=sources-1';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 // Documentary originals remain primary evidence; AI variants are explicitly labelled.
@@ -15,5 +16,5 @@ export function storyMarkup(meta,related){
  ${meta.memorials?.length?`<section class="story-memorials"><h3>Herdenken &amp; terugvinden</h3>${meta.memorials.map(m=>`<article><h4>${esc(m.name)}</h4><p>${esc(m.description)}</p><p class="micro">${esc(m.address)}${m.year?' · '+esc(m.year):''}</p><a href="${esc(m.url)}" target="_blank" rel="noopener noreferrer">${esc(m.linkLabel||'Over deze herinneringsplek ↗')}</a></article>`).join('')}<p class="micro">Een latere herdenkingsplek kan elders liggen dan de gebeurtenis op de kaart.</p></section>`:''}
  <section class="story-evidence"><h3>Wat weten we zeker?</h3><p>${esc(meta.evidenceNote)}</p></section>
  <section class="story-location"><h3>Deze plek op de kaart</h3><p>${esc(meta.locationNote)}</p><p class="micro">De marker blijft in Toen en Nu op dezelfde historische plek. De kaart van vóór mei 1940 toont geen reconstructie van de oorlogsschade.</p>${related?`<button class="story-related" data-related="${esc(related.id)}">${esc(meta.relatedLabel||`Bekijk ${related.name} in 3D →`)}</button>`:''}</section>
- <section class="story-sources"><h3>Lees de bronnen</h3><div class="source-list">${meta.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`).join('')}</div><p class="micro"><a href="stories/beeldrechten.md" target="_blank" rel="noopener noreferrer">Verantwoording beeldrechten ↗</a></p></section>`;
+ ${sourceList(meta)}`;
 }
