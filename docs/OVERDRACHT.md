@@ -469,3 +469,7 @@ Koopmanshuis Nieuwehaven 87 als 145e locatie toegevoegd met één origineel/AI-p
 Hoofdagent controleerde semantisch dat alleen nieuw 87 en de bedoelde geometrie/plaatsingsbronnen van 89 zijn veranderd; bestaande foto's en teksten behouden. Live-model, mobiele galerie en desktopfullscreen bekeken. Originele foto's bytegelijk. Agent-browserrapport heeft geen fouten of mislukte verzoeken. Bronnotitie opgeschoond tot definitieve onderzoeksstatus, QA en oorspronkelijke foto-hashes bij de assets bewaard.
 
 Ronde acht telt nu drie lokale toevoegingen (HBS, Wijnhaven145, Nieuwehaven87). Nog niet gepubliceerd; volgende backup bij 40 cumulatieve toevoegingen. Huis Keulen is onderzoeksreserve met Bell-gevel rond 1890 en bewezen latere verbouwing; Machinistenschool heeft nog geen voldoende geïdentificeerd vrij gevelbeeld. Menuvoorstel 'Ga naar een plek' is niet geïmplementeerd.
+
+
+### 3 oktober 2026 — Wijnhaven 62 lokaal
+Herenhuis Wijnhaven62 toegevoegd met historisch/AI-paar, vijf directe bronnen, perceel1921 en vereenvoudigd model met vier assen en drie lagen boven souterrain. Dakoverstek aan gedeelde muur met OLV gecorrigeerd; beide modeldownloads vernieuwd. Achterperceel1923 niet ingevuld. Kleurreferentie Verheul1937 is interpretatief. Researchdossier expansion-20261003/wijnhaven62 bevat exacte meshcontrole, builderregressie en browserbewijs. Publicatiestatus afzonderlijk door hoofdtaak te bevestigen.

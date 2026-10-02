@@ -1,0 +1,390 @@
+[
+  {
+    "id": "ca-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "huf-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "thalia-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "handel-nijverheid",
+    "identical": true
+  },
+  {
+    "id": "gerzon-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "erasmushuis",
+    "identical": true
+  },
+  {
+    "id": "esders-hoofdsteeg",
+    "identical": true
+  },
+  {
+    "id": "burgerweeshuis",
+    "identical": true
+  },
+  {
+    "id": "politie-haagseveer",
+    "identical": true
+  },
+  {
+    "id": "bosjeskerk",
+    "identical": true
+  },
+  {
+    "id": "synagoge-botersloot",
+    "identical": true
+  },
+  {
+    "id": "oude-raadhuis",
+    "identical": true
+  },
+  {
+    "id": "telefoondienst-botersloot",
+    "identical": true
+  },
+  {
+    "id": "hermesgebouw",
+    "identical": true
+  },
+  {
+    "id": "synagoge-boompjes",
+    "identical": true
+  },
+  {
+    "id": "hotel-weimar",
+    "identical": true
+  },
+  {
+    "id": "oostindisch-huis",
+    "identical": true
+  },
+  {
+    "id": "rotterdamsche-bank-boompjes",
+    "identical": true
+  },
+  {
+    "id": "nationale-boompjes",
+    "identical": true
+  },
+  {
+    "id": "hotel-smits",
+    "identical": true
+  },
+  {
+    "id": "westnieuwland",
+    "identical": true
+  },
+  {
+    "id": "bierhaven",
+    "identical": true
+  },
+  {
+    "id": "korte-wijnbrugstraat",
+    "identical": true
+  },
+  {
+    "id": "scheepmakershaven",
+    "identical": true
+  },
+  {
+    "id": "wijnhaven-west",
+    "identical": true
+  },
+  {
+    "id": "leuvehaven-oost",
+    "identical": true
+  },
+  {
+    "id": "haringvliet-west",
+    "identical": true
+  },
+  {
+    "id": "goudsesingel-markt",
+    "identical": true
+  },
+  {
+    "id": "binnenrotte-straatwand",
+    "identical": true
+  },
+  {
+    "id": "oppert-woonhuizen",
+    "identical": true
+  },
+  {
+    "id": "heerenstraat-winkels",
+    "identical": true
+  },
+  {
+    "id": "slaak-straatbeeld",
+    "identical": true
+  },
+  {
+    "id": "prinsenstraat-buurt",
+    "identical": true
+  },
+  {
+    "id": "schiedamsedijk-noord",
+    "identical": true
+  },
+  {
+    "id": "kruiskade-winkelstraat",
+    "identical": true
+  },
+  {
+    "id": "binnenweg-oost",
+    "identical": true
+  },
+  {
+    "id": "schiedamsesingel-noord",
+    "identical": true
+  },
+  {
+    "id": "jungerhans-coolsingel",
+    "identical": true
+  },
+  {
+    "id": "cafe-caland",
+    "identical": true
+  },
+  {
+    "id": "botersloot-spaarbank",
+    "identical": true
+  },
+  {
+    "id": "grand-hotel-central",
+    "identical": true
+  },
+  {
+    "id": "ooglijdersgesticht",
+    "identical": true
+  },
+  {
+    "id": "bank-mees-beursplein",
+    "identical": true
+  },
+  {
+    "id": "vroom-dreesmann-binnenweg",
+    "identical": true
+  },
+  {
+    "id": "leeskabinet-geldersekade",
+    "identical": true
+  },
+  {
+    "id": "bijbank-boompjes",
+    "identical": true
+  },
+  {
+    "id": "nieuwsblad-slagveld",
+    "identical": true
+  },
+  {
+    "id": "amsterdamsche-bank-oostplein",
+    "identical": true
+  },
+  {
+    "id": "twentsche-noordblaak",
+    "identical": true
+  },
+  {
+    "id": "van-nelle-leuvehaven",
+    "identical": true
+  },
+  {
+    "id": "lampe-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "lucardie-grotemarkt",
+    "identical": true
+  },
+  {
+    "id": "hotel-gouden-hert",
+    "identical": true
+  },
+  {
+    "id": "amsterdamsche-bank-coolsingel",
+    "identical": true
+  },
+  {
+    "id": "hotel-coomans",
+    "identical": true
+  },
+  {
+    "id": "laurentius-houttuin",
+    "identical": true
+  },
+  {
+    "id": "bervoets-heerenstraat",
+    "identical": true
+  },
+  {
+    "id": "hofje-gerrit-de-koker",
+    "identical": true
+  },
+  {
+    "id": "sint-laurenshofje",
+    "identical": true
+  },
+  {
+    "id": "cafetaria-ruttens",
+    "identical": true
+  },
+  {
+    "id": "schotse-kerk",
+    "identical": true
+  },
+  {
+    "id": "noordzee",
+    "identical": true
+  },
+  {
+    "id": "nijgh-van-ditmar",
+    "identical": true
+  },
+  {
+    "id": "van-dooren",
+    "identical": true
+  },
+  {
+    "id": "doopsgezinde-kerk",
+    "identical": true
+  },
+  {
+    "id": "nederlanden-1845",
+    "identical": true
+  },
+  {
+    "id": "marx-bank-zuidblaak",
+    "identical": true
+  },
+  {
+    "id": "station-beurs",
+    "identical": true
+  },
+  {
+    "id": "internatio-wolfshoek",
+    "identical": true
+  },
+  {
+    "id": "nhm-zuidblaak",
+    "identical": true
+  },
+  {
+    "id": "nieuwe-westerkerk-ammanstraat",
+    "identical": true
+  },
+  {
+    "id": "hema-korte-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "zumpolle-hoofdsteeg",
+    "identical": true
+  },
+  {
+    "id": "voorwaarts-slaak",
+    "identical": true
+  },
+  {
+    "id": "amicitia-zuidblaak",
+    "identical": true
+  },
+  {
+    "id": "paul-kaiser-weinthal",
+    "identical": true
+  },
+  {
+    "id": "asta-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "cineac-coolsingel-vooroorlogs",
+    "identical": true
+  },
+  {
+    "id": "koopmanshuis-nieuwehaven59",
+    "identical": true
+  },
+  {
+    "id": "heck-city-noordblaak",
+    "identical": true
+  },
+  {
+    "id": "koopmanshuis-nieuwehaven89",
+    "identical": true
+  },
+  {
+    "id": "meyer-blessing-noordblaak",
+    "identical": true
+  },
+  {
+    "id": "spinolahuis",
+    "identical": true
+  },
+  {
+    "id": "corso-coolsingel",
+    "identical": true
+  },
+  {
+    "id": "meddens-hoogstraat",
+    "identical": true
+  },
+  {
+    "id": "galeries-modernes",
+    "identical": true
+  },
+  {
+    "id": "notarishuis-geldersekade",
+    "identical": true
+  },
+  {
+    "id": "groote-concertzaal-bierstraat",
+    "identical": true
+  },
+  {
+    "id": "oppertse-kerk-pastorie",
+    "identical": true
+  },
+  {
+    "id": "huis-met-de-beelden",
+    "identical": true
+  },
+  {
+    "id": "meuwsen-mosseltrap",
+    "identical": true
+  },
+  {
+    "id": "rusthuis-haringvliet",
+    "identical": true
+  },
+  {
+    "id": "cafe-de-scheepvaart",
+    "identical": true
+  },
+  {
+    "id": "huis-londen-nieuwehaven137",
+    "identical": true
+  },
+  {
+    "id": "hbs-alkemade",
+    "identical": true
+  },
+  {
+    "id": "wijnhaven145-moll",
+    "identical": true
+  },
+  {
+    "id": "koopmanshuis-nieuwehaven87",
+    "identical": true
+  }
+]
