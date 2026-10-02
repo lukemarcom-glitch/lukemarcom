@@ -402,3 +402,11 @@ Release `7ccd8d2601345055ad2f023a0b0666dfe080df51`; Pages37065653572 en Check370
 Checkpoint30: tag `rdam39-20261002-30-buildings` wijst naar bovenstaande release en is naar GitHub gepusht. Lokale volledige Gitgeschiedenisbackup: `rotterdam_1939/backups/rdam39-20261002-30-buildings.bundle`, gitbundleverify geslaagd. SHA256 `3d89f34ff855eedb6071bc5eb1c7cb5b4eb6a058117dc794341eb252b98d286b`. Bundle bevat gecommitteerde bestanden/geschiedenis, niet ongetrackte research.
 
 Volgende ronde: Huis met de Beelden Haringvliet46 en Meuwsen Mosseltrap3 in onderzoek; nog geen runtime-items. Meuwsen ruïnevergelijking wordt gecorrigeerd: pand LINKS van het hoekpand-skelet, eerdere Zumpolle-koppeling niet overnemen. Gebieden-menu blijft ongewijzigd; voorstel nog niet geaccordeerd.
+
+### Ronde 7 — eerste integratie in voorbereiding
+
+Huis met de Beelden Haringvliet46 lokaal in uitvoering met twee originele/AI-fotoparen. Hoofdagent heeft beide originele foto's, Verheul1934kleurreferentie, modelpreview/livekaart en geselecteerde AI's bekeken. Tweede AIproef afgekeurd wegens ingevuld onleesbaar kenteken; retry behoudt overbelichting. Prompt en beeldcontrole in research/expansion-20261002/huis-met-beelden. Plaatsonzekerheid circa10m; alleen voorbouw, neutrale afsluiting achter kroonlijst (geen historisch platdakbewijs). Bron DagvanhetKasteel gehele pagina geopend, expliciete verliespassage bevestigd.
+
+Meuwsen: onafhankelijke voor/na-beeldvergelijking ondersteunt verlies rijMosseltrap1–4 links van skeletnr5. Nr3kaartperceelF537; modeldraft in onderzoek. Geselecteerde AI1 behoudt J.S.MEUWSEN/HOEDEN; alle gevelkleuren interpretatie, geen primaire kleurbron. CC BY-SA4.0crop behouden. Drie overige nieuwe kandidaten nog in onderzoek, dus geen volledige zevende ronde of publicatie. Publiek blijft137locaties/30toevoegingen.
+
+Huis met de Beelden integratie afgerond:138locaties, twee paren. Agent heeft voorgevel180graden gecorrigeerd naar Haringvliet, root nieuwe liveweergave bekeken. Npmcheck10/10; desktop/mobiel/Nu3D en tweede paar apart getest. Niet gepubliceerd; volledige ronde van vijf afmaken.
