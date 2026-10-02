@@ -44,3 +44,13 @@ Gebruik `git revert <commit>` gevolgd door een push en controleer de nieuwe depl
 Iedere host voor statische HTML/CSS/JS kan `site/` aanbieden. Houd relatieve URL's, correcte MIME-types voor `.js`, `.json`, `.webp` en `.glb` en HTTPS. Start niet met een nieuwe kaartondergrond of andere historische scope omdat de host verandert.
 
 De oude Sites-publicatie is een afzonderlijke deployment. Een GitHub-push werkt die oude URL niet automatisch bij. Verwijder die niet zolang de nieuwe website niet geverifieerd is; spreek een eventuele latere verhuizing van domein/links afzonderlijk af.
+
+## Vijf nieuwe locaties na publicatie vergelijken
+
+Na een aantoonbaar geslaagde Pages-run kan de bytecontrole voor een uitbreidingsronde worden uitgevoerd met:
+
+```sh
+RELEASE=<volledige-commit-sha> PAGES_RUN=<geslaagde-run-id> node scripts/verify-public-round.mjs id1,id2,id3,id4,id5 docs/VERIFICATIE-RONDE.json
+```
+
+De controle vereist vijf verschillende bestaande locaties, een schone publicatiemap en dezelfde lokale HEAD als de opgegeven release. Zij vergelijkt de openbare kaartcode, catalogus, achtergrond, vijf modellen en alle originele/AI-webbeelden met de lokale bestanden. Het rapport wordt pas geschreven als alle bestanden overeenkomen. De controle bewijst alleen bestandsgelijkheid; de Pages-status, historische bronnen en visuele desktop-/mobielcontrole blijven afzonderlijke stappen.
