@@ -305,3 +305,14 @@ Parent heeft alle vijf modelbeelden en foto-AIparen bekeken. Bestaande catalogit
 Release `16706314b8bc5896d245c290650963e92d6876ca` is gepubliceerd. GitHub Pages-run `37049974522` en Check project `37049974351` zijn geslaagd. Alle 21 gecontroleerde openbare bestanden (app, catalogus, achtergrond, vijf GLB’s en zes originele/AI-fotoparen) zijn bytegelijk aan lokaal; zie `VERIFICATIE-UITBREIDING-20261002-R5.json`. Anonieme browsercontrole op rdam39.nl met Meddens: 132 locaties, 18 verhalen, fotoparen/lichtbak, Nu 3D en mobiele weergave geslaagd, geen browser-/laadfouten of horizontale overflow. Mobiele lichtbak visueel bekeken.
 
 Vijf nieuwe locaties: Koopmanshuis Nieuwehaven 89, Meyer & Blessing Noordblaak, Spinolahuis, Corso Coolsingel en Meddens Hoogstraat. Samen zes origineel/AI-paren. De modellen en kleuren blijven onderbouwde benaderingen met zichtbare onzekerheden. Meddensfoto1903 is expliciet vóór de puiwijziging1929. Voltooide uitbreidingsteller:25. Laatste versieback-up blijft checkpoint20; de volgende volgt na vijf verdere gepubliceerde toevoegingen bij30. Ronde6 is onderzoek, nog geen nieuwe locaties of claim dat alle mogelijkheden zijn uitgeput.
+
+
+## Ronde6 — brononderzoek en eerste beeldpakket, nog niet live
+
+Galeries Modernes heeft drie originele anonieme vooroorlogse prentbriefkaarten (SARPBK3146/3147/3148), pandgebonden14meiverliesbron en één geselecteerde AI-kleurversie1938. Gevelnaam en beide GALERIES-uithangborden zijn na gerichte correctie visueel gecontroleerd. Exacte prompts01/02 en origineel blijven behouden onder research/expansion-20261002/galeries-modernes. Tweede proef is nog niet geselecteerd wegens verandering bovenuitsnede/bordopmaak. Materiaalkleuren zijn interpretatie, geen geverifieerde kleurhistorie.
+
+Plaatsing nog open: Hoogstraat207/perceel925 geeft slechts adrespunt; brede samengevoegde gevel niet blind op smal perceel bouwen. Nieuw archiefbeeldXIV4440001 toont bureauEd.Cuypers-onderschrift en dateert1928–1932. Dit botst met secundaire1934verbouwingsdatum, dus niet stellig als1934model publiceren. Gerichter ontwerp-/kavelonderzoek loopt.
+
+Andere panden onderzocht: TerMeulen en Dobbelmann specifiek14meiverlies bevestigd, intactgevelbeeld nog niet rond. Maasbode heeft goede anonieme gevelscan met onduidelijke publicatierechten; PDMfilm1929 toont entree maar niet hele gevel. Notarishuis sterke verliesbron, beste gevelbeelden niet vrij downloadbaar, oudere vrije opname moet eerst gecontroleerd worden. Wisbrun en logeDrieKolommen nog reserve. Boompjes16/Maashotel afgewezen voor deze selectie vanwege aanwijzing voor eerdere brand door mortiervuur; geen vervanging met overlevende gebouwen.
+
+Er zijn in deze stap geen nieuwe runtimegebouwen toegevoegd. Publicatie blijft132locaties/18verhalen/25toevoegingen; volgende backup bij30.
