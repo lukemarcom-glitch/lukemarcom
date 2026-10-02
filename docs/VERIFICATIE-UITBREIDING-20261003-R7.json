@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-10-02T22:05:51.541Z",
+  "releaseCommit": "cdcb504f2b6a20dc25f2ebdf52453c684b02f20f",
+  "pagesRun": "37070441363",
+  "buildings": 142,
+  "ids": [
+    "huis-met-de-beelden",
+    "meuwsen-mosseltrap",
+    "rusthuis-haringvliet",
+    "cafe-de-scheepvaart",
+    "huis-londen-nieuwehaven137"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "0c052679d3c3fc049a1418edf4ef3efd0ffc2cec30a66a30825a2b0fd4be5e8e",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "ecfdfb4c222ba5dc4e4c9fef2c6b9c1035fdbd0d586bb3cfd0d6137babd8c98d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "4f0ae62203ca0a391305e9584f296a0586e7ea16bad88c2bef6d70072050f3fb",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "5e25a86a63877c454a69760066440cc79fa109af3babe17b6f4d24ba45b77ad8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/model.glb",
+      "sha256": "2df7813c266588fe4fd9059f65dbacc21eb26366effd7d73ed3d410edf836a6f",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/foto-1-origineel.jpg",
+      "sha256": "e5e4e0d010952202927cdf580627a741eb1e84068258e23e28aa46cc384e152a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/foto-1-ai.webp",
+      "sha256": "21ddf34618c77cff35c9370163c68d4d6178ddd6531638c4103126f810e605d1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/foto-2-origineel.jpg",
+      "sha256": "77a00f674ec2c090b9b81b17191911e0d3023d7f1d35bfb7a55c62c7f9148b98",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/foto-2-ai.webp",
+      "sha256": "ba86254fe4583e2daa3acc18e6cb1c1f326152a7419e972fed9b8ce13390cd82",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meuwsen-mosseltrap/model.glb",
+      "sha256": "cd53fad5cb77b8de8b58452f037c4152506eaa52687f6d8d9892d4cefb85943b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meuwsen-mosseltrap/foto-1-origineel.jpg",
+      "sha256": "5a43ded40622d7886234a5d295cf35a9bd779f64587a1ef2959e768aa59d0c76",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meuwsen-mosseltrap/foto-1-ai.webp",
+      "sha256": "28c6011b9ae0f5adc96322b277c5ade117ca2e137cc0d01e395c53994dad7809",
+      "identical": true
+    },
+    {
+      "path": "landmarks/rusthuis-haringvliet/model.glb",
+      "sha256": "c439914f1a6d8ffa0a4625f15962b515826c14ee355244615b2866ddc032772a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/rusthuis-haringvliet/foto-1-origineel.jpg",
+      "sha256": "b93c7ae616f5c3bc8734129568558be057d80fca4e07101b8d08368ead80ae46",
+      "identical": true
+    },
+    {
+      "path": "landmarks/rusthuis-haringvliet/foto-1-ai.webp",
+      "sha256": "3ccf3766ebecefecf7eba236b96e92b6629378f2d2bc105c983a2aa7c2480f34",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-de-scheepvaart/model.glb",
+      "sha256": "403252518b386b2d80b7f5845ed453e6b2ffc7d6f689594953cddfce861054f7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-de-scheepvaart/foto-1-origineel.jpg",
+      "sha256": "1bb5a39fec95c7ef1ae74c1a159240c018ce80b541ba7a4e9016ffe785c56e72",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-de-scheepvaart/foto-1-ai.webp",
+      "sha256": "205572375520416f3fd6c53ffa3775ee67d85a480bdf10c3f25ac25cebc67fc5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-londen-nieuwehaven137/model.glb",
+      "sha256": "5ab8c11734695bd2d5ff55d50ff5a04c5f40d53edfa7b8cfc79234b0ce61598a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-londen-nieuwehaven137/foto-1-origineel.jpg",
+      "sha256": "d97f43d99d6079f613038f7e89cb1918b087501ea18846dc00578083cf7b7dd0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-londen-nieuwehaven137/foto-1-ai.webp",
+      "sha256": "63fd338370aa576f812ab557a3c49505504f1de1cf05e1441826fc5f76d21bde",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

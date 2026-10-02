@@ -436,3 +436,10 @@ Huis Londen (142) wordt afgerond; hoofdagent heeft UvA bijlage p419/PDF111 met i
 ### Ronde 7 — vijf toevoegingen gecontroleerd, 3 oktober 2026
 
 Huis met de Beelden, Meuwsen Mosseltrap3, Rusthuis Haringvliet50, Café De Scheepvaart en Huis Londen vormen de volledige zevende ronde. Hoofdagent heeft laatste café/livebeeld en Londenmodel plus mobiele galerie visueel gecontroleerd; 142locaties/18verhalen/295foto’s/275paren, npmcheck nul fouten en10tests geslaagd. Cachequeries vernieuwd, inclusief gedeelde modelbouwer. Verlies-, kleur- en plaatsingsonzekerheden blijven bij de items. Publicatiecontrole volgt. Volgende versiebackup bij40toevoegingen; checkpoint30 blijft geldig.
+
+
+### Ronde 7 — publiek geverifieerd
+
+Release cdcb504f2b6a20dc25f2ebdf52453c684b02f20f, Pages37070441363 en Check37070441468 geslaagd.21 openbare bestanden bytegelijk met lokale release (VERIFICATIE-UITBREIDING-20261003-R7.json); models.js en city32-models.js aanvullend bytegelijk gecontroleerd. Verifier negeerde alleen bestaande ongetrackte research/Hoogstraatblend via procesconfig; alle runtimewijzigingen gecommit. Anonieme browsercontrole rdam39.nl met HuisLonden:142locaties/18verhalen, geenerrors/failed/overflow, fotoparen/Nu3D/mobieleviewer geslaagd. Publieke mobiele galerie en Nu3D screenshot door hoofdagent bekeken.
+
+Nu35toevoegingen in zeven rondes publiek. Checkpoint30backup blijft laatste afgesproken backup; volgende bij40. CityTheater en Leuvehaven68 zijn alleen onderzoeksreserves, noggeenintacte vrijegevel en dus niet geteld. Gebieden-menustructuur blijft bestaand; voorstel niet geaccordeerd.
