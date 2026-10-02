@@ -1,0 +1,28 @@
+{
+  "status": "nog niet plaatsen",
+  "stationMapPolygon": [
+    [
+      280.566336792323,
+      70.66504643016083
+    ],
+    [
+      294.32154419329095,
+      78.59887527976002
+    ],
+    [
+      321.5087935812728,
+      39.36647568295848
+    ],
+    [
+      309.5558478038913,
+      30.853220793885612
+    ]
+  ],
+  "existingFootprintOverlaps": [
+    {
+      "id": "luchtspoor",
+      "overlapSquareMeters": 556.68
+    }
+  ],
+  "note": "Bestaande Luchtspoor-voetafdruk overlapt stationsrechthoek van bronkaart. Bestaande spoorlijn is schematisch; station niet verplaatsen om die fout te maskeren. Controleer historische spooras op meerdere punten; daarna kap/perrons en modeldownloads samen aanpassen."
+}

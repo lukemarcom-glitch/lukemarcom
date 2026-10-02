@@ -13,12 +13,21 @@
     "91754579.jpg",
     "91813626.jpg"
   ],
-  "next": "AI-proef 1938 visueel beoordelen; primaire bron vernieling en bouwkundige indeling verifiëren; positie vergelijken met bestaande Luchtspoor en Plan C; geen dubbel tellen van reeds gemodelleerde kap.",
+  "next": "Historische spooras traceren: bestaande route overlapt circa557m² van stationscontour. Bouwmassa als model-draft.json opgeslagen; nog geen runtime. Glazen perronwand behoort bij bestaande kap, niet aan ontvangstgebouw dubbel toevoegen.",
   "destructionSource": {
     "url": "https://www.spoorwegmuseum.nl/collectie/kinderen-van-versteeg/oorlogsdreiging/",
     "section": "Vijf dagen oorlog > Ansichtkaart",
     "supports": "Museum identificeert de ansicht als station Rotterdam Beurs verwoest door het bombardement in 1940, met resten spoorwegviaduct rechts.",
     "checked": "2026-10-02"
   },
-  "archiveAccess": "Directe HUA-record gaf webtool Internal Error; Commons bewaart HUA-GUID, catalogusnummer en volledige overgenomen metadata. Geen bewering dat oorspronkelijke HUA-rechtenpagina live gecontroleerd is."
+  "archiveAccess": "Directe HUA-record gaf webtool Internal Error; Commons bewaart HUA-GUID, catalogusnummer en volledige overgenomen metadata. Geen bewering dat oorspronkelijke HUA-rechtenpagina live gecontroleerd is.",
+  "aerial1935": {
+    "url": "https://hdl.handle.net/21.12133/EF90B2CE61944207BF93319C02424A98",
+    "author": "KLM Aerocarto",
+    "date": "1935",
+    "rights": "CC0 volgens Commons",
+    "file": "145156260.jpg",
+    "supports": "Afzonderlijk lang stationsgebouw ten oosten van het spoor; hoog middendeel en lagere vleugels. Positie ten opzichte van Plan C, oude Beurs en Witte Huis."
+  },
+  "duplicateImage": "100525890.jpg is dezelfde opname als HUA163078/91227572.jpg, andere afdruk. Niet tellen als extra uniek fotopaar."
 }
