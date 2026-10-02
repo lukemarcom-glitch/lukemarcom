@@ -71,7 +71,7 @@ export function buildCity32(meta,{material,box,merge}){
    continue;
   }
   const body=new T.Mesh(new T.CylinderGeometry(r,r,h,t.sides||8),mats[t.wall||'stone']);body.position.y=base+h/2;g.add(body);
-  for(let y=base+3;y<base+h-1;y+=t.storey||3.5){if(t.bands!==false){const band=new T.Mesh(new T.CylinderGeometry(r+.14,r+.14,.18,t.sides||8),mats.trim);band.position.y=y;g.add(band);}for(let i=0;i<4;i++)window(part(g,Math.sin(i*Math.PI/2)*(r+.04),Math.cos(i*Math.PI/2)*(r+.04),i*Math.PI/2),0,y-1.5,.04,t.windowWidth||r*.63,t.windowHeight||1.55);}
+  if(t.windows!==false) for(let y=base+3;y<base+h-1;y+=t.storey||3.5){if(t.bands!==false){const band=new T.Mesh(new T.CylinderGeometry(r+.14,r+.14,.18,t.sides||8),mats.trim);band.position.y=y;g.add(band);}for(let i=0;i<4;i++)window(part(g,Math.sin(i*Math.PI/2)*(r+.04),Math.cos(i*Math.PI/2)*(r+.04),i*Math.PI/2),0,y-1.5,.04,t.windowWidth||r*.63,t.windowHeight||1.55);}
   if(t.roofProfile){
    // Explicit radius/height samples allow documented curved cupolas without
    // replacing them with the generic pointed roof used by other towers.

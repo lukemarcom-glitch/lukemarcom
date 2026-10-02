@@ -178,3 +178,7 @@ Release fb1af0309d080acca750a7264be51ef39cf09840 is gepubliceerd: Pages 37008696
 ### Ronde3 — gepubliceerd
 
 2oktober2026: NieuweWesterkerkAmmanstraat,HEMAKorteHoogstraat,ZumpolleHoofdsteeg,VoorwaartsSlaak,AmicitiaZuidblaak. Vijf fotoparen, zichtbare schematische modellen, bron-/rechteninformatie; posities/kleuren/hoogten explicietbenaderd. Release33d6421, Pages37016416141, verificatiebestandR3. Voltooide teller15; backupcheckpoint20 volgtna ronde4.
+
+## Ronde 4 — eerste lokale reconstructie in review
+
+Paul Kaiser/Weinthal aan Hoofdsteeg43 is lokaal toegevoegd als locatie123, met het volledige bron/AI-paar van dezelfde straatopname als Zumpolle. Parent heeft origineel, AI en kaartscreenshot bekeken. Brononzekerheden zijn zichtbaar; kleine AI-letters zijn geen transcriptie. Dichte gevelbanden en zonwering worden nog verbeterd vóór vrijgave. Technische controle: negen tests geslaagd, geen fouten. Nog geen publicatie, dus teller blijft15; volgend backupcheckpoint bij20. Andere kandidaten worden parallel onderzocht, nog niet als bouwklaar geregistreerd.

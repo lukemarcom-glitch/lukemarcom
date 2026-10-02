@@ -1,0 +1,1 @@
+Dit is hetzelfde volledige origineel/AI-paar als bij Zumpolle. De oorspronkelijke prompt was voor het gehele straatbeeld. Hier wordt het ronde linkerhoekpand uitgelicht. Geen nieuwe generatie; beide locaties behouden dezelfde bron, maker, datering, rechten en onzekerheden.

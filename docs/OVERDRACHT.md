@@ -205,3 +205,11 @@ AmicitiaZuidblaak20 alsvijfdeinonderzoek: 1928RCEgevelbeeld envooroorlogsfeestbe
 ## Ronde 3 live — teller 15
 
 Release33d642184492292c80cd92e1a012a84af6a3532b is gepubliceerd; Pages37016416141 geslaagd. Alle19 gecontroleerde openbare bestanden bytegelijk aan lokaal. Vijf afzonderlijke anonieme desktop-/mobiele browsercontroles geslaagd, inclusief fotopaar,fullscreen,Nu3D engeenoverflow/errors. Zie VERIFICATIE-UITBREIDING-20261002-R3.json. NieuweWesterkerk,HEMA,Zumpolle,Voorwaarts,Amicitia hebben elk1oud/AI-paar; HEMAvervangt ook oud ingebouwdHoogstraatblok. Totaal122locaties/18verhalen. Voltooideuitbreidingen15; volgendevolledigebackupbij20, eerdere10-backupblijftgeldig. Ronde4PaulKaiserWeinthalresearchklaar maar nognietruntime; Kolkoverlap betreftstraat, laatsthuis≥1.48mvrij. Doel blijftactief.
+
+## 2 oktober 2026 — ronde4 lokaal, nog niet gepubliceerd
+
+Paul Kaiser/Weinthal is locatie123. Ronde4 heeft nu één lokaal model; publiek blijven15 nieuwe toevoegingen afgerond. Gevel na visuele vergelijking verbeterd met dichte borstweringen en twee luifels, GLB herexporteerd (7496driehoeken). Origineel/AI-straatbeeld wordt met eigen toelichting hergebruikt van Zumpolle. Alle75 bestaande city32/city33modellen houden identieke geometrie bij de optionele windows-guard. Negen checks opnieuw geslaagd. Laat vóór rondepublicatie cacheversies, gezamenlijke browsercontrole en publieke bytecontrole volgen.
+
+Nieuwehaven59: bronfoto RCE20192285 plus Verheul1935 als kleurindicatie. AI-proef02 gecorrigeerd (verzonnen extra persoon verwijderd) en voorlopig geselecteerd; nog uitsluitend research/expansion-20261002/round4-a. Exacte historische plaatsing en verwoestingsbron nog in onderzoek. Cineac NRC oudeCoolsingel17 en AstaHoogstraat160 zijn andere kandidaten; geen moderne adressen overnemen. ZwembadTuindersstraat nog onzeker qua beeldrechten.
+
+Volgende volledige backup bij20 voltooide/publiekgeverifieerde toevoegingen. Geen Claude-loginwerk in deze loop. Gebruiker gaf nieuwe suggesties voor menuzoeken/filters en lichtblauw historisch water; dit waren adviesvragen, nog geen implementatieopdracht.
