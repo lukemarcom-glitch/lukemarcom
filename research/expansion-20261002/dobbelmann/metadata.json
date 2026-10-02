@@ -1,0 +1,400 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "10827725": {
+        "pageid": 10827725,
+        "ns": 6,
+        "title": "File:Louis Dobbelmann, Rotterdam.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Louis_Dobbelmann%2C_Rotterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Louis_Dobbelmann,_Rotterdam.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10827725",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-01-21 21:21:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Louis Dobbelmann, Rotterdam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-anon-70-EU|Advertising posters of the Netherlands|Template Unknown (author)|Tobacco advertising in the Netherlands|1896 posters of the Netherlands|Stoom-Tabaks- en Sigarenfabriek v/h Louis Dobbelmann",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Advertentie: Louis Dobbelmann. Rotterdam.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1896 and 1897<div style=\"display: none;\">date QS:P,+1896-00-00T00:00:00Z/8,P1319,+1896-00-00T00:00:00Z/9,P1326,+1897-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://resolver.kb.nl/resolve?urn=urn:gvn:RA01:6842\">Geheugen van Nederland</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<i><b>Note:</b> In Germany and possibly other countries, certain anonymous works published before July 1, 1995 are copyrighted until 70 years after the death of the author. See <a href=\"https://de.wikipedia.org/wiki/Anonymes_Werk_(Urheberrecht)#Fr%C3%BChere_Rechtslage_in_Deutschland_/_%C3%9Cbergangsrecht\" class=\"extiw\" title=\"de:Anonymes Werk (Urheberrecht)\">Übergangsrecht</a>.  Please use this template only if the author never claimed authorship or their authorship never became public in any other way.  If the work is anonymous or pseudonymous (e.g., published only under a corporate or organization's name), use this template for images published more than 70 years ago.</i>\n<i>For a work made available to the public in the United Kingdom, please use <a href=\"//commons.wikimedia.org/wiki/Template:PD-UK-unknown\" title=\"Template:PD-UK-unknown\">Template:PD-UK-unknown</a> instead.</i>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{nl|Advertentie: Louis Dobbelmann. Rotterdam.}}\n|Source=[https://resolver.kb.nl/resolve?urn=urn:gvn:RA01:6842 Geheugen van Nederland]\n|Date={{other date|between|1896|1897}}\n|Author={{unknown|author}}\n|Permission={{PD-anon-70-EU}}\n|other_versions=\n}}\n\n[[Category:Stoom-Tabaks- en Sigarenfabriek v/h Louis Dobbelmann]]\n[[Category:Advertising posters of the Netherlands]]\n[[Category:1896 posters of the Netherlands]]\n[[Category:Tobacco advertising in the Netherlands]]"
+              }
+            }
+          }
+        ]
+      },
+      "88687605": {
+        "pageid": 88687605,
+        "ns": 6,
+        "title": "File:Model van suikerraffinaderij Van Oordt op hoek Hoogstraat - Groenendaal, objectnr 31891.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Model_van_suikerraffinaderij_Van_Oordt_op_hoek_Hoogstraat_-_Groenendaal%2C_objectnr_31891.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Model_van_suikerraffinaderij_Van_Oordt_op_hoek_Hoogstraat_-_Groenendaal,_objectnr_31891.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88687605",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-27 19:47:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Model van suikerraffinaderij Van Oordt op hoek Hoogstraat - Groenendaal, objectnr 31891",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Collections of Museum Rotterdam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br><br><big><b>Objectgegevens</b></big> <br><b>Titel: </b> \tModel van suikerraffinaderij Van Oordt op hoek Hoogstraat - Groenendaal <br><b>Beschrijving:</b>  \tEenvoudig volumemodel van de stoomsuikerraffinaderij van Van Oordt, op de wanden een voorstelling van gevelrijen en kopse zijden van bouwblokken. Twee schoorstenen met rookpluimen van wol. <br><b>Herkomst:</b>  \tFamiliebezit Van Oordt. <br><b>Trefwoorden:</b>  \tgebouw, model\t <br><b>Plaats vervaardiging:</b>  \tNederland, Rotterdam? <br><b>Datering:</b>  \t1843 - 1884 <br><b>Technieken:</b>  \tgesneden, geknipt, beschilderd\t <br><b>Materiaal:</b>  \tkarton, papier, wol\t <br><b>Afmetingen:</b>  (cm) \thg 31,0 / br 34,0 / dp 44,0 <br><b>Associatie:</b>  \tsuiker, stoom, Dobbelman, Van Oordt, Rotterdam, Stadscentrum, Stadsdriehoek, Hoogstraat, Groenendaal\t <br><b>Vorm &amp; decoratie:</b>  \tminiatuur\t <br><b>Inventarisnr:</b> \tMuseum Rotterdam 31891",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1843 and 1884<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1843-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://museumrotterdam.nl/collectie/item/31891\">https://museumrotterdam.nl/collectie/item/31891</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Museum Rotterdam",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{nl|1=\n<br><br><big>'''Objectgegevens'''</big> <br>'''Titel: ''' \tModel van suikerraffinaderij Van Oordt op hoek Hoogstraat - Groenendaal <br>'''Beschrijving:'''  \tEenvoudig volumemodel van de stoomsuikerraffinaderij van Van Oordt, op de wanden een voorstelling van gevelrijen en kopse zijden van bouwblokken. Twee schoorstenen met rookpluimen van wol. <br>'''Herkomst:'''  \tFamiliebezit Van Oordt. <br>'''Trefwoorden:'''  \tgebouw, model\t <br>'''Plaats vervaardiging:'''  \tNederland, Rotterdam? <br>'''Datering:'''  \t1843 - 1884 <br>'''Technieken:'''  \tgesneden, geknipt, beschilderd\t <br>'''Materiaal:'''  \tkarton, papier, wol\t <br>'''Afmetingen:'''  (cm) \thg 31,0 / br 34,0 / dp 44,0 <br>'''Associatie:'''  \tsuiker, stoom, Dobbelman, Van Oordt, Rotterdam, Stadscentrum, Stadsdriehoek, Hoogstraat, Groenendaal\t <br>'''Vorm & decoratie:'''  \tminiatuur\t <br>'''Inventarisnr:''' \tMuseum Rotterdam 31891  }}\n|Date= \t{{between|1843|1884}} \n|Source=https://museumrotterdam.nl/collectie/item/31891\n|Author=Museum Rotterdam\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{cc-by-sa-3.0}}\n\n[[Category:Collections of Museum Rotterdam]]"
+              }
+            }
+          }
+        ]
+      },
+      "110923756": {
+        "pageid": 110923756,
+        "ns": 6,
+        "title": "File:Puin van verwoeste huizen aan het Groenendaal 1940.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Puin_van_verwoeste_huizen_aan_het_Groenendaal_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Puin_van_verwoeste_huizen_aan_het_Groenendaal_1940.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110923756",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-10-12 12:36:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Puin van verwoeste huizen aan het Groenendaal 1940",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|1940 in Rotterdam|Photographs by Hendrik Sutterland|History of Groenendaal (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The affected downtown in the vicinity of the Groenendaal after the bombing of 14 May 1940, seen from the east. On the right the chimney of the Dobbelman factory; In the background in the middle (between two trees): the roof of the bank building of Mees &amp; Hope on the Blaak. Year: 1940.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-06-1940 - 30-06-1940",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/9EB7F37BB1DE48049E4BF40FE5AFE67C\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Hendrik (Henk) (H.) Sutterland",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The affected downtown in the vicinity of the Groenendaal after the bombing of 14 May 1940, seen from the east. On the right the chimney of the Dobbelman factory; In the background in the middle (between two trees): the roof of the bank building of Mees & Hope on the Blaak. Year: 1940.}}\n{{nl|1=De getroffen binnenstad in de omgeving van de Groenendaal na het bombardement van 14 mei 1940, gezien vanuit het oosten. Rechts de schoorsteen van de fabriek van Dobbelman; op de achtergrond midden (tussen twee bomen): het dak van het bankgebouw van Mees & Hope aan de Blaak. Jaar: 1940.}}\n|date=01-06-1940 - 30-06-1940\n|source=[https://hdl.handle.net/21.12133/9EB7F37BB1DE48049E4BF40FE5AFE67C Stadsarchief Rotterdam]\n|author=Hendrik (Henk) (H.) Sutterland\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n\n{{DEFAULTSORT:1940}}\n[[Category:Media from Stadsarchief Rotterdam]]\n[[Category:Photographs by Hendrik Sutterland]]\n[[Category:1940 in Rotterdam]]\n\n[[Category:History of Groenendaal (Rotterdam)]]"
+              }
+            }
+          }
+        ]
+      },
+      "135129610": {
+        "pageid": 135129610,
+        "ns": 6,
+        "title": "File:Affiche Louis Dobbelmann fabriek.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Affiche_Louis_Dobbelmann_fabriek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Affiche_Louis_Dobbelmann_fabriek.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135129610",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-28 09:32:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Affiche Louis Dobbelmann fabriek",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Advertising posters of the Netherlands|CC-PD-Mark|PD-old missing SDC copyright status|Stoom-Tabaks- en Sigarenfabriek v/h Louis Dobbelmann",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Affiche Stoom-Tabaks en Sigarenfabriek v/h Louis Dobbelmann, Rotterdam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1901 and 1910<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1901-00-00T00:00:00Z/9,P1326,+1910-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://hdl.handle.net/21.12133/28AB969C0BB446149DCBADA81116C51F\">https://hdl.handle.net/21.12133/28AB969C0BB446149DCBADA81116C51F</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "=={{int:filedesc}}==\n{{Information\n|description={{nl|1=Affiche Stoom-Tabaks en Sigarenfabriek v/h Louis Dobbelmann, Rotterdam}}\n|date={{other date|between|1901|1910}}\n|source=https://hdl.handle.net/21.12133/28AB969C0BB446149DCBADA81116C51F\n|author={{anonymous}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-old-70-expired}}\n\n[[Category:Stoom-Tabaks- en Sigarenfabriek v/h Louis Dobbelmann]]\n[[Category:Advertising posters of the Netherlands]]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

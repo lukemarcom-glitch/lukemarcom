@@ -1,0 +1,464 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "sroffset": 50,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 512
+    },
+    "search": [
+      {
+        "ns": 6,
+        "title": "File:1503 Hoogstraat en Laurenskerk vanaf Binnenrotte, Rotterdam 106.jpg",
+        "pageid": 124051608,
+        "size": 327,
+        "wordcount": 162,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-08-01T08:38:35Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 08-09-1838 (IA ddd 010393610 mpeg21).pdf",
+        "pageid": 109375754,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 08-09-1838 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T01:28:22Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 28-09-1859 (IA ddd 010388717 mpeg21).pdf",
+        "pageid": 109364933,
+        "size": 1131,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 28-09-1859 Dutch Rotterdamsche",
+        "timestamp": "2026-03-28T23:46:46Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De Tĳd - godsdienstig-staatkundig dagblad 27-06-1850 (IA ddd 010250019 mpeg21).pdf",
+        "pageid": 109271437,
+        "size": 1181,
+        "wordcount": 51,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English De Tĳd - godsdienstig-staatkundig dagblad",
+        "timestamp": "2025-12-09T08:09:38Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 27-03-1830 (IA ddd 010392286 mpeg21).pdf",
+        "pageid": 109372897,
+        "size": 1155,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 27-03-1830 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T00:56:56Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Bredasche courant 14-08-1853 (IA ddd 010153003 mpeg21).pdf",
+        "pageid": 109092753,
+        "size": 1096,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Bredasche courant 14-08-1853 Dutch Bredasche",
+        "timestamp": "2025-10-08T23:05:00Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Robert Fruin's verspreide geschriften - met aanteekeningen, toevoegsels en verbeteringen uit des schrijvers nalatenschap (IA robertfruinsvers06frui).pdf",
+        "pageid": 95572116,
+        "size": 1495,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-06-08T11:25:16Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 14-03-1835 (IA ddd 010393220 mpeg21).pdf",
+        "pageid": 109374076,
+        "size": 1130,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 14-03-1835 Dutch Rotterdamsche",
+        "timestamp": "2025-11-09T10:03:28Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 13-02-1840 (IA ddd 010514840 mpeg21).pdf",
+        "pageid": 109425032,
+        "size": 1126,
+        "wordcount": 41,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 13-02-1840 Dutch",
+        "timestamp": "2025-09-23T21:10:44Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 14-01-1859 (IA ddd 010544070 mpeg21).pdf",
+        "pageid": 109481992,
+        "size": 1126,
+        "wordcount": 41,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 14-01-1859 Dutch",
+        "timestamp": "2025-09-25T00:51:35Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Bredasche courant 15-02-1852 (IA ddd 010152847 mpeg21).pdf",
+        "pageid": 109091003,
+        "size": 1096,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Bredasche courant 15-02-1852 Dutch Bredasche",
+        "timestamp": "2025-09-21T11:50:48Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 20-08-1852 (IA ddd 010518088 mpeg21).pdf",
+        "pageid": 109449239,
+        "size": 1127,
+        "wordcount": 41,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 20-08-1852 Dutch",
+        "timestamp": "2025-09-24T18:28:14Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 05-09-1829 (IA ddd 010515823 mpeg21).pdf",
+        "pageid": 109432949,
+        "size": 1127,
+        "wordcount": 47,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 05-09-1829 Dutch",
+        "timestamp": "2026-06-16T09:31:59Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De Tĳd - godsdienstig-staatkundig dagblad 10-03-1853 (IA ddd 010250347 mpeg21).pdf",
+        "pageid": 109272301,
+        "size": 1182,
+        "wordcount": 51,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English De Tĳd - godsdienstig-staatkundig dagblad",
+        "timestamp": "2026-02-21T10:14:50Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 01-10-1859 (IA ddd 010388720 mpeg21).pdf",
+        "pageid": 109364973,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 01-10-1859 Dutch Rotterdamsche",
+        "timestamp": "2025-09-22T23:36:03Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 23-10-1856 (IA ddd 010397736 mpeg21).pdf",
+        "pageid": 109390345,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 23-10-1856 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T03:47:15Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 06-08-1863 (IA ddd 010543627 mpeg21).pdf",
+        "pageid": 109479801,
+        "size": 1139,
+        "wordcount": 41,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 06-08-1863 Dutch",
+        "timestamp": "2025-09-25T00:22:38Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 08-08-1855 (IA ddd 010396588 mpeg21).pdf",
+        "pageid": 109386952,
+        "size": 1131,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 08-08-1855 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T03:03:14Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 31-03-1860 (IA ddd 010397874 mpeg21).pdf",
+        "pageid": 109390800,
+        "size": 1130,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 31-03-1860 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T03:56:52Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 13-01-1847 (IA ddd 010515884 mpeg21).pdf",
+        "pageid": 109433224,
+        "size": 1171,
+        "wordcount": 47,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 13-01-1847 Dutch",
+        "timestamp": "2026-03-27T22:15:59Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 01-01-1859 (IA ddd 010388485 mpeg21).pdf",
+        "pageid": 109363224,
+        "size": 1166,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 01-01-1859 Dutch Rotterdamsche",
+        "timestamp": "2026-06-19T15:51:11Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Collectors' marks (IA markssaintlouis00faga).pdf",
+        "pageid": 95414060,
+        "size": 1420,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2025-12-27T12:22:40Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 17-11-1838 (IA ddd 010514683 mpeg21).pdf",
+        "pageid": 109423178,
+        "size": 1127,
+        "wordcount": 47,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 17-11-1838 Dutch",
+        "timestamp": "2026-01-12T12:58:00Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Affiches, annonces et avis divers d'Amsterdam = Advertentiën, aankondigingen en verschillende berigten van Amsterdam 05-10-1812 (IA ddd 010196490 mpeg21).pdf",
+        "pageid": 109154338,
+        "size": 1501,
+        "wordcount": 67,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Affiches, annonces et avis divers d&#039;Amsterdam",
+        "timestamp": "2025-09-20T11:25:40Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 30-03-1860 (IA ddd 010397873 mpeg21).pdf",
+        "pageid": 109390798,
+        "size": 1142,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 30-03-1860 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T03:56:47Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 16-09-1841 (IA ddd 010394239 mpeg21).pdf",
+        "pageid": 109376962,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 16-09-1841 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T01:42:05Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 20-07-1858 (IA ddd 010543918 mpeg21).pdf",
+        "pageid": 109480962,
+        "size": 1127,
+        "wordcount": 41,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 20-07-1858 Dutch",
+        "timestamp": "2025-09-25T00:38:20Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 19-07-1862 (IA ddd 010389597 mpeg21).pdf",
+        "pageid": 109367044,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 19-07-1862 Dutch Rotterdamsche",
+        "timestamp": "2025-09-22T23:55:16Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De Tĳd - godsdienstig-staatkundig dagblad 03-06-1850 (IA ddd 010249998 mpeg21).pdf",
+        "pageid": 109271347,
+        "size": 1193,
+        "wordcount": 51,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English De Tĳd - godsdienstig-staatkundig dagblad",
+        "timestamp": "2026-02-21T09:58:42Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Leeuwarder courant 26-02-1836 (IA ddd 010582344 mpeg21).pdf",
+        "pageid": 109527979,
+        "size": 1126,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Leeuwarder courant 26-02-1836 Dutch Leeuwarder",
+        "timestamp": "2025-09-25T13:54:35Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 31-12-1859 (IA ddd 010388798 mpeg21).pdf",
+        "pageid": 109365619,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 31-12-1859 Dutch Rotterdamsche",
+        "timestamp": "2025-09-22T23:42:32Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 06-03-1863 (IA ddd 010389171 mpeg21).pdf",
+        "pageid": 109365759,
+        "size": 1142,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 06-03-1863 Dutch Rotterdamsche",
+        "timestamp": "2025-09-22T23:44:11Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Portret van een zittende vrouw met muts met oorijzers, RP-F-F00816-AX.jpg",
+        "pageid": 149984632,
+        "size": 1375,
+        "wordcount": 1,
+        "snippet": "English",
+        "timestamp": "2025-03-04T17:00:44Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 17-04-1830 (IA ddd 010392295 mpeg21).pdf",
+        "pageid": 109372946,
+        "size": 1130,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 17-04-1830 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T00:57:41Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 18-06-1842 (IA ddd 010521097 mpeg21).pdf",
+        "pageid": 109473202,
+        "size": 1126,
+        "wordcount": 47,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 18-06-1842 Dutch",
+        "timestamp": "2026-06-27T07:18:14Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De Tĳd - godsdienstig-staatkundig dagblad 14-07-1858 (IA ddd 010253148 mpeg21).pdf",
+        "pageid": 109292101,
+        "size": 1182,
+        "wordcount": 51,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English De Tĳd - godsdienstig-staatkundig dagblad",
+        "timestamp": "2026-01-05T17:23:56Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 06-09-1864 (IA ddd 010398501 mpeg21).pdf",
+        "pageid": 109391389,
+        "size": 1143,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 06-09-1864 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T04:09:43Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:EUD 2001-426.pdf",
+        "pageid": 95615244,
+        "size": 935,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-05-28T06:44:42Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 28-06-1858 (IA ddd 010543901 mpeg21).pdf",
+        "pageid": 109480868,
+        "size": 1127,
+        "wordcount": 41,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 28-06-1858 Dutch",
+        "timestamp": "2025-09-25T00:36:45Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Middelburgsche courant 02-03-1844 (IA ddd 010272020 mpeg21).pdf",
+        "pageid": 109337608,
+        "size": 1158,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Middelburgsche courant 02-03-1844 Dutch",
+        "timestamp": "2025-09-22T11:26:04Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De Tĳd - godsdienstig-staatkundig dagblad 07-02-1857 (IA ddd 010251671 mpeg21).pdf",
+        "pageid": 109282896,
+        "size": 1182,
+        "wordcount": 51,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English De Tĳd - godsdienstig-staatkundig dagblad",
+        "timestamp": "2026-02-21T10:07:37Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 23-02-1861 (IA ddd 010545983 mpeg21).pdf",
+        "pageid": 109495063,
+        "size": 1126,
+        "wordcount": 47,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 23-02-1861 Dutch",
+        "timestamp": "2025-09-25T07:24:32Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 01-02-1848 (IA ddd 010395240 mpeg21).pdf",
+        "pageid": 109379287,
+        "size": 1130,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 01-02-1848 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T02:00:49Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Noord-Brabander 16-05-1844 (IA ddd 010175863 mpeg21).pdf",
+        "pageid": 109133785,
+        "size": 1147,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Noord-Brabander 16-05-1844 Dutch Noord-Brabander",
+        "timestamp": "2025-09-20T03:12:28Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Bredasche courant 11-04-1852 (IA ddd 010152863 mpeg21).pdf",
+        "pageid": 109091169,
+        "size": 1096,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Bredasche courant 11-04-1852 Dutch Bredasche",
+        "timestamp": "2025-10-08T22:52:10Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Leeuwarder courant 09-03-1838 (IA ddd 010582554 mpeg21).pdf",
+        "pageid": 109530673,
+        "size": 1147,
+        "wordcount": 45,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Leeuwarder courant 09-03-1838 Dutch Leeuwarder",
+        "timestamp": "2025-11-02T23:14:25Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 24-04-1860 (IA ddd 010397894 mpeg21).pdf",
+        "pageid": 109390833,
+        "size": 1130,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 24-04-1860 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T03:57:53Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 01-12-1860 (IA ddd 010398086 mpeg21).pdf",
+        "pageid": 109391326,
+        "size": 1131,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 01-12-1860 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T04:08:19Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdamsche courant 25-03-1830 (IA ddd 010392285 mpeg21).pdf",
+        "pageid": 109372890,
+        "size": 1130,
+        "wordcount": 39,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 25-03-1830 Dutch Rotterdamsche",
+        "timestamp": "2025-09-23T00:56:51Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Opregte Haarlemsche Courant 05-01-1854 (IA ddd 010515060 mpeg21).pdf",
+        "pageid": 109427842,
+        "size": 1125,
+        "wordcount": 47,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 05-01-1854 Dutch",
+        "timestamp": "2026-03-07T16:59:25Z"
+      }
+    ]
+  }
+}

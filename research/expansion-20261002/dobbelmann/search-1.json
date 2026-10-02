@@ -1,0 +1,28 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "searchinfo": {
+      "totalhits": 2
+    },
+    "search": [
+      {
+        "ns": 6,
+        "title": "File:Puin van verwoeste huizen aan het Groenendaal 1940.jpg",
+        "pageid": 110923756,
+        "size": 1075,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-05-28T15:27:42Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Model van suikerraffinaderij Van Oordt op hoek Hoogstraat - Groenendaal, objectnr 31891.JPG",
+        "pageid": 88687605,
+        "size": 1193,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-11-18T09:35:33Z"
+      }
+    ]
+  }
+}
