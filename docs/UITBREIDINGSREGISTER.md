@@ -192,3 +192,10 @@ AstaHoogstraat160 heeft twee AI-proeven; beide nog niet vrijgegeven door afwijke
 ## Tussenpublicatie op verzoek gebruiker — teller16
 
 De expliciet gevraagde menuzoekfunctie en historische watertint zijn live in262f64b, Pages37021549194. De reeds gecontroleerde Kaiser-toevoeging is meegepubliceerd en publiekgeverifieerd. Ronde4 daarmee éénvanvijf publiek; resterendevier volgen na bron-/modelcontrole. Backupcheckpoint20nog niet bereikt.
+
+### Asta — vervangende1930foto en gekozenAI
+
+Primaire SARregistratie XXIII-83-01/HDL24B8A0EB4E044F1BB1B5C127EC2EDAFE noemt SpaarnestadFotoarchief en PublicDomainMark1.0; parent onafhankelijk gelezen. Nieuwe AIproef op die bron geselecteerd; MASKED EMOTIONS en de prijsreeks60/60/50/40/30/25 gecontroleerd. Kleine buurletters/posterportretten blijven expliciet interpretatief. Betwiste1938bron en eerdereAIproeven niet publiceren. Voorbouwdraft en bronplaatsing bekeken; lokale integratie door subagent loopt. Geen nieuwe publieke toevoeging in deze stap; teller16.
+
+### Asta lokaal gecontroleerd
+Model, fotopaar en bronnen geïntegreerd alslocatie124. Parentbeeldreview en origineel/prompt-bytecontrole geslaagd, technischeenbrowserchecks geslaagd. Ronde4nu2modellen: Kaiserlive,Astaalleenlokaal. Publiekteller16,volledigebackupbij20blijftopen.

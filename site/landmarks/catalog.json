@@ -46053,5 +46053,351 @@
         "checkedAt": "2026-10-02"
       }
     ]
+  },
+  {
+    "id": "asta-hoogstraat",
+    "name": "Asta Theater",
+    "center": [
+      552.2951679618106,
+      364.0522431195832
+    ],
+    "angle": 0.263,
+    "polygon": [
+      [
+        549.0265970683297,
+        358.0282116451101
+      ],
+      [
+        558.0108478272903,
+        360.52067127210034
+      ],
+      [
+        555.5637388552925,
+        370.07627459405626
+      ],
+      [
+        546.5794880963319,
+        367.58381496706625
+      ]
+    ],
+    "modelSpec": {
+      "colors": {
+        "brick": "#82624b",
+        "stone": "#b8ad95",
+        "trim": "#c5baa1",
+        "roof": "#59594f",
+        "glass": "#43504e",
+        "dark": "#30332f"
+      },
+      "parts": [
+        {
+          "x": 0,
+          "z": 0,
+          "w": 9,
+          "d": 10,
+          "h": 15.7,
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 2.7,
+          "wall": "brick"
+        },
+        {
+          "x": 0,
+          "z": 5.09,
+          "w": 9,
+          "d": 0.24,
+          "h": 0.7,
+          "base": 0.0,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": 0,
+          "z": 5.09,
+          "w": 9,
+          "d": 0.24,
+          "h": 0.3,
+          "base": 3.85,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": 0,
+          "z": 5.09,
+          "w": 9,
+          "d": 0.24,
+          "h": 0.3,
+          "base": 12.1,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": 0,
+          "z": 5.09,
+          "w": 9.4,
+          "d": 0.24,
+          "h": 0.35,
+          "base": 15.575,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": -4.15,
+          "z": 5.08,
+          "w": 0.24,
+          "d": 0.22,
+          "h": 11.9,
+          "base": 0.7,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": -2.7,
+          "z": 5.08,
+          "w": 0.24,
+          "d": 0.22,
+          "h": 11.9,
+          "base": 0.7,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": 2.7,
+          "z": 5.08,
+          "w": 0.24,
+          "d": 0.22,
+          "h": 11.9,
+          "base": 0.7,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": 4.15,
+          "z": 5.08,
+          "w": 0.24,
+          "d": 0.22,
+          "h": 11.9,
+          "base": 0.7,
+          "windows": false,
+          "roof": "none",
+          "wall": "stone"
+        },
+        {
+          "x": 0,
+          "z": 5.29,
+          "w": 4.4,
+          "d": 0.16,
+          "h": 1.7,
+          "base": 4.25,
+          "windows": false,
+          "roof": "none",
+          "wall": "dark"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": 0,
+          "z": 5.15,
+          "y": 2,
+          "w": 4.4,
+          "h": 3.7,
+          "arched": false
+        },
+        {
+          "x": 0,
+          "z": 5.17,
+          "y": 8.4,
+          "w": 4.5,
+          "h": 7.4,
+          "arched": true
+        },
+        {
+          "x": -3.4,
+          "z": 5.16,
+          "y": 8.2,
+          "w": 0.7,
+          "h": 5.8,
+          "arched": false
+        },
+        {
+          "x": 3.4,
+          "z": 5.16,
+          "y": 8.2,
+          "w": 0.7,
+          "h": 5.8,
+          "arched": false
+        },
+        {
+          "x": -3.5,
+          "z": 5.16,
+          "y": 14.0,
+          "w": 0.85,
+          "h": 2.3,
+          "arched": false
+        },
+        {
+          "x": -1.75,
+          "z": 5.16,
+          "y": 14.0,
+          "w": 0.85,
+          "h": 2.3,
+          "arched": false
+        },
+        {
+          "x": 0,
+          "z": 5.16,
+          "y": 14.0,
+          "w": 0.85,
+          "h": 2.3,
+          "arched": false
+        },
+        {
+          "x": 1.75,
+          "z": 5.16,
+          "y": 14.0,
+          "w": 0.85,
+          "h": 2.3,
+          "arched": false
+        },
+        {
+          "x": 3.5,
+          "z": 5.16,
+          "y": 14.0,
+          "w": 0.85,
+          "h": 2.3,
+          "arched": false
+        }
+      ]
+    },
+    "modelFamily": "city32",
+    "modelWidth": 9,
+    "modelDepth": 10,
+    "height": 18.4,
+    "kind": "building",
+    "cameraDistance": 65,
+    "backgroundClearance": 0.5,
+    "placementStatus": "approximate-reconstruction",
+    "uncertaintyMeters": 20,
+    "placementNote": "Benaderde voorbouw aan de noordzijde van de historische Hoogstraat, oostelijk van de Korte Valkenstraat/Valkensteeg. Plaatsing circa 20 meter onzeker. Voorbouw circa 9 × 10 meter; maten en dakvolume zijn geschat uit fotoverhoudingen. De onbekende achterzaal is niet ingevuld. De Cinema Context-kaartpin ligt te noordelijk en is niet gebruikt.",
+    "description": "Asta Theater aan de Hoogstraat: een kleine buurtbioscoop achter een opvallende booggevel.",
+    "periodNote": "Gevelbeeld circa 1930. Het gebouw werd op 14 mei 1940 verwoest. Eerder heette deze bioscoop Tivoli; dit is een andere locatie dan Tivoli aan de Coolsingel.",
+    "colorNote": "De baksteen-, steen-, dak- en raamkleuren zijn een voorzichtige interpretatie van zwart-witfoto’s. Er is geen historische kleurenbron voor deze gevel vastgesteld.",
+    "story": "Aan de Hoogstraat 160 kon je voor een film terecht in een betrekkelijk kleine bioscoop met een opvallend hoge boog boven de ingang. Het theater was in 1914 als Tivoli geopend en kreeg in oktober 1922 de naam Asta. Het had volgens Joods Erfgoed Rotterdam 358 zitplaatsen. Directeur David Rosenberg woonde boven het theater. De foto uit 1930 laat zien hoe de bioscoop zich aan voorbijgangers presenteerde: grote filmaffiches naast de ingang en een uithangbord met verschillende toegangsprijzen. Op beide hoofdposters staat Masked Emotions. Op 14 mei 1940 werd Asta bij het bombardement verwoest. De vooroorlogse straatindeling verdween vervolgens vrijwel geheel. Dit model toont uitsluitend een vereenvoudigde voorbouw, met de grote boog, de smalle zijramen en de hogere vensterstrook. De precieze perceelgrens, maatvoering en achterzaal zijn onvoldoende bekend; de plaatsing heeft ongeveer 20 meter onzekerheid. De foto is een historische bron, de ingekleurde versie een AI-interpretatie. Kleine letters en postergezichten in die bewerking zijn niet betrouwbaar als historische details.",
+    "wikipediaUrl": "https://nl.wikipedia.org/wiki/Asta_(Rotterdam)",
+    "photos": [
+      {
+        "src": "landmarks/asta-hoogstraat/foto-1-origineel.jpg",
+        "ai": "landmarks/asta-hoogstraat/foto-1-ai.webp",
+        "aiMaster": "landmarks/asta-hoogstraat/foto-1-ai.png",
+        "title": "Asta Theater aan de Hoogstraat · 1930",
+        "shortTitle": "De ingang van Asta",
+        "date": "1930",
+        "author": "Spaarnestad Fotoarchief (SFA)",
+        "identifier": "Stadsarchief Rotterdam · 4202 · XXIII-83-01",
+        "license": "Publiek domein · Public Domain Mark 1.0 (Stadsarchief Rotterdam)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://hdl.handle.net/21.12133/24B8A0EB4E044F1BB1B5C127EC2EDAFE",
+        "archiveUrl": "https://hdl.handle.net/21.12133/24B8A0EB4E044F1BB1B5C127EC2EDAFE",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie van de originele foto, geen authentieke kleurenopname. Compositie en grote opschriften zijn behouden; kleine buurletters, onderste prijsregels en postergezichten zijn generatief geïnterpreteerd. Kleuren zijn niet bewezen. Het dak buiten het oorspronkelijke fotokader is niet aangevuld."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cinema Context · Asta, B000884",
+        "url": "https://www.cinemacontext.nl/id/B000884",
+        "supports": "Historisch adres Hoogstraat 160, opening oktober 1922 en einde op 14 mei 1940. De databasecoördinaat is niet als exact perceelbewijs gebruikt.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Joods Erfgoed Rotterdam · Bioscoop Asta",
+        "url": "https://www.joodserfgoedrotterdam.nl/bioscoop-asta/",
+        "supports": "358 zitplaatsen; David Rosenberg als directeur en bewoner boven het theater; verwoesting bij het bombardement van 14 mei 1940.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Cinema Context · Tivoli aan de Hoogstraat, B000954",
+        "url": "https://www.cinemacontext.nl/id/B000954",
+        "supports": "Voorloper van Asta aan de Hoogstraat; onderscheid met Tivoli aan de Coolsingel.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · Asta, Spaarnestad 1930",
+        "url": "https://hdl.handle.net/21.12133/24B8A0EB4E044F1BB1B5C127EC2EDAFE",
+        "supports": "Originele gevel- en entreefoto; datering 1930, maker Spaarnestad Fotoarchief, nummer XXIII-83-01 en expliciete Public Domain Mark 1.0.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · Hoogstraat en hoek Valkensteeg",
+        "url": "https://hdl.handle.net/21.12133/D7F7855B07844D279755FA9857A142FB",
+        "supports": "Beschrijving noemt Asta en de hoek met de Valkensteeg. Alleen gebruikt voor plaatsingsonderzoek; deze foto en betwiste AI-afgeleiden worden niet herpubliceerd.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · Gezicht in de Hoogstraat, 1938–1939",
+        "url": "https://hdl.handle.net/21.12133/7EE4E1D36D864609BFE64DAB9BE23349",
+        "supports": "Asta als derde pand linksvoor; referentie voor bovenverdieping en dakvolume. Alleen onderzoeksreferentie, niet als galerijfoto herpubliceerd.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchiefkaart · centrum vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Straatverband Hoogstraat, Korte Valkenstraat en Valkensteeg; benaderde voorbouwcontour, geen bewijs van een exact kadastraal perceel.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "exclusionPolygon": [
+      [
+        548.7689,
+        357.3401
+      ],
+      [
+        545.8534,
+        368.1691
+      ],
+      [
+        555.7992,
+        370.8469
+      ],
+      [
+        558.7147,
+        360.0178
+      ],
+      [
+        557.6522,
+        359.4362
+      ],
+      [
+        557.4372,
+        359.3783
+      ],
+      [
+        552.5366,
+        358.0589
+      ],
+      [
+        550.8468,
+        357.604
+      ],
+      [
+        549.9798,
+        357.3706
+      ]
+    ]
   }
 ]

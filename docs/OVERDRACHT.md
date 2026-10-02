@@ -227,3 +227,9 @@ Op expliciet verzoek vast menuzoekveld toegevoegd en lichtblauwe handgetraceerde
 ### Publicatie bevestigd — zoekveld/water
 
 Release262f64baddac537d66a01f284783d89c30ac25f8, GitHubPages37021549194 geslaagd. Tien publieke runtimebestanden anoniem bytegelijk gecontroleerd. Publieke browserchecks: zoeken desktop/mobiel, beide categorieën, cameraongewijzigd bijtypen, stickyveld, wissen, leegstaat en resultaatopenen geslaagd. Zes watervlakken zichtbaar ophistorischekaart en verborgen bij Nu/brandgrenskaart; geenJSfouten. Kaiserfotopaar/model eveneens publiekgeverifieerd. Uitbreidingsteller nu16; vierde ronde heeft nog4toevoegingen tegaan. Volledigebackup bij20.
+
+## Asta lokaal afgerond — ronde4 tweede model
+
+Catalog124; publieke teller blijft16 totdat resterende ronde wordt gepubliceerd. AstaHoogstraat160 is een9×10mvoorbouwstudie,18.4mhoog,20mplaatsingsonzekerheid. Achterzaal onbekend en niet ingevuld. Parent heeft modelpreview, kaartscreenshot, foto/AI en brontekst gecontroleerd; oorspronkelijkeSpaarnestad1930foto byte-identiek bewaard en prompt exact overgenomen. PrimaireSARlicentiePublicDomainMark1.0 zelfgelezen.
+
+De oudere1938foto/AI's niet publiceren wegens conflicterende rechten. Huidig geselecteerd1930paar bewaart hoofdtitelMASKED EMOTIONS en prijsreeks60/60/50/40/30/25; kleineletter-/portretdetails expliciet interpretatief. PassendeWikipediaAsta(Rotterdam) rechtstreeksgeverifieerd. Exports606triangles,94KBGLB; achtergrondgeclipt en geenoverlap. Agentbewijs round4-b/asta-integration-check.md:10checks en algemene/gerichte browserdesktopmobiel geslaagd. Noggeenpublicatieofcheckpoint20.
