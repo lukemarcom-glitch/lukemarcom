@@ -1,0 +1,208 @@
+{
+  "status": "research-draft-not-placed",
+  "id": "marx-bank-zuidblaak",
+  "name": "Marx & Co’s Bank — gevelstudie",
+  "modelFamily": "city33",
+  "center": [
+    89.3402489667551,
+    -69.73893499172505
+  ],
+  "angle": 3.431592653589793,
+  "height": 25,
+  "positionUncertaintyMeters": 20,
+  "mapPixel": [
+    3081,
+    2544
+  ],
+  "modelSpec": {
+    "colors": {
+      "brick": "#906a57",
+      "stone": "#bdb8aa",
+      "roof": "#535854",
+      "trim": "#d0c9b7",
+      "glass": "#4c5c5e",
+      "dark": "#343731"
+    },
+    "parts": [
+      {
+        "w": 27,
+        "d": 12,
+        "h": 15,
+        "roof": "flat",
+        "windows": false
+      },
+      {
+        "w": 27,
+        "d": 4.8,
+        "z": 3.6,
+        "base": 15,
+        "h": 0.1,
+        "roof": "hip",
+        "roofHeight": 3.8,
+        "windows": false
+      },
+      {
+        "x": 8,
+        "z": 3.4,
+        "w": 5.1,
+        "d": 5.2,
+        "base": 15,
+        "h": 3.4,
+        "roof": "hip",
+        "roofHeight": 2.5,
+        "windows": false
+      },
+      {
+        "x": -11.5,
+        "z": 3.4,
+        "w": 3.5,
+        "d": 3.5,
+        "base": 15,
+        "h": 3.5,
+        "roof": "none",
+        "windows": false
+      }
+    ],
+    "facadeWindows": [
+      {
+        "x": -8,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -8,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -8,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -4,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -4,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -4,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 0,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 0,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 0,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 4,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 4,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 4,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 8,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 8,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": 8,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      }
+    ],
+    "accents": [
+      {
+        "z": 6.08,
+        "y": 5.7,
+        "w": 27,
+        "d": 0.18,
+        "h": 0.24,
+        "material": "stone"
+      },
+      {
+        "z": 6.08,
+        "y": 9.8,
+        "w": 27,
+        "d": 0.18,
+        "h": 0.24,
+        "material": "stone"
+      },
+      {
+        "z": 6.08,
+        "y": 14.8,
+        "w": 27,
+        "d": 0.18,
+        "h": 0.24,
+        "material": "stone"
+      }
+    ]
+  },
+  "notes": [
+    "Alleen voorste bouwmassa. Achtervleugels/binnenplaats niet geraden.",
+    "Voorkant kijkt noordwaarts; lokale x positief verschijnt links in frontaal beeld.",
+    "Gekromde koepel nog niet gemodelleerd: bestaande conische toren is geen passende vervanging.",
+    "Afmetingen uit kaart/foto benaderd, geen opmetingen.",
+    "Bronfoto1908–1912; luchtfoto1924 toont dezelfde voorste dakkapel/koepel met plat achterdak. Geen verbouwing bewezen.",
+    "Plaatsingskandidaat perceel33 op kaart; nog niet vrijgegeven voor runtime."
+  ]
+}

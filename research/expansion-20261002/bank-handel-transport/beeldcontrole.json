@@ -11,5 +11,17 @@
     "Extra scherpe figuren en winkelinterieurs links zijn niet uit de bron te onderbouwen.",
     "Baksteen- en steenkleuren zijn interpretatief; geen betrouwbare kleurbron gevonden."
   ],
-  "next": "Gerichte correctie met origineel als hoofdreferentie; geen catalogus/publicatie vóór hercontrole."
+  "next": "Gerichte correctie met origineel als hoofdreferentie; geen catalogus/publicatie vóór hercontrole.",
+  "trials": [
+    {
+      "file": "ai-proef-02.png",
+      "status": "rejected",
+      "reason": "Behoudt te veel verzonnen details van eerste proef; pseudoletters en figuren."
+    },
+    {
+      "file": "ai-proef-03.png",
+      "status": "candidate-needs-final-review",
+      "reason": "Zachtere restauratie en geen scherpe toegevoegde figuren; kleine tekst blijft niet als transcriptie bruikbaar. Scheepsdetails en buren nog vergelijken."
+    }
+  ]
 }
