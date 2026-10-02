@@ -214,3 +214,10 @@ Alle nieuwe kandidaten vereisen pandgebonden bewijs van verlies bij bombardement
 ## Ronde 5 — lokaal afgerond, publicatiecontrole volgt
 
 Nieuwehaven89 (2fotoparen), Meyer&Blessing Noordblaak (1), Spinolahuis (1), Corso Coolsingel (1) en Meddens Hoogstraat (1). Alle vijf hebben specifiek verliesbewijs mei1940, gecontroleerde historische plaatsing, model/GLB/Blend, originele beelden en afzonderlijke AI-interpretaties. Meddensgalerie1903 toont bewust toestand vóór1929puiwijziging; model volgtlaterepui. Benaderingen blijveninpaneltoegelicht. Totaal132locaties/18verhalen lokaal. Volgende backup bij30gepubliceerde toevoegingen; laatste backup20 blijft ongewijzigd.
+
+
+## Ronde 5 openbaar gecontroleerd — 25 toevoegingen
+
+Release `16706314b8bc5896d245c290650963e92d6876ca` is gepubliceerd. GitHub Pages-run `37049974522` en Check project `37049974351` zijn geslaagd. Alle 21 gecontroleerde openbare bestanden (app, catalogus, achtergrond, vijf GLB’s en zes originele/AI-fotoparen) zijn bytegelijk aan lokaal; zie `VERIFICATIE-UITBREIDING-20261002-R5.json`. Anonieme browsercontrole op rdam39.nl met Meddens: 132 locaties, 18 verhalen, fotoparen/lichtbak, Nu 3D en mobiele weergave geslaagd, geen browser-/laadfouten of horizontale overflow. Mobiele lichtbak visueel bekeken.
+
+Vijf nieuwe locaties: Koopmanshuis Nieuwehaven 89, Meyer & Blessing Noordblaak, Spinolahuis, Corso Coolsingel en Meddens Hoogstraat. Samen zes origineel/AI-paren. De modellen en kleuren blijven onderbouwde benaderingen met zichtbare onzekerheden. Meddensfoto1903 is expliciet vóór de puiwijziging1929. Voltooide uitbreidingsteller:25. Laatste versieback-up blijft checkpoint20; de volgende volgt na vijf verdere gepubliceerde toevoegingen bij30. Ronde6 is onderzoek, nog geen nieuwe locaties of claim dat alle mogelijkheden zijn uitgeput.

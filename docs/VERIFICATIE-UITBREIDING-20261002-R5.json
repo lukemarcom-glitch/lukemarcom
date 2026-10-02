@@ -1,0 +1,136 @@
+{
+  "checkedAt": "2026-10-02T18:54:47.585Z",
+  "releaseCommit": "16706314b8bc5896d245c290650963e92d6876ca",
+  "pagesRun": "37049974522",
+  "completedAdditions": 25,
+  "buildings": 132,
+  "ids": [
+    "koopmanshuis-nieuwehaven89",
+    "meyer-blessing-noordblaak",
+    "spinolahuis",
+    "corso-coolsingel",
+    "meddens-hoogstraat"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "6d79a2bc956db18136d98ebbdf8200d49c5f64ee938e27e635e663ed77fdfcb8",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "4f49bf2c6e4f2a3c61dbbd5959c164ffd6da462ff84ecad81b9e5dc18ccd8692",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "e1ba0a1eeee33438f7396060e1d838b849fb54732e8ada0b7f4f085e94988bad",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "5653dbbcec1f4b86d7fd5707164b3ce9455fed654c3329861f50683ffc618b67",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven89/model.glb",
+      "sha256": "701c49bcd7f20c3e479b912fe5182097d72ed68ca3a358e6a0dfbf1f7c9f953e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven89/foto-1-origineel.jpg",
+      "sha256": "44aa4c75a2b8fbcb2df5098594e76cea0c9d9e83f50819c708e68a52bd40cfe7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven89/foto-1-ai.webp",
+      "sha256": "563b39397b7812a77c3f0fefd3fa7fe44d8a166a9daa00bce8f99cb2682db2fe",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven89/foto-2-origineel.jpg",
+      "sha256": "7c260fef3afe5e56752fe44d5fbb8db8c5a5c3db18f52f407366af8841552499",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven89/foto-2-ai.webp",
+      "sha256": "a1885cc771141aa076c762fd7c4b2c0cb427e98319ec2aed85ea8f5afcf0c86c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meyer-blessing-noordblaak/model.glb",
+      "sha256": "e1aa285f0ab3e0bcd30f87de4f7e8702c03b18147720ed627a438336266f962b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meyer-blessing-noordblaak/foto-1-origineel.jpg",
+      "sha256": "f745bd681fa16e9e6caf68af7df550e3579a1b3d7cf3d256ac077629a333e4d1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meyer-blessing-noordblaak/foto-1-ai.webp",
+      "sha256": "6dadaf4c286b1061a8e756d550eef54efadf60c4319b9d374132d9dc8854a217",
+      "identical": true
+    },
+    {
+      "path": "landmarks/spinolahuis/model.glb",
+      "sha256": "cc9c56cb367e7b8f91596384c5d72336e9558cc686f42f2382ba5be61f266b17",
+      "identical": true
+    },
+    {
+      "path": "landmarks/spinolahuis/foto-1-origineel.jpg",
+      "sha256": "c1a4bb22545e2f4ea9ef470c4bfaf409feb73ae5b974c72d7312a4106a3d13b0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/spinolahuis/foto-1-ai.webp",
+      "sha256": "856db28195b8c4d7884267177becbbca861ab840e2b05b1da7e0fca5b4c3e424",
+      "identical": true
+    },
+    {
+      "path": "landmarks/corso-coolsingel/model.glb",
+      "sha256": "dab8dec8a7387ba626dbf67cb53a48663847001fadc20e5680b70310117ea9b6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/corso-coolsingel/foto-1-origineel.jpg",
+      "sha256": "bb78060e1c52a03674f7b4bbf0247a1f324c044f6ced38910bc37c7f8ad33d9e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/corso-coolsingel/foto-1-ai.webp",
+      "sha256": "19d3e01f437e14179be8e410c491831c73455e28c80ba04ef52627385e318d70",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meddens-hoogstraat/model.glb",
+      "sha256": "71561126937809defd893fdc14ae0f3d1af575b325b362d6757879bb68fc6975",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meddens-hoogstraat/foto-1-origineel.jpg",
+      "sha256": "59a14c1b6deed1394a8554eaf73e799d8cabced672d220f6ce58d46f78e422c9",
+      "identical": true
+    },
+    {
+      "path": "landmarks/meddens-hoogstraat/foto-1-ai.webp",
+      "sha256": "673bbd907497d8f9de4dcfc87e08d76ea7ff55cc003a670046f16b5eb504d699",
+      "identical": true
+    }
+  ],
+  "browser": {
+    "base": "https://rdam39.nl/",
+    "buildings": 132,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "mobileScreenshotReviewed": true
+}
