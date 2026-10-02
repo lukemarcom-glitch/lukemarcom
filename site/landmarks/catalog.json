@@ -97630,5 +97630,940 @@
         126.12225964227514
       ]
     ]
+  },
+  {
+    "id": "rusthuis-haringvliet",
+    "name": "Rusthuis Haringvliet 50",
+    "modelFamily": "city33",
+    "modelWidth": 12.69041942656077,
+    "modelDepth": 11.445212063420671,
+    "height": 14.6,
+    "center": [
+      781.7544523706503,
+      105.08267280072045
+    ],
+    "angle": 3.667853391177892,
+    "polygon": [
+      [
+        784.3666150226967,
+        113.21818215041263
+      ],
+      [
+        773.3933190403167,
+        106.84373939005205
+      ],
+      [
+        779.1422897186038,
+        96.94716345102826
+      ],
+      [
+        790.1155857009838,
+        103.32160621138884
+      ]
+    ],
+    "uncertaintyMeters": 10,
+    "modelSpec": {
+      "colors": {
+        "brick": "#785b48",
+        "stone": "#b8b2a4",
+        "trim": "#d7d0bd",
+        "roof": "#585954",
+        "glass": "#536260",
+        "dark": "#353c35"
+      },
+      "parts": [
+        {
+          "w": 12.69041942656077,
+          "d": 11.445212063420671,
+          "h": 12.4,
+          "windows": false,
+          "roof": "flat",
+          "wall": "brick"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -4.822359382093093,
+          "y": 4.4,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.9
+        },
+        {
+          "x": -4.822359382093093,
+          "y": 8.15,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.45
+        },
+        {
+          "x": -4.822359382093093,
+          "y": 10.9,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 1.55
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 4.4,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.9
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 8.15,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.45
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 10.9,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 1.55
+        },
+        {
+          "x": 0.0,
+          "y": 8.15,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.45
+        },
+        {
+          "x": 0.0,
+          "y": 10.9,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 1.55
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 4.4,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.9
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 8.15,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.45
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 10.9,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 1.55
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 4.4,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.9
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 8.15,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 2.45
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 10.9,
+          "z": 5.772606031710335,
+          "w": 1.5228503311872923,
+          "h": 1.55
+        }
+      ],
+      "accents": [
+        {
+          "x": -4.822359382093093,
+          "y": 6.03,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": -4.822359382093093,
+          "y": 9.555,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": -4.822359382093093,
+          "y": 11.855,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": -4.822359382093093,
+          "y": 0.85,
+          "z": 5.782606031710335,
+          "w": 1.269041942656077,
+          "h": 0.95,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 6.03,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 9.555,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 11.855,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": -2.4111796910465464,
+          "y": 0.85,
+          "z": 5.782606031710335,
+          "w": 1.269041942656077,
+          "h": 0.95,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 0.0,
+          "y": 9.555,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 0.0,
+          "y": 11.855,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 6.03,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 9.555,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 11.855,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 2.4111796910465464,
+          "y": 0.85,
+          "z": 5.782606031710335,
+          "w": 1.269041942656077,
+          "h": 0.95,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 6.03,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 9.555,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 11.855,
+          "z": 5.912606031710336,
+          "w": 1.9035629139841153,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "stone"
+        },
+        {
+          "x": 4.822359382093093,
+          "y": 0.85,
+          "z": 5.782606031710335,
+          "w": 1.269041942656077,
+          "h": 0.95,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 0,
+          "y": 1.25,
+          "z": 5.737606031710335,
+          "w": 12.69041942656077,
+          "h": 2.5,
+          "d": 0.06,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 0.87,
+          "z": 5.792606031710336,
+          "w": 0.86,
+          "h": 1.7,
+          "d": 0.12,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 4.32,
+          "z": 5.832606031710336,
+          "w": 1.65,
+          "h": 3.0,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": -0.9,
+          "y": 4.3,
+          "z": 5.952606031710336,
+          "w": 0.2,
+          "h": 3.5,
+          "d": 0.27,
+          "material": "stone"
+        },
+        {
+          "x": 0.9,
+          "y": 4.3,
+          "z": 5.952606031710336,
+          "w": 0.2,
+          "h": 3.5,
+          "d": 0.27,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 6.14,
+          "z": 5.942606031710335,
+          "w": 2.2,
+          "h": 0.24,
+          "d": 0.42,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 5.45,
+          "z": 5.922606031710336,
+          "w": 1.5,
+          "h": 0.5,
+          "d": 0.12,
+          "material": "glass"
+        },
+        {
+          "x": 0,
+          "y": 4.05,
+          "z": 5.962606031710336,
+          "w": 0.07,
+          "h": 2.35,
+          "d": 0.08,
+          "material": "stone"
+        },
+        {
+          "x": -1.0406143929779832,
+          "y": 8.1,
+          "z": 5.9726060317103356,
+          "w": 0.18,
+          "h": 2.75,
+          "d": 0.26,
+          "material": "stone"
+        },
+        {
+          "x": 1.0406143929779832,
+          "y": 8.1,
+          "z": 5.9726060317103356,
+          "w": 0.18,
+          "h": 2.75,
+          "d": 0.26,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 6.61,
+          "z": 5.962606031710336,
+          "w": 2.4111796910465464,
+          "h": 0.16,
+          "d": 0.3,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 7.05,
+          "z": 5.962606031710336,
+          "w": 2.4111796910465464,
+          "h": 0.16,
+          "d": 0.3,
+          "material": "stone"
+        },
+        {
+          "x": -0.7,
+          "y": 6.83,
+          "z": 5.9726060317103356,
+          "w": 0.08,
+          "h": 0.38,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": -0.35,
+          "y": 6.83,
+          "z": 5.9726060317103356,
+          "w": 0.08,
+          "h": 0.38,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 6.83,
+          "z": 5.9726060317103356,
+          "w": 0.08,
+          "h": 0.38,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0.35,
+          "y": 6.83,
+          "z": 5.9726060317103356,
+          "w": 0.08,
+          "h": 0.38,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0.7,
+          "y": 6.83,
+          "z": 5.9726060317103356,
+          "w": 0.08,
+          "h": 0.38,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 2.31,
+          "z": 6.502606031710336,
+          "w": 2.0,
+          "h": 0.22,
+          "d": 1.5,
+          "material": "stone"
+        },
+        {
+          "x": -3.25,
+          "y": 0.14,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 0.28,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -3.25,
+          "y": 0.73,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": -2.94,
+          "y": 0.28,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 0.56,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -2.63,
+          "y": 0.42000000000000004,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 0.8400000000000001,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -2.63,
+          "y": 1.29,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": -2.3200000000000003,
+          "y": 0.56,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.12,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -2.01,
+          "y": 0.7000000000000001,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.4000000000000001,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -2.01,
+          "y": 1.85,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": -1.7,
+          "y": 0.8400000000000001,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.6800000000000002,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -1.3900000000000001,
+          "y": 0.9800000000000001,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.9600000000000002,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -1.3900000000000001,
+          "y": 2.41,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": -1.08,
+          "y": 1.12,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 2.24,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 3.25,
+          "y": 0.14,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 0.28,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 3.25,
+          "y": 0.73,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": 2.94,
+          "y": 0.28,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 0.56,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 2.63,
+          "y": 0.42000000000000004,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 0.8400000000000001,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 2.63,
+          "y": 1.29,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": 2.3200000000000003,
+          "y": 0.56,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.12,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 2.01,
+          "y": 0.7000000000000001,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.4000000000000001,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 2.01,
+          "y": 1.85,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": 1.7,
+          "y": 0.8400000000000001,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.6800000000000002,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 1.3900000000000001,
+          "y": 0.9800000000000001,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 1.9600000000000002,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": 1.3900000000000001,
+          "y": 2.41,
+          "z": 7.002606031710336,
+          "w": 0.05,
+          "h": 0.9,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": 1.08,
+          "y": 1.12,
+          "z": 6.442606031710335,
+          "w": 0.33,
+          "h": 2.24,
+          "d": 1.3,
+          "material": "stone"
+        },
+        {
+          "x": -0.95,
+          "y": 2.85,
+          "z": 7.002606031710336,
+          "w": 0.06,
+          "h": 1.1,
+          "d": 0.06,
+          "material": "dark"
+        },
+        {
+          "x": 0.95,
+          "y": 2.85,
+          "z": 7.002606031710336,
+          "w": 0.06,
+          "h": 1.1,
+          "d": 0.06,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.36,
+          "z": 7.002606031710336,
+          "w": 1.95,
+          "h": 0.07,
+          "d": 0.07,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.55,
+          "z": 5.8926060317103355,
+          "w": 12.83041942656077,
+          "h": 0.18,
+          "d": 0.26,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 6.35,
+          "z": 5.8926060317103355,
+          "w": 12.83041942656077,
+          "h": 0.2,
+          "d": 0.29,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 12.2,
+          "z": 5.8926060317103355,
+          "w": 12.83041942656077,
+          "h": 0.26,
+          "d": 0.42,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 12.48,
+          "z": 5.8926060317103355,
+          "w": 12.83041942656077,
+          "h": 0.17,
+          "d": 0.6,
+          "material": "stone"
+        }
+      ],
+      "columns": [],
+      "facadeReliefs": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 6.9726060317103356,
+          "depth": 0.06,
+          "material": "dark",
+          "outline": [
+            [
+              -3.4,
+              0.75
+            ],
+            [
+              -1.0,
+              3.13
+            ],
+            [
+              -1.0,
+              3.23
+            ],
+            [
+              -3.4,
+              0.85
+            ]
+          ]
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 6.9726060317103356,
+          "depth": 0.06,
+          "material": "dark",
+          "outline": [
+            [
+              3.4,
+              0.75
+            ],
+            [
+              1.0,
+              3.13
+            ],
+            [
+              1.0,
+              3.23
+            ],
+            [
+              3.4,
+              0.85
+            ]
+          ]
+        },
+        {
+          "x": 0,
+          "y": 12.52,
+          "z": 5.842606031710336,
+          "depth": 0.2,
+          "material": "stone",
+          "outline": [
+            [
+              -4.568550993561876,
+              0
+            ],
+            [
+              4.568550993561876,
+              0
+            ],
+            [
+              0,
+              2.05
+            ]
+          ]
+        },
+        {
+          "x": 0,
+          "y": 12.67,
+          "z": 6.062606031710335,
+          "depth": 0.05,
+          "material": "brick",
+          "outline": [
+            [
+              -3.553317439437016,
+              0
+            ],
+            [
+              3.553317439437016,
+              0
+            ],
+            [
+              0,
+              1.52
+            ]
+          ]
+        }
+      ]
+    },
+    "placementNote": "Nummer 50, Z18 perceel 503. Alleen voorbouw tot binnenhof. Plaats onzeker 10 m; hoogte 12.4 m en fronton circa 2 m foto-afgeleid. Geen bewezen dakvorm: neutrale afsluiting achter fronton. Kleuren materiaalinterpretatie zonder exacte verfbron.",
+    "kind": "building",
+    "cameraDistance": 78,
+    "backgroundClearance": 0.3,
+    "placementStatus": "approximate-reconstruction",
+    "description": "Een verdwenen rusthuis met een dubbele bordestrap, waar vijftig bewoners op 14 mei 1940 werden gered.",
+    "periodNote": "Vooroorlogs gereformeerd rusthuis aan Haringvliet 50; bij het bombardement van 14 mei 1940 door brand verwoest.",
+    "colorNote": "Bruin metselwerk, lichte omlijstingen en een donkere deur zijn materiaalinterpretaties. De zwart-witfoto toont structuur en toonverschil, geen exacte verfkleuren. Er is geen zelfstandige historische kleurbron gevonden.",
+    "wikipediaNote": "De jubileumuitgave van de zorginstelling en de directe archiefregistratie behandelen dit specifieke verdwenen rusthuis.",
+    "story": "Achter de voorname gevel van Haringvliet 50 woonde een groep ouderen. Het gereformeerde Rusthuis voor ouden van dagen had een dubbele bordestrap en hoge ramen: een herenhuis dat een zorgfunctie had gekregen. Op 14 mei 1940 moesten vijftig bewoners voor het bombardement vluchten. Het beheerdersechtpaar Den Hollander hielp hen naar veiligheid; volgens de geschiedenis van de instelling werden alle bewoners gered. De Gereformeerde Kerkbode van 25 mei 1940 prees de moed van de huisvader en huismoeder. Een volgend bericht beschreef hoe het tehuis en de inrichting volledig door brand waren verwoest. Bewoners en beheerders vonden onderdak in het gereformeerde weeshuis. Kerkleden zamelden geld, beddengoed en andere benodigdheden in. Dit verhaal staat in de jubileumuitgave Van Rusthuis tot Atrium, die de toenmalige kerkberichten aanhaalt. Het model toont alleen de voorbouw vóór het binnenhof. Achterbebouwing en onzichtbare dakvorm zijn niet gereconstrueerd; afmetingen en kleuren blijven benaderingen.",
+    "sources": [
+      {
+        "title": "Van Rusthuis tot Atrium · jubileumuitgave, pagina 7",
+        "url": "https://chaverimpax.nl/wp-content/uploads/2023/01/Van-rusthuis-tot-Atrium-100-jaar-christelijke-zorg-in-Rotterdam-Centrum.pdf#page=7",
+        "supports": "Exact adres Haringvliet 50, bombardement op 14 mei 1940, redding van vijftig bewoners door het echtpaar Den Hollander, volledige brandverwoesting, opvang en inzameling. Publicatie citeert Gereformeerde Kerkbode van 25 mei 1940 en een volgend bericht; de oorspronkelijke kerkbladscan is hier niet zelfstandig gecontroleerd.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Chaverim Pax · geschiedenis van Atrium",
+        "url": "https://chaverimpax.nl/atrium-geschiedenis/",
+        "supports": "Geschiedenis van de zorginstelling: tehuis aan Haringvliet in mei 1940 verwoest; latere herhuisvesting. Voor nummer 50 en de precieze datum verwijzen we naar de jubileumuitgave.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · Haringvliet 50, XXV-302-05",
+        "url": "https://proxy.archieven.nl/0/8493D86D79B642FBBF81620356CADDF7",
+        "supports": "Vrije frontale opname met vijf vensterassen, bordestrap en kelderdeur. PDM 1.0. Opnamedatering 1938–1942 en toeschrijving aan Cornelis Hoogendijk (overleden 1911) zijn tegenstrijdig.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · Haringvliet 46–50, XXV-301, 1933",
+        "url": "https://proxy.archieven.nl/0/118943BFA50C48F4A5C325704A9408A7",
+        "supports": "Aanvullend straatbeeld van R. Leenheer met het driehoekige fronton van nummer 50 en de pandvolgorde 46, 48, 50.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · historische huisnummerkaart Z18",
+        "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=299&miadt=184&miaet=14&micode=4001&minr=39548359&miview=ldt",
+        "supports": "Nummer 50 op perceel 503, tussen 48 en 52; bordes en binnenhof herkenbaar. Basis voor benaderde plaatsing, geen moderne adresgeocode.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "src": "landmarks/rusthuis-haringvliet/foto-1-origineel.jpg",
+        "ai": "landmarks/rusthuis-haringvliet/foto-1-ai.webp",
+        "aiMaster": "landmarks/rusthuis-haringvliet/foto-1-ai.png",
+        "title": "Rusthuis Haringvliet 50 · bordestrap en gevel",
+        "shortTitle": "Bordes en voorgevel",
+        "date": "Vooroorlogs; precieze opnamedatum onzeker",
+        "author": "Volgens archief Cornelis Hoogendijk (1866–1911); toeschrijving botst met archiefdatering",
+        "identifier": "Stadsarchief Rotterdam 4202 / XXV-302-05",
+        "license": "Public Domain Mark 1.0 volgens Stadsarchief Rotterdam.",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://proxy.archieven.nl/0/8493D86D79B642FBBF81620356CADDF7",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Afzonderlijke AI-bewerking met geïnterpreteerde materiaalkleuren. Het archief dateert de foto 1938–1942 maar noemt een maker die in 1911 overleed: datum en toeschrijving zijn dus onzeker. Geen bewezen beeld van precies 1939. Details van steenwerk, gordijnen en kleine opschriften kunnen afwijken."
+      }
+    ],
+    "exclusionPolygon": [
+      [
+        783.613159693984,
+        114.51521918443845
+      ],
+      [
+        772.639863711604,
+        108.14077642407787
+      ],
+      [
+        779.1422897186038,
+        96.94716345102826
+      ],
+      [
+        790.1155857009838,
+        103.32160621138884
+      ]
+    ]
   }
 ]
