@@ -14,6 +14,8 @@ Lees eerst `README.md`, `docs/OVERDRACHT.md` en voor je taak `docs/ONTWIKKELEN.m
 
 ## Historische inhoud
 
+- Nieuwe toevoegingen aan de lopende uitbreidingsrondes moeten aantoonbaar verloren zijn gegaan door het bombardement van 14 mei 1940 of de daaropvolgende brand. Leg daarvoor een directe bron en ondersteunde passage vast vóór modelbouw. Overlevende gebouwen en later gesloopte panden zijn geen vervanging voor deze selectie; reeds opgenomen herkenningspunten blijven behouden.
+
 - Controleer plaats, datum en beeldrechten bij betrouwbare bronnen. Moderne adressen of monumentposities zijn geen bewijs van een historische gebeurtenislocatie.
 - Maak bewezen feiten, aannames en onzekerheden herkenbaar. Kleuren onderbouwen met materiaalbeschrijvingen/kleurbronnen; geen zekerheid afleiden uit zwart-witfoto's of AI.
 - Bewaar het origineel ongewijzigd. De AI-versie is een aparte, gelabelde interpretatie met bron en prompt; geen historisch bewijs. Bij voorkeur hele gebouw in beeld, details als aanvulling.

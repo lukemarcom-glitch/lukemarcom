@@ -206,3 +206,7 @@ Model, fotopaar en bronnen geïntegreerd alslocatie124. Parentbeeldreview en ori
 Cineac en Koopmanshuis Nieuwehaven59 toegevoegd als locaties125 en126, in commitcc7e31c. Cineac2fotoparen (entree enluchtfoto), Nieuwehaven59 ééngevelpaar. Primairehuisnummerkaarten1938 ondersteunenplaatsing, oorspronkelijkeplaatsingsonzekerheden10mblijvenzichtbaar. Modellenexport/enoverlapvrij, 10checks engerichtebrowsercontrolesgoed. Algemene browsercontrole126/18 eveneens foutloos. Noggeenpush/publicatie; publieketellerblijft16.
 
 Heck'sCityLunchroomNoordblaak71 vervangtvoorlopigVanRossem alsvijfdeinronde4. Tweeoud/AIparen voorbereid, herkenbareopschriftengecontroleerd. PlaatsinghoekZijlwatersteeg opkaart1938+foto, circa6monzeker; modelintegratieinuitvoering. Backupcheckpoint20pasna afgerondepublicatieenpubliekeverificatie.
+
+## Ronde 5 — aangescherpte selectie (in onderzoek)
+
+Alle nieuwe kandidaten vereisen pandgebonden bewijs van verlies bij bombardement/brand in mei1940. Bestaande Schielandshuis/Erasmushuis blijven staan maar tellen niet als nieuwe kandidaten. Nieuwehaven89: RCEfoto20192314 april1933, CC BY-SA4; Boijmansjaarverslag1940 pp2–4 beschrijft berging na14mei en noemt gevelstukken89 uithetpuin. Historische plaatsing wordt afzonderlijk getoetst; nog niet in runtime. Meyer&Blessing: aanvullende broncontrole loopt. Geen nieuwe locatie als afgerond tellen vóór bron/beeld/model/plaatsing/browsertest en publicatiecontrole.
