@@ -325,3 +325,18 @@ Galeries Modernes: primaire heropeningsadvertentie26okt1933 bevestigt **Hoogstra
 Notarishuis: scherpegeheleRCEgevel20192025, C.Hoogendijk,CCBYSA4.0gevonden. Origineelongewijzigd, builtinAIproefmetexactpromptopgeslageninround6-b. Verheul1935kleurreferentiepersoonlijkbekeken:roodbruinegevel,lichtesteen,donkeredeur. Zijmuurreclametekst onzeker, geenexactemerknaamverzinnen. Adres24op1938Z12bevestigd; mogelijkeconflictmetbestaandeLeeskabinetplaatsingwordtgecontroleerdvoorintegratie. Geenclaimvandefinitievepositie.
 
 Nogsteeds132live/25uitbreidingen. Geenbackuppunt30bereikt. Brononderzoek/AIproeven enmodellen zijn tussentijdseresearch, geenpubliekevoltooidegebouwen.
+
+
+### 2026-10-02 — Notarishuis en correctie Leeskabinet (lokaal)
+
+Notarishuis Geldersekade 24 toegevoegd met RCE20192025 origineel/AI-paar (CC BY-SA 4.0), kleurondersteuning Verheul1935, expliciet bewijs bombardementsbrand14mei1940. Leeskabinet gecorrigeerd naar historisch Gelderschekade18/perceel1644 (brief1905 en kadaster1938Z12); het stond eerder ongeveer bij Notarishuis24. Gevelbreedte en alle x-posities/ornamenten proportioneel aangepast. Beide posities circa8m onzeker; achterzalen en hoogten blijven benaderingen. Research: expansion-20261002/round6-b/LEESKABINET-CORRECTIE-EN-NOTARISDRAFT.md. Volledige meshprojecties opnieuw bepaald: beide geen overlap met andere modellen; achtergrond opnieuw uitgesneden, beide GLB's via Blender vernieuwd. Geen publicatie door deze subtak.
+
+### Actuele ronde 6 — twee toevoegingen lokaal, openbare versie nog ronde 5
+
+Galeries Modernes en Notarishuis staan lokaal in de catalogus: 134 locaties, 18 verhalen, 286 fotovermeldingen en 266 fotoparen. Galeries heeft alleen het goedgekeurde PBK-3146-paar; andere AI-proeven zijn niet opgenomen. De definitieve Galeries-gevel draait naar de Hoogstraat (hoek 0,228856 radiaal); de oorspronkelijke draft had een verkeerd rotatieteken. GLB en Blenderbestand zijn aanwezig. Parent heeft mobiele Galeries-galerie en live Notaris/Leeskabinetbeelden bekeken. De bronbrief van 18 mei 1905 is zelfstandig gecontroleerd: adreskop Gelderschekade No.18, afgedrukt op p.155 (vervolg p.156). Laatste gecombineerde `npm run check`: nul fouten, 10/10 tests. Gerichte browsercontroles van beide toevoegingen en algemene desktop/mobielcontrole zijn geslaagd.
+
+Groote Concertzaal, Bierstraat 11: twee CC0-straatfoto's van F.H. van Dijk uit 1929 gevonden; eerste AI-paar geselecteerd in `research/expansion-20261002/groote-concertzaal/BEELDCONTROLE.json`, met opgeslagen prompt. Tweede AI-paar niet geselecteerd: tekstcorrectie veranderde ook hekwerk. Dit pand was in 1929 een handelsgebouw van Houtzager & Co, geen actieve concertzaal. Verlies op 14 mei 1940 bevestigd in de Waterstadgenootschap-folder. Voorgevelmodel en plaatsingsdraft klaar, maar dakvorm/achterbouw moeten nog op luchtbeelden worden gecontroleerd. Exacte bouwjaren conflicteren tussen bronnen; voorlopig alleen begin negentiende eeuw noemen. Geen runtime-integratie van deze kandidaat.
+
+Ter Meulen: vrije straatfoto, twee luchtfoto's en huisnummerkaart Z16 beschikbaar; winkelidentificatie op het blok nog in onderzoek. Maasbode blijft reserve wegens onzekere dakopbouw. Drie Kolommen heeft sterke bouwtekening/materialenbron maar nog geen voldoende geïdentificeerd vrij fotopaar; niet omzetten naar een tekeningen-only toevoeging.
+
+Deze lokale wijzigingen zijn nog niet gepubliceerd en vormen geen nieuw back-upcheckpoint. Openbaar blijft de geverifieerde ronde 5 met 132 locaties/25 toevoegingen. Volgende volledige ronde vereist nog drie toevoegingen; back-upcheckpoint 30 pas na publicatie en controle daarvan.
