@@ -340,3 +340,12 @@ Groote Concertzaal, Bierstraat 11: twee CC0-straatfoto's van F.H. van Dijk uit 1
 Ter Meulen: vrije straatfoto, twee luchtfoto's en huisnummerkaart Z16 beschikbaar; winkelidentificatie op het blok nog in onderzoek. Maasbode blijft reserve wegens onzekere dakopbouw. Drie Kolommen heeft sterke bouwtekening/materialenbron maar nog geen voldoende geïdentificeerd vrij fotopaar; niet omzetten naar een tekeningen-only toevoeging.
 
 Deze lokale wijzigingen zijn nog niet gepubliceerd en vormen geen nieuw back-upcheckpoint. Openbaar blijft de geverifieerde ronde 5 met 132 locaties/25 toevoegingen. Volgende volledige ronde vereist nog drie toevoegingen; back-upcheckpoint 30 pas na publicatie en controle daarvan.
+
+
+### Ronde 6 — lokale versie vastgelegd, selectie blijft strikt
+
+Commit `cc63867` bewaart de twee gecontroleerde toevoegingen (Galeries Modernes en Notarishuis) plus de correctie van het Leeskabinet. Opnieuw gecontroleerd: 134 locaties, 18 verhalen, 286 fotovermeldingen, 266 paren; nul fouten en 10/10 tests. Nog niet gepusht of gepubliceerd; openbare ronde 5 en checkpoint 20 blijven de laatst geverifieerde versies.
+
+Ter Meulen is inmiddels primair gelokaliseerd: gemeentelijke Hinderwetberichten van 26 oktober 1933, 17 oktober en 3 december 1935 verbinden Hoogstraat 83, Sint-Janstraat 24 en Achterklooster 68. Kaart Z16 koppelt dit aan M1624/M1598. De woninginrichting aan 44–54 is een andere afdeling. Advertentie 23 december 1920 kondigt verhuizing in 1921 aan; de retrospectieve datering 1912 niet gebruiken voor deze hoek. Dossier: research/expansion-20261002/ter-meulen/ONDERZOEK.md. Een duidelijke vrij publiceerbare intacte gevelopname ontbreekt nog.
+
+Concertzaal: bestaand vlak dakconcept nog niet vrijgegeven. Nieuwe referentie SAR PBK-7626 (https://hdl.handle.net/21.12133/F0CC1176213B40AEB04BFAC074B143ED) toont de hoofdingang van de OLV-kerk aan Wijnhaven met achter links dezelfde slanke toren als naast de Concertzaal op de foto van 1929; parent heeft het beeld bekeken. Deze koppeling ondersteunt verdere ruimtelijke identificatie, niet op zichzelf de dakvorm van Bierstraat 11. De OLV-kerk aan de Wijnhaven wordt als aanvullende kandidaat onderzocht; nog niet aan de catalogus toegevoegd.
