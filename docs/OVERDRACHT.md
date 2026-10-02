@@ -316,3 +316,12 @@ Plaatsing nog open: Hoogstraat207/perceel925 geeft slechts adrespunt; brede same
 Andere panden onderzocht: TerMeulen en Dobbelmann specifiek14meiverlies bevestigd, intactgevelbeeld nog niet rond. Maasbode heeft goede anonieme gevelscan met onduidelijke publicatierechten; PDMfilm1929 toont entree maar niet hele gevel. Notarishuis sterke verliesbron, beste gevelbeelden niet vrij downloadbaar, oudere vrije opname moet eerst gecontroleerd worden. Wisbrun en logeDrieKolommen nog reserve. Boompjes16/Maashotel afgewezen voor deze selectie vanwege aanwijzing voor eerdere brand door mortiervuur; geen vervanging met overlevende gebouwen.
 
 Er zijn in deze stap geen nieuwe runtimegebouwen toegevoegd. Publicatie blijft132locaties/18verhalen/25toevoegingen; volgende backup bij30.
+
+
+### Ronde6 vervolg — primaire adrescorrectie en tweede beeldkandidaat
+
+Galeries Modernes: primaire heropeningsadvertentie26okt1933 bevestigt **Hoogstraat199**; advertentie21mrt1935 identificeert207alsnaastgelegenCaféGaleries. Eerderadres207 ingetrokken. Perceel1624wordtgetraceerd, niet925. Artikelen20/27okt1933 bevestigen bureauEd.Cuypers, doorgangHoogstraat/Kipstraat, bronzenGispenpuien/ramen/entrees, gevelopschrift/neon;1934secundairejaar vervalt. Bron-OCRgelezen; inhoudsconcept178woorden in galeries-modernes/CONTENT-DRAFT.json. Modeldraft6816driehoeken gerenderd maar parentconstateerdebovenramenbuitenmassawand; subagentcorrigeert. Noggeenruntime.
+
+Notarishuis: scherpegeheleRCEgevel20192025, C.Hoogendijk,CCBYSA4.0gevonden. Origineelongewijzigd, builtinAIproefmetexactpromptopgeslageninround6-b. Verheul1935kleurreferentiepersoonlijkbekeken:roodbruinegevel,lichtesteen,donkeredeur. Zijmuurreclametekst onzeker, geenexactemerknaamverzinnen. Adres24op1938Z12bevestigd; mogelijkeconflictmetbestaandeLeeskabinetplaatsingwordtgecontroleerdvoorintegratie. Geenclaimvandefinitievepositie.
+
+Nogsteeds132live/25uitbreidingen. Geenbackuppunt30bereikt. Brononderzoek/AIproeven enmodellen zijn tussentijdseresearch, geenpubliekevoltooidegebouwen.
