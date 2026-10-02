@@ -1,0 +1,19 @@
+{
+  "reviewedAt": "2026-10-03",
+  "reviewer": "round5_candidates independent visual review",
+  "original": "nh87-1910.jpg",
+  "ai": "nh87-1910-ai-v1.png",
+  "selected": true,
+  "checks": [
+    "Full paired facades preserved, NH87 is narrow right building; original scan border removed only inAI",
+    "Three upper window axes and one dormerNH87 retained; lower ornate left door, centralsmallwindow/vase andrightdoor retained",
+    "NH89roofline/dormers, treetrunks, quay andwater retained",
+    "Warm pui/green doors consistent withVerheul1935 reference; exactcolor remains interpretive"
+  ],
+  "limitations": [
+    "Carved ornament andwindowreflections contain AI reconstruction; no precision claims",
+    "Tiny wallplaques/letters remain indistinct and are not a source",
+    "NH89 colors and facade details are not established byNH87 aquarel"
+  ],
+  "rights": "SAR1910photo PDM1.0; Verheul1935 reference PDM1.0"
+}

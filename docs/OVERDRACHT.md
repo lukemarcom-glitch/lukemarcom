@@ -460,3 +460,12 @@ Validatie: exacte horizontale projectie van alle modeldriehoeken 709,6124 m²; g
 P. Moll & Zoon op Wijnhaven145 toegevoegd als144e locatie met twee originele/AI-paren, directe RCE-fotobronnen, CC BY-SA4.0 en zes inhoudelijke bronnen. Verlies is combinatie van perceel296 op Z11/1938, gemeentelijke schadekaart1940 en de ruïneregistratie van Wijnhaven/Posthoornsteeg. Hoogendijk-attributie gecontroleerd op beide Commons-records; geen opnamedatum afgeleid. Kleine AI-letters blijven interpretatief; de luifeltekst in foto2 is gericht opnieuw gegenereerd.
 
 Hoofdagent bekeek galerij/fullscreen en mobiele screenshots. npmcheck144locaties/18verhalen/299foto's/279paren,10tests goed; browsercheck geen errors/failed/overflow. Meshvoetprint189.744m², geen overlap; achtergrond opnieuw uitgesneden, GLB/Blend gelijk aan gebruikte modelSpec. Onderzoek en QA in research/expansion-20261003/round8-b. Noggeenpublicatie; ronde8 mist drie definitief geïntegreerde items. Volgende checkpointbackup40.
+
+
+### 3 oktober 2026 — toevoeging 38 lokaal: Nieuwehaven 87
+
+Koopmanshuis Nieuwehaven 87 als 145e locatie toegevoegd met één origineel/AI-paar, directe archiefbronnen en expliciete kaart-/verliesanalyse. Bestaand nummer 89 herzien naar circa 10,8 m breed op basis van kaart en gevelverhouding. Beide GLB/Blend opnieuw geëxporteerd, achtergrond vrijgemaakt. Geen overlap met andere cataloguspanden; onderlinge numerieke grensrest 0,000136 m² onder tolerantie 0,03 m², geen absolute nulclaim.
+
+Hoofdagent controleerde semantisch dat alleen nieuw 87 en de bedoelde geometrie/plaatsingsbronnen van 89 zijn veranderd; bestaande foto's en teksten behouden. Live-model, mobiele galerie en desktopfullscreen bekeken. Originele foto's bytegelijk. Agent-browserrapport heeft geen fouten of mislukte verzoeken. Bronnotitie opgeschoond tot definitieve onderzoeksstatus, QA en oorspronkelijke foto-hashes bij de assets bewaard.
+
+Ronde acht telt nu drie lokale toevoegingen (HBS, Wijnhaven145, Nieuwehaven87). Nog niet gepubliceerd; volgende backup bij 40 cumulatieve toevoegingen. Huis Keulen is onderzoeksreserve met Bell-gevel rond 1890 en bewezen latere verbouwing; Machinistenschool heeft nog geen voldoende geïdentificeerd vrij gevelbeeld. Menuvoorstel 'Ga naar een plek' is niet geïmplementeerd.

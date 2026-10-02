@@ -1,0 +1,15 @@
+{
+  "koopmanshuis-nieuwehaven87": {
+    "meshArea": 64.43224216554289,
+    "footprintParts": 1,
+    "otherOverlaps": []
+  },
+  "koopmanshuis-nieuwehaven89": {
+    "meshArea": 188.17287965471218,
+    "footprintParts": 1,
+    "otherOverlaps": []
+  },
+  "pairOverlap": 0.00013585470717487197,
+  "overlapToleranceM2": 0.03,
+  "pairInterpretation": "0,000136 m² numerieke grensrest; kleiner dan 0,03 m² tolerantie, geen betekenisvolle geometrische doorsnijding."
+}
