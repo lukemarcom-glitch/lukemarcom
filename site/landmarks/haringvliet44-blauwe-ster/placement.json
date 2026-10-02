@@ -1,0 +1,44 @@
+{
+  "parcel": 243,
+  "address": "Haringvliet44",
+  "sourcePixels": [
+    [
+      3808,
+      2695
+    ],
+    [
+      3838,
+      2689
+    ],
+    [
+      3848,
+      2752
+    ],
+    [
+      3819,
+      2756
+    ]
+  ],
+  "workingPixels": [
+    [
+      4266.933957987003,
+      2237.3601141000454
+    ],
+    [
+      4274.334214901013,
+      2233.470927157322
+    ],
+    [
+      4280.091733413934,
+      2247.8461916276256
+    ],
+    [
+      4272.847022820009,
+      2251.1717545715583
+    ]
+  ],
+  "width": 5.024411706487013,
+  "frontDepth": 9.118117890877631,
+  "uncertaintyMeters": 10,
+  "scope": "Only photographed front house, rear depth not inferred from entire parcel"
+}

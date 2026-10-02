@@ -1,0 +1,14 @@
+{
+  "RCE20191050.jpg": {
+    "bytes": 2457623,
+    "sha256": "086199bbb7cd0a39bf536d40427cb6d924e4ea11e27da2b02d64cef0a1009447"
+  },
+  "foto-ai-v1.png": {
+    "bytes": 2221628,
+    "sha256": "fb3272b21825909f3b7f50445c4f11b8229c77bd0c55599f1f2e148a8c6affeb"
+  },
+  "PROMPT-AI-01.txt": {
+    "bytes": 1891,
+    "sha256": "573aa6f40de85e2ffef852b7111ee694e993dd12828796eab8083bd556fdccc8"
+  }
+}

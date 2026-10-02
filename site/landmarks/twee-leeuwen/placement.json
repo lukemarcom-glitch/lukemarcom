@@ -1,0 +1,18 @@
+{
+  "frontPixels": [
+    [
+      2778,
+      3140
+    ],
+    [
+      2778,
+      3176
+    ]
+  ],
+  "width": 21.558630967851656,
+  "depth": 10.8,
+  "parcel": "H992",
+  "source": "SAR40110-Z11",
+  "uncertaintyMeters": 8,
+  "limitations": "Only front block; rear warehouses unmodeled. Approximate heights and colours."
+}

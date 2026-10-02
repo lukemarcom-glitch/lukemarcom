@@ -495,3 +495,21 @@ Anonieme browsercontrole https://rdam39.nl/ metHuisKeulen:147locaties/18verhalen
 Checkpoint40: tag rdam39-20261003-40-buildings op releasef966862 naarGitHub gepusht. Lokale volledige Gitgeschiedenisbackup rotterdam_1939/backups/rdam39-20261003-40-buildings.bundle; gitbundleverify geslaagd, completehistory. SHA256 13fc9f063880c99b93712b701dfa1b09d4f4b62e47536d7863b47bb4484f9657. Bundle omvat gecommitteerde projectgeschiedenis tot release, geen ongetrackte onderzoeksbestanden en niet dit latere verificatieverslag.
 
 Nu40toevoegingen inacht rondes openbaar. Volgendecheckpoint50. Nieuwe ronde9kandidaten inonderzoek, ondermeerOostMolenstraat7b (noggeenverliesbewijs, nietbouwklaar). Machinistenschool/geparkeerdeleads niet meetellen. Geen menuverandering uitgevoerd. Doorlopendegebruikersopdracht actief; nietvoltooid verklaren terwijlkandidatenonderzoekloopt.
+
+### Haringvliet 44 / De Blauwe Ster — lokale toevoeging, 3 oktober 2026
+
+Het smalle pand naast Huis met de Beelden is toegevoegd met zichtbaar model en één origineel/AI-paar (RCE 20192057, CC BY-SA 4.0). De groepscaption noemt 46 en 48; nummer 44 volgt uit de aangrenzende positie op huisnummerkaart Z18, perceel 243. De verliesonderbouwing combineert deze kaart met de gele verwoeste strook op de gemeentelijke schadekaart van 1940; geen afzonderlijke bominslagmelding voor nummer 44 gevonden. De kaartmarkering betreft een zone, geen exact ingemeten schadepolygoon.
+
+Kleuren, circa 13,4 meter hoogte en onbekende dakvorm zijn als benadering vermeld. Alleen het gefotografeerde voorhuis is gemodelleerd. AI-proef 3 is geselecteerd; kleine reclameregels blijven generatief. Origineel bytegelijk bewaard, SHA-256 en alle drie prompts meegeleverd. De gedeelde muur is geometrisch begrensd zonder pandverplaatsing: uitstekende delen van buurmodel 46 eindigen op zijn eigen zijmuur; hoofdvolume en center blijven gelijk. Beide GLB/Blend-bestanden vernieuwd. Volledige meshprojectie: 0,0 m² overlap en geen andere modelconflicten. Achtergrond uitgesneden. `npm run check` en gerichte desktop/mobiele browsercontrole geslaagd (momentopname: 148 locaties, 18 verhalen, geen fouten of overflow). Dit is nog geen publicatiebewijs.
+
+### Ronde 9 — De Twee Leeuwen lokaal toegevoegd (2026-10-03)
+- 149e gebouw: voormalige brouwerij/pakhuis Leuvehaven 48–50, H992 op huisnummerkaart Z11; origineel RCE20191050 februari1938 + geselecteerde AIv1, CC BY-SA4.0 inclusief bewerking. Bronlinks, beperkingen en originele hash bij item.
+- Licht voorbouwmodel met 7assen/4lagen, fronton, twee gebogen klokbekroningen, voluten en hellend schilddak. Alleen voorbouw, achterterrein vrij; maten/kleuren benaderd.
+- npm check 149gebouwen/18verhalen/304foto's/284paren, 0fouten, 10tests. Gerichte desktop/mobile browsercontrole geslaagd. Exacte meshQA nul model- of achtergrondoverlap.
+- Runtime: catalog.json, data/model-landmarks.json, landmarks/twee-leeuwen/. Researchpakket expansion-20261003/zwarte-leeuw/. Geen commit/push door subagent; root beheert publicatie.
+
+### Ronde negen — eerste twee lokaal gecontroleerd
+
+De Blauwe Ster (Haringvliet 44) en De Twee Leeuwen (Leuvehaven 48–50) zijn toevoegingen 41 en 42. Root heeft beide live-modellen, mobiele galerijen en de Nu-weergave van De Twee Leeuwen bekeken. Originele bronfoto's voor beide bytegelijk gecontroleerd. Semantische catalogusvergelijking: alleen twee nieuwe items plus de bedoelde grenscorrectie van Huis met de Beelden; geen andere bestaande inhoud gewijzigd. Geen gedeelde modelbouwerwijziging. Beide modelprojecties vrij van onderlinge en achtergrondoverlap. Npm en gerichte browsers: 149 locaties, 18 verhalen, 304 foto's, 284 paren, 10 tests goed, geen browserfouten/overflow. Bronnotities, prompts, plaatsing en geometriecontrole bij de runtime-assets bewaard.
+
+Nog niet gepubliceerd: ronde negen mist drie gecontroleerde toevoegingen. Cachequeries en publieke verificatie volgen bij volledige ronde. Laatste openbare ronde blijft acht, checkpoint40; volgende afgesproken backup bij50. Onderzoek Sint-Laurensstraat47 en Oppert93 loopt; Haringvliet34 geparkeerd wegens onvoldoende zicht op bovenbouw. Boterslootfoto1976-11661 toont de tegenoverzijde van nummer39, niet Senft zelf; huisnummer nog onbekend. Niet als bouwklare kandidaten tellen. Menuvoorstel niet uitgevoerd.
