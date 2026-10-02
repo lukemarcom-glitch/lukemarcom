@@ -1,0 +1,48 @@
+{
+  "status": "research draft, not runtime; manual map transfer uncertainty 3m",
+  "address": "Mosseltrap 3",
+  "parcel": "F 537",
+  "sourceMap": "house-map-Z18.jpg",
+  "workingPixelPolygon": [
+    [
+      3551.67,
+      2216.8
+    ],
+    [
+      3561,
+      2219.47
+    ],
+    [
+      3564.33,
+      2207.33
+    ],
+    [
+      3555.67,
+      2205.13
+    ]
+  ],
+  "localPolygon": [
+    [
+      370.642,
+      129.249
+    ],
+    [
+      376.245,
+      127.71
+    ],
+    [
+      378.206,
+      135.002
+    ],
+    [
+      373.006,
+      136.263
+    ]
+  ],
+  "frontEdge": [
+    0,
+    1
+  ],
+  "sourcePeriod": "1920 photo; facade persists on SAR1939",
+  "uncertainty": "Exact corners manual transfer; reconcile map fit before modeling. No height or roof spec approved."
+}

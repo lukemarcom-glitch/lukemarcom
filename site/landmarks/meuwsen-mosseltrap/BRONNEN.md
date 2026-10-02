@@ -41,7 +41,3 @@ Modeldraft `modelSpec-draft.json`, reproduceerbaar `build-draft.py`; drie previe
 Gerichte kleur-/materiaalzoekactie vond geen primaire materiaal- of kleurtekst. Secundaire Flickr-omschrijving noemt jugendstil, maar bewijst geen materiaal: https://www.flickr.com/photos/jansluijter/18647148541 . Daarom alle kleuren, ook de lichte afwerking en gestreepte doek, expliciet interpretatie. Geen claim witte natuursteen/stuc bewezen.
 
 Plaatsingscontrole: F537-draft41,66m²; overlap met bestaande Zumpolle-perceeldraft0m²; tussenruimte3,75m, behorend bij apotheek Mosseltrap2. Render errors0; `render-check.json` bevat geometrieomvang. Dakoverstek en zonwering steken buiten de kale massa; definitieve mesh-footprint/achtergrondclip blijft noodzakelijk bij integratie. Nog geen runtime/export/integratietests.
-
-Kleurcontext gebruikt bij AI: https://www.mobielecollectienederland.nl/nrme/object.php?id=656&tabel=nrme_rail . RETM crème uitvoering rond1912 is uitsluitend tramcontext, geen bewijs voor gevelkleur of identificatie van alle afgebeelde voertuigen. Door parent als contextbron gecontroleerd en aangeleverd; toegevoegd bij de bronverwijzingen.
-
-Algemene npm run test:browser ook geslaagd met systeemChrome; zie /tmp/meuwsen-browser-check.txt. Geen verdere modelwijzigingen na gerichte checks.

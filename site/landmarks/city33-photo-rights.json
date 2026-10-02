@@ -385,5 +385,26 @@
     "publishedSha256": "83b5d3a2be864d2f4f4d61b5753f825dbcd96f594953cb2f55ede0db46822e00",
     "aiSha256": "25032a9054fdcdaaf3974797c799b520f579d2ef6be87b7244f357c13d6fc5c8",
     "prompt": "landmarks/botersloot-spaarbank/foto-2-prompt.txt"
+  },
+  {
+    "location": "meuwsen-mosseltrap",
+    "src": "landmarks/meuwsen-mosseltrap/foto-1-origineel.jpg",
+    "ai": "landmarks/meuwsen-mosseltrap/foto-1-ai.webp",
+    "aiMaster": "landmarks/meuwsen-mosseltrap/foto-1-ai.png",
+    "title": "Hoedenzaak Meuwsen aan de Mosseltrap · 1920",
+    "shortTitle": "Meuwsen en de Mosseltrap",
+    "date": "1920",
+    "author": "P.M. Vijverberg · Stadsarchief Rotterdam · uitsnede via Wikimedia Commons",
+    "identifier": "Wikimedia Commons 140739875",
+    "license": "CC BY-SA 4.0 · gepubliceerde uitsnede; AI-bewerking onder dezelfde licentie",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "url": "https://commons.wikimedia.org/w/index.php?curid=140739875",
+    "sourceChecked": "2026-10-02",
+    "aiLabel": "AI in kleur",
+    "aiNote": "AI-kleurinterpretatie van de historische uitsnede, met behoud van het origineel. Gevelkleuren, doekkleuren, licht en kleine details zijn interpretaties. J.S. MEUWSEN / HOEDEN gecontroleerd; andere kleine opschriften en gezichten zijn geen zelfstandig historisch bewijs. Bewerking onder CC BY-SA 4.0.",
+    "originalSourceSha256": "5a43ded40622d7886234a5d295cf35a9bd779f64587a1ef2959e768aa59d0c76",
+    "publishedSha256": "5a43ded40622d7886234a5d295cf35a9bd779f64587a1ef2959e768aa59d0c76",
+    "aiSha256": "28c6011b9ae0f5adc96322b277c5ade117ca2e137cc0d01e395c53994dad7809",
+    "prompt": "landmarks/meuwsen-mosseltrap/PROMPT-AI-01.txt"
   }
 ]

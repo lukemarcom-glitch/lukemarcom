@@ -318,3 +318,7 @@ AI-inkleuring is een interpretatie. De oorspronkelijke kleuren zijn niet met kle
 - [Extra archiefbeeld: Uitzicht vanaf de Laurenskerk met bibliotheek en Spaarbank · 1930–1935](https://hdl.handle.net/21.12133/31B202C89E864372A6D28C1B80083A83)
 - [Historische stadskaart met de toestand vóór mei 1940](https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492)
 
+
+## Meuwsen · Mosseltrap 3
+
+Foto: P.M. Vijverberg1920, gepubliceerde uitsnede Commons140739875, CC BY-SA4.0; origineel byte-identiek behouden, AI-bewerking onder dezelfde licentie. KaartZ18/F537 bevestigt nr3. NIW14maart1930p12 bevestigt vestiging1905. SAR1990-177/1939 bevestigt dezelfde gevel. Verlies via visuele vergelijking intacte rij en SAR1984-2750A/14–31mei1940: Meuwsen links van skeletMosseltrap5. Geen afzonderlijke Meuwsen-verliescaption. Alle directe links en claimdekking in catalogus. Kleuren,20m-hoogte en achterdak expliciet interpretatief. Reproduceerbaar dossier research/expansion-20261002/meuwsen.
