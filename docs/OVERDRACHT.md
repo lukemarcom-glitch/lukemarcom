@@ -473,3 +473,14 @@ Ronde acht telt nu drie lokale toevoegingen (HBS, Wijnhaven145, Nieuwehaven87). 
 
 ### 3 oktober 2026 — Wijnhaven 62 lokaal
 Herenhuis Wijnhaven62 toegevoegd met historisch/AI-paar, vijf directe bronnen, perceel1921 en vereenvoudigd model met vier assen en drie lagen boven souterrain. Dakoverstek aan gedeelde muur met OLV gecorrigeerd; beide modeldownloads vernieuwd. Achterperceel1923 niet ingevuld. Kleurreferentie Verheul1937 is interpretatief. Researchdossier expansion-20261003/wijnhaven62 bevat exacte meshcontrole, builderregressie en browserbewijs. Publicatiestatus afzonderlijk door hoofdtaak te bevestigen.
+
+### Toevoeging 40 lokaal gereed — Huis Keulen / Bell-telefooncentrale
+
+Huis Keulen is toegevoegd met expliciete geveltijdlaag1890–1893, één ongewijzigd PDM-archieffotopaar met geselecteerdeAI-v2, en licht3D-model. Plaatsbewijs combineert Bell-bedrijfskaart1892 met Z9/Groote Markt28/O1263; circa10m onzekerheid. Alleen voorbouw, hof vrij. Latere vensterwijzigingen en niet bewezen dakvorm blijven benoemd. AI-note waarschuwt voor gewijzigde mensen en kleine winkelteksten. Alle3prompts en selectiecontrole staan bij de assets.
+
+147 gebouwen,18 verhalen,302 foto's,282 AI-paren. `npm run check` geslaagd; gerichte browsercontrole desktop/mobiel zonder fouten, fotopaar/lichtbak/Nu3D en overflow goed. Lokale gevelscreenshot visueel bekeken. GLB+Blend geëxporteerd, exacte modeloverlap0 en achtergrondoverlap0m². Wijnhaven62 kreeg aanvullend de specifieke DBNL/Presser-bron voor verlies14mei1940 en leerschoolfunctie. Nog geen publieke releaseclaim: root verzorgt commit/publicatie en openbare controle.
+
+
+### Ronde acht — vijf toevoegingen lokaal gereed
+
+HBS Van Alkemadeplein, Wijnhaven145, Nieuwehaven87, Wijnhaven62 en Huis Keulen vormen ronde8. Hoofdagent heeft laatste Wijnhaven62- en Keulenmodellen en mobiele galerijen bekeken; originele foto's bytegelijk gecontroleerd. Nieuwehaven89 en OLV kregen aansluitings-/schaalcorrecties met vernieuwde exports. Optionele grensbeperking in de gedeelde modelbouwer is tegen97 overige city32/33modellen gecontroleerd; positiearrays gelijk. Cachequeries vernieuwd voor ronde8 inclusief modelbouwer. Nu40toevoegingen sindsstart; publicatie en checkpointbackup40 volgen pas na geslaagde controles. Keulen toont expliciet een oudere Bell-gevel1890–1893; latereverbouwing en AI-personen/detailafwijkingen zichtbaar benoemd.

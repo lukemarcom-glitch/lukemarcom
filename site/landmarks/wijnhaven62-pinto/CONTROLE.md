@@ -10,7 +10,7 @@ De oorspronkelijke contourraak van0,076m² bleek bij de exacte driehoeksprojecti
 
 ## Tests
 
-Npmcheck:146 gebouwen,18 verhalen,273 foto’s,263 paren; nul fouten en10 tests geslaagd. Gerichte desktop-/mobielbrowsercheck: geen errors, failed requests of overflow; paren en fullscreenviewer geslaagd. Screenshots en rapport in deze map. Livekaartbeeld afzonderlijk vastgelegd.
+Npmcheck:146 gebouwen,18 verhalen,301 foto’s,281 paren; nul fouten en10 tests geslaagd. Gerichte desktop-/mobielbrowsercheck: geen errors, failed requests of overflow; paren en fullscreenviewer geslaagd. Screenshots en rapport in deze map. Livekaartbeeld afzonderlijk vastgelegd.
 
 Shared builder heeft uitsluitend optionele grenswaarden voor gedeelde perceelmuren erbij gekregen.97 andere city32/city33modellen zijn met HEAD en nieuwe builder vergeleken: alle vertexpositionarrays identiek, inclusief bestaand vertexDeformgebruik. Bewijs builder-regression.json.
 
