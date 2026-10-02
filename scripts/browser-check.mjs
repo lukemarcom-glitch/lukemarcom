@@ -15,7 +15,9 @@ try{
   if(await p.locator('#time-intro').isVisible())await p.locator('#intro-old').click();
   const meta=await p.evaluate(()=>({catalog:window.__rotterdam.catalog,stories:window.__rotterdam.stories}));
   assert.ok(meta.catalog.length>0);assert.ok(meta.stories.length>0);
-  const item=meta.catalog.find(m=>m.id==='plan-c')||meta.catalog[0];
+  const requestedId=process.env.LANDMARK_ID||'plan-c';
+  const item=meta.catalog.find(m=>m.id===requestedId);
+  assert.ok(item,`Gebouw ontbreekt: ${requestedId}`);
   await p.locator(`[data-landmark="${item.id}"]`).click();
   assert.equal(await p.locator('#landmark-panel h2').textContent(),item.name);
   assert.equal(await p.locator('.photo-pair').count(),item.photos.length);

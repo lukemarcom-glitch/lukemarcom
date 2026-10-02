@@ -1,5 +1,5 @@
 {
-  "status": "Façade specification only; no model and no runtime. Await explicit parsonage destruction evidence.",
+  "status": "Research draft built and visually checked; locally integrated after primary parsonage-loss proof. Await parent final browser review.",
   "identity": "Pastorie van de Oud-Katholieke St.-Laurenskerk, Oppert107 with narrow entrance109; not churchfront LangeTorenstraat and not Paradijskerk.",
   "sources": {
     "photo": "RCE20192355 C.Hoogendijk;CCBYSA4.0;dateunknown",
@@ -43,9 +43,9 @@
     "windowFrames": "Pale off-white, many smallpanes; broad horizontal rows; restrained raised sills.",
     "doors": "Two, dark blue-green, shallowpanelled; no invented unreadable names.",
     "cornice": "Continuous pale projecting cornice with regularly spaced brackets; notflatroof.",
-    "pediment": "Broad triangular central fronton above1791mainbuilding. Carved central relief approximated, no invented coat-of-armsdetail.",
-    "fence": "Dark wrought railing before main107 with lowposts; no baroque fence at109door.",
-    "roof": "Long hipped roof with2dormers and2chimneys visible in Hermansreference; roofshapeisreferenceinterpretation, not fullsurvey."
+    "pediment": "Triangular pediment with a neutral oval cartouche; no invented emblem or inscription.",
+    "fence": "Dark railing before107, with an open passage aligned to its entrance.",
+    "roof": "Roof and two dormers/two chimneys supported by watercolour; shortened109 rear and exact roof junction remain approximations."
   },
   "paletteSuggested": {
     "brick": "#665047",

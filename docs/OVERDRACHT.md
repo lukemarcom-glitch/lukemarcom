@@ -383,3 +383,14 @@ Hollenkamp is een alternatieve kandidaat met primaire verliesbronSARXXXIII-569-2
 ### Oppert — nieuwe primaire kleur- en vormreferentie
 
 SAR4080 XVIII-410-02, aquarel van Raoul Hermans (catalogus1940), rechtstreeks in archiefviewer bekeken. Toont complete pastoriegevel met fronton1791, pannendak, twee dakkapellen en schoorstenen; donkerbruine baksteen, lichte lijsten en donkerblauwgroene deuren. Rechten beperkt, alleen onderzoeksreferentie. Record identificeert107–109; voorlopige kaartlezing103/105 niet overnemen. RJB1941pLVI bevestigt verwerving. Details in research/expansion-20261002/oppertse-kerk/hermans-colour-reference.json. Ruimtelijke verbinding kerk/pastorie nu op Z8 gevonden, precieze plaatsingsdraft nog in uitvoering. Afzonderlijk verliesbewijs pastorie nog niet afdoende. Geen vijfde runtime-item of publicatie in deze stap.
+
+### Pastorie aan de Oppert — lokaal, 2 oktober 2026
+
+- Als 137e locatie toegevoegd: gefotografeerde pastorie Oppert 107 met entree 109; de kerk achter het voorhuis is niet verzonnen of als volledig model toegevoegd. Monumentenlijst 1915 identificeert de gevel uit 1791; oorspronkelijke kranten van 11 en 12 juni 1940 bevestigen verlies van de pastorie bij het bombardement.
+- Eén ongewijzigde RCE-foto van C. Hoogendijk en geselecteerde AI01, beide met CC BY-SA 4.0 en directe bron. De onjuiste historische RCE-titel over de Paradijskerk is toegelicht. Hermans’ aquarel alleen gebruikt als vorm/kleurreferentie, niet hergepubliceerd.
+- Plaatsing op Z8: hoofdpand perceel 776, alleen voorste entreezone van 771. Achterliggende kerk is perceel 2099; oudere lezingen 1209 en 103/105 zijn ingetrokken. Positie circa 5 m onzeker, hoogte circa 3 m; achterbouw en kapovergang vereenvoudigd.
+- GLB en Blender-bestand geëxporteerd. Gehele mesh ruimtelijk gecontroleerd: geen overlap met andere catalogusmodellen. Achtergrond opnieuw uitgesneden. `npm run check`: 0 fouten, 10 tests geslaagd. Definitieve gezamenlijke desktop/mobiele browsercontrole en publicatie door hoofdagent.
+
+### Ronde 6 — gereed voor publicatie
+
+Alle vijf toevoegingen lokaal gecontroleerd: Galeries Modernes, Notarishuis Geldersekade, Groote Concertzaal Bierstraat, OLV Wijnhaven en Pastorie aan de Oppert. Totaal137locaties/18verhalen/289foto’s/269paren, npmcheck zonder fouten en10tests geslaagd. Browsercontrole met LANDMARK_ID=oppertse-kerk-pastorie: geen errors, mislukte bestanden of mobiele overflow; fotoparen, Nu3D en mobiele lichtbak werken. Hoofdagent heeft modelrender, desktoplichtbak en mobiele galerie bekeken. Vereenvoudigde achterzijde en kapovergang blijven expliciet onzeker. Publicatie en checkpoint30 volgen pas na openbare verificatie.
