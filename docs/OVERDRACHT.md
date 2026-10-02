@@ -394,3 +394,11 @@ SAR4080 XVIII-410-02, aquarel van Raoul Hermans (catalogus1940), rechtstreeks in
 ### Ronde 6 — gereed voor publicatie
 
 Alle vijf toevoegingen lokaal gecontroleerd: Galeries Modernes, Notarishuis Geldersekade, Groote Concertzaal Bierstraat, OLV Wijnhaven en Pastorie aan de Oppert. Totaal137locaties/18verhalen/289foto’s/269paren, npmcheck zonder fouten en10tests geslaagd. Browsercontrole met LANDMARK_ID=oppertse-kerk-pastorie: geen errors, mislukte bestanden of mobiele overflow; fotoparen, Nu3D en mobiele lichtbak werken. Hoofdagent heeft modelrender, desktoplichtbak en mobiele galerie bekeken. Vereenvoudigde achterzijde en kapovergang blijven expliciet onzeker. Publicatie en checkpoint30 volgen pas na openbare verificatie.
+
+### Ronde 6 — publiek gecontroleerd en checkpoint 30
+
+Release `7ccd8d2601345055ad2f023a0b0666dfe080df51`; Pages37065653572 en Check37065653567 geslaagd.19openbare bestanden bytegelijk (rapport VERIFICATIE-UITBREIDING-20261002-R6.json); anonieme browsercontrole op rdam39.nl met pastorie:137locaties,18verhalen, geen errors/failed/overflow, fotoparen/Nu3D/mobiele viewer geslaagd. Publieke mobiele galerie en desktop Nu visueel bekeken. Bytecontrole negeerde alleen ongetrackte bestanden via procesconfig; tracked site was schoon, alle gecontroleerde runtimebestanden zijn gecommit. Ongetrackte oude Hoogstraatmodel.blend is geen onderdeel van de release.
+
+Checkpoint30: tag `rdam39-20261002-30-buildings` wijst naar bovenstaande release en is naar GitHub gepusht. Lokale volledige Gitgeschiedenisbackup: `rotterdam_1939/backups/rdam39-20261002-30-buildings.bundle`, gitbundleverify geslaagd. SHA256 `3d89f34ff855eedb6071bc5eb1c7cb5b4eb6a058117dc794341eb252b98d286b`. Bundle bevat gecommitteerde bestanden/geschiedenis, niet ongetrackte research.
+
+Volgende ronde: Huis met de Beelden Haringvliet46 en Meuwsen Mosseltrap3 in onderzoek; nog geen runtime-items. Meuwsen ruïnevergelijking wordt gecorrigeerd: pand LINKS van het hoekpand-skelet, eerdere Zumpolle-koppeling niet overnemen. Gebieden-menu blijft ongewijzigd; voorstel nog niet geaccordeerd.

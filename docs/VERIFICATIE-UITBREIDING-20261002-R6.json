@@ -1,0 +1,111 @@
+{
+  "checkedAt": "2026-10-02T21:16:30.153Z",
+  "releaseCommit": "7ccd8d2601345055ad2f023a0b0666dfe080df51",
+  "pagesRun": "37065653572",
+  "buildings": 137,
+  "ids": [
+    "galeries-modernes",
+    "notarishuis-geldersekade",
+    "groote-concertzaal-bierstraat",
+    "olv-wijnhaven",
+    "oppertse-kerk-pastorie"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "d480326ba8976437a3dfd50268151de7c159125f5dcc23a26430e5d6c660baec",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "ac5e42575a3a4479468ce58f2efded23500ea884a39962a7e42c3e204d4949bf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "3759e4bcb8dd77623a39ebc858b9307916234917ed94a9825da6b09571b1548c",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "988fa79f4d44cd1ba710bae5ccc8a7de6aeae818201c90f84c870da9969473d5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/galeries-modernes/model.glb",
+      "sha256": "0d66c86abda8f33aa11c61ec2c9e5b67f1abb9fe6f23d0381dae95f00b8188a5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/galeries-modernes/foto-1-origineel.jpg",
+      "sha256": "a506a9c12931a16c42989cad69154c71fd44434cf430143f19aefb2634af4255",
+      "identical": true
+    },
+    {
+      "path": "landmarks/galeries-modernes/foto-1-ai.webp",
+      "sha256": "d7049ea00e3479eee3c8b15887160a3aa00eb6e1b461ec2e80eaeff164c87073",
+      "identical": true
+    },
+    {
+      "path": "landmarks/notarishuis-geldersekade/model.glb",
+      "sha256": "7ba7b0371128effb4a4c457ebeee6fafcd5762d3160c4cf8a40d6f5d0fd6a276",
+      "identical": true
+    },
+    {
+      "path": "landmarks/notarishuis-geldersekade/foto-1-origineel.jpg",
+      "sha256": "076f321aa38a4b48202968be495666a2c27c3a3040474430ab8e65d5e8ad3012",
+      "identical": true
+    },
+    {
+      "path": "landmarks/notarishuis-geldersekade/foto-1-ai.webp",
+      "sha256": "b1d475af576f574ae386db03c867c5a8b615926c94ec6daef94c59b6836a6731",
+      "identical": true
+    },
+    {
+      "path": "landmarks/groote-concertzaal-bierstraat/model.glb",
+      "sha256": "dc469112509db105b4223ff9964969f936a1a81c24fedf4c36eca45f751d48b1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/groote-concertzaal-bierstraat/foto-1-origineel.jpg",
+      "sha256": "5be9cde39a93655b6f175ddcd9f4620cc3692a7fc4b6305d9fdc60913b271a54",
+      "identical": true
+    },
+    {
+      "path": "landmarks/groote-concertzaal-bierstraat/foto-1-ai.webp",
+      "sha256": "70a3b7cb4e41c82269d9239651342af7741b20348ab8ed05f2e6e9b5f6be4c5e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/olv-wijnhaven/model.glb",
+      "sha256": "b6a74f970a4e2006fa08b98578b0f96c36c029a569f2537d75d3fff8190284eb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/olv-wijnhaven/foto-1-origineel.jpg",
+      "sha256": "22a1d17f9b1694c178eab4176100de43880efedd6ea9fbb562f544f4b29305e3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/olv-wijnhaven/foto-1-ai.webp",
+      "sha256": "6743c86e13c6eb7cf378b6cf5f31264ccf5309e243841c9a1c6fa6f1364d4cfb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppertse-kerk-pastorie/model.glb",
+      "sha256": "9aedfe7bfe89fced61f374005e325aa96b816e658bc1434319a0667f075b1910",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppertse-kerk-pastorie/foto-1-origineel.jpg",
+      "sha256": "1e208e15270fcbb667551343c50c6dedb82fd9b30866bae67fa890e7aa28cb66",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppertse-kerk-pastorie/foto-1-ai.webp",
+      "sha256": "e8f06b72dc416609f0a34df0d6d10578850b7b99ecd48438b4b9a6bc59aaced7",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
