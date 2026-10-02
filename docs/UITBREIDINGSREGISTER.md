@@ -162,3 +162,6 @@ Vijf toevoegingen gezamenlijk gecontroleerd. Schotse randligging beoordeeld als 
 ## Ronde 1 LIVE — teller 5
 
 8c135ef gepubliceerd; Pages36992254370 en Check36992254296 geslaagd. 21 publieke bestanden bytegelijk, vijf anonieme browsercontroles geslaagd. Nu 5 voltooide toevoegingen. Backup/tag-checkpoint bij 10 nog niet bereikt. GitHub bewaart deze ronde al in commitgeschiedenis. Ronde 2 nog bron-/beeldonderzoek, geen uitputtingsclaim.
+
+### Ronde2 — tweede lokale toevoeging
+Marx & Co’s Bank · Zuidblaak (`marx-bank-zuidblaak`) lokaal geplaatst met bronfoto1908–1912, gelabelde AI-proef03, gebogen koepel en GLB. Directe bronnen/beeldrechten opgenomen. Geen modeloverlap en binnen werkgrens; plaatsing circa20m onzeker. Achterbouw niet uitgewerkt en bedrijfsopvolging onduidelijk. Desktop/mobiel/lichtbak/Nu3D en9 checks geslaagd. Nog niet gepubliceerd; teller afgerond5, checkpoint10 blijft open.

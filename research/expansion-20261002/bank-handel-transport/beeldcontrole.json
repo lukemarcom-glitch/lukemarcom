@@ -1,9 +1,9 @@
 {
-  "status": "proef-niet-goedgekeurd",
+  "status": "third-trial-selected-with-explicit-limitations",
   "tool": "built-in image_gen",
   "source": "146389681.jpg",
-  "output": "ai-proef-01.png",
-  "prompt": "PROMPT-01.txt",
+  "output": "ai-proef-03.png",
+  "prompt": "PROMPT-03.txt",
   "checked": "2026-10-02",
   "findings": [
     "Hoofdvolume, asymmetrische kap en rechter koepel herkenbaar behouden.",
@@ -11,7 +11,7 @@
     "Extra scherpe figuren en winkelinterieurs links zijn niet uit de bron te onderbouwen.",
     "Baksteen- en steenkleuren zijn interpretatief; geen betrouwbare kleurbron gevonden."
   ],
-  "next": "Gerichte correctie met origineel als hoofdreferentie; geen catalogus/publicatie vóór hercontrole.",
+  "next": "Kleine letters blijven geen transcriptie; origineel is leidend. Publicatie pas bij afronden volledige ronde.",
   "trials": [
     {
       "file": "ai-proef-02.png",
@@ -23,5 +23,6 @@
       "status": "candidate-needs-final-review",
       "reason": "Zachtere restauratie en geen scherpe toegevoegde figuren; kleine tekst blijft niet als transcriptie bruikbaar. Scheepsdetails en buren nog vergelijken."
     }
-  ]
+  ],
+  "finalReview": "Derde proef geselecteerd als gelabelde kleurinterpretatie: geen scherp uitgewerkte extra personen, minder verzonnen winkelinhoud. COIFFEUR herkenbaar. Scheepsdetails en kleine letters blijven generatief en staan expliciet als beperking bij foto."
 }

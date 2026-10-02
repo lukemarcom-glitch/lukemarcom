@@ -29891,5 +29891,441 @@
       }
     ],
     "wikipediaNote": "Geen passende zelfstandige pagina over dit verdwenen pand gebruikt; zie de directe beeld- en archiefbronnen."
+  },
+  {
+    "id": "marx-bank-zuidblaak",
+    "modelFamily": "city33",
+    "center": [
+      89.30417248812455,
+      -62.552815225913946
+    ],
+    "angle": 3.431592653589793,
+    "height": 25,
+    "modelSpec": {
+      "colors": {
+        "brick": "#906a57",
+        "stone": "#bdb8aa",
+        "roof": "#535854",
+        "trim": "#d0c9b7",
+        "glass": "#4c5c5e",
+        "dark": "#343731"
+      },
+      "parts": [
+        {
+          "w": 27,
+          "d": 12,
+          "h": 15,
+          "roof": "flat",
+          "windows": false
+        },
+        {
+          "w": 27,
+          "d": 4.8,
+          "z": 3.6,
+          "base": 15,
+          "h": 0.1,
+          "roof": "hip",
+          "roofHeight": 3.8,
+          "windows": false
+        },
+        {
+          "x": -8,
+          "z": 3.4,
+          "w": 5.1,
+          "d": 5.2,
+          "base": 15,
+          "h": 3.4,
+          "roof": "hip",
+          "roofHeight": 2.5,
+          "windows": false
+        },
+        {
+          "x": -2,
+          "z": 4.4,
+          "w": 2.6,
+          "d": 2,
+          "base": 15.5,
+          "h": 2.4,
+          "roof": "hip",
+          "roofHeight": 1.1,
+          "windows": false
+        },
+        {
+          "x": 6,
+          "z": 4.4,
+          "w": 1.5,
+          "d": 1.8,
+          "base": 15.2,
+          "h": 1.8,
+          "roof": "hip",
+          "roofHeight": 1,
+          "windows": false
+        },
+        {
+          "w": 27.1,
+          "d": 12.1,
+          "h": 5.4,
+          "roof": "none",
+          "wall": "stone",
+          "windows": false
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": 8,
+          "z": 6.04,
+          "y": 3.5,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 8,
+          "z": 6.04,
+          "y": 8,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 8,
+          "z": 6.04,
+          "y": 12.2,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 4,
+          "z": 6.04,
+          "y": 3.5,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 4,
+          "z": 6.04,
+          "y": 8,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 4,
+          "z": 6.04,
+          "y": 12.2,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 0,
+          "z": 6.04,
+          "y": 3.5,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 0,
+          "z": 6.04,
+          "y": 8,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": 0,
+          "z": 6.04,
+          "y": 12.2,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -4,
+          "z": 6.04,
+          "y": 3.5,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -4,
+          "z": 6.04,
+          "y": 8,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -4,
+          "z": 6.04,
+          "y": 12.2,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -8,
+          "z": 6.04,
+          "y": 3.5,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -8,
+          "z": 6.04,
+          "y": 8,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -8,
+          "z": 6.04,
+          "y": 12.2,
+          "w": 2.7,
+          "h": 3.1
+        },
+        {
+          "x": -8,
+          "z": 6.08,
+          "y": 17,
+          "w": 3.4,
+          "h": 2.1
+        },
+        {
+          "x": -2,
+          "z": 5.45,
+          "y": 16.7,
+          "w": 1.7,
+          "h": 1.9
+        },
+        {
+          "x": -11.65,
+          "z": 6.08,
+          "y": 2.65,
+          "w": 1.6,
+          "h": 4.5,
+          "arched": true
+        },
+        {
+          "x": 6,
+          "z": 5.35,
+          "y": 16,
+          "w": 0.8,
+          "h": 1.2
+        }
+      ],
+      "accents": [
+        {
+          "z": 6.08,
+          "y": 5.7,
+          "w": 27,
+          "d": 0.18,
+          "h": 0.24,
+          "material": "stone"
+        },
+        {
+          "z": 6.08,
+          "y": 9.8,
+          "w": 27,
+          "d": 0.18,
+          "h": 0.24,
+          "material": "stone"
+        },
+        {
+          "z": 6.08,
+          "y": 14.8,
+          "w": 27,
+          "d": 0.18,
+          "h": 0.24,
+          "material": "stone"
+        },
+        {
+          "z": 6.09,
+          "y": 6.2,
+          "w": 27,
+          "d": 0.12,
+          "h": 0.13,
+          "material": "stone"
+        },
+        {
+          "z": 6.09,
+          "y": 7.7,
+          "w": 27,
+          "d": 0.12,
+          "h": 0.13,
+          "material": "stone"
+        },
+        {
+          "z": 6.09,
+          "y": 9.2,
+          "w": 27,
+          "d": 0.12,
+          "h": 0.13,
+          "material": "stone"
+        },
+        {
+          "z": 6.09,
+          "y": 10.6,
+          "w": 27,
+          "d": 0.12,
+          "h": 0.13,
+          "material": "stone"
+        },
+        {
+          "z": 6.09,
+          "y": 12.1,
+          "w": 27,
+          "d": 0.12,
+          "h": 0.13,
+          "material": "stone"
+        },
+        {
+          "z": 6.09,
+          "y": 13.6,
+          "w": 27,
+          "d": 0.12,
+          "h": 0.13,
+          "material": "stone"
+        }
+      ],
+      "towers": [
+        {
+          "x": 11.5,
+          "z": 4.7,
+          "radius": 1.85,
+          "base": 0,
+          "h": 18.5,
+          "wall": "brick",
+          "storey": 4.3,
+          "windowWidth": 1.4,
+          "windowHeight": 2.5,
+          "sides": 8,
+          "roofProfile": [
+            [
+              2.25,
+              0
+            ],
+            [
+              2.05,
+              0.3
+            ],
+            [
+              1.9,
+              0.7
+            ],
+            [
+              1.75,
+              1.6
+            ],
+            [
+              1.5,
+              2.6
+            ],
+            [
+              1.05,
+              3.4
+            ],
+            [
+              0.65,
+              3.7
+            ],
+            [
+              0.55,
+              4.1
+            ]
+          ]
+        },
+        {
+          "x": 11.5,
+          "z": 4.7,
+          "radius": 0.6,
+          "base": 22.6,
+          "h": 1,
+          "wall": "dark",
+          "roofHeight": 0.8,
+          "sides": 8,
+          "bands": false
+        }
+      ]
+    },
+    "name": "Marx & Co’s Bank · Zuidblaak",
+    "kind": "building",
+    "modelWidth": 28,
+    "modelDepth": 14,
+    "cameraDistance": 105,
+    "backgroundClearance": 1.1,
+    "uncertaintyMeters": 20,
+    "polygon": [
+      [
+        104.45385659842199,
+        -64.71084010023799
+      ],
+      [
+        100.6220967820172,
+        -51.87037216836785
+      ],
+      [
+        73.9829170427642,
+        -59.81984402628228
+      ],
+      [
+        77.814676859169,
+        -72.66031195815242
+      ]
+    ],
+    "modelDownload": "landmarks/marx-bank-zuidblaak/model.glb",
+    "description": "Rijk versierd bankpand aan de Zuidblaak bij de Brouwerijsteeg, met een asymmetrische gevel en een koepeltorentje.",
+    "periodNote": "Gevel naar archieffoto 1908–1912 en luchtfoto 1924. De ruïne wordt in 1940 aangeduid als Bank voor Handel en Transport; bedrijfsopvolging niet bevestigd.",
+    "colorNote": "Gedempte roodbruine baksteen, lichte steenbanden en donkere dakbedekking zijn materiaalinterpretaties. Exacte historische kleuren niet vastgesteld.",
+    "placementNote": "Benaderde positie aan de oostzijde van de Brouwerijsteeg, afgeleid van historische kaart en luchtfoto 1924; circa 20 m onzeker. Voorste bouwmassa circa 27 × 12 m, totale hoogte circa 25 m geschat. Achterbouw en binnenplaats niet uitgewerkt. Koepel, steenwerk en vensters vereenvoudigd.",
+    "story": "Aan de Zuidblaak lag het water vlak voor de deur. Schepen meerden aan terwijl achter de ramen van dit rijk versierde pand bankzaken werden gedaan. Op de opname uit 1908–1912 zijn kleine bordjes van Marx & Co’s Bank te zien. Een advertentie uit 1918 noemt Zuidblaak 56 als Rotterdams adres. De gevel onderscheidde zich door lichte banden in het metselwerk, een hoge dakkapel links en een koepeltorentje op de hoek bij de Brouwerijsteeg. Een luchtfoto uit 1924 laat ook het platte dak achter de voorste kap zien. De archiefregistratie van de zwaar getroffen bebouwing op deze hoek noemt in 1940 Bank voor Handel en Transport. De precieze bedrijfsopvolging is nog niet vastgesteld; de twee namen worden daarom niet zonder meer gelijkgesteld. Dit model verbeeldt de herkenbare voorgevel uit de oudere foto’s, niet een exact opgemeten toestand op één dag in 1939. De originele opname blijft naast de AI-kleurinterpretatie beschikbaar.",
+    "photos": [
+      {
+        "src": "landmarks/marx-bank-zuidblaak/foto-1-origineel.jpg",
+        "ai": "landmarks/marx-bank-zuidblaak/foto-1-ai.webp",
+        "title": "Marx & Co’s Bank aan de Zuidblaak · 1908–1912",
+        "shortTitle": "Gevel aan de haven",
+        "date": "1908–1912 volgens archiefbeschrijving",
+        "author": "Anonieme fotograaf",
+        "license": "Publiek domein (PD-anon-70-EU, volgens Commons)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Schepen_in_de_Blaak_met_op_de_achtergrond_de_Zuidblaak,_de_Bank_voor_Handel_en_Transport_en_de_Brouwerijsteeg_1908_-_1912.jpg",
+        "archiveUrl": "https://hdl.handle.net/21.12133/66ED4D2D6A1F4D199C7F96FEFD576D59",
+        "identifier": "Stadsarchief Rotterdam · 66ED4D2D6A1F4D199C7F96FEFD576D59",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Interpretatieve inkleuring. COIFFEUR en de kleine bankopschriften MARX & Co / BANK zijn in het origineel gecontroleerd en in de prompt opgenomen. Kleine letters in de AI-versie zijn geen betrouwbare transcriptie. Scheepsdetails, buren en fijne ornamenten kunnen afwijken; raadpleeg hiervoor het origineel. Exacte kleuren onbekend."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stadsarchief · oorspronkelijke gevel met bankbordjes",
+        "url": "https://commons.wikimedia.org/wiki/File:Schepen_in_de_Blaak_met_op_de_achtergrond_de_Zuidblaak,_de_Bank_voor_Handel_en_Transport_en_de_Brouwerijsteeg_1908_-_1912.jpg",
+        "supports": "Gevel, opschriften en datering 1908–1912. Titel en beschrijving gebruiken verschillende banknamen; geen bewijs van bedrijfsopvolging.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Economisch-Statistische Berichten · advertentie 9 oktober 1918",
+        "url": "https://esb.nu/wp-content/uploads/2022/11/1918_0145.pdf",
+        "supports": "Advertentie Marx & Co’s Bank, adres Zuidblaak 56; geen bewijs van exacte perceelsgrens.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · luchtfoto 1924",
+        "url": "https://hdl.handle.net/21.12133/140045BC33654037855FC19681122913",
+        "supports": "Dakkapel, koepel, ondiepe straatkap en plat achterdak; relatie tot Brouwerijsteeg en Zuidblaak.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · getroffen bankpand in 1940",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_beschadigde_pand_van_de_Bank_voor_Handel_en_Transport_aan_de_Brouwerijsteeg_met_rechts_de_Wijnstraat_en_op_de_achtergrond_het_Witte_Huis_1940.jpg",
+        "supports": "Zwaar getroffen hoekpand na bombardement 14 mei 1940. Opname juni–augustus 1940; rook mogelijk van afbraak, niet het bombardement zelf. Naam in registratie: Bank voor Handel en Transport.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Vooroorlogse bouwblokken en straten voor benaderde plaatsing; kaart uitgegeven 1955.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "wikipediaNote": "Geen passende zelfstandige Wikipedia-pagina over dit bankpand vastgesteld; gebruik de directe bronnen."
   }
 ]

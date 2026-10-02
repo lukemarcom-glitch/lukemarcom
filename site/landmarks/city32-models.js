@@ -72,7 +72,12 @@ export function buildCity32(meta,{material,box,merge}){
   }
   const body=new T.Mesh(new T.CylinderGeometry(r,r,h,t.sides||8),mats[t.wall||'stone']);body.position.y=base+h/2;g.add(body);
   for(let y=base+3;y<base+h-1;y+=t.storey||3.5){if(t.bands!==false){const band=new T.Mesh(new T.CylinderGeometry(r+.14,r+.14,.18,t.sides||8),mats.trim);band.position.y=y;g.add(band);}for(let i=0;i<4;i++)window(part(g,Math.sin(i*Math.PI/2)*(r+.04),Math.cos(i*Math.PI/2)*(r+.04),i*Math.PI/2),0,y-1.5,.04,t.windowWidth||r*.63,t.windowHeight||1.55);}
-  if(t.roofHeight){const cap=new T.Mesh(new T.ConeGeometry(r+.25,t.roofHeight,t.sides||8),mats.roof);cap.position.y=base+h+t.roofHeight/2;g.add(cap)}
+  if(t.roofProfile){
+   // Explicit radius/height samples allow documented curved cupolas without
+   // replacing them with the generic pointed roof used by other towers.
+   const profile=t.roofProfile.map(([radius,y])=>new T.Vector2(radius,base+h+y));
+   g.add(new T.Mesh(new T.LatheGeometry(profile,t.sides||16),mats.roof));
+  }else if(t.roofHeight){const cap=new T.Mesh(new T.ConeGeometry(r+.25,t.roofHeight,t.sides||8),mats.roof);cap.position.y=base+h+t.roofHeight/2;g.add(cap)}
  }
  for(const c of spec.columns||[]){const mesh=new T.Mesh(new T.CylinderGeometry(c.radius||.5,c.radius||.5,c.h,12),mats.trim);mesh.position.set(c.x,c.y,c.z);root.add(mesh)}
  for(const t of spec.trees||[]){

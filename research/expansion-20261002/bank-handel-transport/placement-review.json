@@ -1,0 +1,23 @@
+{
+  "status": "local-model-reviewed-not-published",
+  "mapPixel": [
+    3081,
+    2532
+  ],
+  "uncertaintyMeters": 20,
+  "insideWorkBoundary": true,
+  "overlaps": [],
+  "checks": [
+    "Negen tests en cataloguscontrole geslaagd,114 gebouwen/262 fotos/242 paren.",
+    "Gerichte desktop/mobiel/lichtbak/Nu3D-controle zonder JS/HTTP-fouten of overflow.",
+    "Algemene browsercontrole geslaagd.",
+    "Koepel/dakkapel gespiegeld gecorrigeerd na eerste screenshot; nieuwe modelopname bekeken.",
+    "GLB opnieuw uit actuele geometrie geëxporteerd; achtergrond opnieuw uitgesneden."
+  ],
+  "limitations": [
+    "Voorste massa alleen; achterbouw ontbreekt.",
+    "Naam bedrijfsopvolger niet vastgesteld.",
+    "Koepelraampjes/ornamentiek vereenvoudigd.",
+    "Plaatsing en maatvoering benaderd, niet kadastraal bewezen."
+  ]
+}

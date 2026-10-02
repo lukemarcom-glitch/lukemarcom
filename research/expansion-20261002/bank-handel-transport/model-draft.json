@@ -4,15 +4,15 @@
   "name": "Marx & Co’s Bank — gevelstudie",
   "modelFamily": "city33",
   "center": [
-    89.3402489667551,
-    -69.73893499172505
+    89.30417248812455,
+    -62.552815225913946
   ],
   "angle": 3.431592653589793,
   "height": 25,
   "positionUncertaintyMeters": 20,
   "mapPixel": [
     3081,
-    2544
+    2532
   ],
   "modelSpec": {
     "colors": {
@@ -42,7 +42,7 @@
         "windows": false
       },
       {
-        "x": 8,
+        "x": -8,
         "z": 3.4,
         "w": 5.1,
         "d": 5.2,
@@ -53,75 +53,53 @@
         "windows": false
       },
       {
-        "x": -11.5,
-        "z": 3.4,
-        "w": 3.5,
-        "d": 3.5,
-        "base": 15,
-        "h": 3.5,
+        "x": -2,
+        "z": 4.4,
+        "w": 2.6,
+        "d": 2,
+        "base": 15.5,
+        "h": 2.4,
+        "roof": "hip",
+        "roofHeight": 1.1,
+        "windows": false
+      },
+      {
+        "x": 6,
+        "z": 4.4,
+        "w": 1.5,
+        "d": 1.8,
+        "base": 15.2,
+        "h": 1.8,
+        "roof": "hip",
+        "roofHeight": 1,
+        "windows": false
+      },
+      {
+        "w": 27.1,
+        "d": 12.1,
+        "h": 5.4,
         "roof": "none",
+        "wall": "stone",
         "windows": false
       }
     ],
     "facadeWindows": [
       {
-        "x": -8,
+        "x": 8,
         "z": 6.04,
         "y": 3.5,
         "w": 2.7,
         "h": 3.1
       },
       {
-        "x": -8,
+        "x": 8,
         "z": 6.04,
         "y": 8,
         "w": 2.7,
         "h": 3.1
       },
       {
-        "x": -8,
-        "z": 6.04,
-        "y": 12.2,
-        "w": 2.7,
-        "h": 3.1
-      },
-      {
-        "x": -4,
-        "z": 6.04,
-        "y": 3.5,
-        "w": 2.7,
-        "h": 3.1
-      },
-      {
-        "x": -4,
-        "z": 6.04,
-        "y": 8,
-        "w": 2.7,
-        "h": 3.1
-      },
-      {
-        "x": -4,
-        "z": 6.04,
-        "y": 12.2,
-        "w": 2.7,
-        "h": 3.1
-      },
-      {
-        "x": 0,
-        "z": 6.04,
-        "y": 3.5,
-        "w": 2.7,
-        "h": 3.1
-      },
-      {
-        "x": 0,
-        "z": 6.04,
-        "y": 8,
-        "w": 2.7,
-        "h": 3.1
-      },
-      {
-        "x": 0,
+        "x": 8,
         "z": 6.04,
         "y": 12.2,
         "w": 2.7,
@@ -149,25 +127,96 @@
         "h": 3.1
       },
       {
-        "x": 8,
+        "x": 0,
         "z": 6.04,
         "y": 3.5,
         "w": 2.7,
         "h": 3.1
       },
       {
-        "x": 8,
+        "x": 0,
         "z": 6.04,
         "y": 8,
         "w": 2.7,
         "h": 3.1
       },
       {
-        "x": 8,
+        "x": 0,
         "z": 6.04,
         "y": 12.2,
         "w": 2.7,
         "h": 3.1
+      },
+      {
+        "x": -4,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -4,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -4,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -8,
+        "z": 6.04,
+        "y": 3.5,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -8,
+        "z": 6.04,
+        "y": 8,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -8,
+        "z": 6.04,
+        "y": 12.2,
+        "w": 2.7,
+        "h": 3.1
+      },
+      {
+        "x": -8,
+        "z": 6.08,
+        "y": 17,
+        "w": 3.4,
+        "h": 2.1
+      },
+      {
+        "x": -2,
+        "z": 5.45,
+        "y": 16.7,
+        "w": 1.7,
+        "h": 1.9
+      },
+      {
+        "x": -11.65,
+        "z": 6.08,
+        "y": 2.65,
+        "w": 1.6,
+        "h": 4.5,
+        "arched": true
+      },
+      {
+        "x": 6,
+        "z": 5.35,
+        "y": 16,
+        "w": 0.8,
+        "h": 1.2
       }
     ],
     "accents": [
@@ -194,15 +243,122 @@
         "d": 0.18,
         "h": 0.24,
         "material": "stone"
+      },
+      {
+        "z": 6.09,
+        "y": 6.2,
+        "w": 27,
+        "d": 0.12,
+        "h": 0.13,
+        "material": "stone"
+      },
+      {
+        "z": 6.09,
+        "y": 7.7,
+        "w": 27,
+        "d": 0.12,
+        "h": 0.13,
+        "material": "stone"
+      },
+      {
+        "z": 6.09,
+        "y": 9.2,
+        "w": 27,
+        "d": 0.12,
+        "h": 0.13,
+        "material": "stone"
+      },
+      {
+        "z": 6.09,
+        "y": 10.6,
+        "w": 27,
+        "d": 0.12,
+        "h": 0.13,
+        "material": "stone"
+      },
+      {
+        "z": 6.09,
+        "y": 12.1,
+        "w": 27,
+        "d": 0.12,
+        "h": 0.13,
+        "material": "stone"
+      },
+      {
+        "z": 6.09,
+        "y": 13.6,
+        "w": 27,
+        "d": 0.12,
+        "h": 0.13,
+        "material": "stone"
+      }
+    ],
+    "towers": [
+      {
+        "x": 11.5,
+        "z": 4.7,
+        "radius": 1.85,
+        "base": 0,
+        "h": 18.5,
+        "wall": "brick",
+        "storey": 4.3,
+        "windowWidth": 1.4,
+        "windowHeight": 2.5,
+        "sides": 8,
+        "roofProfile": [
+          [
+            2.25,
+            0
+          ],
+          [
+            2.05,
+            0.3
+          ],
+          [
+            1.9,
+            0.7
+          ],
+          [
+            1.75,
+            1.6
+          ],
+          [
+            1.5,
+            2.6
+          ],
+          [
+            1.05,
+            3.4
+          ],
+          [
+            0.65,
+            3.7
+          ],
+          [
+            0.55,
+            4.1
+          ]
+        ]
+      },
+      {
+        "x": 11.5,
+        "z": 4.7,
+        "radius": 0.6,
+        "base": 22.6,
+        "h": 1,
+        "wall": "dark",
+        "roofHeight": 0.8,
+        "sides": 8,
+        "bands": false
       }
     ]
   },
   "notes": [
     "Alleen voorste bouwmassa. Achtervleugels/binnenplaats niet geraden.",
-    "Voorkant kijkt noordwaarts; lokale x positief verschijnt links in frontaal beeld.",
-    "Gekromde koepel nog niet gemodelleerd: bestaande conische toren is geen passende vervanging.",
     "Afmetingen uit kaart/foto benaderd, geen opmetingen.",
     "Bronfoto1908–1912; luchtfoto1924 toont dezelfde voorste dakkapel/koepel met plat achterdak. Geen verbouwing bewezen.",
-    "Plaatsingskandidaat perceel33 op kaart; nog niet vrijgegeven voor runtime."
+    "Plaatsingskandidaat perceel33 op kaart; nog niet vrijgegeven voor runtime.",
+    "Gebogen koepel met expliciet profiel, benaderd naar foto; spits en raamindeling vereenvoudigd.",
+    "Frontale browsercontrole: x-tekens gecorrigeerd zodat koepel rechts staat zoals originele foto."
   ]
 }
