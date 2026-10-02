@@ -25,41 +25,28 @@ De website toont de brede Oppertgevel met caption SchuilkerkOppert. De afbeeldin
 
 Commonskerkcategory heeft slechts6items:4ruïnebeelden,1interieurfoto356×500 en1doorsnedetekening485×623. Dit is dus geen pakket van6heleintactegevels. [Category](https://commons.wikimedia.org/wiki/Category:Laurentius_%26_Maria_Magdalena_(1698_-_1940)_(Rotterdam)). Verheul1939doorsnede kan geometrie ondersteunen, niet als historische foto dienen.
 
-## Nog ontbrekend / gerichte volgende stap
+## Actuele kaartidentificatie en plaatsing
 
-1. Intacte kerkfrontfoto aanLangeTorenstraat (secundaire gevelbeschrijving: slechts7m breed, grootroosvenster, baksteen/deelspleister). Zoek inventaris bij SAR of het boek J.Verheul1939 *De Oud-Katholieke Gemeente en haar oude kerkgebouw aan de Lange Torenstraat te Rotterdam*.
-2. Historische huisnummerkaart voor47LangeTorenstraat (47 is voorlopig secundairadres) en107Oppert, om verbonden complexcontour te bewijzen. Geen moderne geocodering of Wikipediapunt als footprint.
-3. Verliesbewijs pastorie zelf als die met eigen foto/3D wordt toegevoegd; de kerkverwoesting alleen bewijst nog niet elk bijpand.
-4. Echte materiaal/kleurbron ontbreekt. Zwart-wit toont baksteen en lichte kozijnen, geen exacte kleuren.
+Huisnummerkaart Z8/sectie K (1938): https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB . `number-check.jpg` is een sterk vergroot detail dat door plaatsingsagent en hoofdagent visueel is gelezen.
 
-Daarom eerst reserve, niet geforceerd een verkeerd gefotografeerd gebouw toevoegen.
+- **Oppert107 = perceel776**, de brede pastorievoorbouw.
+- **Oppert109 = de aangrenzende smalle voorbouw/entree op771**. De aquarel beschrijft de totale gevel als107–109. De precieze opname van deze strook in het model wordt nog uitgewerkt.
+- Oppert103 en105 zijn buurpercelen en behoren niet tot het pastoriemodel.
+- De blauwe kerkcontour achter776 draagt **2099**. Eerdere lezing1209 is verworpen.
+- Geen bewezen huisnummer aan de Lange Torenstraat. Het eerder genoemde47 mag niet worden gebruikt.
 
-## Kaartdoorbraak: pastorie en kerk vormen ruimtelijk één complex
+`placement-draft.json` en `placement-overlay.jpg` zijn onderzoeksbestanden. Voorbouw776: center[-105.228476,461.654808], front11.94m, diepte13.42m, angle2.300768004 (lokale+z-gevel naar Oppert). Handmatige matching met werkkaart, positie±5m. Achterkerk apart met±6m; geen nauwkeurige kadastrale GIS-meting. Hoofdagent heeft beide beelden bekeken. De contour van771 en gevelverhouding worden aanvullend gecontroleerd voordat een complete gevel wordt gebouwd.
 
-1938huisnummerkaart **Z8/sectieK**, https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB , volledige scan nu `house-map-Z8.jpg` (overgenomen uit parallel Hollenkamponderzoek, niet opnieuw nodig). `z8-complex-detail.jpg` is180°gedraaid detail; `z8-oppert-crop.jpg` omgevingscontext.
+## Nog vereist voor toevoeging
 
-Oppert107 correspondeert met breed voorpand **perceel776** (de gevel omvat ook nummers103/105 volgens kaartlezing;103/105 nog onafhankelijk controleren). Direct erachter sluit langgerekt blauw ingevuld **perceel1209** aan, doorlopend tot LangeTorenstraat. Blauw betekent hier monumentaal/openbaar gebouw, geen water: de Laurenskerk heeft dezelfde invulling. De smalle passage aan de zijkant lijkt **771**. Dit onderbouwt de topologische verbinding van pastorieOppert naar kerkLangeTorenstraat, maar vormt nog geen ingemeten buitencontour.
+1. Pandgebonden bewijs dat de pastorie zelf in het bombardement of de daaropvolgende brand verloren ging. Kerkverlies is bewezen, maar is nog geen zelfstandig bewijs voor de gehele voorbouw.
+2. Definitieve gevelbreedte inclusief of exclusief de smalle109-entree; raamassen en deurpositie rechtstreeks uit vrije foto en aquarel vergelijken.
+3. Na modelbouw: volledige meshoverlap, achtergrondclip, GLB/live-overeenkomst, foto/AI en desktop/mobiele verificatie.
 
-**Correctie:** het secundaire47LangeTorenstraat mag niet worden gebruikt; het ligt elders/andere straatzijde en houdt waarschijnlijk verband met het Paradijs. Kaartnummer bij eigenkerkfront is klein/onduidelijk; nog geen nummerclaim. De brede Oppertfoto dient dus als pastoriefront binnen kerkcomplex, niet als kerkfront aanLangeTorenstraat. Voor eigenlijke kerkgevel blijft een intacte vrije foto gewenst.
-
-## Plaatsingsdraft pastorie en kerk
-
-`placement-draft.json`, `place-draft.py` en visueel gecontroleerde `placement-overlay.jpg` registreren beide volumes afzonderlijk. Pastorie: center `[-105.228476,461.654808]`, front circa11.94m en diepte13.42m. Modelhoek zo gekozen dat lokale +z-gevel naar de historischeOppert/noordoost wijst. Positie±5m. Kerkcontour contextueel met±6m, zonder ongezien gevelmodel. Rood=goed gefotografeerde pastorie776, blauw=kerk1209. De grote voorbouw en langgerekte achterbouw zijn op beide kaarten onafhankelijk herkenbaar door hun buren/inspringingen. Dit is een handmatige kaartmatching, geen exacte kadastrale GIS-inmeting. Na modelbouw moet volledige mesh (daklijsten/fronton) opnieuw overlapgetoetst worden.
-
-Dubbele nummering103/105/107 blijft kaartlezing van één brede voorbouw; geen reden om drie afzonderlijke gevels te verzinnen. Primair bewezen historische aanduiding isOppert107; zichtbare109/111 horen bij buur links opde foto.
+De schuilkerk hoeft niet te worden verzonnen als alleen de pastorie wordt toegevoegd. Een kerkmodel vereist eigen voldoende buitenvormbewijs. Vrije RCEfoto en AI-proef zijn beschikbaar; nog geen runtime-item.
 
 ## Kleur- en dakbron rechtstreeks bekeken — 2 oktober 2026
 
 SAR4080 **XVIII-410-02**, Raoul (E.A.R.) Hermans, datering1940, geeft de hele pastorie frontaal in kleur. Record noemt **Oppert107–109**, dus voorlopige103/105-kaartlezing nog niet publiceren. Rechtstreeks in archiefviewer bekeken; bruikbaar als vorm- en kleurreferentie. Donkerbruin metselwerk, lichte kozijnen/lijst/fronton, donkerblauwgroene deuren, donker hek. Boven de kroonlijst een pannendak met twee dakkapellen en twee schoorstenen. Kleuren blijven artistieke waarneming, geen verfmonster. Rechten bij Hermans en downloadbaarNee: niet als extra publieksafbeelding gekopieerd. Vrije RCEfoto blijft het originele fotopaar. Volledige registratie en directe links: `hermans-colour-reference.json`.
 
 Verwerving bevestigd in Rotterdams Jaarboekje1941pLVI, via rechtstreeks gelezen PDF. De aquarel bewijst op zichzelf niet wanneer of hoe het pand verloren ging. BeeldcontroleAI01 blijft een eerste proef; donkerblauwgroene deuren sluiten aan, exacte tinten en blauwe raamhorren vragen verdere vergelijking.
-
-### CORRECTIE na sterk vergrote huisnummercontrole (leidend boven eerdere notities)
-
-`number-check.jpg` maakt duidelijk: **Oppert107 alleen is perceel776**. Nummers103 en105 zijn afzonderlijke buurpercelen, dus de eerdere dubbele-nummeringshypothese vervalt. Nummer109 is de smalle entree/voorbouw op771 direct naast776. De aquarelcaption107–109 kan die entree meetellen; nog niet extra bouwvolume zonder gevel/kaartvergelijking. Pastoriecontour776 blijft gelijk.
-
-Het blauwe kerkperceel is bij vergroting **2099**, niet1209 zoals eerder te snel gelezen. Het is een administratieve nummercorrectie, geen verplaatsing van de ingetekende kerk. `placement-draft.json` en overlay zijn bijgewerkt. Huisnummerkerk aanLangeTorenstraat nog niet vastgesteld.
-
-## Vergrote nummercontrole — correctie voorlopige kaartlezing
-
-Plaatsingsagent heeft number-check.jpg opnieuw vergroot gelezen: perceel776 draagt107;103/105 horen bij afzonderlijke buurpercelen1669/2497. Nummer109 ligt op de aangrenzende smalle strook771 en kan de tweede entree verklaren. De boven vermelde kerkperceellezing1209 is **niet bevestigd**; vergroting lijkt2099 te geven. Gebruik1209 niet als vaststaand perceelnummer. Georeferentie en zelfstandige beeldcontrole volgen; historische aquarel blijft107–109 voor de complete gevel benoemen.

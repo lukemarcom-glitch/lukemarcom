@@ -1,0 +1,165 @@
+{
+  "id": "oppertse-kerk-pastorie",
+  "researchOnly": true,
+  "pastorie": {
+    "historicAddress": "Oppert107",
+    "parcel": "776",
+    "workingMapPolygon": [
+      [
+        2763.0,
+        1638.5
+      ],
+      [
+        2776.2,
+        1653.5
+      ],
+      [
+        2758.7,
+        1668.0
+      ],
+      [
+        2746.3,
+        1652.7
+      ]
+    ],
+    "polygon": [
+      [
+        -104.10307852220886,
+        470.4554545896419
+      ],
+      [
+        -96.14125982230338,
+        461.55824088949146
+      ],
+      [
+        -106.59332303776878,
+        452.7617454054633
+      ],
+      [
+        -114.07624224954198,
+        461.843790039584
+      ]
+    ],
+    "center": [
+      -105.22847590795575,
+      461.65480773104514
+    ],
+    "angle": 2.3007680038073928,
+    "widthMeters": 11.939471036704633,
+    "depthMeters": 13.418856425191574,
+    "uncertaintyMeters": 5
+  },
+  "church": {
+    "historicAddress": "LangeTorenstraat, huisnummer niet bevestigd",
+    "parcel": "2099",
+    "workingMapPolygon": [
+      [
+        2746.3,
+        1652.7
+      ],
+      [
+        2758.7,
+        1668.0
+      ],
+      [
+        2718.5,
+        1701.0
+      ],
+      [
+        2705.7,
+        1686.9
+      ],
+      [
+        2710.0,
+        1682.0
+      ],
+      [
+        2707.9,
+        1679.6
+      ],
+      [
+        2741.0,
+        1652.0
+      ]
+    ],
+    "polygon": [
+      [
+        -114.07624224954198,
+        461.843790039584
+      ],
+      [
+        -106.59332303776878,
+        452.7617454054633
+      ],
+      [
+        -130.60413307645996,
+        432.73972457327386
+      ],
+      [
+        -138.32334534041937,
+        441.10056826090084
+      ],
+      [
+        -135.75914404366645,
+        444.06273192516676
+      ],
+      [
+        -137.02583801464982,
+        445.4863637862883
+      ],
+      [
+        -117.25703098644483,
+        462.22867650791534
+      ]
+    ],
+    "uncertaintyMeters": 6
+  },
+  "entry109": {
+    "historicAddress": "Oppert109",
+    "parcel": "771 front only",
+    "workingMapPolygon": [
+      [
+        2776.2,
+        1653.5
+      ],
+      [
+        2780.2,
+        1658.0
+      ],
+      [
+        2769.0,
+        1667.4
+      ],
+      [
+        2764.9,
+        1662.6
+      ]
+    ],
+    "polygon": [
+      [
+        -96.14125982230338,
+        461.55824088949146
+      ],
+      [
+        -93.72872414232693,
+        458.88933567643755
+      ],
+      [
+        -100.41768383543838,
+        453.18771736900146
+      ],
+      [
+        -102.89109660239275,
+        456.0356283337226
+      ]
+    ],
+    "scope": "Narrow photographed left entrance zone; only first8.8m depth, not entire771or2041reararea",
+    "widthMeters": 3.597691404696319,
+    "depthMeters": 8.789233931336685
+  },
+  "source": "SAR4001/40110-Z8/sectieK1938",
+  "sourceUrl": "https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB",
+  "method": "Manual boundary matching of distinctive broad pastorie776 and long rear church2099 betweenSintJacobstraat andMeent. Registered through existingworkingmap affine transform. Not a cadastralGISsurvey. Frontmodel positivez faces northeast/Oppert.",
+  "addressNote": "Oppert107 is independently proven by1915monumentenlijst as pastorie. EnlargedZ8clearlyassigns107only to776;103and105 are separate neighbourparcels. 109 is narrow771adjacent; watercolourcaption107-109 may include thisentry. Primary1915monumentenlijst explicitly107. Do notcount103/105aspartofpastorie. Church2099 is bestreading afterenlargement.",
+  "scope": "Placeable pastorie only, photographed facade. Churchfootprint is contextual research; do not invent its unseenfront. Individualpastorieloss still pending parentresearch."
+}
