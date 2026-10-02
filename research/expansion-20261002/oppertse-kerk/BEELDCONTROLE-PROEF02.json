@@ -1,0 +1,7 @@
+{
+  "selected": false,
+  "tool": "built-in image_gen",
+  "prompt": "PROMPT-AI-02.txt",
+  "file": "pastorie-ai-proef02.png",
+  "review": "Compared against RCEoriginal and previousAI. Overall geometry preserved, but cartouche lettering/year is less faithful (new distorted letterforms instead of reliable1791); no improvement sufficient to replaceAI01. Decorative door handles enhanced. Do not integrate02; retain01 with explicit smalltext/sculpture uncertainty. KnownSoliDeoGloria/1791 included in02prompt but output does not prove them."
+}
