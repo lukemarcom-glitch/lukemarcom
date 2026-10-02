@@ -1,0 +1,15 @@
+{
+  "status": "proef-niet-goedgekeurd",
+  "tool": "built-in image_gen",
+  "source": "146389681.jpg",
+  "output": "ai-proef-01.png",
+  "prompt": "PROMPT-01.txt",
+  "checked": "2026-10-02",
+  "findings": [
+    "Hoofdvolume, asymmetrische kap en rechter koepel herkenbaar behouden.",
+    "COIFFEUR leesbaar; kleine bankbordjes en buurteksten bevatten onbetrouwbare lettervormen.",
+    "Extra scherpe figuren en winkelinterieurs links zijn niet uit de bron te onderbouwen.",
+    "Baksteen- en steenkleuren zijn interpretatief; geen betrouwbare kleurbron gevonden."
+  ],
+  "next": "Gerichte correctie met origineel als hoofdreferentie; geen catalogus/publicatie vóór hercontrole."
+}
