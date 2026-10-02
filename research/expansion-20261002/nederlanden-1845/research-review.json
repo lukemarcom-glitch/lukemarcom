@@ -41,5 +41,25 @@
     "original-2.jpg": "9c8e079543589d445e5c580db60cfa266d9701ff22a5ec43b5ef189bbcac52b3",
     "original-1.jpg": "1a6c49a053db2b4762e55b383cba882c9e8ac325d55ea6574ef3b87d200d15fe",
     "ai-proef-01.png": "4a10578c1b6c6955bf699a5f5f2f33d208be64595ff64e9da60673d4a2ce6f37"
+  },
+  "secondPair": {
+    "original": "original-2.jpg",
+    "ai": "ai-proef-02.png",
+    "prompt": "PROMPT-02.txt",
+    "status": "needs-small-text-correction-before-publication",
+    "review": "Hoofdgeveltekst en boven-/ondercaption goed leesbaar; kleine raambordjes overmatig ingevuld door AI. Niet als afgerond beeld behandelen."
+  },
+  "aerial": {
+    "file": "omgeving-1924.jpg",
+    "source": "https://hdl.handle.net/21.12133/140045BC33654037855FC19681122913",
+    "author": "KLM Aerocarto",
+    "date": "1924",
+    "rights": "CC0 volgens opgeslagen Commonsregistratie aerial-source.json",
+    "review": "Gevel met twee erkers en dakvenster herkenbaar middenvoor. Oriëntatie en Molsteeg nog op kaart vastleggen; foto toont verdwenen postkantoor (in1939 reeds weg), geen verwisseling met huidige toestand."
+  },
+  "modelDraft": {
+    "path": "model-draft.json",
+    "status": "unplaced-not-validated",
+    "note": "Voorlopige gevelvolumes naar foto; center0,0 is geen kaartpositie. Nog niet gerenderd of geïntegreerd."
   }
 }
