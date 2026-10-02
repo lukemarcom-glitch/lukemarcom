@@ -210,3 +210,7 @@ Heck'sCityLunchroomNoordblaak71 vervangtvoorlopigVanRossem alsvijfdeinronde4. Tw
 ## Ronde 5 — aangescherpte selectie (in onderzoek)
 
 Alle nieuwe kandidaten vereisen pandgebonden bewijs van verlies bij bombardement/brand in mei1940. Bestaande Schielandshuis/Erasmushuis blijven staan maar tellen niet als nieuwe kandidaten. Nieuwehaven89: RCEfoto20192314 april1933, CC BY-SA4; Boijmansjaarverslag1940 pp2–4 beschrijft berging na14mei en noemt gevelstukken89 uithetpuin. Historische plaatsing wordt afzonderlijk getoetst; nog niet in runtime. Meyer&Blessing: aanvullende broncontrole loopt. Geen nieuwe locatie als afgerond tellen vóór bron/beeld/model/plaatsing/browsertest en publicatiecontrole.
+
+## Ronde 5 — lokaal afgerond, publicatiecontrole volgt
+
+Nieuwehaven89 (2fotoparen), Meyer&Blessing Noordblaak (1), Spinolahuis (1), Corso Coolsingel (1) en Meddens Hoogstraat (1). Alle vijf hebben specifiek verliesbewijs mei1940, gecontroleerde historische plaatsing, model/GLB/Blend, originele beelden en afzonderlijke AI-interpretaties. Meddensgalerie1903 toont bewust toestand vóór1929puiwijziging; model volgtlaterepui. Benaderingen blijveninpaneltoegelicht. Totaal132locaties/18verhalen lokaal. Volgende backup bij30gepubliceerde toevoegingen; laatste backup20 blijft ongewijzigd.

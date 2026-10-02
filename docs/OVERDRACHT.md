@@ -278,3 +278,23 @@ Publicatie bevestigd: fe864836018a42eabcd3c5486904d65b0eba7603, Pages37044501604
 ## Ronde5 voortgang — nog lokaal
 
 Nieuwehaven89 geïntegreerd als128e locatie; tweeorigineel/AIparen, geselecteerde kleurproeven02 met prompts03/04 na inspectieVerheul1935. Verliesmei1940 bevestigd inBoijmansjaarverslagp2–4. Parentplaatsing/kaartscreenshot bekeken, geenlosmodeloverlap. Agentnpmcheck/browsertests geslaagd; nieuwebeeldassets noglaatstecontrole. Publieke teller blijft20 toevoegingen (127locaties); NH89 nog niet gepubliceerd. Meyer&Blessing modeldraft enSpinolahuis bronpakket gereed inresearch. Meuwsenreserve, individueelverliesbewijsnogtezwak. Geenoverlevendepanden nieuwtoevoegen.
+
+## Ronde5 — Meyer & Blessing lokaal geïntegreerd
+
+129e locatie, meyer-blessing-noordblaak. Verwoesting winkelpand14mei1940 onderbouwd door DBNLlevensbericht p173; historische Noordblaak67/perceel1441 op kaart1938 naast Heck. Geen modern winkeladres. Model3416driehoeken, GLB/Blend,6mplaatsingsonzekerheid; hoogten/achterzijde/kleuren benaderd. Eén origineel/AIpaar PBK7011939 met exacte prompt en PD-anon70beoordeling (geen archiefCCclaim). Achtergrond vrijgemaakt, geheleenvelope binnenwerkgrens, geen model-/achtergrondoverlap. Npmcheck10/10 en gerichte desktop/mobiel/lichtbak/Nu3D-tests geslaagd; screenshots bekeken. Details research/expansion-20261002/meyer-blessing/INTEGRATIE.md. Nog niet gepubliceerd; publieke teller blijft20toevoegingen.
+
+### 2 oktober 2026 — Corso Cinema aan de oude Coolsingel
+
+- Corso toegevoegd als 131e locatie: aantoonbaar verwoest op 14 mei 1940 (direct artikel Joods Erfgoed; aanvullende NA-annotatie). Historisch Coolsingel 89, perceel 2289 op huisnummerkaart Z4/1938, niet naoorlogs Corso aan de Kruiskade.
+- Eén origineel/AI-paar, SAR 4282/2001-1182 april 1936, Vereenigde Fotobureaux, expliciete Public Domain Mark 1.0. Origineel behouden, master/webvariant/prompt opgeslagen. Kleine afficheletters, gezichten en belichting blijven als AI-interpretatie gemarkeerd.
+- Licht model met donkere entree, drie banen in het centrale venster en CORSO-dakletters. Voorbouw circa 15.6m plus dak, laag sober zaalvolume; hoogtes/kleuren en verborgen zaal zijn schattingen. Circa10m positie-onzekerheid; L-uitbouw niet precies gereconstrueerd.
+- Model/GLB geëxporteerd, achtergrond opnieuw uitgesneden. Bronpolygon- en conservatieve geprojecteerde meshcontrole geen overlap met nabije losse modellen. Kaartpreview bekeken. npm check10/10 en reguliere browsercheck geslaagd. Geen commit/push door deze subtaak.
+- Research/herleidbare bronnen en reproduceerbare modeldraft: `research/expansion-20261002/corso-coolsingel/`; aanvullende selectie Meddens/NutderZeevaart/Meuwsen: `research/expansion-20261002/round5-candidates/aanvullende-selectie.md`.
+
+## Ronde5 — Meddens & Zoon lokaal geïntegreerd
+
+132e locatie, meddens-hoogstraat. MuseumRotterdamherdenkingsbord90496 bevestigt verwoesting14mei1940. HoekHoogstraat/Vlasmarkt uit primaire bedrijfsverpakking en historischekaart;14×16mvoorbouw,10mplaatsingsonzekerheid, geenblindeextrusievanallepercelen. Foto1903explicietvóór1929puiwijziging, modelmetlaterhoekentreeopbasisMaasbode21sep1929enonderzoeksbeeld1930. Eénorigineel/AIpaar metprompt en PD-anon70beoordeling; geenonbewezenrechtenclaimbij1930foto,dieblijftresearch. Geometrische MEDDENS EN ZOON-band en centrale finialtoegevoegd. Hoogtecirca28mgeschat, ornamentenvereenvoudigd.5668driehoeken,GLB/Blend,geenmodel-/achtergrondoverlap,binnengrens. Npmcheck10/10. Geencommit/publicatiedooragent.
+
+## Ronde5 gezamenlijke eindcontrole
+
+Parent heeft alle vijf modelbeelden en foto-AIparen bekeken. Bestaande catalogitems semantisch ongewijzigd; alleen vijf toevoegingen sinds publieke127locaties. NH89kleurcorrectie opnieuw in mobielelichtbak getest. Alle modellen gecontroleerd op bronpositie/overlap; voor elk gerichtebrowsercontrole. App/catalog/achtergrondcache naarround5-20261002. Geenonbekendrecht1930Meddensbeeldgepubliceerd. Release volgt na volledige browsercontrole; pas daarna externebytecontrole.

@@ -1,0 +1,11 @@
+# Meddens & Zoon — lokale integratie
+
+132e locatie, meddens-hoogstraat. Catalogus6directesources/supports,153woordenverhaal. MuseumRotterdam90496pandverlies14mei1940gecontroleerd. PD-anon70beoordeling van1903archiefbeeld expliciet; geenarchiefCCclaim. AI1903nietomgebouwdnaar1929. Origineelongewijzigd,PNG/WebP/promptgekoppeld.1930onderzoeksfoto nietmeegepubliceerdwegensonbevestigdemaker/rechten.
+
+Voorbouw14×16m,center[-59.964906,161.013582],angle-2.84788149;10monzekerheid. HoekHoogstraat/Vlasmarktvolgtprimairekaart/bedrijfsverpakking. Samengesteldepercelennietexactvastgesteld; achterzijdebewustniettotSteigerdoorgebouwd. Bronvergelijking1903/1930toontzelfdebovenbouw,gewijzigdepui. Modelvolgtlaterehoekentree,bronsinterpretatiealleenpui. Gevelornament/heraldiekvereenvoudigd. Parentvroegnaam/spits:MEDDENS EN ZOONgeometrischleesbaarenmetalenfinialtoegevoegd;hoogtecirca28mgeschat.5668driehoeken,GLB/Blenduitzelfdegeometry.
+
+integration-spatial.json:binnenwerkgrens,geenlosmodeloverlap,0m²achtergrondoverlap. npmruncheck10/10.
+
+Wijzigingen:nieuweruntimedir,catalog.json,model-landmarks.json,docsOVERDRACHT. Geenappcachewijziging,geencommit/push. Parentverzorgtgezamenlijkepublicatie.
+
+Gerichte browsercontrole afgerond:132gebouwen/18verhalen,geenJSfoutenofmislukteverzoeken,geenmobieleoverflow,fotopaar/lichtbak/Nu3Dgoed. Screenshot artifacts/expansion-20261002/meddens-hoogstraat-model.png en round1-meddens-hoogstraat/mobile-image-viewer.png zelfbekeken. AI1903label en afwijkende1929pui-context zichtbaar. Modelkaartbeeld toont naastliggende bestaande straatmodellen; parent dient gezamenlijke eindweergave mee te beoordelen.

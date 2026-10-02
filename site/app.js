@@ -10,8 +10,8 @@ import {createPanel} from './landmarks/panel.js?v=search-water-1';
 const $=id=>document.getElementById(id);
 const loading=$('loading');
 async function start(){
- const response=await fetch('./data/model-landmarks.json?v=round4-20261002'); if(!response.ok)throw Error('Modelbestand ontbreekt');const model=await response.json();
- const catalog=await (await fetch('./landmarks/catalog.json?v=round4-20261002')).json();
+ const response=await fetch('./data/model-landmarks.json?v=round5-20261002'); if(!response.ok)throw Error('Modelbestand ontbreekt');const model=await response.json();
+ const catalog=await (await fetch('./landmarks/catalog.json?v=round5-20261002')).json();
  const storiesResponse=await fetch('./stories/catalog.json?v=sources-1');if(!storiesResponse.ok)throw Error('Verhalenbestand ontbreekt');const stories=resolveStoryLocations(await storiesResponse.json(),catalog);
  $('landmark-count').textContent=`${catalog.length} gebouwen & plekken`;
  const scene=new THREE.Scene();scene.background=new THREE.Color('#e8e8df');

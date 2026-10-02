@@ -1,0 +1,18 @@
+[
+  {
+    "src": "landmarks/meyer-blessing-noordblaak/foto-1-origineel.jpg",
+    "ai": "landmarks/meyer-blessing-noordblaak/foto-1-ai.webp",
+    "aiMaster": "landmarks/meyer-blessing-noordblaak/foto-1-ai.png",
+    "title": "Noordblaak met Meyer & Blessing naast Heck’s · 1939",
+    "shortTitle": "Winkel aan de Blaak",
+    "date": "1939",
+    "author": "Anonieme fotograaf; uitgever Gebr. Spanjersberg",
+    "identifier": "Stadsarchief Rotterdam, 4029, PBK-701",
+    "collection": "Stadsarchief Rotterdam, prentbriefkaarten",
+    "license": "Publiek domein beoordeeld op basis van de anonieme, openbaar uitgegeven prentbriefkaart van meer dan 70 jaar oud (PD-anon70). Het archief noemt anoniem en downloadbaar, maar vermeldt zelf geen PDM- of CC-licentie.",
+    "url": "https://hdl.handle.net/21.12133/7D41CEF3C9144420843BC98FBC8D7828",
+    "sourceChecked": "2026-10-02",
+    "aiLabel": "AI in kleur",
+    "aiNote": "Afzonderlijke AI-kleurinterpretatie, geen authentieke kleurenfoto. MEYER & BLESSING en de aanwezige bijschriften zijn in de prompt gecontroleerd; door takken verborgen letters blijven verborgen. Kleine tekst, gezichten, reflecties en kleuren kunnen afwijken. Het ongewijzigde origineel blijft de historische bron."
+  }
+]
