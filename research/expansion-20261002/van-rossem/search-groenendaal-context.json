@@ -1,0 +1,914 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "sroffset": 100,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 265
+    },
+    "search": [
+      {
+        "ns": 6,
+        "title": "File:Steengoed jacobakan, kan, op geknepen voet, objectnr 14005-61.JPG",
+        "pageid": 87735933,
+        "size": 1331,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2022-11-24T14:05:35Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment steengoed mineraalwaterkruik, gemerkt, objectnr 14176-46(2).JPG",
+        "pageid": 89470644,
+        "size": 1552,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T23:23:28Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Groenendaal in Rotterdam, RP-P-1938-1297.jpg",
+        "pageid": 84001198,
+        "size": 1514,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2025-12-08T06:47:44Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk steelpan met geschulpte steel en gebolde bodem, objectnr 14005-28.JPG",
+        "pageid": 88807411,
+        "size": 1291,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:40:58Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kamerpot op standring, bandoor, geglazuurd, bol en dubbel conisch van vorm, objectnr 14005-26.JPG",
+        "pageid": 88807371,
+        "size": 1386,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:07Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Diepe aardewerken vergiet met twee handgrepen, versierd in slibvloeitechniek, objectnr 19527.JPG",
+        "pageid": 88808214,
+        "size": 1320,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-04-29T05:19:08Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Houten duig van kuip met keep voor bodem, objectnr 14005-89.JPG",
+        "pageid": 88491368,
+        "size": 1152,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2022-05-12T17:27:28Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerken grape of kookpot, misbaksel, objectnr 35931.JPG",
+        "pageid": 87955170,
+        "size": 1336,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:44:05Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Grijze steengoed kan, buikig van vorm, op geknepen voet, met oor, objectnr 14005-59.JPG",
+        "pageid": 87735852,
+        "size": 1268,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-01-07T14:33:36Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk schotel op standring, gele slibversiering in spiegel en op de vlag, objectnr 14177-8.JPG",
+        "pageid": 88681534,
+        "size": 1543,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:40:31Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Grijze steengoed beker, kogelrond met wijde mondrand, op geknepen voet, objectnr 14177-61.JPG",
+        "pageid": 87736365,
+        "size": 1261,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-04-12T06:20:27Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Kleine houten duig van mand of kuip, objectnr 14005-88.JPG",
+        "pageid": 88491396,
+        "size": 1146,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-03-21T06:53:07Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Groenendaal street sign Rotterdam (2020).jpg",
+        "pageid": 88617276,
+        "size": 577,
+        "wordcount": 152,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-04-07T19:18:23Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Prent panden aan de hoek van het Groenendaal 1908 - 1912.jpg",
+        "pageid": 129048014,
+        "size": 834,
+        "wordcount": 1,
+        "snippet": "English",
+        "timestamp": "2025-05-31T22:12:25Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment aardewerk schotel op standlobben, gele slibversiering en sgraffitoversiering, objectnr 14177-11.JPG",
+        "pageid": 88681744,
+        "size": 1519,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-10-27T04:19:24Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment houten hark met twee tanden, objectnr 14005-84.JPG",
+        "pageid": 88882368,
+        "size": 1164,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-12-10T04:27:15Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Het Groenendaal tijdens de overstroming van 12 maart 1906 vanaf de Nieuwehaven 1906.jpg",
+        "pageid": 129024131,
+        "size": 711,
+        "wordcount": 1,
+        "snippet": "English",
+        "timestamp": "2025-05-31T22:30:54Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed kan, jacobakan, onder hals geprofileerde rand, op knijpvoet, objectnr 14005-62.JPG",
+        "pageid": 87735964,
+        "size": 1363,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2022-11-24T14:06:10Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk schotel op standvinnen, wapenschotel met sgraffito en slibversiering, objectnr 14177-12.JPG",
+        "pageid": 88681710,
+        "size": 1472,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:40:32Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk grape op drie poten, met twee licht geknepen worstoren, objectnr 14005-13.JPG",
+        "pageid": 88807083,
+        "size": 1498,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:35:38Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Benen mesheft met knop aan uiteinde, objectnr 14177-48.JPG",
+        "pageid": 88681882,
+        "size": 1126,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-11-12T18:17:20Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Breeuwijzer, objectnr 14176-70.JPG",
+        "pageid": 88884898,
+        "size": 1042,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-12-19T03:12:35Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Halsfragment van grote steengoed waterkan met radstempeling versierd, objectnr 45519.JPG",
+        "pageid": 87921642,
+        "size": 1461,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-10-01T23:02:05Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Zoutvat op standvoet, faience, delfts wit, objectnr 14176-25.JPG",
+        "pageid": 87776077,
+        "size": 1312,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2022-12-07T12:17:12Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kamerpot met gewelfde bodem, gehaakt en staand worstoor, objectnr 14005-17.JPG",
+        "pageid": 88807150,
+        "size": 1292,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:00Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rood aardewerken netverzwaring, driehoekig met ronde kop en gat, objectnr 14005-53.3.JPG",
+        "pageid": 88071859,
+        "size": 1248,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-12-09T06:46:54Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment van bodem, standring en wand van (wafel)beker, objectnr 46032-2(2).JPG",
+        "pageid": 89505409,
+        "size": 1439,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-10-05T18:56:51Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment aardewerk komfoor of parfumbrander, liggend worstoor, objectnr 14005-38.JPG",
+        "pageid": 87735721,
+        "size": 1267,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T21:16:21Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Huizen en een man in een bootje bij het Groenendaal met rechts een stuk van de Marinierskazerne aan het Oostplein 1911.jpg",
+        "pageid": 130845626,
+        "size": 686,
+        "wordcount": 1,
+        "snippet": "English",
+        "timestamp": "2026-08-25T22:36:53Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Groenendaal (ship, 2009) ENI 02332234 Port of Rotterdam pic1.JPG",
+        "pageid": 54624003,
+        "size": 435,
+        "wordcount": 1,
+        "snippet": "English",
+        "timestamp": "2026-09-22T21:42:13Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Zicht op de Schiedamsedijk met links het GGD-gebouw en rechts de Leuvehaven, Scheepmakershaven, Rederijbrug, Glashaven, Rederijhaven, Bierhaven, Wijnhaven en Witte Huis 1957.jpg",
+        "pageid": 135511536,
+        "size": 3083,
+        "wordcount": 95,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-05-31T22:12:20Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Balvormig bouwfragment of kanonskogel, objectnr 14176-78.JPG",
+        "pageid": 88882454,
+        "size": 899,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-10-28T08:06:58Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed stop om kruik af te sluiten, geglazuurd, objectnr 5889.JPG",
+        "pageid": 88654535,
+        "size": 1096,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-02-10T00:53:45Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Ongeglazuurde aardewerk test, ronde bodem, vierkante bovenrand, op drie poten, objectnr 14005-36.JPG",
+        "pageid": 88807514,
+        "size": 1372,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-07-20T07:22:14Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De demping van het Groenendaal met op de achtergrond de Pottebakkersbrug en een stuk van de Marinierskazerne aan het Oostplein 1911.jpg",
+        "pageid": 130861320,
+        "size": 736,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2025-10-02T14:45:29Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Zicht op de rotonde op het Oostplein met het Boerengat, Oostmolenwerf, Nieuwehaven, Groenendaal, Goudsesingel en Boezemweg 1967.jpg",
+        "pageid": 138573973,
+        "size": 1086,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-01-06T22:55:38Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Groenendaal in Rotterdam, RP-P-OB-25.475.jpg",
+        "pageid": 84018214,
+        "size": 1629,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2025-11-29T19:18:37Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Zicht op de lege omgeving van de Oudehaven en Nieuwehaven met de Mariniersweg, het Groenendaal, de Roobrug en Spaansekade 1946.jpg",
+        "pageid": 131957329,
+        "size": 1050,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2025-05-31T22:41:58Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fabrieken, SFA022808164.jpg",
+        "pageid": 146490790,
+        "size": 675,
+        "wordcount": 17,
+        "snippet": "English applies to jurisdiction: United States applies to jurisdiction: European Union determination method or standard: SHA-1",
+        "timestamp": "2026-06-28T17:12:56Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk steelpan met schenklip en geschulpte handgreep, objectnr 14005-30.JPG",
+        "pageid": 88681791,
+        "size": 1304,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:41:01Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment majolica schotel op standring, achtpuntige ster in blauw als decoratie, objectnr 14176-20.JPG",
+        "pageid": 88491551,
+        "size": 1379,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T22:00:48Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Ongeglazuurde aardewerk test op drie standvinnen, met korte handgreep, vierkant, objectnr 14176-10.JPG",
+        "pageid": 88505208,
+        "size": 1297,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2022-03-21T20:44:27Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:RK Begraafplaats St. Laurentius Rotterdam (4879448290).jpg",
+        "pageid": 118137803,
+        "size": 2287,
+        "wordcount": 130,
+        "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+        "timestamp": "2024-10-10T13:53:03Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Luchtopname van de Oostzeedijk en omgeving met de Oudehaven, Haringvliet, Boerengat en Willem Ruyslaan 1979.jpg",
+        "pageid": 139281379,
+        "size": 2664,
+        "wordcount": 92,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2026-06-05T22:42:27Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kookpot, grape met twee worstoren, op drie poten, spaarzaam geglazuurd, objectnr 14005-16.JPG",
+        "pageid": 88807136,
+        "size": 1263,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:37:26Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kamerpot op standring, licht geknepen bandoor, draairillen op schouder, objectnr 14005-27.JPG",
+        "pageid": 88807385,
+        "size": 1321,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:08Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Luchtopname van het karkas van de Sint-Laurenskerk met het Luchtspoor, Hoogstraat, Botersloot, Blaak, Station Rotterdam Blaak, Oudehaven, Nieuwehaven, Haringvliet, Witte Huis, Wijnhaven, Scheepmakershaven en Nieuwe Maas 1946.jpg",
+        "pageid": 140329552,
+        "size": 3321,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-04-17T23:25:13Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragmenten van aardewerk schotel, ondiep model op standring, wit geglazuurd, objectnr 14176-17.A-B.JPG",
+        "pageid": 88503907,
+        "size": 1380,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-11T00:19:23Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Geelkoperen schuimspaan, objectnr 18228.JPG",
+        "pageid": 88947147,
+        "size": 998,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-08-21T23:56:39Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment aardewerk tweelingbak, versmalde halsopening, objectnr 14176-12.JPG",
+        "pageid": 88882739,
+        "size": 1211,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-05-15T09:03:32Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kookpot met wijde bovenrand, twee bandoren, op drie poten, objectnr 14005-37.JPG",
+        "pageid": 88807535,
+        "size": 1290,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:37:41Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Burg. van Walsumweg Rotterdam (19869399130).jpg",
+        "pageid": 41902351,
+        "size": 841,
+        "wordcount": 145,
+        "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+        "timestamp": "2026-04-07T19:18:23Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Puin van verwoeste huizen aan het Groenendaal 1940.jpg",
+        "pageid": 110923756,
+        "size": 1075,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-05-28T15:27:42Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kookkan of grape op drie poten, één oor, objectnr 14005-9.JPG",
+        "pageid": 88806221,
+        "size": 1403,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-03-01T21:18:59Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:De Pakkenbrug over de lege Nieuwehaven met de torens van de Koninginnekerk, wooncomplex St. Willibrordus in aanbouw bij het Groenendaal en moutmolen de Noord op de achtergrond 1947.jpg",
+        "pageid": 130755233,
+        "size": 1050,
+        "wordcount": 98,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-12-13T18:14:22Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Mes met vrij breed lemmet en ivoren heft met ovale doorsnede, objectnr 32493.JPG",
+        "pageid": 88836801,
+        "size": 870,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-06-29T04:09:27Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Maquette, inrichting Oude Haven en Groenendaal, op een rechthoekig geschilderd grondplan, met begeleidende foto’s en tekst, objectnr 66361(2).JPG",
+        "pageid": 89522396,
+        "size": 3306,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-10-12T11:20:56Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Tinnen speelgoed vijzel, met op buitenwand fries met krulversiering, objectnr 19996.JPG",
+        "pageid": 88490858,
+        "size": 1432,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-08-20T17:13:50Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rood aardewerken netverzwaring, driehoekig met ronde kop en gat, objectnr 14005-53.2.JPG",
+        "pageid": 88071818,
+        "size": 1248,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-02-24T16:21:04Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment aardewerk kogelpot met gaten, ongeglazuurd, objectnr 14177-70.JPG",
+        "pageid": 88681051,
+        "size": 1366,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T21:16:19Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gele aardewerk spaarpot, bolle kegel op standvoet, objectnr 14176-79.JPG",
+        "pageid": 88765662,
+        "size": 1223,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-07-23T19:43:11Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Spatel, één zijde plat, andere zijde steel met knop, objectnr 14177-51.JPG",
+        "pageid": 88861519,
+        "size": 968,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-12-07T05:43:15Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gezicht op het Groenendaal te Rotterdam, RP-T-1964-227-26.jpg",
+        "pageid": 85629419,
+        "size": 1434,
+        "wordcount": 7,
+        "snippet": "English determination method or standard: SHA-1",
+        "timestamp": "2026-09-05T16:53:52Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:RK Begraafplaats St. Laurentius Rotterdam (4878838459).jpg",
+        "pageid": 118137821,
+        "size": 2310,
+        "wordcount": 145,
+        "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+        "timestamp": "2024-07-20T09:32:10Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kamerpot met ruw gevormd lichaam, staand worstoor, objectnr 14005-20.JPG",
+        "pageid": 88807255,
+        "size": 1372,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:05Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment roodbruin kamergemak, met licht geknepen oor, draairillen een kabelrand, objectnr 19993.JPG",
+        "pageid": 88505162,
+        "size": 1274,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T23:20:41Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment van rood aardewerken bak op standvinnen, objectnr 45520.JPG",
+        "pageid": 87921679,
+        "size": 1214,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T23:48:43Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Luchtopname van de omvang van de verwoeste binnenstad van Rotterdam met de havens en Nieuwe Maas 1946.jpg",
+        "pageid": 128096141,
+        "size": 8176,
+        "wordcount": 5,
+        "snippet": "[[Category:Sint-Laurensstraat (Rotterdam)] English",
+        "timestamp": "2026-09-03T17:21:16Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed pot, keulse pot, met twee horizontale worstoren en blauwe decoratie, objectnr 4996.JPG",
+        "pageid": 88653488,
+        "size": 1389,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2022-06-06T18:05:49Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed keurvorstenkruik versierd met zeven edelen en wapenschilden, met “1603”, objectnr 5888-A-B.JPG",
+        "pageid": 88654376,
+        "size": 1928,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-01-27T19:00:16Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kamerpot op standring, licht geknepen bandoor, draairingen rond de schouder, objectnr 14005-25.JPG",
+        "pageid": 88807356,
+        "size": 1384,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:09Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk papkom met twee staande worstoren, op standring, inwendig geel geglazuurd, objectnr 14005-34.JPG",
+        "pageid": 88807478,
+        "size": 1380,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:38:37Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment houten kom op standvlak, onder rand ingedraaide band, objectnr 14005-82.JPG",
+        "pageid": 88491347,
+        "size": 1166,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-03-17T17:03:04Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Houten kam met grove tanden aan de ene en fijne tanden aan andere zijde, objectnr 33021.JPG",
+        "pageid": 89058915,
+        "size": 975,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-03-28T21:09:30Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Lemmet met angel, scheiding hier tussen heeft licht geprofileerde band, objectnr 14177-47.JPG",
+        "pageid": 88861699,
+        "size": 960,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-04-14T19:23:03Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Grijze steengoed kan, buikig van vorm, op geknepen standring, met oor, objectnr 14005-60.JPG",
+        "pageid": 87735895,
+        "size": 1338,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-09-30T06:41:16Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk grape op drie poten, twee worstoren, grove draairillen op de schouder, objectnr 14005-14.JPG",
+        "pageid": 88807097,
+        "size": 1548,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:35:44Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Rotterdam in 1540 kaart Cornelisz kerk zonder de toren en stadhuis (GA).jpg",
+        "pageid": 62657889,
+        "size": 822,
+        "wordcount": 15,
+        "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English",
+        "timestamp": "2026-04-14T22:11:36Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk schotel met dubbele gegolfde buitenrand en slibversiering op spiegel en vlag, objectnr 14176-16.JPG",
+        "pageid": 88491285,
+        "size": 1559,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:40:23Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed kan, bol model met breed bandoor, op knijpvoet, objectnr 5897.JPG",
+        "pageid": 88637254,
+        "size": 1268,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-12-05T23:30:31Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment van bodem, standring en wand van (wafel)beker, objectnr 46032-2(1).JPG",
+        "pageid": 87925421,
+        "size": 1439,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-10-08T03:34:05Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kan met oor en tuit, geel en bruin geglazuurd, objectnr 5890.JPG",
+        "pageid": 88654721,
+        "size": 1289,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:25Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk zalfpot, wit geglazuurd, taps van vorm, twee insnoeringen, objectnr 14176-26.JPG",
+        "pageid": 88503738,
+        "size": 1471,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:43:36Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk schaal of pan met schuine wanden en dekselrand, gemerkt, objectnr 14176-1.JPG",
+        "pageid": 88495730,
+        "size": 1569,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:39:57Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Luchtopname van de Maasboulevard met de Nieuwe Maas, Willemsbrug, Willemsspoorbrug, Wijnhaven, Verlengde Willemsbrug, spoorviaduct, Witte Huis, Oudehaven, Kubuswoningen, Haringvliet, Mariniersweg en Oostplein 1986.jpg",
+        "pageid": 140615005,
+        "size": 3585,
+        "wordcount": 92,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2026-06-05T22:44:41Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk spaarhaan van rood aardewerk, geglazuurd, gleuf voor munten, objectnr 14176-34.JPG",
+        "pageid": 88670496,
+        "size": 1413,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:40:37Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aker ofwel geelkoperen dunwandige pot, objectnr 14177-17.JPG",
+        "pageid": 88861422,
+        "size": 1169,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-27T17:02:33Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed pot, keulse pot, met twee horizontale worstoren en blauwe decoratie, objectnr 4999.JPG",
+        "pageid": 88653754,
+        "size": 1361,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-09-21T10:59:51Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk strijkbout met worstvormig handvat, dik strijkvlak met ronde voorkant, objectnr 14176-32.JPG",
+        "pageid": 88930921,
+        "size": 1324,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:41:09Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment maalsteen, met cirkelvormige maalveuren, objectnr 14177-25.JPG",
+        "pageid": 88861479,
+        "size": 1098,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-10T21:59:02Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk kamerpot op standring en smalle voet, staand en geknepen bandoor, objectnr 14176-6.JPG",
+        "pageid": 88882683,
+        "size": 1317,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:36:10Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Zicht op huizen bij het Groenendaal en een stuk van de Marinierskazerne aan het Oostplein vanaf de Poppenbrug 1910.jpg",
+        "pageid": 130845625,
+        "size": 724,
+        "wordcount": 1,
+        "snippet": "English",
+        "timestamp": "2026-08-19T13:47:35Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Haardplaat Hercules met twee vrouwen en Jupiter, tekst “Virtus Hercules Volupt Jupiter”, objectnr 15219.JPG",
+        "pageid": 87702264,
+        "size": 1541,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-10-21T14:12:19Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Aardewerk schotel op standring, gele slibversiering in spiegel en golflijn langs de rand, objectnr 14177-9.JPG",
+        "pageid": 88861386,
+        "size": 1491,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-07-02T04:40:30Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Steengoed pot, keulse pot, met twee horizontale worstoren en blauwe decoratie en tekst, objectnr 4998.JPG",
+        "pageid": 88653717,
+        "size": 1508,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2025-12-20T20:11:31Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment koehoorn met krassen en kepen, objectnr 14005-81.JPG",
+        "pageid": 88505014,
+        "size": 1119,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-08-29T10:54:20Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Fragment van hals en lip van grote voorraadfles, objectnr 4982.JPG",
+        "pageid": 88652714,
+        "size": 1211,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-09-23T02:18:36Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Houten bodem van kleine kuip of mand, ovaal van vorm, objectnr 14005-91.JPG",
+        "pageid": 88882405,
+        "size": 1109,
+        "wordcount": 129,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2026-02-14T02:47:04Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Roodbruine aardewerk kookkan op drie poten, met worstoor, profielring op de schouder, objectnr 14005-5.JPG",
+        "pageid": 88806171,
+        "size": 1349,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2023-01-21T08:56:34Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Leren zool van kinderschoen, ronde hiel, spitse neus, rondom naaigaten, objectnr 14005-106.JPG",
+        "pageid": 88930686,
+        "size": 1036,
+        "wordcount": 123,
+        "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+        "timestamp": "2024-03-27T17:52:23Z"
+      }
+    ]
+  }
+}

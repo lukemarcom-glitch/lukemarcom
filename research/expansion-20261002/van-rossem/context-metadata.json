@@ -1,0 +1,205 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "129024131": {
+        "pageid": 129024131,
+        "ns": 6,
+        "title": "File:Het Groenendaal tijdens de overstroming van 12 maart 1906 vanaf de Nieuwehaven 1906.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Het_Groenendaal_tijdens_de_overstroming_van_12_maart_1906_vanaf_de_Nieuwehaven_1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Het_Groenendaal_tijdens_de_overstroming_van_12_maart_1906_vanaf_de_Nieuwehaven_1906.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129024131",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-24 22:09:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Het Groenendaal tijdens de overstroming van 12 maart 1906 vanaf de Nieuwehaven 1906",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Storm flood of 1906|Media from Stadsarchief Rotterdam|1906 in Rotterdam|Photographs by Fototechnische Dienst Rotterdam|Floods in Rotterdam|History of Groenendaal (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Groenendaal, seen from the Nieuwehaven. Year: 1906.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1906",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/1296855F3D5944F1AD348A0571435802\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Fototechnische Dienst Rotterdam (Gemeentewerken, Openbare Werken)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The Groenendaal, seen from the Nieuwehaven. Year: 1906.}}\n{{nl|1=Het Groenendaal, gezien vanaf de Nieuwehaven. Jaar: 1906.}}\n|date=1906\n|source=[https://hdl.handle.net/21.12133/1296855F3D5944F1AD348A0571435802 Stadsarchief Rotterdam]\n|author=Fototechnische Dienst Rotterdam (Gemeentewerken, Openbare Werken)\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n\n{{DEFAULTSORT:1906}}\n[[Category:Media from Stadsarchief Rotterdam]]\n[[Category:Photographs by Fototechnische Dienst Rotterdam]]\n[[Category:1906 in Rotterdam]]\n\n[[Category:Storm flood of 1906]]\n[[Category:History of Groenendaal (Rotterdam)]]\n\n[[Category:Floods in Rotterdam]]"
+              }
+            }
+          }
+        ]
+      },
+      "130845625": {
+        "pageid": 130845625,
+        "ns": 6,
+        "title": "File:Zicht op huizen bij het Groenendaal en een stuk van de Marinierskazerne aan het Oostplein vanaf de Poppenbrug 1910.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Zicht_op_huizen_bij_het_Groenendaal_en_een_stuk_van_de_Marinierskazerne_aan_het_Oostplein_vanaf_de_Poppenbrug_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zicht_op_huizen_bij_het_Groenendaal_en_een_stuk_van_de_Marinierskazerne_aan_het_Oostplein_vanaf_de_Poppenbrug_1910.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130845625",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-04-18 09:06:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Zicht op huizen bij het Groenendaal en een stuk van de Marinierskazerne aan het Oostplein vanaf de Poppenbrug 1910",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|1910 in Rotterdam|Photographs by Henri Berssenbrugge|Photographs by anonymous photographers in Stadsarchief Rotterdam|Marinierskazerne (Oostplein)|History of Groenendaal (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the Groenendaal. Year: 1910.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-01-1910 - 31-12-1910",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/F1B3205FFE9C4454B93A5602ED4876D5\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bernard Heinrich Wilhelm (Henri) (B.H.W.) Berssenbrugge",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=View of the Groenendaal. Year: 1910.}}\n{{nl|1=Gezicht op het Groenendaal. Jaar: 1910.}}\n|date=01-01-1910 - 31-12-1910\n|source=[https://hdl.handle.net/21.12133/F1B3205FFE9C4454B93A5602ED4876D5 Stadsarchief Rotterdam]\n|author=Bernard Heinrich Wilhelm (Henri) (B.H.W.) Berssenbrugge\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n\n{{DEFAULTSORT:1910}}\n[[Category:Media from Stadsarchief Rotterdam]]\n[[Category:Photographs by anonymous photographers in Stadsarchief Rotterdam]]\n[[Category:1910 in Rotterdam]]\n\n[[Category:History of Groenendaal (Rotterdam)]]\n[[Category:Marinierskazerne (Oostplein)]]\n[[Category:Photographs by Henri Berssenbrugge]]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

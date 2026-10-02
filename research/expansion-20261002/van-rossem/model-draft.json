@@ -29,7 +29,8 @@
         "roof": "gable",
         "roofAlongFront": true,
         "roofHeight": 3.8,
-        "windows": false
+        "windows": false,
+        "gableWall": "trim"
       },
       {
         "x": 14.2,
@@ -42,7 +43,18 @@
         "windows": false
       },
       {
-        "x": -9,
+        "x": 6,
+        "z": 4,
+        "w": 3.2,
+        "d": 4,
+        "h": 4,
+        "base": 16.8,
+        "roof": "gable",
+        "roofHeight": 0.5,
+        "windows": false
+      },
+      {
+        "x": -10,
         "z": 4.4,
         "w": 2.5,
         "d": 2.5,
@@ -53,7 +65,18 @@
         "wall": "trim"
       },
       {
-        "x": -3,
+        "x": -6,
+        "z": 4.4,
+        "w": 2.5,
+        "d": 2.5,
+        "h": 2.2,
+        "base": 17,
+        "roof": "flat",
+        "windows": false,
+        "wall": "trim"
+      },
+      {
+        "x": -2,
         "z": 4.4,
         "w": 2.5,
         "d": 2.5,
@@ -73,17 +96,6 @@
         "roof": "flat",
         "windows": false,
         "wall": "trim"
-      },
-      {
-        "x": 6,
-        "z": 4,
-        "w": 3.2,
-        "d": 4,
-        "h": 4,
-        "base": 16.8,
-        "roof": "gable",
-        "roofHeight": 0.5,
-        "windows": false
       }
     ],
     "facadeWindows": [
@@ -228,14 +240,29 @@
         "h": 2.65
       },
       {
-        "x": -9,
+        "x": 14.2,
+        "y": 11.6,
+        "z": 6.2,
+        "w": 2.4,
+        "h": 2.8,
+        "arched": true
+      },
+      {
+        "x": -10,
         "y": 18,
         "z": 5.7,
         "w": 1.95,
         "h": 1.65
       },
       {
-        "x": -3,
+        "x": -6,
+        "y": 18,
+        "z": 5.7,
+        "w": 1.95,
+        "h": 1.65
+      },
+      {
+        "x": -2,
         "y": 18,
         "z": 5.7,
         "w": 1.95,
@@ -247,14 +274,6 @@
         "z": 5.7,
         "w": 1.95,
         "h": 1.65
-      },
-      {
-        "x": 14.2,
-        "y": 11.6,
-        "z": 6.2,
-        "w": 2.4,
-        "h": 2.8,
-        "arched": true
       }
     ],
     "accents": [
@@ -512,33 +531,6 @@
       },
       {
         "x": 0,
-        "y": 4,
-        "z": 6.15,
-        "w": 24.2,
-        "h": 0.16,
-        "d": 0.4,
-        "material": "trim"
-      },
-      {
-        "x": 0,
-        "y": 8.2,
-        "z": 6.15,
-        "w": 24.2,
-        "h": 0.16,
-        "d": 0.4,
-        "material": "trim"
-      },
-      {
-        "x": 0,
-        "y": 12.4,
-        "z": 6.15,
-        "w": 24.2,
-        "h": 0.16,
-        "d": 0.4,
-        "material": "trim"
-      },
-      {
-        "x": 0,
         "y": 16.8,
         "z": 6.15,
         "w": 24.2,
@@ -666,6 +658,6 @@
     ]
   },
   "researchOnly": true,
-  "placementNote": "Niet geplaatst: center0,0 uitsluitend technische preview-oorsprong. Contour en schaal nog toetsen; gevel links buiten fotokader niet aangevuld. Maten geschat op verdiepingsritme. Achterzijde en diepte onbewezen.",
+  "placementNote": "Niet geplaatst: center0,0 uitsluitend technische preview-oorsprong. Contour en schaal nog toetsen; gevel links buiten fotokader niet aangevuld. Maten geschat op verdiepingsritme. Achterzijde en diepte onbewezen. Vier zichtbare dakkapellen en lichte dakzijgevel herzien na broncontrole. Gekromde kroon van hijsgevel nog niet uitgewerkt.",
   "colorNote": "Baksteenrood, natuursteenlichtgrijs en donkergroen houtwerk zijn interpretaties; zwart-witbron bewijst geen exacte kleuren."
 }
