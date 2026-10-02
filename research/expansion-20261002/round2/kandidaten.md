@@ -16,3 +16,5 @@ Let op: bronlinks van Berlage-tekeningen op Commons verwijzen foutief naar DUDO;
 ## Actuele stand
 
 Lokaal toegevoegd, nog niet gepubliceerd: Nederlanden1845, Marxbank, Station Beurs. Volgende prioriteit: Internatio Wolfshoek (foto’s en twee kleurproeven verzameld; bouwfaseverschil nader verwerken). De Drie Kolommen en Waalse School blijven reserve wegens ontbrekende geverifieerde fotobron. De bovenstaande vroege notities zijn geen actuele voltooiingsstatus.
+
+Internatio toegevoegd met twee fotoparen (1910 en1938–1939), ronde2lokaal4/5. Zeevischmarkt afgewezen wegens vooroorlogse sloop. Dobbelmann Hoogstraat/Groenendaal nieuw te onderzoeken: historisch kwartaalblad Waddinxveen2016nr3 bevat geschiedenis en ruïnebeeld; andere Dobbelmannfabrieken niet verwarren.

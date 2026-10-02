@@ -1,5 +1,5 @@
 {
-  "status": "lokaal toegevoegd met1910fotopaar;1938kleurproef nog niet geselecteerd",
+  "status": "twee fotoparen lokaal toegevoegd; ronde2 nog niet gepubliceerd",
   "photos": [
     {
       "file": "142632085.jpg",
@@ -47,5 +47,11 @@
     "file": "ai-proef02.png",
     "status": "nog niet geselecteerd",
     "observed": "Modernere vleugel behouden, maar veel scherpere dak-/scheepsdetails en meer groen aan bomen dan lage-resolutiebron rechtvaardigt. Vergelijk nader of maak zachtere proef. Geen definitieve goedkeuring."
+  },
+  "AI03": {
+    "status": "geselecteerd met expliciete beperkingen",
+    "file": "ai-proef03.png",
+    "prompt": "PROMPT-03.txt",
+    "review": "Kale bomen hersteld tegenover afgekeurde tweede proef. Compositie en bouwfase behouden. Details blijven generatief, kleuren niet bewezen."
   }
 }

@@ -1,0 +1,102 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "107267335": {
+        "pageid": 107267335,
+        "ns": 6,
+        "title": "File:De afgebroken Zeevischmarkt bij de Noordblaak met op de achtergrond de Blaak, Keizersbrug en Zuidblaak 1932 - 1936.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De_afgebroken_Zeevischmarkt_bij_de_Noordblaak_met_op_de_achtergrond_de_Blaak%2C_Keizersbrug_en_Zuidblaak_1932_-_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_afgebroken_Zeevischmarkt_bij_de_Noordblaak_met_op_de_achtergrond_de_Blaak,_Keizersbrug_en_Zuidblaak_1932_-_1936.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107267335",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-07-05 20:35:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De afgebroken Zeevischmarkt bij de Noordblaak met op de achtergrond de Blaak, Keizersbrug en Zuidblaak 1932 - 1936",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Leuvehaven (Rotterdam)|Keizersbrug (Rotterdam)|Blaak (canal in Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|Zuidblaak (Rotterdam)|Noordblaak (Rotterdam)|Zeevischmarkt (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|Blaak 10, Rotterdam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Zeevischmarkt at the Blaak is being demolished, seen from the building of fashion store Gerzon on the Leuvehaven. Year: 1932 - 1936.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1932 and 1936<div style=\"display: none;\">date QS:P,+1932-00-00T00:00:00Z/8,P1319,+1932-00-00T00:00:00Z/9,P1326,+1936-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/43B70D5541FA46C798EEAD30E1388DB4\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The Zeevischmarkt at the Blaak is being demolished, seen from the building of fashion store Gerzon on the Leuvehaven. Year: 1932 - 1936.}}\n{{nl|1=De Zeevischmarkt bij de Blaak afgebroken, gezien vanaf het pand van modemagazijn Gerzon aan de Leuvehaven. Jaar: 1932 - 1936.}}\n|date={{other date|between|1932|1936}}\n|source=[https://hdl.handle.net/21.12133/43B70D5541FA46C798EEAD30E1388DB4 Stadsarchief Rotterdam]\n|author={{anonymous}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n\n{{PD-anon-70-EU}}\n\n[[Category:Zeevischmarkt (Rotterdam)]]\n[[Category:Noordblaak (Rotterdam)]]\n[[Category:Leuvehaven (Rotterdam)]]\n[[Category:Keizersbrug (Rotterdam)]]\n[[Category:Blaak (canal in Rotterdam)]]\n[[Category:Zuidblaak (Rotterdam)]]\n[[Category:Blaak 10, Rotterdam]]\n[[Category:Media from Stadsarchief Rotterdam]]\n[[Category:Photographs by anonymous photographers in Stadsarchief Rotterdam]]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
