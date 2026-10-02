@@ -34,3 +34,8 @@ Stadsarchief-zoek-HTML via HTTP opgehaald, maar bevatte geen bruikbare resultaat
 Vervolg: eerst NHM-foto’s in oorspronkelijke publicatie/Jaarboek inspecteren; daarnaast originele registraties van Waalse School en loge via andere openbare collectie-ingangen zoeken. Van Veen blijft reserve (Schiekade OZ242,1899 volgens Verheul-bijlage); plaats en fotografie nog open. Kleuren nog nergens vastgesteld. Geen AI-generatie starten zonder gecontroleerd origineel.
 
 Technische controle: rechtstreekse download van het bekende Jaarboek1989-beeldregister faalde lokaal op DNS-resolutie van rjb.x-cago.com. Zoekindex levert wel tekst. De foto’s zijn dus nog niet visueel beoordeeld.
+
+## Doorbraak De Drie Kolommen — oorspronkelijke bron bekeken
+Bouwkundig Weekblad1882 nr45 p436 en gevelplaat opgehaald via Internet Archive en visueel gelezen: J.Verheul Dzn., Oppert72, eerste steen22mei1882, smal voorperceel5×11m en achterperceel10×13m. Waalsteen/bergsteen/mozaiekfries expliciet beschreven. Zie ../drie-kolommen/broncontrole.json en scans. Verwachte voltooiing1januari1883 is niet hetzelfde als bewezen openingsdatum. Foto en exacte kaartplaats nog nodig; geen AI-foto uit bouwtekening als vervanging maken.
+
+Aanvullende kandidaatcontrole: hoofdgebouw Heilige Geesthuis Hoogstraat is in1939 gesloopt, dus valt buiten deze bombardementsronde. Bron: https://stadsarchief.rotterdam.nl/gebouwen-van-het-heilige-geesthuis . Lombardstraat-geefhuisjes wel verwoest1940, maar foto/plek nog niet vastgesteld.

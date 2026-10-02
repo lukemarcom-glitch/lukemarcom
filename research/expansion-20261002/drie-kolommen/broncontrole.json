@@ -1,0 +1,45 @@
+{
+  "checked": "2026-10-02",
+  "status": "primary-source-verified-photo-still-needed",
+  "publication": "Bouwkundig Weekblad 1882 nr.45, artikel p.436 en bijgevoegde gevelplaat",
+  "creator": "J. Verheul Dzn., architect; fotolithografie Wegner & Mottu, Amsterdam",
+  "source": "https://archive.org/details/bouwkundigweekbl1218unse/page/n672/mode/2up",
+  "article": "https://archive.org/details/bouwkundigweekbl1218unse/page/n674/mode/1up",
+  "images": [
+    {
+      "path": "page-n672.jpg",
+      "url": "https://archive.org/download/bouwkundigweekbl1218unse/page/n672.jpg",
+      "content": "Voorgevel loge, ondertekend J.Verheul Dzn.; geen foto."
+    },
+    {
+      "path": "page-n674.jpg",
+      "url": "https://archive.org/download/bouwkundigweekbl1218unse/page/n674.jpg",
+      "content": "Artikel p.436 met maten, materialen, adres en handtekening; visueel gelezen."
+    }
+  ],
+  "findings": {
+    "address": "Oppert72 ten tijde van bouw1882",
+    "architect": "J.Verheul Dzn. expliciet in primaire bron; D.Verheul op logesite hiermee niet overnemen",
+    "firstStone": "22 mei1882",
+    "frontPlot": {
+      "widthMeters": 5,
+      "depthMeters": 11
+    },
+    "rearPlot": {
+      "widthMeters": 10,
+      "depthMeters": 13
+    },
+    "materials": [
+      "waalsteen",
+      "bergsteen",
+      "mozaiektegels in fries kroonlijst"
+    ],
+    "plannedCompletion": "1 januari1883 (verwachting, geen bewezen oplevering)"
+  },
+  "remaining": [
+    "Foto met rechten vinden; tekening is aanvullend modelbewijs, geen vervanging van vereiste fotopaar.",
+    "Precieze plek op historische kaart en nummerwijziging72/75 vaststellen.",
+    "Mozaiekkleuren niet vermeld; niet verzinnen als bewezen.",
+    "Auteursrecht voor EU van plaat expliciet vastleggen vóór publicatie; Commons markeert alleen PD-US-expired."
+  ]
+}
