@@ -169,3 +169,7 @@ Marx & Co’s Bank · Zuidblaak (`marx-bank-zuidblaak`) lokaal geplaatst met bro
 ## Ronde2 — vijf lokaal gecontroleerde toevoegingen
 
 De Nederlanden van1845, Marx & Co’s Bank, StationBeurs ontvangstgebouw, InternatioWolfshoek en NHMZuidblaak. Samen 7 origineel/AI-paren. NHMplaatstVoorgebouwalleen; VanRossemblijftonderzoek wegens onbewezenperceel. Zie research/expansion-20261002/round2/spatial-final.json. Publicatie enbackup bijtien nogteverifiëren.
+
+## Ronde 2 live — teller 10
+
+Release fb1af0309d080acca750a7264be51ef39cf09840 is gepubliceerd: Pages 37008696841 en Check project 37008696776 geslaagd. Alle 23 gecontroleerde runtimebestanden bytegelijk aan lokaal; vijf afzonderlijke anonieme desktop-/mobiele controles geslaagd, inclusief AI-paar, lichtbak en Nu 3D. Zie VERIFICATIE-UITBREIDING-20261002-R2.json. Deze ronde bevat 5 gebouwen en 7 fotoparen; totaal 10 nieuwe voltooide toevoegingen sinds start van de rondes. Backupcheckpoint wordt vastgelegd met tag rdam39-20261002-10-buildings en een externe Git-bundle. Ronde 3 heeft een onderzoeks-shortlist; nog geen nieuwe modellen en geen uitputtingsclaim.

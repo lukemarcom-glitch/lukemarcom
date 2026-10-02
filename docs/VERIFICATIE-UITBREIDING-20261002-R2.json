@@ -1,0 +1,181 @@
+{
+  "releaseCommit": "fb1af0309d080acca750a7264be51ef39cf09840",
+  "pagesRun": 37008696841,
+  "files": [
+    {
+      "path": "landmarks/catalog.json",
+      "status": 200,
+      "sha256": "beedcf1136246f2d401f255afc3f784ba43e344a92fd28c9de52a60d75d8b4ab",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "status": 200,
+      "sha256": "6c697adefdc1971627016d6cc061577dc52be99deb8496dc73dfeaca129dc754",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "status": 200,
+      "sha256": "869ac617b80831b694f118b27562b5269141bbe8ec00f9d683a4788d275488f2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/luchtspoor/model.glb",
+      "status": 200,
+      "sha256": "a7b9b69e31db55025deb2cda29453cbde10711f6808240c7f4730c3055a926a5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nederlanden-1845/model.glb",
+      "status": 200,
+      "sha256": "0852158f7ede5e92679b05f7964fc5079d49e44894581af2d837dc3f9f2be829",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nederlanden-1845/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "1a6c49a053db2b4762e55b383cba882c9e8ac325d55ea6574ef3b87d200d15fe",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nederlanden-1845/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "0de55efbbc367e8843a6245d12c32f60ca461bce8b9ac45dca46c32a1063690e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nederlanden-1845/foto-2-origineel.jpg",
+      "status": 200,
+      "sha256": "9c8e079543589d445e5c580db60cfa266d9701ff22a5ec43b5ef189bbcac52b3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nederlanden-1845/foto-2-ai.webp",
+      "status": 200,
+      "sha256": "8168718f871b82f1f6b456817065d3207696dc78377f7030fc9ed5a8c941a486",
+      "identical": true
+    },
+    {
+      "path": "landmarks/marx-bank-zuidblaak/model.glb",
+      "status": 200,
+      "sha256": "c0c5a7b51c07b02690c4ed2d70f1d133ae3e633659c2f2f4df824ea039d2d48b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/marx-bank-zuidblaak/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "af484783b39d31c7959bf1e2708278fed540cd24fbf4791327640fd21dd2006a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/marx-bank-zuidblaak/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "fbd9fc6e10d6bc720a4e98723c871a5b28be394254425a1e72b10c9e63043b8a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/station-beurs/model.glb",
+      "status": 200,
+      "sha256": "332ff5cc609e4abb99e22b76e332b89d01ee304ee7bf97cfeb9a5eafe5774db7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/station-beurs/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "24ffa273bea601aa3c7ec15f6a81b3fc09d2d864971b4f2f5c1ff9ae3c828c64",
+      "identical": true
+    },
+    {
+      "path": "landmarks/station-beurs/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "9eadf719f113e4b19d2589663a428f099d3c23bf24b3d544e28570f2f0566eae",
+      "identical": true
+    },
+    {
+      "path": "landmarks/internatio-wolfshoek/model.glb",
+      "status": 200,
+      "sha256": "667e151603ca0c90c76cb78726eff5ae90e6d3719fa5051943ddd6d15d2b8cbb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/internatio-wolfshoek/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "e1650ca4d0d6fea8b4a766c77b524ffac55d4d15f0bb30578fe4225db2a5e035",
+      "identical": true
+    },
+    {
+      "path": "landmarks/internatio-wolfshoek/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "99fd468ff47e9730947cdaae1e7af8b021017a25564332127d18f12d51d3e8c5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/internatio-wolfshoek/foto-2-origineel.jpg",
+      "status": 200,
+      "sha256": "26a01df507ced6c96013ba25e3f77d99b11e70a430a5f6f62d6a072238d9a1c3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/internatio-wolfshoek/foto-2-ai.webp",
+      "status": 200,
+      "sha256": "10470185623c52c9a33d7691de7990554c62c1ca3048d940b34613551f2788ed",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nhm-zuidblaak/model.glb",
+      "status": 200,
+      "sha256": "d3292719b2d8cd1dff64fc336834f71d9684d8ebdaafcdaa42c29b830ce49cbb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nhm-zuidblaak/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "645a8488fb5328f6acd492ddaeedb3d35d2db5386a162c7dff19d372c6232c54",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nhm-zuidblaak/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "358be651aef8ecb408a514ce87b476b5c767d589ce31c297b38d9470a7a75e42",
+      "identical": true
+    }
+  ],
+  "anonymousBrowserChecks": {
+    "nederlanden-1845": {
+      "desktop": true,
+      "mobile": true,
+      "imageViewer": true,
+      "modern3D": true,
+      "errors": []
+    },
+    "marx-bank-zuidblaak": {
+      "desktop": true,
+      "mobile": true,
+      "imageViewer": true,
+      "modern3D": true,
+      "errors": []
+    },
+    "station-beurs": {
+      "desktop": true,
+      "mobile": true,
+      "imageViewer": true,
+      "modern3D": true,
+      "errors": []
+    },
+    "internatio-wolfshoek": {
+      "desktop": true,
+      "mobile": true,
+      "imageViewer": true,
+      "modern3D": true,
+      "errors": []
+    },
+    "nhm-zuidblaak": {
+      "desktop": true,
+      "mobile": true,
+      "imageViewer": true,
+      "modern3D": true,
+      "errors": []
+    }
+  }
+}
