@@ -6,3 +6,9 @@
 - De Utrecht: niet verwarren met wederopbouwgebouw Coolsingel 1961 of bestaand item Handel en Nijverheid; voorlopig niet geselecteerd.
 
 Geen van deze kandidaten telt als toegevoegd of als backupcheckpoint. Vorige ronde bestaat uit Schotse kerk, Noordzee, Nijgh & Van Ditmar, Van Dooren en Doopsgezinde schuilkerk.
+
+## Nieuwe prioriteit: De Nederlanden van 1845 · Zuidblaak26
+
+Drie vooroorlogse foto's plus gevel-/kleurenschets via Commons API gevonden en gedownload in ../nederlanden-1845/. Rechtstreekse CommonsAPI werkt, ook waar webpagina-opening faalt; dit is een bruikbare vervolgingang voor andere kandidaten. Metadata incl. oorspronkelijke hdl-links en rechten opgeslagen. Eerste AI-paar gegenereerd en visueel beoordeeld, grote opschriften behouden. Kleuren gebaseerd op ontwerp1909–1913, expliciet interpretatief. Nog geen model/catalogusplaatsing; niet meetellen. Zie research-review.json en PROMPT-01.txt.
+
+Let op: bronlinks van Berlage-tekeningen op Commons verwijzen foutief naar DUDO; correct archiefnummer is BERL_128-2 resp.BERL_128-4, objectBERL.110318262. Voor publicatie correcte rechtstreekse archiefbron zoeken. De foto uit1935 en het straatbeeld1918–1922 zijn twee aanvullende mogelijke AI-paren. Het 1900-pand is mogelijk een oudere bouwfase: niet mengen met Berlage1911.

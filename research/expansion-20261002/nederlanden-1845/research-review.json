@@ -1,0 +1,45 @@
+{
+  "status": "research-image-pair-not-yet-in-catalog",
+  "date": "2026-10-02",
+  "candidate": "De Nederlanden van 1845, Zuidblaak 26",
+  "original": "original-1.jpg",
+  "ai": "ai-proef-01.png",
+  "originalPageId": 95979892,
+  "source": "https://hdl.handle.net/21.12133/AA9E074541F546499882808763E94052",
+  "photographer": "Anoniem",
+  "dateRange": "1918–1922 volgens Commons/archiefbeschrijving; ondertitel op foto noemt 1914–1921 (periode vestiging), niet automatisch opnamedatum",
+  "rights": "Publiek domein volgens Commons PD-anon-70-EU; volledige registratie opgeslagen in commons-metadata.json",
+  "colourReference": {
+    "file": "kleurenschets.jpg",
+    "record": "BERL_128-4, BERL.110318262",
+    "period": "1909–1913; scandatum 2010 niet gebruiken als ontwerpdatum",
+    "rights": "CC0 volgens Commons",
+    "limitation": "Ontwerpkleur is geen bewijs van gerealiseerde kleur. Verwijzing in Commons gaat foutief naar DUDO; echte BERL-archiefregistratie nog zoeken."
+  },
+  "visualReview": {
+    "checked": [
+      "FATUM",
+      "LABOR",
+      "DE NEDERLANDEN VAN 1845",
+      "Kantoor Zuidblaak 26, Rotterdam",
+      "1914–1921"
+    ],
+    "preserved": "Hoofdcompositie, vier bogen, drie hoofdverdiepingen, twee erkers, dakvenster en straatpaal herkenbaar behouden.",
+    "limitations": "Raambordjes, ornamentdetails en reflecties zijn deels gegenereerd; niet als exacte facsimile presenteren. Kleuren interpretatief."
+  },
+  "remaining": [
+    "Historische kaartpositie en footprint controleren",
+    "Gevelmaatvoering/achterbouw uit tekeningen controleren",
+    "Aanvullende foto’s afzonderlijk beoordelen en zo mogelijk inkleuren",
+    "3D-model, galerie en bronnen integreren",
+    "Technische, ruimtelijke, browser- en livecontrole vóór meetellen"
+  ],
+  "sha256": {
+    "kleurenschets.jpg": "e4d42c54c5129986b317cc3e8769589f3dc2e72d23e4984d66b714f1ee219dda",
+    "gevelschets.jpg": "d5040b325b05b1a2af7d27dd65d86e2bebf388dca0c36194418d7df7d579a8f5",
+    "original-3.jpg": "ed01e80ac2f4a190568864d5cacb56d5effb3ba401ff6e40abaff226fef3ee24",
+    "original-2.jpg": "9c8e079543589d445e5c580db60cfa266d9701ff22a5ec43b5ef189bbcac52b3",
+    "original-1.jpg": "1a6c49a053db2b4762e55b383cba882c9e8ac325d55ea6574ef3b87d200d15fe",
+    "ai-proef-01.png": "4a10578c1b6c6955bf699a5f5f2f33d208be64595ff64e9da60673d4a2ce6f37"
+  }
+}
