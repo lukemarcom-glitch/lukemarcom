@@ -1,0 +1,464 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "sroffset": 50,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 111
+    },
+    "search": [
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 03.jpg",
+        "pageid": 104307259,
+        "size": 477,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-08-20T08:37:28Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 02.jpg",
+        "pageid": 104307258,
+        "size": 512,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-02-10T03:59:24Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 04.jpg",
+        "pageid": 104307264,
+        "size": 530,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:27Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 11.jpg",
+        "pageid": 104307280,
+        "size": 530,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:51Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 05.jpg",
+        "pageid": 104307265,
+        "size": 512,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:31Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 07.jpg",
+        "pageid": 104307270,
+        "size": 477,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:41Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 16.jpg",
+        "pageid": 104307293,
+        "size": 528,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-27T11:51:31Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 06.jpg",
+        "pageid": 104307266,
+        "size": 477,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:36Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 09.jpg",
+        "pageid": 104307275,
+        "size": 512,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:47Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 01.jpg",
+        "pageid": 104307256,
+        "size": 565,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2024-09-19T16:02:09Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 12.jpg",
+        "pageid": 104307286,
+        "size": 477,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-11T00:57:23Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 10.jpg",
+        "pageid": 104307277,
+        "size": 477,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-11-01T00:18:28Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 15.jpg",
+        "pageid": 104307292,
+        "size": 512,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-16T10:00:56Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 13.jpg",
+        "pageid": 104307287,
+        "size": 530,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-03-26T05:22:21Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 14.jpg",
+        "pageid": 104307288,
+        "size": 573,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2024-07-15T07:19:55Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Gara Groenendaal din Hoielaart 08.jpg",
+        "pageid": 104307272,
+        "size": 530,
+        "wordcount": 161,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-01-06T11:15:32Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Groenendaal.jpg",
+        "pageid": 21575001,
+        "size": 476,
+        "wordcount": 177,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-21T13:28:04Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Billinghuizen-Kasteel Groenendaal, Slenakerweg 3 (4).JPG",
+        "pageid": 11829951,
+        "size": 478,
+        "wordcount": 28,
+        "snippet": "English object of statement has role: photographer author name string: Romaine Wikimedia username: Romaine URL: http://commons.wikimedia.org/wiki/User:Romaine",
+        "timestamp": "2026-08-20T15:51:02Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Billinghuizen-Kasteel Groenendaal, Slenakerweg 3 (5).JPG",
+        "pageid": 11829954,
+        "size": 478,
+        "wordcount": 28,
+        "snippet": "English object of statement has role: photographer author name string: Romaine Wikimedia username: Romaine URL: http://commons.wikimedia.org/wiki/User:Romaine",
+        "timestamp": "2026-08-20T15:51:04Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Billinghuizen-Kasteel Groenendaal, Slenakerweg 3 (3).JPG",
+        "pageid": 11800960,
+        "size": 479,
+        "wordcount": 28,
+        "snippet": "English object of statement has role: photographer author name string: Romaine Wikimedia username: Romaine URL: http://commons.wikimedia.org/wiki/User:Romaine",
+        "timestamp": "2026-08-20T13:26:01Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333982 - onroerenderfgoed.jpg",
+        "pageid": 86610598,
+        "size": 616,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:05:19Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333973 - onroerenderfgoed.jpg",
+        "pageid": 86023382,
+        "size": 616,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:04:12Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Groenendaal koetshuis.jpg",
+        "pageid": 16387645,
+        "size": 790,
+        "wordcount": 174,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-05-13T14:24:54Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg 1 - 229513 - onroerenderfgoed.jpg",
+        "pageid": 86096846,
+        "size": 606,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T07:06:03Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg Kloosterkerk - 229519 - onroerenderfgoed.jpg",
+        "pageid": 86021706,
+        "size": 617,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T07:08:45Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Lange Groenendaal 58, Gouda.jpg",
+        "pageid": 57015701,
+        "size": 515,
+        "wordcount": 164,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-10-16T22:21:16Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Arsenaal Woerden 2.jpg",
+        "pageid": 50736835,
+        "size": 473,
+        "wordcount": 167,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2023-09-24T00:47:12Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333976 - onroerenderfgoed.jpg",
+        "pageid": 86306025,
+        "size": 616,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:04:37Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Groenendaalsesteenweg 149 - 229504 - onroerenderfgoed.jpg",
+        "pageid": 86570920,
+        "size": 693,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-13T13:14:14Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg 1 - 229511 - onroerenderfgoed.jpg",
+        "pageid": 86963240,
+        "size": 659,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T07:02:47Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Heerlijkheid Heemstede-22.JPG",
+        "pageid": 38373402,
+        "size": 544,
+        "wordcount": 182,
+        "snippet": "Hollands duinrandbos, oorspronkelijk bos met invoeging van parkaanleg ca. 1740 - 1767, met diverse latere inplanningen en centraal gelegen landhuis thans",
+        "timestamp": "2026-02-22T14:31:24Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Stolperstein voor Rozita Hanna Duijts-van Collum.jpg",
+        "pageid": 140987886,
+        "size": 559,
+        "wordcount": 150,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+        "timestamp": "2026-03-28T14:49:36Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Duboislaan 1 - 229442 - onroerenderfgoed.jpg",
+        "pageid": 86226595,
+        "size": 595,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-13T13:11:10Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg Kloosterkerk - 229516 - onroerenderfgoed.jpg",
+        "pageid": 86963243,
+        "size": 617,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T07:07:59Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333989 - onroerenderfgoed.jpg",
+        "pageid": 86150025,
+        "size": 616,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:06:15Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal - panoramio (3).jpg",
+        "pageid": 59044675,
+        "size": 735,
+        "wordcount": 53,
+        "snippet": "English object of statement has role: photographer author name string: George Woes JR URL: https://web.archive.org/web/20161031195742/http://www.panoramio",
+        "timestamp": "2024-10-07T08:51:25Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333986 - onroerenderfgoed.jpg",
+        "pageid": 86759058,
+        "size": 616,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:05:52Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg Kloosterkerk - 229486 - onroerenderfgoed.jpg",
+        "pageid": 86096835,
+        "size": 617,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T09:42:26Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:39292-Arsenaal-0249.jpg",
+        "pageid": 11498364,
+        "size": 674,
+        "wordcount": 167,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-11-22T06:47:53Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg Kloosterkerk - 229517 - onroerenderfgoed.jpg",
+        "pageid": 86262460,
+        "size": 617,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T07:08:06Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333981 - onroerenderfgoed.jpg",
+        "pageid": 86759056,
+        "size": 669,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:05:11Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Meerzicht, koetshuis 2012-09-28 18-25-35.jpg",
+        "pageid": 21718086,
+        "size": 1008,
+        "wordcount": 180,
+        "snippet": "Upload more photos of this monument I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the",
+        "timestamp": "2026-05-23T14:22:02Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Korte Groenendaal 24, 26. Naaierstraat 33, Gouda.jpg",
+        "pageid": 57276126,
+        "size": 676,
+        "wordcount": 158,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-10-16T21:27:05Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Groenendaalsesteenweg 149 Station - 272847 - onroerenderfgoed.jpg",
+        "pageid": 86881830,
+        "size": 638,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-13T13:15:14Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Joannes Ruysbroeckweg Kloosterkerk - 229521 - onroerenderfgoed.jpg",
+        "pageid": 86021708,
+        "size": 617,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-14T07:09:00Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:OefenrenbaanGroenendaal (4).JPG",
+        "pageid": 45307377,
+        "size": 308,
+        "wordcount": 158,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2026-02-18T10:37:54Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Duboislaan 1 - 229444 - onroerenderfgoed.jpg",
+        "pageid": 86020386,
+        "size": 595,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-13T13:11:30Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Station Groenendaal met schuilplaats - 333975 - onroerenderfgoed.jpg",
+        "pageid": 86610595,
+        "size": 616,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-15T16:04:29Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:39292-Arsenaal-0248.jpg",
+        "pageid": 11498359,
+        "size": 674,
+        "wordcount": 167,
+        "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+        "timestamp": "2025-11-22T06:47:46Z"
+      },
+      {
+        "ns": 6,
+        "title": "File:Hoeilaart Groenendaalsesteenweg 149 - 229508 - onroerenderfgoed.jpg",
+        "pageid": 86747877,
+        "size": 640,
+        "wordcount": 112,
+        "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+        "timestamp": "2025-08-13T13:14:54Z"
+      }
+    ]
+  }
+}
