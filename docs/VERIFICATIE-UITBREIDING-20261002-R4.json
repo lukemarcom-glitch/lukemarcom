@@ -1,0 +1,209 @@
+{
+  "releaseCommit": "fe864836018a42eabcd3c5486904d65b0eba7603",
+  "pagesRun": 37044501604,
+  "checkedAt": "2026-10-02T18:02:30.298Z",
+  "buildings": 127,
+  "completedAdditions": 20,
+  "landmarks": [
+    "paul-kaiser-weinthal",
+    "asta-hoogstraat",
+    "cineac-coolsingel-vooroorlogs",
+    "koopmanshuis-nieuwehaven59",
+    "heck-city-noordblaak"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "7e47c9909d5a41c371528e6445240949318e0dea3f56966b6d141172ee903065",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "status": 200,
+      "sha256": "a293c39828ed3d71444148c70595908a4354a892ebc5a5b70e546d2687f5b22d",
+      "identical": true
+    },
+    {
+      "path": "historic-water.js",
+      "status": 200,
+      "sha256": "55b6df3f37e51cdbf189d20dd6dc1af70abe1329985373d3e0d8799ec086a767",
+      "identical": true
+    },
+    {
+      "path": "data/historic-water.json",
+      "status": 200,
+      "sha256": "0cde1cf6ca61ce61b0696513137a28a4d91c28d486fda37d34bf4869217941d4",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "status": 200,
+      "sha256": "3d2d159d18d3799a2b6b4f501cf7c992254ab4bd13b8702f9d34e9664d58409e",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "status": 200,
+      "sha256": "96a9b05bea15e603fb7523abb419c2efcd0188ecafb8040629d50a83fc471d0c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/paul-kaiser-weinthal/model.glb",
+      "status": 200,
+      "sha256": "830dbeabf805c6b6f99704d0fd91704ea9de5ee4f21429fde4b62709019dca3d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/paul-kaiser-weinthal/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "1225357f05e4f74401b24c475fab4e2c7c0534b01fff016bf23db82ba7031736",
+      "identical": true
+    },
+    {
+      "path": "landmarks/paul-kaiser-weinthal/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "6054ff4e5215dab1916a11f6aeef534a612d4a3a1813dbd120cac046bbc0b264",
+      "identical": true
+    },
+    {
+      "path": "landmarks/asta-hoogstraat/model.glb",
+      "status": 200,
+      "sha256": "f1df3968e3c7e62e66af9f5918816c6dd69a3cb0ea4cf2144c946b5bbd31daa9",
+      "identical": true
+    },
+    {
+      "path": "landmarks/asta-hoogstraat/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "cc1ffaf7284b40d2704e9b13fd25605c3c56ce0abfec4493a06a71f0cac1902c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/asta-hoogstraat/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "e5d216e7596a484adbd37786a34d2f38923ff4e41db12f1d55123befb7a7e808",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cineac-coolsingel-vooroorlogs/model.glb",
+      "status": 200,
+      "sha256": "197e6a561aa45759c350a07633967e3046b04dc6bf0580eb299535cf7a8bc764",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cineac-coolsingel-vooroorlogs/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "52d782c70788fb8531d4e3d68b73a7e1595f177b04d1c11b1b8737ef21ccf3a3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cineac-coolsingel-vooroorlogs/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "784c8fad747115c048fdd7f17f3f96bcc7beed15521d380bb32dbee3c906c5b1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cineac-coolsingel-vooroorlogs/foto-2-origineel.jpg",
+      "status": 200,
+      "sha256": "eeee898cadac3d896a89830797dd80671fcba5af23a45df7f4f2f51ddfaef410",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cineac-coolsingel-vooroorlogs/foto-2-ai.webp",
+      "status": 200,
+      "sha256": "985929df309a0f44b39b8f812f8cf3ad7b131f44eaa50bb3726bd3fd0596a686",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven59/model.glb",
+      "status": 200,
+      "sha256": "6c0806c3ed3657c072192aee394fe78d977f14b419013608b59ae4c9bdf2323b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven59/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "544b032e50d0eae21bc5f31f656d2eab9dfdeb8b2db16efeb52da77a6d9f3131",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven59/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "86ebbfb260c36eb1941f522fda4bf3023cb9777b5bd71743a54c46024c51cb33",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/model.glb",
+      "status": 200,
+      "sha256": "d7bb278279ba3ed746eef1ab09a96099acb680521c5069e2ce78739401a41a4a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "2feb69605087c98594b1d2537faca47480c4a9925d9e36597e24ea5ca183e381",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "fca768a404b78e5316d01dc689b31c9da3d7c1c70e5e7588f2a5cf050eaf2e31",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/foto-2-origineel.jpg",
+      "status": 200,
+      "sha256": "3646019202f7d92b46355a85217f8dbb498a21ad28d9787911099faf2b4c785b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/foto-2-ai.webp",
+      "status": 200,
+      "sha256": "3f64eb03be8be3bc8cf35726cb60b38f3f39d686b3ee269c87c4a505bce1d1b6",
+      "identical": true
+    }
+  ],
+  "waterVerification": {
+    "initial": {
+      "visible": true,
+      "areas": [
+        "Oudehaven",
+        "Nieuwehaven west van Pakkenbrug",
+        "Nieuwehaven oost van Pakkenbrug",
+        "Nieuwe Maas en Koningshaven",
+        "Leuvehaven ten noorden van Leuvebrug",
+        "Leuvehaven ten zuiden van Leuvebrug",
+        "Blaak",
+        "Wijnhaven westelijk middendeel",
+        "Wijnhaven en Scheepmakershaven oostelijk",
+        "Wijnhaven en Scheepmakershaven oostelijk",
+        "Haringvliet",
+        "Wijnhaven bij Leuvehaven",
+        "Scheepmakershaven west van Rederijbrug",
+        "Zalmhaven",
+        "Rotte ten noorden van Noordplein",
+        "Rotte van Noordplein tot Stokvisverlaat",
+        "Rotte van Noordplein tot Stokvisverlaat",
+        "Delftsevaart en Haagseveer",
+        "Delftsevaart tussen Sint-Jacobstraat en Meent",
+        "Delftsevaart tussen Sint-Jacobstraat en Meent",
+        "Delftsevaart ten zuiden van Meent",
+        "Delftsevaart ten zuiden van Meent",
+        "Delftsevaart ten zuiden van Meent",
+        "Steigersgracht",
+        "Kolk",
+        "Westersingel",
+        "Westersingel",
+        "Westersingel",
+        "Westersingel",
+        "Diergaardesingel",
+        "Spoorsingel",
+        "Boerengat",
+        "Buizengat",
+        "Schiedamse Vest"
+      ],
+      "meshes": 34
+    },
+    "errors": []
+  }
+}
