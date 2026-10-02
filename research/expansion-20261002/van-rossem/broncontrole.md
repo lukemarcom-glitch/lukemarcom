@@ -43,3 +43,8 @@ Beide nog geenAI; kunnen aanvullende fotoparen worden. Originele bestanden ongew
 Voorlopige monumentenlijst1915 (DBNL), p343 noemt Nieuwe Haven67 met versierde deur1755. Dit gaat over de voorzijde en is GEEN bewijs dat gefotografeerde achtergevel1755 is. https://www.dbnl.org/tekst/_voo016voor12_01/_voo016voor12_01_0134.php . Naastgelegen nr65 is afzonderlijk monument. Geen oude bouwdatum voor gehele complex claimen.
 
 Kaartuitsnede bestudeerd: terrein te zoeken tussen Nieuwe Haven en Groenendaal, oostelijk van Oost-Nieuwland. Exact perceel nog niet gelokaliseerd; niet gokken op basis van modern adres.
+
+## Eerste 3D-gevelstudie
+model-draft.json toegevoegd met bestaande city33-bouwer. Niet runtime, geen historische positie: center0,0 is alleen preview-oorsprong. Lage zijbouw met boogopening, vier bouwlagen, laadluiken, hijsbalk en dakkapellen afgeleid van1915foto. Circa28.4m breed,12m diep,22m totaal hoog zijn uitsluitend voorlopige schattingen. Onzichtbare achtergevel bewust leeg; geen ongefundeerde raamdetails toegevoegd. Linker rand van bron is afgesneden; totale gebouwbreedte nog onzeker.
+Geometrie via createLandmark gevalideerd:1866driehoeken,5materialen,allecoördinaten eindig. StandaloneBlenderpreview gerenderd en bekeken in artifacts/van-rossem/model-preview.png; geen cataloguswijziging. Foto toont sierafwerking boven hijsgevel en wit gepleisterde dakzijwang die nog ontbreken. Gootbanden zijn te uniform; verfijnen bij definitieve maatvoering. Dit is geen klaar model of voltooide toevoeging.
+WIPO-zoekresultaat p256 december1920 toont exact geregistreerd merk "DE BESTE VARINAS" en NieuweHaven67. PDFwebtool403, bronpagina nog visueel controleren; geen kleurclaims overnemen uit aangrenzende Erdal-merkregistratie.
