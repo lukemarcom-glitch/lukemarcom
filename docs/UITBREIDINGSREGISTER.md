@@ -188,3 +188,7 @@ Paul Kaiser/Weinthal aan Hoofdsteeg43 is lokaal toegevoegd als locatie123, met h
 Nieuwehaven59 AI-proef02 is geselecteerd na verwijderen van een verzonnen voorbijganger; beeld blijft in research zolang plaatsing niet is bevestigd. De aanvankelijke identificatie in een kleurenpanorama1939 bleek onjuist en is ingetrokken. Primaire tekst geeft nu gerichtere blokrelatie met Groenendaal; historische kavels blijven te controleren.
 
 AstaHoogstraat160 heeft twee AI-proeven; beide nog niet vrijgegeven door afwijkende kleine buurletters. Alleen ASTA zeker getranscribeerd in prompt; vraag naar hogere bronresolutie loopt. CinemaContextpin bleek op historische Achterstraat te vallen en wordt niet als exacte modelpositie gebruikt. Geen runtimewijziging in deze stap.
+
+## Tussenpublicatie op verzoek gebruiker — teller16
+
+De expliciet gevraagde menuzoekfunctie en historische watertint zijn live in262f64b, Pages37021549194. De reeds gecontroleerde Kaiser-toevoeging is meegepubliceerd en publiekgeverifieerd. Ronde4 daarmee éénvanvijf publiek; resterendevier volgen na bron-/modelcontrole. Backupcheckpoint20nog niet bereikt.

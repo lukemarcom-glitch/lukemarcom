@@ -223,3 +223,7 @@ Npmcheck10/10, algemene browsercheck en gerichte zoekcontrole geslaagd: beide ca
 ## Zoekveld en historische watertint —2oktober2026
 
 Op expliciet verzoek vast menuzoekveld toegevoegd en lichtblauwe handgetraceerde waterlaag voor Maas/Koningshaven, Oudehaven, Nieuwehaven en Leuvehaven. Zoeken door gebouwen en verhalen; typen beweegt camera niet. Bronkaart/transformatie behouden; bruggen en Noordereiland vrij. Alleen Toen/historischeondergrond. Zie HISTORISCH-WATER.md voor scope/nauwkeurigheid. Deze interfacepublicatie neemt ook de reeds lokaal gecontroleerde Kaiser-reconstructie mee; na publiekeverificatie wordt de uitbreidingsteller16, resterende4vanronde4 noginonderzoek. Backup blijft bij20.
+
+### Publicatie bevestigd — zoekveld/water
+
+Release262f64baddac537d66a01f284783d89c30ac25f8, GitHubPages37021549194 geslaagd. Tien publieke runtimebestanden anoniem bytegelijk gecontroleerd. Publieke browserchecks: zoeken desktop/mobiel, beide categorieën, cameraongewijzigd bijtypen, stickyveld, wissen, leegstaat en resultaatopenen geslaagd. Zes watervlakken zichtbaar ophistorischekaart en verborgen bij Nu/brandgrenskaart; geenJSfouten. Kaiserfotopaar/model eveneens publiekgeverifieerd. Uitbreidingsteller nu16; vierde ronde heeft nog4toevoegingen tegaan. Volledigebackup bij20.
