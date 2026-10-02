@@ -1,3 +1,4 @@
+import {createMenuSearch} from '../menu-search.js?v=1';
 import {photoCredit,sourceList,wikiBackground} from '../sources.js?v=1';
 import {bindStoryGallery} from '../stories/gallery.js?v=sources-1';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -77,6 +78,7 @@ export function createPanel(catalog,onOpen,onClose=()=>{},stories=[]){
  const nav=document.querySelector('#building-links');catalog.forEach(meta=>{const b=document.createElement('button');b.textContent=meta.name;b.dataset.landmark=meta.id;b.onclick=()=>open(meta);nav.append(b)});
  const storyNav=document.querySelector('#story-links');stories.forEach(meta=>{const b=document.createElement('button');b.dataset.landmark=meta.id;b.innerHTML=`<span>${esc(meta.name)}</span><small>${esc(meta.theme)} · ${esc(meta.periodNote)}</small>`;b.onclick=()=>open(meta);storyNav.append(b)});
  document.querySelector('#story-count').textContent=`${stories.length} verhalen`;
+ createMenuSearch(catalog,stories,open);
  setCategory('buildings');
  return {markers,open,close,setCategory};
 }

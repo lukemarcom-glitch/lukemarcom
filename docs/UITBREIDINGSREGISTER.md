@@ -182,3 +182,9 @@ Release fb1af0309d080acca750a7264be51ef39cf09840 is gepubliceerd: Pages 37008696
 ## Ronde 4 — eerste lokale reconstructie in review
 
 Paul Kaiser/Weinthal aan Hoofdsteeg43 is lokaal toegevoegd als locatie123, met het volledige bron/AI-paar van dezelfde straatopname als Zumpolle. Parent heeft origineel, AI en kaartscreenshot bekeken. Brononzekerheden zijn zichtbaar; kleine AI-letters zijn geen transcriptie. Dichte gevelbanden en zonwering worden nog verbeterd vóór vrijgave. Technische controle: negen tests geslaagd, geen fouten. Nog geen publicatie, dus teller blijft15; volgend backupcheckpoint bij20. Andere kandidaten worden parallel onderzocht, nog niet als bouwklaar geregistreerd.
+
+### Ronde4 — beeldcontrole en locatieonderzoek vervolg
+
+Nieuwehaven59 AI-proef02 is geselecteerd na verwijderen van een verzonnen voorbijganger; beeld blijft in research zolang plaatsing niet is bevestigd. De aanvankelijke identificatie in een kleurenpanorama1939 bleek onjuist en is ingetrokken. Primaire tekst geeft nu gerichtere blokrelatie met Groenendaal; historische kavels blijven te controleren.
+
+AstaHoogstraat160 heeft twee AI-proeven; beide nog niet vrijgegeven door afwijkende kleine buurletters. Alleen ASTA zeker getranscribeerd in prompt; vraag naar hogere bronresolutie loopt. CinemaContextpin bleek op historische Achterstraat te vallen en wordt niet als exacte modelpositie gebruikt. Geen runtimewijziging in deze stap.

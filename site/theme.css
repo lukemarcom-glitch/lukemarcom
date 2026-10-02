@@ -173,3 +173,17 @@ dialog:not(.image-lightbox)>p,dialog dl{font-size:16px}dialog dd{color:var(--mut
 .story-thumbnails .photo-thumb img{object-fit:contain;background:var(--soft)}
 
 .story-thumbnails .photo-thumb span{font-size:14px}
+
+/* A persistent search searches both categories without moving the camera. */
+.menu-search-header{position:sticky;top:0;z-index:4;background:var(--paper);padding:9px 4px 8px;border-bottom:1px solid var(--line)}
+.menu-search-header label{display:block;font:600 15px/1.3 var(--ui);margin-bottom:6px}
+.menu-search-field{display:flex;align-items:center;border:1px solid var(--line);border-radius:5px;background:var(--soft)}
+#place-search{min-width:0;width:100%;min-height:44px;border:0;background:transparent;color:var(--ink);padding:10px;font:400 16px/1.3 var(--ui)}
+#place-search::-webkit-search-cancel-button{display:none}
+#places-content #place-search-clear{width:42px;min-width:42px;min-height:44px;padding:4px;text-align:center;font-size:24px;background:transparent;color:var(--ink)}
+#place-search-status{margin:4px 0 0;font:400 13px/1.3 var(--ui);color:var(--muted)}
+#place-search-status:empty{display:none}
+#places-content .category-switch{position:static}
+#places-content.is-searching>.category-switch,#places-content.is-searching>[data-place],#places-content.is-searching>#building-category,#places-content.is-searching>#stories-category{display:none}
+#places-content [hidden]{display:none!important}
+#place-search-results{padding-bottom:12px}

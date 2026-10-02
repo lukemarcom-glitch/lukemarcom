@@ -213,3 +213,13 @@ Paul Kaiser/Weinthal is locatie123. Ronde4 heeft nu één lokaal model; publiek 
 Nieuwehaven59: bronfoto RCE20192285 plus Verheul1935 als kleurindicatie. AI-proef02 gecorrigeerd (verzonnen extra persoon verwijderd) en voorlopig geselecteerd; nog uitsluitend research/expansion-20261002/round4-a. Exacte historische plaatsing en verwoestingsbron nog in onderzoek. Cineac NRC oudeCoolsingel17 en AstaHoogstraat160 zijn andere kandidaten; geen moderne adressen overnemen. ZwembadTuindersstraat nog onzeker qua beeldrechten.
 
 Volgende volledige backup bij20 voltooide/publiekgeverifieerde toevoegingen. Geen Claude-loginwerk in deze loop. Gebruiker gaf nieuwe suggesties voor menuzoeken/filters en lichtblauw historisch water; dit waren adviesvragen, nog geen implementatieopdracht.
+
+## 2 oktober 2026 — vast menuzoekveld (lokaal)
+
+Expliciet opgedragen menuzoekfunctie toegevoegd via `site/menu-search.js`, aangeroepen vanuit `landmarks/panel.js`. Sticky invoerveld boven de scrollende lijst op desktop en mobiel; zoekt gebouwen/plekken en WOII-verhalen tegelijk op naam, beschikbare alternatieve namen en adres-/locatievelden. Resultaten per categorie, aantal, wissen en lege toestand; toetsenbordfocus en Escape om te wissen. Typen verandert de camera of kaartcategorie niet, pas resultaat kiezen opent de bestaande plek-/verhalenweergave. Historische/moderne kleurvariabelen worden gevolgd. Geen catalogus- of modelwijzigingen voor deze functie.
+
+Npmcheck10/10, algemene browsercheck en gerichte zoekcontrole geslaagd: beide categorieën, camera onveranderd bij invoer, lege zoekopdracht, wissen, selecteren, sticky op390px en geen horizontale overflow. Desktop/mobiele screenshots in artifacts/menu-search-*.png visueel bekeken. Nog niet gepubliceerd; cacheversies bij gezamenlijke release bijwerken.
+
+## Zoekveld en historische watertint —2oktober2026
+
+Op expliciet verzoek vast menuzoekveld toegevoegd en lichtblauwe handgetraceerde waterlaag voor Maas/Koningshaven, Oudehaven, Nieuwehaven en Leuvehaven. Zoeken door gebouwen en verhalen; typen beweegt camera niet. Bronkaart/transformatie behouden; bruggen en Noordereiland vrij. Alleen Toen/historischeondergrond. Zie HISTORISCH-WATER.md voor scope/nauwkeurigheid. Deze interfacepublicatie neemt ook de reeds lokaal gecontroleerde Kaiser-reconstructie mee; na publiekeverificatie wordt de uitbreidingsteller16, resterende4vanronde4 noginonderzoek. Backup blijft bij20.

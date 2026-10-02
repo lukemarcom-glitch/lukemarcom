@@ -1,11 +1,12 @@
+import {createHistoricWater} from './historic-water.js?v=1';
 import {createLocationControl} from './location.js?v=1';
 import {resolveStoryLocations} from './stories/locations.js?v=city-33';
 import {layoutMarkers} from './marker-layout.js?v=city-33';
 import * as THREE from './vendor/three.module.js';
 import { OrbitControls } from './vendor/OrbitControls.js';
-import {createLandmark,inside,configureLandmarkContext} from './landmarks/models.js?v=city-33';
+import {createLandmark,inside,configureLandmarkContext} from './landmarks/models.js?v=search-water-1';
 import {loadModern} from './modern/view.js';
-import {createPanel} from './landmarks/panel.js?v=sources-1';
+import {createPanel} from './landmarks/panel.js?v=search-water-1';
 const $=id=>document.getElementById(id);
 const loading=$('loading');
 async function start(){
@@ -51,6 +52,7 @@ async function start(){
   const mat=new THREE.MeshStandardMaterial({map:texture,roughness:1,color:'#ffffff',side:THREE.DoubleSide});const mesh=new THREE.Mesh(g,mat);mesh.receiveShadow=true;scene.add(mesh);return mesh;
  }
  const historicMap=ground(model.mapCorners,historicTex,0);const brandMap=ground(model.brandMapCorners,brandTex,-.1);brandMap.visible=false;
+ const historicWater=await createHistoricWater(scene,model);
  const base=new THREE.Mesh(new THREE.PlaneGeometry(18000,18000),new THREE.MeshStandardMaterial({color:'#e5e5da',roughness:1}));base.rotation.x=-Math.PI/2;base.position.y=-8;base.receiveShadow=true;scene.add(base);
  const labels=model.landmarks.filter(p=>!catalog.some(m=>m.name===p.name)).map(p=>{const el=document.createElement('div');el.className='place-label';el.textContent=p.name;$('labels').appendChild(el);return {el,position:new THREE.Vector3(p.position[0],22,-p.position[1])}});
  $('count').textContent=`${ranges.length.toLocaleString('nl-NL')} afgeleide bouwmassa’s`;
@@ -75,7 +77,7 @@ async function start(){
   const now=era==='now';
   scene.background.set(now?'#f7f7f8':'#e8e8df');base.material.color.set(now?'#f7f7f8':'#e5e5da');sun.color.set(now?'#ffffff':'#ffefd2');sky.color.set(now?'#ffffff':'#ffffed');sky.groundColor.set(now?'#849a8d':'#65705f');
   $('scene').setAttribute('aria-label',now?'Draaibare 3D-kaart van het huidige Rotterdam, met kleurenluchtfoto en vereenvoudigde gebouwvolumes.':'Draaibaar 3D-volumemodel van historische bebouwing, afgeleid van een archiefkaart. Hoogten zijn schematisch.');$('era-now').textContent=$('modern-buildings').checked?'Nu · 3D':'Nu · kleur';document.body.classList.toggle('era-modern',now);$('era-old').setAttribute('aria-pressed',String(!now));$('era-now').setAttribute('aria-pressed',String(now));
-  historicMap.visible=!now&&$('map-select').value==='historical';brandMap.visible=!now&&$('map-select').value==='brand';objects.visible=!now&&$('show-buildings').checked;landmarkGroup.visible=!now;if(highlight)highlight.visible=!now&&objects.visible;
+  historicMap.visible=!now&&$('map-select').value==='historical';brandMap.visible=!now&&$('map-select').value==='brand';historicWater.visible=historicMap.visible;objects.visible=!now&&$('show-buildings').checked;landmarkGroup.visible=!now;if(highlight)highlight.visible=!now&&objects.visible;
   $('modern-options').hidden=!now;$('modern-attribution').hidden=!now;$('labels').hidden=now||!$('show-labels').checked;
   for(const id of ['map-select','height','show-buildings'])$(id).disabled=now;
   if(modern){modern.aerial.visible=now;modern.group.visible=now&&$('modern-buildings').checked;modern.labelRoot.hidden=!now||!$('show-labels').checked;}
@@ -98,7 +100,7 @@ async function start(){
  document.querySelectorAll('[data-place]').forEach(b=>b.addEventListener('click',()=>{panel.close(false);gotoPlace(b.dataset.place);if(innerWidth<1000)setMenu(false)}));
  function setView(next){if(era==='old'&&next==='3d'&&sourceInspection){objects.visible=true;$('show-buildings').checked=true;if(highlight)highlight.visible=true;sourceInspection=false}view=next;const target=controls.target.clone();const d=camera.position.distanceTo(target);move(target,next==='2d'?new THREE.Vector3(0,d,.1):new THREE.Vector3(d*.27,d*.65,d*.69));$('view3d').setAttribute('aria-pressed',String(next==='3d'));$('view2d').setAttribute('aria-pressed',String(next==='2d'))}
  $('view3d').onclick=()=>setView('3d');$('view2d').onclick=()=>setView('2d');
- $('map-select').onchange=e=>{historicMap.visible=e.target.value==='historical';brandMap.visible=e.target.value==='brand'};
+ $('map-select').onchange=()=>syncEra();
  $('show-buildings').onchange=e=>{objects.visible=e.target.checked;if(highlight)highlight.visible=e.target.checked};
  $('show-boundary').onchange=e=>border.visible=e.target.checked;
  $('show-labels').onchange=()=>syncEra();
@@ -138,7 +140,7 @@ async function start(){
   if(highlight){scene.remove(highlight);highlight.geometry.dispose();highlight.material.dispose()}
   const g=new THREE.ExtrudeGeometry(item.shape,{depth:12.45,bevelEnabled:false,steps:1,curveSegments:1});g.rotateX(-Math.PI/2);highlight=new THREE.Mesh(g,new THREE.MeshStandardMaterial({color:'#477760',roughness:1}));highlight.position.y=.5;highlight.scale.y=+$('height').value/12;scene.add(highlight);
   document.querySelector('.tools').classList.add('expanded');$('tools-toggle').setAttribute('aria-expanded','true');const f=item.data;$('selection').innerHTML=`<span class="caption">AUTOMATISCH AFGELEIDE VORM</span><strong>Bouwmassa ${f.id} · ca. ${Math.round(f.area).toLocaleString('nl-NL')} m²</strong><p class="selected-note">Kaartcontour, nog niet per pand gecontroleerd. Hoogte is schematisch.</p><button id="inspect-source">Bekijk de contour op de kaart ↗</button>`;
-  $('inspect-source').onclick=()=>{setView('2d');sourceInspection=true;$('map-select').value='historical';historicMap.visible=true;brandMap.visible=false;$('show-buildings').checked=false;objects.visible=false;highlight.visible=false;move(new THREE.Vector3(...[f.center[0],0,-f.center[1]]),new THREE.Vector3(0,Math.max(150,Math.sqrt(f.area)*5),.1))};
+  $('inspect-source').onclick=()=>{setView('2d');sourceInspection=true;$('map-select').value='historical';historicMap.visible=true;brandMap.visible=false;historicWater.visible=true;$('show-buildings').checked=false;objects.visible=false;highlight.visible=false;move(new THREE.Vector3(...[f.center[0],0,-f.center[1]]),new THREE.Vector3(0,Math.max(150,Math.sqrt(f.area)*5),.1))};
  }
  renderer.domElement.addEventListener('pointerup',select);
  const resize=()=>{const w=$('scene').clientWidth,h=$('scene').clientHeight;camera.aspect=w/h;camera.setViewOffset(w,h,w<1000?0:(document.body.classList.contains('landmark-open')?(focusedBridge?Math.min(440,w-310)/2+10:w*.07):-w*.04),w<700?h*(document.body.classList.contains('landmark-open')?.28:.07):0,w,h);camera.updateProjectionMatrix();renderer.setSize(w,h,false)};new ResizeObserver(resize).observe($('scene'));resize();
