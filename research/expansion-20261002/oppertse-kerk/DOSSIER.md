@@ -1,6 +1,6 @@
 # Oppertse kerk — HH. Laurentius en Maria Magdalena
 
-2 oktober 2026. **Kerkverlies bewezen; nog niet bouwklaar wegens verschil tussen kerkfront en pastoriebeeld.** Geen AI/model/runtime gemaakt.
+2 oktober 2026. **Kerkverlies bewezen; nog niet bouwklaar wegens verschil tussen kerkfront en pastoriebeeld.** AI-proef van de pastorie aanwezig; geen model/runtime gemaakt.
 
 ## Primaire verwoestingsbron
 
@@ -53,3 +53,13 @@ Dubbele nummering103/105/107 blijft kaartlezing van één brede voorbouw; geen r
 SAR4080 **XVIII-410-02**, Raoul (E.A.R.) Hermans, datering1940, geeft de hele pastorie frontaal in kleur. Record noemt **Oppert107–109**, dus voorlopige103/105-kaartlezing nog niet publiceren. Rechtstreeks in archiefviewer bekeken; bruikbaar als vorm- en kleurreferentie. Donkerbruin metselwerk, lichte kozijnen/lijst/fronton, donkerblauwgroene deuren, donker hek. Boven de kroonlijst een pannendak met twee dakkapellen en twee schoorstenen. Kleuren blijven artistieke waarneming, geen verfmonster. Rechten bij Hermans en downloadbaarNee: niet als extra publieksafbeelding gekopieerd. Vrije RCEfoto blijft het originele fotopaar. Volledige registratie en directe links: `hermans-colour-reference.json`.
 
 Verwerving bevestigd in Rotterdams Jaarboekje1941pLVI, via rechtstreeks gelezen PDF. De aquarel bewijst op zichzelf niet wanneer of hoe het pand verloren ging. BeeldcontroleAI01 blijft een eerste proef; donkerblauwgroene deuren sluiten aan, exacte tinten en blauwe raamhorren vragen verdere vergelijking.
+
+### CORRECTIE na sterk vergrote huisnummercontrole (leidend boven eerdere notities)
+
+`number-check.jpg` maakt duidelijk: **Oppert107 alleen is perceel776**. Nummers103 en105 zijn afzonderlijke buurpercelen, dus de eerdere dubbele-nummeringshypothese vervalt. Nummer109 is de smalle entree/voorbouw op771 direct naast776. De aquarelcaption107–109 kan die entree meetellen; nog niet extra bouwvolume zonder gevel/kaartvergelijking. Pastoriecontour776 blijft gelijk.
+
+Het blauwe kerkperceel is bij vergroting **2099**, niet1209 zoals eerder te snel gelezen. Het is een administratieve nummercorrectie, geen verplaatsing van de ingetekende kerk. `placement-draft.json` en overlay zijn bijgewerkt. Huisnummerkerk aanLangeTorenstraat nog niet vastgesteld.
+
+## Vergrote nummercontrole — correctie voorlopige kaartlezing
+
+Plaatsingsagent heeft number-check.jpg opnieuw vergroot gelezen: perceel776 draagt107;103/105 horen bij afzonderlijke buurpercelen1669/2497. Nummer109 ligt op de aangrenzende smalle strook771 en kan de tweede entree verklaren. De boven vermelde kerkperceellezing1209 is **niet bevestigd**; vergroting lijkt2099 te geven. Gebruik1209 niet als vaststaand perceelnummer. Georeferentie en zelfstandige beeldcontrole volgen; historische aquarel blijft107–109 voor de complete gevel benoemen.
