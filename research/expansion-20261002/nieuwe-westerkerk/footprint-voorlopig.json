@@ -1,0 +1,50 @@
+{
+  "status": "manually identified using 1900 labelled map and 1955 prewar-state map; approximation, not cadastral survey",
+  "pixel_polygon": [
+    [
+      1918,
+      1602
+    ],
+    [
+      1964,
+      1564
+    ],
+    [
+      1988,
+      1594
+    ],
+    [
+      1942,
+      1633
+    ]
+  ],
+  "local_polygon": [
+    [
+      -611.0030399982415,
+      486.8440366037677
+    ],
+    [
+      -583.528701674936,
+      509.8978140687768
+    ],
+    [
+      -569.0444684754189,
+      492.0878528490008
+    ],
+    [
+      -596.5158004255054,
+      468.43523207017415
+    ]
+  ],
+  "front_edge_pixel": [
+    [
+      1964,
+      1564
+    ],
+    [
+      1988,
+      1594
+    ]
+  ],
+  "map_pixel_uncertainty": 5
+}

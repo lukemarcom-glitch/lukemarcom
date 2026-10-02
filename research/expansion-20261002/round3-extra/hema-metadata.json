@@ -1,0 +1,1983 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 20,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "105142056": {
+        "pageid": 105142056,
+        "ns": 6,
+        "title": "File:De HEMA bij de Korte Hoogstraat 1991.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De_HEMA_bij_de_Korte_Hoogstraat_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 859,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/De_HEMA_bij_de_Korte_Hoogstraat_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 859
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/De_HEMA_bij_de_Korte_Hoogstraat_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_HEMA_bij_de_Korte_Hoogstraat_1991.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105142056",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-10 14:28:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De HEMA bij de Korte Hoogstraat 1991",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the Hema department store on Korte Hoogstraat. Year: 1991.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1991",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/DC00DE9769F94D449EAED2B5082B17E0\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Floor (F.) van Dongen",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105000952": {
+        "pageid": 105000952,
+        "ns": 6,
+        "title": "File:De HEMA op de hoek Korte Hoogstraat - Beursplein 1978.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg/1280px-De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1029,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg/1280px-De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1029,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_HEMA_op_de_hoek_Korte_Hoogstraat_-_Beursplein_1978.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105000952",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-07 15:18:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De HEMA op de hoek Korte Hoogstraat - Beursplein 1978",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Beursplein (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)|Photographs by Ary Groeneveld",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hema on the corner of Korte Hoogstraat and Beursplein. Year: 1978.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-01-1978 - 30-06-1978",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/D8E7DFD3398D4DE6BDD4D97DE66571D6\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Ary (A.) Groeneveld",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104551998": {
+        "pageid": 104551998,
+        "ns": 6,
+        "title": "File:De HEMA op de hoek van de Hoogstraat en Korte Hoogstraat 1937 - 1941.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De_HEMA_op_de_hoek_van_de_Hoogstraat_en_Korte_Hoogstraat_1937_-_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 1032,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/De_HEMA_op_de_hoek_van_de_Hoogstraat_en_Korte_Hoogstraat_1937_-_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1032
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/De_HEMA_op_de_hoek_van_de_Hoogstraat_en_Korte_Hoogstraat_1937_-_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_HEMA_op_de_hoek_van_de_Hoogstraat_en_Korte_Hoogstraat_1937_-_1941.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104551998",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-28 14:42:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De HEMA op de hoek van de Hoogstraat en Korte Hoogstraat 1937 - 1941",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|1930s in Hoogstraat (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hema department store on the corner of Hoogstraat - Korte Hoogstraat, seen from Sint-Laurensstraat. Year: 1937 - 1941.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1937 and 1941<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1937-00-00T00:00:00Z/9,P1326,+1941-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/104BEE18080A40A1A2D15AD843F30B99\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104849935": {
+        "pageid": 104849935,
+        "ns": 6,
+        "title": "File:De Hoogstraat met de V&D en Peek & Cloppenburg 1964.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De_Hoogstraat_met_de_V%26D_en_Peek_%26_Cloppenburg_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 1834,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De_Hoogstraat_met_de_V%26D_en_Peek_%26_Cloppenburg_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1834
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De_Hoogstraat_met_de_V%26D_en_Peek_%26_Cloppenburg_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_Hoogstraat_met_de_V%26D_en_Peek_%26_Cloppenburg_1964.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104849935",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-03 07:31:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De Hoogstraat met de V&D en Peek & Cloppenburg 1964",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Peek & Cloppenburg, Rotterdam|History of Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|1964 in Rotterdam|Photographs by Fototechnische Dienst Rotterdam|Vroom & Dreesman, Rotterdam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Overview on Hoogstraat from the Hema department store, left the V &amp; D department store. Year: 1964.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1964",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/E9B41B5280D3456E9E840ED79DAE2944\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Fototechnische Dienst Rotterdam (Gemeentewerken, Openbare Werken)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104551996": {
+        "pageid": 104551996,
+        "ns": 6,
+        "title": "File:De Korte Hoogstraat en HEMA vanaf de Hoogstraat 1930.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De_Korte_Hoogstraat_en_HEMA_vanaf_de_Hoogstraat_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 840,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De_Korte_Hoogstraat_en_HEMA_vanaf_de_Hoogstraat_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 840
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De_Korte_Hoogstraat_en_HEMA_vanaf_de_Hoogstraat_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_Korte_Hoogstraat_en_HEMA_vanaf_de_Hoogstraat_1930.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104551996",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-28 14:42:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De Korte Hoogstraat en HEMA vanaf de Hoogstraat 1930",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|Template Unknown (author)|HEMA (Rotterdam)|1930s in Hoogstraat (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Korte Hoogstraat with the HEMA store warehouse, seen from the Hoogstraat. Year: 1930.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-08-13 10:07:51",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/483909E0791842E69E6411C4866EFBB8\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105374131": {
+        "pageid": 105374131,
+        "ns": 6,
+        "title": "File:De kerstetalage van de HEMA aan de Korte Hoogstraat en Beursplein 1992.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De_kerstetalage_van_de_HEMA_aan_de_Korte_Hoogstraat_en_Beursplein_1992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 822,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/De_kerstetalage_van_de_HEMA_aan_de_Korte_Hoogstraat_en_Beursplein_1992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 822
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/De_kerstetalage_van_de_HEMA_aan_de_Korte_Hoogstraat_en_Beursplein_1992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_kerstetalage_van_de_HEMA_aan_de_Korte_Hoogstraat_en_Beursplein_1992.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105374131",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-16 14:01:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De kerstetalage van de HEMA aan de Korte Hoogstraat en Beursplein 1992",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)|Photographs by Max van Essen",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Christmas sales of the Hema on the corner of the Korte Hoogstraat and the Beursplein. Year: 1992.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1992",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/725A5F7673C24059AEC122241F962EA7\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Max (M.) van Essen",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104649709": {
+        "pageid": 104649709,
+        "ns": 6,
+        "title": "File:De verwoeste Korte Hoogstraat richting het Roodezand met Hoogstraat, C&A, HEMA.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De_verwoeste_Korte_Hoogstraat_richting_het_Roodezand_met_Hoogstraat%2C_C%26A%2C_HEMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 862,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De_verwoeste_Korte_Hoogstraat_richting_het_Roodezand_met_Hoogstraat%2C_C%26A%2C_HEMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 862
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De_verwoeste_Korte_Hoogstraat_richting_het_Roodezand_met_Hoogstraat%2C_C%26A%2C_HEMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_verwoeste_Korte_Hoogstraat_richting_het_Roodezand_met_Hoogstraat,_C%26A,_HEMA.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104649709",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-30 08:29:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De verwoeste Korte Hoogstraat richting het Roodezand met Hoogstraat, C&A, HEMA",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rodezand (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|1940 in Hoogstraat (Rotterdam)|C&A (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Overview of the Korte Hoogstraat, towards the Rodezand. On the right C&amp;A fashion department store on Hoogstraat. Left the remains of the Hema department store. Destruction after German bombardment on May 14, 1940.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1941-04-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/7A1C65794C8E43E09BCE008B52260DE3\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104972353": {
+        "pageid": 104972353,
+        "ns": 6,
+        "title": "File:Drukte bij het zelfbedieningsrestaurant aan de HEMA op het Beursplein 1972.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Drukte_bij_het_zelfbedieningsrestaurant_aan_de_HEMA_op_het_Beursplein_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 962,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Drukte_bij_het_zelfbedieningsrestaurant_aan_de_HEMA_op_het_Beursplein_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 962
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Drukte_bij_het_zelfbedieningsrestaurant_aan_de_HEMA_op_het_Beursplein_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Drukte_bij_het_zelfbedieningsrestaurant_aan_de_HEMA_op_het_Beursplein_1972.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104972353",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-06 15:47:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Drukte bij het zelfbedieningsrestaurant aan de HEMA op het Beursplein 1972",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|HEMA Beursplein Rotterdam interior",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Self-service restaurant Wip-In in the Hema department store on Korte Hoogstraat. Year: 1972.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1972-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/BE94C3017B69437CA9EDEFF50173EFDB\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "WIllem (W.) Vermeer",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105000949": {
+        "pageid": 105000949,
+        "ns": 6,
+        "title": "File:Duiven op een besneeuwd Beursplein met Peek & Cloppenburg en Hema op de Hoogstraat en Korte Hoogstraat 1979.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Duiven_op_een_besneeuwd_Beursplein_met_Peek_%26_Cloppenburg_en_Hema_op_de_Hoogstraat_en_Korte_Hoogstraat_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 1844,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Duiven_op_een_besneeuwd_Beursplein_met_Peek_%26_Cloppenburg_en_Hema_op_de_Hoogstraat_en_Korte_Hoogstraat_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1844
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Duiven_op_een_besneeuwd_Beursplein_met_Peek_%26_Cloppenburg_en_Hema_op_de_Hoogstraat_en_Korte_Hoogstraat_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duiven_op_een_besneeuwd_Beursplein_met_Peek_%26_Cloppenburg_en_Hema_op_de_Hoogstraat_en_Korte_Hoogstraat_1979.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105000949",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-07 15:18:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Duiven op een besneeuwd Beursplein met Peek & Cloppenburg en Hema op de Hoogstraat en Korte Hoogstraat 1979",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Beursplein (Rotterdam)|Peek & Cloppenburg, Rotterdam|Korte Hoogstraat (Rotterdam)|History of Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)|Photographs by Lex de Herder",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Beursplein with the Korte Hoogstraat on the right. Year: 1979.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "08-01-1979",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/33AD1FB9E7274BBCBF3FE6B9CCFCC94F\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Alex (Lex) (A.) de Herder",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104972357": {
+        "pageid": 104972357,
+        "ns": 6,
+        "title": "File:Groepfoto van het personeel van de HEMA Beursplein 1970.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg/1280px-Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1017,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/05/Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg/1280px-Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1017,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/05/Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Groepfoto_van_het_personeel_van_de_HEMA_Beursplein_1970.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104972357",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-06 15:47:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Groepfoto van het personeel van de HEMA Beursplein 1970",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|Photographs by Ary Groeneveld|HEMA Beursplein Rotterdam interior",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Group photo of Hema staff in the branch on the Korte Hoogstraat-Beursplein. Year: 1970.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-07-1970 - 30-08-1970",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/B231E1AF05B145C598DAD0807CD0BCE4\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Ary (A.) Groeneveld",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104972355": {
+        "pageid": 104972355,
+        "ns": 6,
+        "title": "File:HEMA-medewerkers vieren het 50-jarig jubileum van de HEMA 1976.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg/1280px-HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 854,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a0/HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg/1280px-HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 854,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a0/HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HEMA-medewerkers_vieren_het_50-jarig_jubileum_van_de_HEMA_1976.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104972355",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-06 15:47:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HEMA-medewerkers vieren het 50-jarig jubileum van de HEMA 1976",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gerzon (Rotterdam)|CC-Zero|Beursplein (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)|Photographs by Ary Groeneveld",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Celebration of HEMA's 50th anniversary on the Beursplein. Year: 1976.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-10-1976 - 20-10-1976",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/0409752872B4423C88088173304F0D2F\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Ary (A.) Groeneveld",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104552005": {
+        "pageid": 104552005,
+        "ns": 6,
+        "title": "File:Prentbriefkaart de HEMA aan de Korte Hoogstraat en Hoogstraat 1938.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Prentbriefkaart_de_HEMA_aan_de_Korte_Hoogstraat_en_Hoogstraat_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 849,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Prentbriefkaart_de_HEMA_aan_de_Korte_Hoogstraat_en_Hoogstraat_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 849
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Prentbriefkaart_de_HEMA_aan_de_Korte_Hoogstraat_en_Hoogstraat_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_HEMA_aan_de_Korte_Hoogstraat_en_Hoogstraat_1938.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104552005",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-28 14:43:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Prentbriefkaart de HEMA aan de Korte Hoogstraat en Hoogstraat 1938",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|1938 postcards of the Netherlands|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|1930s in Hoogstraat (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The HEMA retail warehouse building at Korte Hoogstraat number 1a, from the northeast, from Sint Laurensstraat. Year: 1938.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1938",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/7D074CCA1C6C499BB1D0EADC240E937F\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "88428199": {
+        "pageid": 88428199,
+        "ns": 6,
+        "title": "File:Verwoeste Hoogstraat, Passage, Hema, C&A en Sint-Laurenskerk 1940.png",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Verwoeste_Hoogstraat%2C_Passage%2C_Hema%2C_C%26A_en_Sint-Laurenskerk_1940.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 813,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Verwoeste_Hoogstraat%2C_Passage%2C_Hema%2C_C%26A_en_Sint-Laurenskerk_1940.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 813
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Verwoeste_Hoogstraat%2C_Passage%2C_Hema%2C_C%26A_en_Sint-Laurenskerk_1940.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Verwoeste_Hoogstraat,_Passage,_Hema,_C%26A_en_Sint-Laurenskerk_1940.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88428199",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-22 22:33:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Verwoeste Hoogstraat, Passage, Hema, C&A en Sint-Laurenskerk 1940",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Passage (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|1940 in Hoogstraat (Rotterdam)|C&A (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the area of Hoogstraat affected by the German bombardment of 14 May 1940. In the foreground the Passage between Coolsingel and Korte Hoogstraat, on the left the Hoogstraat with the department store Hema and the clothing warehouse C&amp;A. In the middle the Steiger. As a result of this bombardment, the center of the city has been largely destroyed. Seen from the southwest.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1940-05-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://stadsarchief.rotterdam.nl/zoek-en-ontdek/archieven/zoekrestultaat-archieven/?mivast=184&amp;mizig=299&amp;miadt=184&amp;miaet=14&amp;micode=4100&amp;minr=39883293&amp;miview=ldt\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104604993": {
+        "pageid": 104604993,
+        "ns": 6,
+        "title": "File:Verwoeste huizen bij de Korte Hoogstraat en Hoogstraat met restanten van de HEMA, C&A en Amsterdamsche Bank 1940.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Verwoeste_huizen_bij_de_Korte_Hoogstraat_en_Hoogstraat_met_restanten_van_de_HEMA%2C_C%26A_en_Amsterdamsche_Bank_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 801,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Verwoeste_huizen_bij_de_Korte_Hoogstraat_en_Hoogstraat_met_restanten_van_de_HEMA%2C_C%26A_en_Amsterdamsche_Bank_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 801
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Verwoeste_huizen_bij_de_Korte_Hoogstraat_en_Hoogstraat_met_restanten_van_de_HEMA%2C_C%26A_en_Amsterdamsche_Bank_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Verwoeste_huizen_bij_de_Korte_Hoogstraat_en_Hoogstraat_met_restanten_van_de_HEMA,_C%26A_en_Amsterdamsche_Bank_1940.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104604993",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-29 07:18:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Verwoeste huizen bij de Korte Hoogstraat en Hoogstraat met restanten van de HEMA, C&A en Amsterdamsche Bank 1940",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Amsterdamsche Bank (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|1940 in Hoogstraat (Rotterdam)|C&A (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Korte Hoogstraat en Hoogstraat. Met restanten o.a van het Hema en C &amp; A gebouw. Op de achtergrond de Amsterdamsche bank aan de Coolsingel hoek Van Oldenbarneveltstraat. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-06-1940 - 30-06-1940",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/8EDD361FE31B48169C47E09065047CBC\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105051101": {
+        "pageid": 105051101,
+        "ns": 6,
+        "title": "File:Wandelaars op het Beursplein en Korte Hoogstraat nabij de HEMA 1990.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wandelaars_op_het_Beursplein_en_Korte_Hoogstraat_nabij_de_HEMA_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 856,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wandelaars_op_het_Beursplein_en_Korte_Hoogstraat_nabij_de_HEMA_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 856
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wandelaars_op_het_Beursplein_en_Korte_Hoogstraat_nabij_de_HEMA_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wandelaars_op_het_Beursplein_en_Korte_Hoogstraat_nabij_de_HEMA_1990.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105051101",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-08 15:56:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wandelaars op het Beursplein en Korte Hoogstraat nabij de HEMA 1990",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Beursplein (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|Netherlands photographs taken on 1990-03-27|HEMA (Rotterdam)|Photographs by Lex de Herder",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Beursplein at the corner of the Korte Hoogstraat. Further on is the Hema department store. Year: 27-03-1990.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1990-03-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/C2512AD8914E40EB80677B59D48A808C\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Alex (Lex) (A.) de Herder",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105000951": {
+        "pageid": 105000951,
+        "ns": 6,
+        "title": "File:Winkelend publiek bij de HEMA op de Korte Hoogstraat - Beursplein 1978.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg/1280px-Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1019,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg/1280px-Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1019,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Winkelend_publiek_bij_de_HEMA_op_de_Korte_Hoogstraat_-_Beursplein_1978.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105000951",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-07 15:18:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Winkelend publiek bij de HEMA op de Korte Hoogstraat - Beursplein 1978",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Beursplein (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)|Photographs by Ary Groeneveld",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hema on the corner of Korte Hoogstraat and Beursplein. Year: 1978.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-01-1978 - 30-06-1978",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/D8E7DFD3398D4DE6BDD4D97DE66571D6\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Ary (A.) Groeneveld",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107001289": {
+        "pageid": 107001289,
+        "ns": 6,
+        "title": "File:Witteveen winkel Rotterdam 1960.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Witteveen_winkel_Rotterdam_1960.jpg/1280px-Witteveen_winkel_Rotterdam_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1681,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Witteveen_winkel_Rotterdam_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Witteveen_winkel_Rotterdam_1960.jpg/1280px-Witteveen_winkel_Rotterdam_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1681,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Witteveen_winkel_Rotterdam_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Witteveen_winkel_Rotterdam_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Witteveen_winkel_Rotterdam_1960.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107001289",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-26 14:24:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Witteveen winkel Rotterdam 1960",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Peek & Cloppenburg, Rotterdam|Witteveen (shop)|Photographs by Anna de Ruijter",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Witteveen shop Rotterdam 1960",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-05-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:De_Korte_Hoogstraat_met_de_HEMA,_Peek_%26_Cloppenburg,_V%26D_en_Witteveen-gebouw_1960.jpg\" title=\"File:De Korte Hoogstraat met de HEMA, Peek &amp; Cloppenburg, V&amp;D en Witteveen-gebouw 1960.jpg\">File:De_Korte_Hoogstraat_met_de_HEMA,_Peek_&amp;_Cloppenburg,_V&amp;D_en_Witteveen-gebouw_1960.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Anna (A.M.E.) de Ruijter",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104623783": {
+        "pageid": 104623783,
+        "ns": 6,
+        "title": "File:Zicht op de verwoeste HEMA en nieuwe Beursgebouw aan de Korte Hoogstraat en Sint-Laurensstraat 1940.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zicht_op_de_verwoeste_HEMA_en_nieuwe_Beursgebouw_aan_de_Korte_Hoogstraat_en_Sint-Laurensstraat_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 843,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zicht_op_de_verwoeste_HEMA_en_nieuwe_Beursgebouw_aan_de_Korte_Hoogstraat_en_Sint-Laurensstraat_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 843
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zicht_op_de_verwoeste_HEMA_en_nieuwe_Beursgebouw_aan_de_Korte_Hoogstraat_en_Sint-Laurensstraat_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zicht_op_de_verwoeste_HEMA_en_nieuwe_Beursgebouw_aan_de_Korte_Hoogstraat_en_Sint-Laurensstraat_1940.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104623783",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-29 15:56:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Zicht op de verwoeste HEMA en nieuwe Beursgebouw aan de Korte Hoogstraat en Sint-Laurensstraat 1940",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from Stadsarchief Rotterdam|PD-anon-70-EU|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|Sint-Laurensstraat (Rotterdam)|Distant views of Beurs Rotterdam (1940-1987)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the surroundings of Korte Hoogstraat and Sint Laurensstraat with in the foreground the destroyed department store HEMA and on the right the Beursgebouw, the center of the city was destroyed as a result of the German bombardment of 14 May 1940.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "17-05-1940 - 31-08-1940",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/2EBC4ED898944FD39B13AE390B147628\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105142058": {
+        "pageid": 105142058,
+        "ns": 6,
+        "title": "File:Zicht op het Beursplein, Korte Hoogstraat en HEMA 1991.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zicht_op_het_Beursplein%2C_Korte_Hoogstraat_en_HEMA_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 871,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zicht_op_het_Beursplein%2C_Korte_Hoogstraat_en_HEMA_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 871
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zicht_op_het_Beursplein%2C_Korte_Hoogstraat_en_HEMA_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zicht_op_het_Beursplein,_Korte_Hoogstraat_en_HEMA_1991.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105142058",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-10 14:28:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Zicht op het Beursplein, Korte Hoogstraat en HEMA 1991",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Beursplein (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|HEMA (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the Hema department store on the Beursplein. Year: 1991.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1991",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/84D7EA2CC91B4F3AAAE83C3B4D8CE1DA\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Floor (F.) van Dongen",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "104552003": {
+        "pageid": 104552003,
+        "ns": 6,
+        "title": "File:Zicht op verwoeste huizen bij de Steigersgracht en karkassen van de HEMA en C&A 1940.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Zicht_op_verwoeste_huizen_bij_de_Steigersgracht_en_karkassen_van_de_HEMA_en_C%26A_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 856,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Zicht_op_verwoeste_huizen_bij_de_Steigersgracht_en_karkassen_van_de_HEMA_en_C%26A_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 856
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Zicht_op_verwoeste_huizen_bij_de_Steigersgracht_en_karkassen_van_de_HEMA_en_C%26A_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zicht_op_verwoeste_huizen_bij_de_Steigersgracht_en_karkassen_van_de_HEMA_en_C%26A_1940.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104552003",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-04-28 14:43:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Zicht op verwoeste huizen bij de Steigersgracht en karkassen van de HEMA en C&A 1940",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Steigersgracht (Rotterdam)|Korte Hoogstraat (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|HEMA (Rotterdam)|Photographs by anonymous photographers in Stadsarchief Rotterdam|1940 in Hoogstraat (Rotterdam)|C&A (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the Steigersgracht hit by the German bombardment of 14 May 1940, with the department store Hema on the left and the clothing store C &amp; A from the southeast on the right. As a result of this bombing, the center of the city was largely destroyed.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "14-05-1940 - 30-05-1940",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/DC42CBAA1D834E579738EC80298A6538\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
