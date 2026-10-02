@@ -1,0 +1,26 @@
+# Zumpolle, Hoofdsteeg / Mosseltrap — bouwklaar concept, 2 oktober 2026
+
+## Selectie
+Een gewone maar opvallende winkel voor luxe lederwaren en reisartikelen, met brede etalages, horizontale lichte banden, zonweringen en een hoge gevelrand. Het hoekgebouw rechts op de vooroorlogse foto is ondubbelzinnig herkenbaar door ZUMPOLLE. Niet verwarren met de ronde linkerhoek van Weinthal/Paul Kaiser, en niet met de naoorlogse Lijnbaanwinkel. Nog niet aanwezig in de gecontroleerde catalogus.
+
+## Foto en rechten
+- **Hoofdfoto**: https://commons.wikimedia.org/w/index.php?curid=140689910 — *Rotterdam Ingang Hoofdsteeg, c. 1920*. Anonieme fotograaf, circa 1920 volgens registratie. Public domain (anon/oud), metadata volledig in `hoofdsteeg-1920-metadata.json`. Herkomst is de ansichtkaart bij verzamelaar Jan Sluijter: https://www.flickr.com/photos/jansluijter/18647148541 . Het hier opgeslagen `hoofdsteeg-1920-1280.jpg` is een onbewerkte officiële Commons-thumbnail (1280×802), **niet** de oorspronkelijke scan van 1588×995. Download van die oorspronkelijke scan gaf HTTP429; niet verhullen. Als origineel voor het fotopaar kan deze volledige, ongewijzigde reproductie dienen, met deze technische beperking genoteerd. Geen uitsnede; gebouw geheel zichtbaar. Hoofdfoto heeft geen bewezen institutioneel archiefnummer.
+- **Aanvullende primaire locatie/zijgevelcontrole**: https://hdl.handle.net/21.12133/E4B9DC6E75A047AB8D53E20B34D1B0E1 — Stadsarchief Rotterdam, prentbriefkaart Hoofdsteeg 1932. Commons https://commons.wikimedia.org/w/index.php?curid=101154683 , anoniem, PD. Metadata in `hoofdsteeg-search.json`. Beschrijving identificeert rechterhoek Mosseltrap als **Hoofdsteeg 38**, linkerhoek Kolkkade als43. `hoofdsteeg-1932-500.jpg` is officiële 500px-thumbnail, ongewijzigd; oorspronkelijke scan 546×800. Deze tweede foto toont de zijgevel van Zumpolle en de hoek duidelijk, maar snijdt de hoofdgevel af. Niet als hoofdcloseup gebruiken.
+
+## Vernietiging mei1940
+- https://hdl.handle.net/21.12133/7C9962A639D04F728F5285BBCBC6F124 — Stadsarchief, **2001-1515**, juni1940. Beschrijving noemt letterlijk de door het Duitse bombardement van14mei1940 getroffen Hoofdsteeg en restanten van firmaPaulKaiser en firmaZumpolle; links Kolkkade, gezicht vanafMosseltrap. Commons164569400, anoniem,PD. Metadata in `Zumpolle.json`.
+- https://museumrotterdam.nl/collectie/item/31162 — MuseumRotterdam31162,1940–1941, fotoverwoesteHoofdsteeg; rechtsgebouwZumpolle, tweemaalopschriftZUMPOLLE. Commons88620058, CCBY-SA3.0. Bevestigt identificatieenverwoesting. Collectiebeheerderisnietnoodzakelijkdefotograaf; makeronbekend.
+
+## Functie
+https://anderetijden.nl/aflevering/55/Paradepaard-van-de-wederopbouw ondersteunt dat Zumpolle luxe lederwaren en reisartikelen verkocht; beschrijft naoorlogse Lijnbaan. Gebruik uitsluitend voor assortiment en latere doorstart, **niet** als bewijs voor Hoofdsteegadres of bouwdatum. Geen stichtingsdatum, architect, bouwjaar of exacte materiaalsoort bewezen: dus niet toevoegen.
+
+## Plaatsing
+Historische kaart `site/onderzoek/centrum-voor-mei-1940.jpg` (6481×5098), toestand vooroorlogs, uitgegeven1955, Stadsarchief NL-RtSA4001_1972-755-1: https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492 . Rechterhoek Hoofdsteeg/Mosseltrap is duidelijk te volgen; historische foto1932 geeft nummer38. Geen modernadres gebruikt.
+
+Getraceerde kleine hoekparcel in `footprint-draft.json`: pixelpoly [[3525,2202],[3545.6,2197.4],[3548.4,2202.1],[3545.6,2215.25],[3526,2210.9]]. Vijfhoek sluit aan op de afgeschuinde straatlijn. Voor 3D vereenvoudigd tot12×9.4m. Positiebandbreedte circa5m; exacte kadastrale grens en achtergevel blijven onbewezen. Fotohoofdgevel naarMosseltrap, linkerzichtbarezijgevel naarHoofdsteeg. Modelhoek −0.205rad. Shapelycontrole: contour geldig105.56m², geheel binnen werkgrens, geen intersectie bestaande catalogusmodellen. Zie `overlap-check.json`.
+
+## Model en kleur
+`modelSpec-draft.json` gebruikt bestaande city33renderer. 2460 driehoeken, vier winkelniveaus, grootbovenpaneel, lichtebanden, bredevensters en eenvoudigeluifels. Geschattehoogte21.4m, nietgemeten. Donkerbaksteenbruin/lichtzandsteenachtig en gedemptzonwering zijn **materiaalinterpretatie**, geenbewezenhistorischekleuren. Achtergevel/dakvormzijnvereenvoudigd; nietzichtbarezijdedichtgehouden. De bewezen naam ZUMPOLLE staat als eenvoudige geometrische letters op het naamvlak; dit benadert de naam maar niet het precieze historische lettertype. Luifels zijn vereenvoudigdeplaten, oorspronkelijkevormmeeruitkragend.
+
+## Visuele controle
+Standalonepreview met echte renderer geslaagd, geenbrowserfouten, screenshots `model-preview-front.png` en `model-preview-angle.png` bekeken. Verhouding en niveaus herkenbaar; geenexacte architectuurreconstructie. Catalogus, originele foto, bronnen, GLB en Blenderbestand zijn inmiddels lokaal toegevoegd en achtergrond opnieuw uitgesneden. AI-proef02 is na visueel akkoord van de parent toegevoegd. npm run check: 9/9 geslaagd. Gerichte browsercontrole desktop/mobiel, galerij, fullscreen en Nu3D: geslaagd, geen page errors, HTTP-fouten of horizontale overflow. Kaartbeeld en galerijscreenshots visueel bekeken; gebouw zichtbaar zonder doorsnijdende achtergrondmassa. Origineel byte-identiek bewaard. Nog niet gepubliceerd.

@@ -1,0 +1,85 @@
+{
+  "pageid": 140689910,
+  "ns": 6,
+  "title": "File:Rotterdam Ingang Hoofdsteeg, c. 1920.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rotterdam_Ingang_Hoofdsteeg%2C_c._1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rotterdam_Ingang_Hoofdsteeg,_c._1920.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=140689910",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-11-13 03:38:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Rotterdam Ingang Hoofdsteeg, c. 1920",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oudehavenkade (Rotterdam)|Public domain images no longer eligible for claim of authorship|PD US expired|Mosseltrap (Rotterdam)|J.S. Meuwsen op Mosseltrap, Rotterdam|Template Unknown (author)|1920 in Rotterdam|PD-US missing SDC copyright status|Kolkkade (Rotterdam)|Tabakshandel Weinthal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Rotterdam Ingang Hoofdsteeg gezien vanaf de Oudehavenkade. Links is Kolkkade met o.a.de tabakszaak Weinthal, middenin de Hoofdsteeg  en rechts de Mosseltrap met o.a een apotheek en de firma J.S. Meuwsen.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "circa 1920<div style=\"display: none;\">date QS:P,+1920-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Early 20th century Ansichtkaart Hoofdsteeg, Rotterdam ; Found online at <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/jansluijter/18647148541\">https://www.flickr.com/photos/jansluijter/18647148541</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

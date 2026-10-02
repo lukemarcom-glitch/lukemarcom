@@ -1,0 +1,1393 @@
+{
+  "id": "zumpolle-hoofdsteeg",
+  "name": "Zumpolle · Hoofdsteeg",
+  "kind": "building",
+  "modelFamily": "city33",
+  "center": [
+    361.51342209804375,
+    135.13921991545772
+  ],
+  "angle": -0.205,
+  "height": 21.4,
+  "modelWidth": 12,
+  "modelDepth": 9.4,
+  "cameraDistance": 72,
+  "backgroundClearance": 0.6,
+  "uncertaintyMeters": 5,
+  "polygon": [
+    [
+      354.6018463801827,
+      137.93923493679722
+    ],
+    [
+      366.94290311589816,
+      140.82724613085315
+    ],
+    [
+      368.6363379703714,
+      138.03080534529818
+    ],
+    [
+      366.99656687786114,
+      130.13789297920925
+    ],
+    [
+      355.22835485195606,
+      132.61600186860187
+    ]
+  ],
+  "modelSpec": {
+    "parts": [
+      {
+        "w": 12,
+        "d": 9.4,
+        "h": 21.2,
+        "wall": "brick",
+        "windows": false,
+        "roof": "flat"
+      }
+    ],
+    "colors": {
+      "brick": "#795d49",
+      "trim": "#d4c9b7",
+      "stone": "#bcb3a2",
+      "roof": "#565851",
+      "glass": "#354d51",
+      "awning": "#978d74"
+    },
+    "facadeWindows": [
+      {
+        "x": -3.5,
+        "y": 2.25,
+        "z": 4.71,
+        "w": 3,
+        "h": 3.3
+      },
+      {
+        "x": 0,
+        "y": 2.25,
+        "z": 4.71,
+        "w": 3,
+        "h": 3.3
+      },
+      {
+        "x": 3.5,
+        "y": 2.25,
+        "z": 4.71,
+        "w": 3,
+        "h": 3.3
+      },
+      {
+        "x": -6.01,
+        "y": 2.25,
+        "z": -2.4,
+        "w": 2.6,
+        "h": 3.3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -6.01,
+        "y": 2.25,
+        "z": 1.5,
+        "w": 2.6,
+        "h": 3.3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -3.5,
+        "y": 6.6,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": 0,
+        "y": 6.6,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": 3.5,
+        "y": 6.6,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": -6.01,
+        "y": 6.6,
+        "z": -2.4,
+        "w": 2.6,
+        "h": 3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -6.01,
+        "y": 6.6,
+        "z": 1.5,
+        "w": 2.6,
+        "h": 3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -3.5,
+        "y": 10.7,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": 0,
+        "y": 10.7,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": 3.5,
+        "y": 10.7,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": -6.01,
+        "y": 10.7,
+        "z": -2.4,
+        "w": 2.6,
+        "h": 3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -6.01,
+        "y": 10.7,
+        "z": 1.5,
+        "w": 2.6,
+        "h": 3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -3.5,
+        "y": 14.9,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": 0,
+        "y": 14.9,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": 3.5,
+        "y": 14.9,
+        "z": 4.71,
+        "w": 3,
+        "h": 3
+      },
+      {
+        "x": -6.01,
+        "y": 14.9,
+        "z": -2.4,
+        "w": 2.6,
+        "h": 3,
+        "angle": -1.5707963267948966
+      },
+      {
+        "x": -6.01,
+        "y": 14.9,
+        "z": 1.5,
+        "w": 2.6,
+        "h": 3,
+        "angle": -1.5707963267948966
+      }
+    ],
+    "accents": [
+      {
+        "x": 0,
+        "y": 0.35,
+        "z": 4.84,
+        "w": 12.15,
+        "h": 0.28,
+        "d": 0.28,
+        "material": "trim"
+      },
+      {
+        "x": -6.12,
+        "y": 0.35,
+        "z": 0,
+        "w": 0.28,
+        "h": 0.28,
+        "d": 9.45,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 4.5,
+        "z": 4.84,
+        "w": 12.15,
+        "h": 0.28,
+        "d": 0.28,
+        "material": "trim"
+      },
+      {
+        "x": -6.12,
+        "y": 4.5,
+        "z": 0,
+        "w": 0.28,
+        "h": 0.28,
+        "d": 9.45,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 8.7,
+        "z": 4.84,
+        "w": 12.15,
+        "h": 0.28,
+        "d": 0.28,
+        "material": "trim"
+      },
+      {
+        "x": -6.12,
+        "y": 8.7,
+        "z": 0,
+        "w": 0.28,
+        "h": 0.28,
+        "d": 9.45,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 12.8,
+        "z": 4.84,
+        "w": 12.15,
+        "h": 0.28,
+        "d": 0.28,
+        "material": "trim"
+      },
+      {
+        "x": -6.12,
+        "y": 12.8,
+        "z": 0,
+        "w": 0.28,
+        "h": 0.28,
+        "d": 9.45,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 17.1,
+        "z": 4.84,
+        "w": 12.15,
+        "h": 0.28,
+        "d": 0.28,
+        "material": "trim"
+      },
+      {
+        "x": -6.12,
+        "y": 17.1,
+        "z": 0,
+        "w": 0.28,
+        "h": 0.28,
+        "d": 9.45,
+        "material": "trim"
+      },
+      {
+        "x": -5.7,
+        "y": 10.7,
+        "z": 4.85,
+        "w": 0.43,
+        "h": 21.4,
+        "d": 0.4,
+        "material": "brick"
+      },
+      {
+        "x": 5.7,
+        "y": 10.7,
+        "z": 4.85,
+        "w": 0.43,
+        "h": 21.4,
+        "d": 0.4,
+        "material": "brick"
+      },
+      {
+        "x": -5,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": -4,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": -3,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": -2,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": -1,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 1,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 2,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 3,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 4,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 5,
+        "y": 20.6,
+        "z": 4.78,
+        "w": 0.16,
+        "h": 1.0,
+        "d": 0.18,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 3.9,
+        "z": 5.2,
+        "w": 10.6,
+        "h": 0.34,
+        "d": 1.1,
+        "material": "awning"
+      },
+      {
+        "x": 0,
+        "y": 8.1,
+        "z": 5.2,
+        "w": 10.6,
+        "h": 0.34,
+        "d": 1.1,
+        "material": "awning"
+      },
+      {
+        "x": 0,
+        "y": 12.2,
+        "z": 5.2,
+        "w": 10.6,
+        "h": 0.34,
+        "d": 1.1,
+        "material": "awning"
+      },
+      {
+        "x": 0,
+        "y": 16.3,
+        "z": 5.2,
+        "w": 10.6,
+        "h": 0.34,
+        "d": 1.1,
+        "material": "awning"
+      },
+      {
+        "x": 0,
+        "y": 19,
+        "z": 4.82,
+        "w": 10,
+        "h": 1.3,
+        "d": 0.18,
+        "material": "dark"
+      },
+      {
+        "x": -4.3475,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -4.1625,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.9775,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.7925,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.6075,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.7925,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.9775,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -4.1625,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -4.3475,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -4.1625,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.9775,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.7925,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.6075,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.2375,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.4975,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.2375,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.4975,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.2375,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.4975,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.2375,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.4975,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -3.0524999999999998,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.8675,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.6825,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.1275,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.3875,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.1275,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.9425,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.5725,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.3875,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.1275,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.7575,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.3875,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.1275,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.3875,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.1275,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.3875,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.0175,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.8325,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.6475,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.4625,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.0175,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.27749999999999997,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.0175,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.8325,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.6475,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.4625,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.0175,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.0175,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.27749999999999997,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.4625,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.6475,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.0925,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.8325,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.0925,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.8325,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.0925,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.8325,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.27749999999999997,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.4625,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.6475,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.2025,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.2025,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.2025,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.2025,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.2025,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.3875,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.5725,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.7575,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.9425,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.3125,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.3125,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.3125,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.3125,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.3125,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.4975,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.6825,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.8675,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.0524999999999998,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.4225,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.6075,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.7925,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.9775,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 4.1625,
+        "y": 19.42,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.4225,
+        "y": 19.21,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.4225,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.6075,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.7925,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.9775,
+        "y": 19.0,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.4225,
+        "y": 18.79,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.4225,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.6075,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.7925,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 3.9775,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 4.1625,
+        "y": 18.58,
+        "z": 4.97,
+        "w": 0.16,
+        "h": 0.185,
+        "d": 0.1,
+        "material": "trim"
+      }
+    ]
+  },
+  "description": "Winkel van Zumpolle op de hoek van Hoofdsteeg en Mosseltrap, herkenbaar aan brede etalages en een hoge gevelrand.",
+  "periodNote": "Verschijningsvorm op een prentbriefkaart gedateerd circa 1920; een tweede opname uit 1932 bevestigt de hoeklocatie. Verwoest bij het bombardement van 14 mei 1940.",
+  "placementNote": "Historische hoek Hoofdsteeg 38 / Mosseltrap, tegenover de hoek Kolkkade. Adres volgt de archiefregistratie van de foto uit 1932. De historische kaart bepaalt het hoekperceel; circa 5 m plaatsingsonzekerheid. Volume circa 12 × 9,4 m, hoogte circa 21,4 m: proportionele schattingen. Dak en achtergevel zijn vereenvoudigd.",
+  "colorNote": "Baksteenbruin, lichte banden en gedempte zonweringen zijn een interpretatie van de zwart-witfoto. Exacte materialen en historische kleuren zijn niet bewezen.",
+  "story": "Aan de ingang van de Hoofdsteeg, waar de straat op de Mosseltrap uitkwam, stond de winkel van Zumpolle. De keten verkocht luxe lederwaren en reisartikelen. Brede ramen en grote zonweringen gaven het hoekpand een opvallend winkelkarakter. Hoog boven de etalages stond de naam ZUMPOLLE. Op de foto is links de ronde hoek van Weinthal en Paul Kaiser te zien: dat is een ander gebouw. Een archiefopname uit 1932 identificeert de rechterhoek aan de Mosseltrap als Hoofdsteeg 38. Het bombardement van 14 mei 1940 maakte een einde aan deze winkelplek. Zowel het Stadsarchief als Museum Rotterdam bewaart een foto waarop de resten van het pand expliciet als Zumpolle worden benoemd. Later verscheen de winkelnaam aan de Lijnbaan. Het 3D-model geeft een schematische indruk van de vooroorlogse winkel. De gevelindeling is aan het fotomateriaal ontleend; hoogten, achtergevel, dak en kleuren zijn benaderd.",
+  "wikipediaNote": "Geen passende Wikipedia-pagina gevonden die dit specifieke winkelpand documenteert. De directe beeld- en archiefbronnen hieronder zijn leidend.",
+  "photos": [
+    {
+      "src": "landmarks/zumpolle-hoofdsteeg/foto-1-origineel.jpg",
+      "ai": "landmarks/zumpolle-hoofdsteeg/foto-1-ai.webp",
+      "title": "Zumpolle en de ingang van de Hoofdsteeg · circa 1920",
+      "shortTitle": "Zumpolle op de hoek",
+      "date": "Circa 1920 (datering bronregistratie)",
+      "author": "Onbekend / anoniem",
+      "identifier": "Wikimedia Commons 140689910 · prentbriefkaartcollectie Jan Sluijter",
+      "license": "Publiek domein (volgens bronregistratie Wikimedia Commons)",
+      "licenseUrl": "https://commons.wikimedia.org/w/index.php?curid=140689910",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=140689910",
+      "archiveUrl": "https://www.flickr.com/photos/jansluijter/18647148541",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie, geen authentieke kleurenfoto. Kleine letters, personen, etalages en raamdetails kunnen afwijken. Kleuren en materialen zijn niet bewezen. Het ongewijzigde origineel staat ernaast; gebruikt is de volledige Commons-reproductie van 1280 pixels breed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikimedia Commons · originele prentbriefkaart en rechten",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=140689910",
+      "role": "beeld",
+      "supports": "Datering circa 1920, anonieme maker, publiek-domeinvermelding; volledige voorgevel van Zumpolle en het omringende straatbeeld.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Jan Sluijter · herkomst prentbriefkaart",
+      "url": "https://www.flickr.com/photos/jansluijter/18647148541",
+      "role": "beeld",
+      "supports": "Onderliggende reproductie waarnaar Commons verwijst; geen bewezen institutioneel inventarisnummer.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · Hoofdsteeg, 1932",
+      "url": "https://hdl.handle.net/21.12133/E4B9DC6E75A047AB8D53E20B34D1B0E1",
+      "role": "beeld",
+      "supports": "Benoemt rechterhoek Mosseltrap als Hoofdsteeg 38 en linkerhoek Kolkkade als 43. Aanvullende controle van locatie en zijgevel.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · Zumpolle na bombardement, juni 1940",
+      "url": "https://hdl.handle.net/21.12133/7C9962A639D04F728F5285BBCBC6F124",
+      "role": "historie",
+      "supports": "Record 2001-1515 benoemt restanten van Zumpolle en Paul Kaiser na het Duitse bombardement van 14 mei 1940, gezien vanaf Mosseltrap.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Museum Rotterdam · foto 31162",
+      "url": "https://museumrotterdam.nl/collectie/item/31162",
+      "role": "historie",
+      "supports": "Foto uit 1940–1941 van verwoeste gebouwen; rechterpand expliciet Zumpolle met tweemaal dit opschrift.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Andere Tijden · Paradepaard van de wederopbouw",
+      "url": "https://anderetijden.nl/aflevering/55/Paradepaard-van-de-wederopbouw",
+      "role": "historie",
+      "supports": "Assortiment luxe lederwaren en reisartikelen en latere aanwezigheid op de Lijnbaan. Geen bewijs voor het vooroorlogse adres of bouwjaar.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · centrumkaart vóór mei 1940",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "role": "kaart",
+      "supports": "Vooroorlogse hoek Hoofdsteeg/Mosseltrap en benaderde perceelscontour; kaart gepubliceerd in 1955.",
+      "checkedAt": "2026-10-02"
+    }
+  ]
+}

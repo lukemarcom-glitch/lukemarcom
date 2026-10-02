@@ -1,0 +1,386 @@
+{
+  "id": "voorwaarts-slaak",
+  "name": "Voorwaarts · Gedempte Slaak",
+  "modelFamily": "city33",
+  "modelSpec": {
+    "colors": {
+      "brick": "#8a654c",
+      "stone": "#bab099",
+      "trim": "#c5bca9",
+      "roof": "#52544c",
+      "glass": "#41534f",
+      "dark": "#2d302c"
+    },
+    "parts": [
+      {
+        "x": 0,
+        "z": 0,
+        "w": 17,
+        "d": 19,
+        "h": 14.8,
+        "windows": false,
+        "roof": "gable",
+        "roofAlongFront": true,
+        "roofHeight": 3.2,
+        "wall": "brick"
+      },
+      {
+        "x": 6.85,
+        "z": 7.25,
+        "w": 3.3,
+        "d": 4.5,
+        "h": 24,
+        "windows": false,
+        "roof": "hip",
+        "roofHeight": 1.7,
+        "wall": "brick"
+      },
+      {
+        "x": -5.8,
+        "z": 5.7,
+        "w": 2.9,
+        "d": 2.6,
+        "h": 1.6,
+        "base": 16.15,
+        "roof": "gable",
+        "roofHeight": 0.75,
+        "windows": false,
+        "wall": "brick"
+      },
+      {
+        "x": -1.65,
+        "z": 5.7,
+        "w": 2.9,
+        "d": 2.6,
+        "h": 1.6,
+        "base": 16.15,
+        "roof": "gable",
+        "roofHeight": 0.75,
+        "windows": false,
+        "wall": "brick"
+      },
+      {
+        "x": 2.5,
+        "z": 5.7,
+        "w": 2.9,
+        "d": 2.6,
+        "h": 1.6,
+        "base": 16.15,
+        "roof": "gable",
+        "roofHeight": 0.75,
+        "windows": false,
+        "wall": "brick"
+      },
+      {
+        "x": -1.65,
+        "z": 9.54,
+        "w": 13.7,
+        "d": 0.18,
+        "h": 0.16,
+        "base": 5.1,
+        "roof": "none",
+        "windows": false,
+        "wall": "stone"
+      },
+      {
+        "x": -1.65,
+        "z": 9.54,
+        "w": 13.7,
+        "d": 0.18,
+        "h": 0.16,
+        "base": 9.0,
+        "roof": "none",
+        "windows": false,
+        "wall": "stone"
+      },
+      {
+        "x": -1.65,
+        "z": 9.54,
+        "w": 13.7,
+        "d": 0.18,
+        "h": 0.16,
+        "base": 14.8,
+        "roof": "none",
+        "windows": false,
+        "wall": "stone"
+      }
+    ],
+    "facadeWindows": [
+      {
+        "x": -6.65,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": -6.65,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": -6.65,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": -3.35,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": -3.35,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": -3.35,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": -0.05,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": -0.05,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": -0.05,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": 3.25,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": 3.25,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": 3.25,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 2.1,
+        "w": 1.8,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 7.1,
+        "w": 1.8,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 11.2,
+        "w": 1.8,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 18.5,
+        "w": 0.65,
+        "h": 1.2,
+        "arched": false
+      },
+      {
+        "x": -5.8,
+        "z": 7.03,
+        "y": 16.8,
+        "w": 2.0,
+        "h": 1.05,
+        "arched": false
+      },
+      {
+        "x": -1.65,
+        "z": 7.03,
+        "y": 16.8,
+        "w": 2.0,
+        "h": 1.05,
+        "arched": false
+      },
+      {
+        "x": 2.5,
+        "z": 7.03,
+        "y": 16.8,
+        "w": 2.0,
+        "h": 1.05,
+        "arched": false
+      }
+    ],
+    "clocks": [
+      {
+        "x": 6.85,
+        "z": 9.59,
+        "y": 22.1,
+        "radius": 1.04
+      },
+      {
+        "x": 8.6,
+        "z": 7.25,
+        "y": 22.1,
+        "radius": 1.04,
+        "angle": 1.5707963267948966
+      }
+    ]
+  },
+  "modelWidth": 17,
+  "modelDepth": 19,
+  "height": 25.7,
+  "placementStatus": "approximate-reconstruction",
+  "placementNote": "Benaderde reconstructie op de noordelijke diepe kavel ten zuiden van de Papagaaienstraat. De kaartmaat circa 17 × 75 meter past bij Berlages beschrijving, maar de perceelidentificatie is niet kadastraal bewezen: circa 15 meter plaatsingsonzekerheid. Alleen een voorbouw van circa 17 × 19 meter is gemodelleerd; tuin en bakkerij zijn niet ingevuld. Hoogten en verborgen gevels zijn geschat. Niet gelijkgesteld aan het huidige Slaakhuys-kantoor. De wijzerplaten zijn schematisch, niet als exacte historische klok gereconstrueerd.",
+  "uncertaintyMeters": 15,
+  "center": [
+    972.3295430080736,
+    578.0120394005596
+  ],
+  "angle": -1.8874126244479261,
+  "polygon": [
+    [
+      965.9171578268626,
+      588.9022643407395
+    ],
+    [
+      960.6005641526792,
+      572.6752430446328
+    ],
+    [
+      978.7419281892837,
+      567.1218144603798
+    ],
+    [
+      984.0585218634676,
+      583.3488357564867
+    ]
+  ],
+  "kind": "building",
+  "cameraDistance": 85,
+  "backgroundClearance": 0.6,
+  "description": "Voorwaarts aan de Gedempte Slaak: het gebouw van arbeiderscoöperatie en krant, ontworpen door H.P. Berlage en geopend in 1907.",
+  "periodNote": "Vooroorlogse voorbouw op basis van Berlages ontwerp uit 1906 en historische straatfoto’s. Onherstelbaar beschadigd bij het bombardement van 14 mei 1940; delen van het achtercomplex bleven langer in gebruik.",
+  "colorNote": "Berlage noemt baksteen met beperkte toepassing van bergsteen. De warme baksteentint, lichte banden, donkere kap en raamkleuren zijn interpretaties; exacte oorspronkelijke kleuren zijn niet vastgesteld.",
+  "story": "Aan de Gedempte Slaak kreeg de arbeiderscoöperatie Voorwaarts in 1907 een opvallend gebouw van H.P. Berlage. Het was veel meer dan een krantenkantoor. In zijn ontwerp beschreef Berlage een koffiehuis, vergaderzalen, een kruidenierswinkel en een brooddepot. Boven waren onder meer administratie, redactie en vakverenigingen voorzien; op de tweede verdieping lagen zetterij en drukkerij. De kloktoren maakte het gebouw herkenbaar tussen de gewone straatgevels. Het smalle terrein liep ongeveer 75 meter door naar de Schoutenstraat. Berlage voorzag tussen voorbouw en een later te bouwen bakkerij een tuin. Dat ontwerp is geen bewijs dat alle onderdelen later precies zo zijn uitgevoerd. Bij het bombardement van 14 mei 1940 raakte het gebouw onherstelbaar beschadigd. Na de oorlog verscheen hier het complex van Het Vrije Volk, het huidige Slaakhuys. Oude fundamenten werden gedeeltelijk gebruikt voor het expeditiegebouw; dat betekent niet dat het nieuwe kantoor exact op de oude voorbouw staat. Dit model toont uitsluitend een vereenvoudigde voorbouw. De plaatsing op de historische kaart is benaderd, met ongeveer 15 meter onzekerheid.",
+  "wikipediaNote": "Een algemene Wikipedia-pagina over de krant documenteert dit specifieke gebouw onvoldoende. De directe ontwerp-, archief- en erfgoedbronnen hieronder zijn leidend.",
+  "photos": [
+    {
+      "src": "landmarks/voorwaarts-slaak/foto-1-origineel.jpg",
+      "ai": "landmarks/voorwaarts-slaak/foto-1-ai.webp",
+      "aiMaster": "landmarks/voorwaarts-slaak/foto-1-ai.png",
+      "title": "Gedempte Slaak met Voorwaarts, Vlietstraat en Vlietkade · 1935",
+      "shortTitle": "Voorwaarts in het straatbeeld",
+      "date": "1935",
+      "author": "Maker onbekend",
+      "identifier": "Stadsarchief Rotterdam · 874E01A4230842E4967CB8D92DCF252E",
+      "license": "Publiek domein · anoniem werk ouder dan 70 jaar (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=93732789",
+      "archiveUrl": "https://hdl.handle.net/21.12133/874E01A4230842E4967CB8D92DCF252E",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie van de prentbriefkaart, geen authentieke kleurenfoto. Straatperspectief en herkenbare toren zijn behouden, maar kleine letters, klokdetails, gezichten en raamdetails zijn generatief geïnterpreteerd. Kleuren en materialen zijn niet bewezen; vergelijk altijd met het origineel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "H.P. Berlage: Gebouw ten dienste der arbeiderscoöperatie Voorwaarts",
+      "url": "https://www.lib.tudelft.nl/tijdschriften/architectuurtijdschriften/Architectura_jrg14_1906-small.pdf",
+      "pages": "387–388; PDF200–201",
+      "supports": "Berlages eigen ontwerptekst en tekeningen, gedrukte pagina’s 387–388 (PDF 200–201): terrein circa 17 × 75 meter, functies, tuin/bakkerij en materiaalkeuze.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Platform Wederopbouw: Slaakhuys, sectie Voorwaarts",
+      "url": "https://wederopbouwrotterdam.nl/artikelen/kantoorgebouw-het-vrije-volk-slaakhuys",
+      "supports": "Bouw1907Berlage; sociaal-democratischefuncties; onherstelbaar beschadigd bombardement1940; latere nieuwbouw naast ruïne en deels op oude fundering.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Nationaal Archief Arbeidsinspectie256-2358",
+      "url": "https://hdl.handle.net/10648/b0197824-d0b4-102d-bcf8-003048976d84",
+      "supports": "Bouwfoto1907, Berlage en vernietigingTweedeWereldoorlog expliciet in annotatie. CC0.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchiefkaart 1972-755-1",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "supports": "Historische straten en diepe kavels. Afmetingen passen bij de voorgestelde noordelijke strook; exacte perceelidentificatie niet bewezen.",
+      "role": "kaart",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · Gedempte Slaak en Voorwaarts, 1935",
+      "url": "https://hdl.handle.net/21.12133/874E01A4230842E4967CB8D92DCF252E",
+      "role": "beeld",
+      "supports": "Datering en straatbeeld met kloktoren, buren en reclame van Voorwaarts.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Wikimedia Commons · prentbriefkaart 1935 en rechten",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=93732789",
+      "role": "beeld",
+      "supports": "Registratie van de originele foto en publiek-domeinvermelding PD-anon-70-EU; maker onbekend.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Rijksmonumentenregister via Monumenten.nl · Slaakhuys 530859",
+      "url": "https://www.monumenten.nl/monument/530859",
+      "role": "historie",
+      "supports": "Hergebruik van oude fundamenten onder het naoorlogse expeditiegebouw; onderscheid met kantoor aan de Slaak.",
+      "checkedAt": "2026-10-02"
+    }
+  ]
+}

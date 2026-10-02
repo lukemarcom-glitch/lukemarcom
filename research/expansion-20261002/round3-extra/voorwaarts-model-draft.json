@@ -1,0 +1,317 @@
+{
+  "id": "voorwaarts-slaak",
+  "name": "Voorwaarts · Gedempte Slaak",
+  "modelFamily": "city33",
+  "modelSpec": {
+    "colors": {
+      "brick": "#8a654c",
+      "stone": "#bab099",
+      "trim": "#c5bca9",
+      "roof": "#52544c",
+      "glass": "#41534f",
+      "dark": "#2d302c"
+    },
+    "parts": [
+      {
+        "x": 0,
+        "z": 0,
+        "w": 17,
+        "d": 19,
+        "h": 14.8,
+        "windows": false,
+        "roof": "gable",
+        "roofAlongFront": true,
+        "roofHeight": 3.2,
+        "wall": "brick"
+      },
+      {
+        "x": 6.85,
+        "z": 7.25,
+        "w": 3.3,
+        "d": 4.5,
+        "h": 24,
+        "windows": false,
+        "roof": "hip",
+        "roofHeight": 1.7,
+        "wall": "brick"
+      },
+      {
+        "x": -5.8,
+        "z": 5.7,
+        "w": 2.9,
+        "d": 2.6,
+        "h": 1.6,
+        "base": 16.15,
+        "roof": "gable",
+        "roofHeight": 0.75,
+        "windows": false,
+        "wall": "brick"
+      },
+      {
+        "x": -1.65,
+        "z": 5.7,
+        "w": 2.9,
+        "d": 2.6,
+        "h": 1.6,
+        "base": 16.15,
+        "roof": "gable",
+        "roofHeight": 0.75,
+        "windows": false,
+        "wall": "brick"
+      },
+      {
+        "x": 2.5,
+        "z": 5.7,
+        "w": 2.9,
+        "d": 2.6,
+        "h": 1.6,
+        "base": 16.15,
+        "roof": "gable",
+        "roofHeight": 0.75,
+        "windows": false,
+        "wall": "brick"
+      },
+      {
+        "x": -1.65,
+        "z": 9.54,
+        "w": 13.7,
+        "d": 0.18,
+        "h": 0.16,
+        "base": 5.1,
+        "roof": "none",
+        "windows": false,
+        "wall": "stone"
+      },
+      {
+        "x": -1.65,
+        "z": 9.54,
+        "w": 13.7,
+        "d": 0.18,
+        "h": 0.16,
+        "base": 9.0,
+        "roof": "none",
+        "windows": false,
+        "wall": "stone"
+      },
+      {
+        "x": -1.65,
+        "z": 9.54,
+        "w": 13.7,
+        "d": 0.18,
+        "h": 0.16,
+        "base": 14.8,
+        "roof": "none",
+        "windows": false,
+        "wall": "stone"
+      }
+    ],
+    "facadeWindows": [
+      {
+        "x": -6.65,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": -6.65,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": -6.65,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": -3.35,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": -3.35,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": -3.35,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": -0.05,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": -0.05,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": -0.05,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": 3.25,
+        "z": 9.53,
+        "y": 2.1,
+        "w": 2.65,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": 3.25,
+        "z": 9.53,
+        "y": 7.1,
+        "w": 2.5,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": 3.25,
+        "z": 9.53,
+        "y": 11.2,
+        "w": 2.3,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 2.1,
+        "w": 1.8,
+        "h": 3.8,
+        "arched": true
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 7.1,
+        "w": 1.8,
+        "h": 2.25,
+        "arched": false
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 11.2,
+        "w": 1.8,
+        "h": 3.25,
+        "arched": false
+      },
+      {
+        "x": 6.85,
+        "z": 9.54,
+        "y": 18.5,
+        "w": 0.65,
+        "h": 1.2,
+        "arched": false
+      },
+      {
+        "x": -5.8,
+        "z": 7.03,
+        "y": 16.8,
+        "w": 2.0,
+        "h": 1.05,
+        "arched": false
+      },
+      {
+        "x": -1.65,
+        "z": 7.03,
+        "y": 16.8,
+        "w": 2.0,
+        "h": 1.05,
+        "arched": false
+      },
+      {
+        "x": 2.5,
+        "z": 7.03,
+        "y": 16.8,
+        "w": 2.0,
+        "h": 1.05,
+        "arched": false
+      }
+    ],
+    "clocks": [
+      {
+        "x": 6.85,
+        "z": 9.59,
+        "y": 22.1,
+        "radius": 1.04
+      },
+      {
+        "x": 8.6,
+        "z": 7.25,
+        "y": 22.1,
+        "radius": 1.04,
+        "angle": 1.5707963267948966
+      }
+    ]
+  },
+  "modelWidth": 17,
+  "modelDepth": 19,
+  "height": 25.7,
+  "placementStatus": "PROVISIONAL_REVIEW_REQUIRED",
+  "placementNote": "Voorgesteld noordelijke van twee diepe kavels ten zuiden Papagaaienstraat. Breedte17.1m/diepte74.9m past unieke maatbron17x75m; precieze kavelidentificatie visueel door parent toetsen. Alleen voorvolume19m gemodelleerd, achtergebied open.",
+  "uncertaintyMeters": 15,
+  "center": [
+    972.3295430080736,
+    578.0120394005596
+  ],
+  "angle": -1.8874126244479261,
+  "polygon": [
+    [
+      965.9171578268626,
+      588.9022643407395
+    ],
+    [
+      960.6005641526792,
+      572.6752430446328
+    ],
+    [
+      978.7419281892837,
+      567.1218144603798
+    ],
+    [
+      984.0585218634676,
+      583.3488357564867
+    ]
+  ],
+  "frontagePixels": [
+    [
+      4548,
+      1460
+    ],
+    [
+      4539,
+      1487
+    ]
+  ]
+}

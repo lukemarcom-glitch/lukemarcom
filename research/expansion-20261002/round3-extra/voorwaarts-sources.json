@@ -1,0 +1,87 @@
+{
+  "sources": [
+    {
+      "title": "H.P. Berlage: Gebouw ten dienste der arbeiderscoöperatie Voorwaarts",
+      "url": "https://www.lib.tudelft.nl/tijdschriften/architectuurtijdschriften/Architectura_jrg14_1906-small.pdf",
+      "pages": "387–388; PDF200–201",
+      "supports": "Eigen ontwerptekst:17m breed75m diep; hoofdgebouw/binnentuin/bakkerij; functies; baksteen en beperktebergsteen; getekende voorgevel met kloktoren."
+    },
+    {
+      "title": "Platform Wederopbouw: Slaakhuys, sectie Voorwaarts",
+      "url": "https://wederopbouwrotterdam.nl/artikelen/kantoorgebouw-het-vrije-volk-slaakhuys",
+      "supports": "Bouw1907Berlage; sociaal-democratischefuncties; onherstelbaar beschadigd bombardement1940; latere nieuwbouw naast ruïne en deels op oude fundering."
+    },
+    {
+      "title": "Nationaal Archief Arbeidsinspectie256-2358",
+      "url": "https://hdl.handle.net/10648/b0197824-d0b4-102d-bcf8-003048976d84",
+      "supports": "Bouwfoto1907, Berlage en vernietigingTweedeWereldoorlog expliciet in annotatie. CC0."
+    },
+    {
+      "title": "Stadsarchiefkaart 1972-755-1",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "supports": "Vooroorlogse straten en diepe kavels. Exactekavelmatch nogin review."
+    }
+  ],
+  "photos": [
+    {
+      "commonsId": "93657586",
+      "title": "File:Prentbriefkaart de Slaak met dagblad Voorwaarts vanaf het Oostplein 1928 - 1932.jpg",
+      "localFile": "93657586.jpg",
+      "url": "https://hdl.handle.net/21.12133/62AF782154E04D598C695936DB6F5471",
+      "commons": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Slaak_met_dagblad_Voorwaarts_vanaf_het_Oostplein_1928_-_1932.jpg",
+      "date": "between 1928 and 1932<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1928-00-00T00:00:00Z/9,P1326,+1932-00-00T00:00:00Z/9</div>",
+      "author": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "note": "Auteurveld met Stadsarchief Rotterdam betekent collectiehouder, niet automatisch fotograaf; op kaarten fotograaf onbekend."
+    },
+    {
+      "commonsId": "93732789",
+      "title": "File:Prentbriefkaart de Slaak met dagblad Voorwaarts, de Vlietstraat en Vlietkade 1935.jpg",
+      "localFile": "93732789.jpg",
+      "url": "https://hdl.handle.net/21.12133/874E01A4230842E4967CB8D92DCF252E",
+      "commons": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_de_Slaak_met_dagblad_Voorwaarts,_de_Vlietstraat_en_Vlietkade_1935.jpg",
+      "date": "1935",
+      "author": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "note": "Auteurveld met Stadsarchief Rotterdam betekent collectiehouder, niet automatisch fotograaf; op kaarten fotograaf onbekend."
+    },
+    {
+      "commonsId": "93732788",
+      "title": "File:De Slaak met dagblad Voorwaarts 1929.jpg",
+      "localFile": "93732788.jpg",
+      "url": "https://hdl.handle.net/21.12133/40BEA604E41A4F099679B94C22BEC58D",
+      "commons": "https://commons.wikimedia.org/wiki/File:De_Slaak_met_dagblad_Voorwaarts_1929.jpg",
+      "date": "1929-10-24",
+      "author": "Stadsarchief Rotterdam",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "note": "Auteurveld met Stadsarchief Rotterdam betekent collectiehouder, niet automatisch fotograaf; op kaarten fotograaf onbekend."
+    },
+    {
+      "commonsId": "93736276",
+      "title": "File:Zicht op de verwoeste Slaak met dagblad Voorwaarts 1940.jpg",
+      "localFile": "93736276.jpg",
+      "url": "https://hdl.handle.net/21.12133/AF7F3CE9236B408F817D581DE03C7D55",
+      "commons": "https://commons.wikimedia.org/wiki/File:Zicht_op_de_verwoeste_Slaak_met_dagblad_Voorwaarts_1940.jpg",
+      "date": "14-05-1940 - 31-12-1940",
+      "author": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "note": "Auteurveld met Stadsarchief Rotterdam betekent collectiehouder, niet automatisch fotograaf; op kaarten fotograaf onbekend."
+    },
+    {
+      "commonsId": "74013317",
+      "title": "File:Arbeiderscoöperatie Voorwaarts te Rotterdam, Bestanddeelnr 256-2358.jpg",
+      "localFile": "74013317.jpg",
+      "url": "http://proxy.handle.net/10648/b0197824-d0b4-102d-bcf8-003048976d84",
+      "commons": "https://commons.wikimedia.org/wiki/File:Arbeidersco%C3%B6peratie_Voorwaarts_te_Rotterdam,_Bestanddeelnr_256-2358.jpg",
+      "date": "1907",
+      "author": "Nationaal Archief",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "note": "Auteurveld met Stadsarchief Rotterdam betekent collectiehouder, niet automatisch fotograaf; op kaarten fotograaf onbekend."
+    }
+  ]
+}
