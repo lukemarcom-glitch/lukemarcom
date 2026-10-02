@@ -1,0 +1,23 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "140434823": {
+        "pageid": 140434823,
+        "ns": 6,
+        "title": "File:Gebouw van Groote Sociëteit Amicitia aan de Zuidblaak 20.jpg",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "=={{int:filedesc}}==\n{{Information\n|description={{nl|1=Gebouw van Groote Sociëteit Amicitia aan de Zuidblaak 20. Op de straat lopen enige mannen met hoed, en een vrouw gekromd in een trenchcoat. Rechtsonder rijdt net een tram weg van de tramhalte, waarvan ook het trambordje zichtbaar is.}}\n|date=c. 1920-1930s\n|source={{Extracted from|File:Menukaart van de Groote Sociëteit Amicitia aan de Zuidblaak.jpg}}\n* [https://hdl.handle.net/21.12133/69C5DBD5AB80451C81E04D16F5074E35 XXIII-35 Menukaart van de Groote Sociëteit Amicitia aan de Zuidblaak.] Collectie Algemene fotocollectie; Stadsarchief Rotterdam\nNummer:\tXXIII-35 Toegangsnummer: 4101\n\n|author={{anonymous}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n\n{{PD-anon-70-EU}}\n\n[[Category:Media from Stadsarchief Rotterdam]]\n[[Category:Amicitia (Rotterdam)| 1925]]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

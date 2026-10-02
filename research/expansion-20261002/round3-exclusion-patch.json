@@ -1,0 +1,155 @@
+{
+  "purpose": "Uitsluitingscontouren voor achtergrondbeheer; historische polygon blijft ongewijzigd.",
+  "marginMeters": 0.4,
+  "note": "Convexe omhulling van alle echte modelvertices plus 0,4 meter; clip_background buffert exclusionPolygon aanvullend met bestaande backgroundClearance. Daardoor totale marge minimaal 1,1 meter HEMA / 1,0 meter Zumpolle. Geen nieuwe historische perceelclaim.",
+  "patches": [
+    {
+      "id": "hema-korte-hoogstraat",
+      "set": {
+        "exclusionPolygon": [
+          [
+            -231.3407,
+            118.6534
+          ],
+          [
+            -238.7292,
+            146.9903
+          ],
+          [
+            -238.1176,
+            147.1762
+          ],
+          [
+            -237.5191,
+            147.3427
+          ],
+          [
+            -228.0497,
+            149.9048
+          ],
+          [
+            -227.7673,
+            149.9784
+          ],
+          [
+            -227.3632,
+            150.0838
+          ],
+          [
+            -226.0836,
+            150.4174
+          ],
+          [
+            -225.6777,
+            150.5233
+          ],
+          [
+            -216.4435,
+            152.838
+          ],
+          [
+            -215.8399,
+            152.9849
+          ],
+          [
+            -215.2966,
+            153.1036
+          ],
+          [
+            -211.6332,
+            146.319
+          ],
+          [
+            -210.9651,
+            143.7564
+          ],
+          [
+            -209.5017,
+            138.144
+          ],
+          [
+            -208.7613,
+            135.3044
+          ],
+          [
+            -207.8884,
+            124.7684
+          ]
+        ]
+      },
+      "keep": [
+        "polygon",
+        "center",
+        "angle",
+        "backgroundClearance"
+      ],
+      "geometryHullAreaM2": 706.121,
+      "exclusionAreaM2": 748.475,
+      "geometryMetaMatchesCatalog": true
+    },
+    {
+      "id": "zumpolle-hoofdsteeg",
+      "set": {
+        "exclusionPolygon": [
+          [
+            365.612,
+            128.0055
+          ],
+          [
+            354.911,
+            130.2305
+          ],
+          [
+            354.2003,
+            131.3067
+          ],
+          [
+            354.0065,
+            131.7377
+          ],
+          [
+            354.3829,
+            133.7577
+          ],
+          [
+            354.913,
+            136.3073
+          ],
+          [
+            355.7085,
+            140.1333
+          ],
+          [
+            356.017,
+            141.3725
+          ],
+          [
+            356.5125,
+            141.4902
+          ],
+          [
+            368.9359,
+            138.9072
+          ],
+          [
+            366.8946,
+            129.0895
+          ],
+          [
+            366.7788,
+            128.7652
+          ]
+        ]
+      },
+      "keep": [
+        "polygon",
+        "center",
+        "angle",
+        "backgroundClearance"
+      ],
+      "geometryHullAreaM2": 129.927,
+      "exclusionAreaM2": 148.368,
+      "geometryMetaMatchesCatalog": true
+    }
+  ]
+}

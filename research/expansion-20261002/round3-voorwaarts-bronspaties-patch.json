@@ -1,0 +1,18 @@
+{
+  "id": "voorwaarts-slaak",
+  "sourcePatches": [
+    {
+      "matchUrl": "https://wederopbouwrotterdam.nl/artikelen/kantoorgebouw-het-vrije-volk-slaakhuys",
+      "set": {
+        "supports": "Bouw in 1907 naar ontwerp van Berlage; sociaal-democratische functies; onherstelbaar beschadigd bij het bombardement van 1940; latere nieuwbouw naast de ruïne en deels op de oude fundering."
+      }
+    },
+    {
+      "matchUrl": "https://hdl.handle.net/10648/b0197824-d0b4-102d-bcf8-003048976d84",
+      "set": {
+        "title": "Nationaal Archief · Arbeidsinspectie 256-2358",
+        "supports": "Bouwfoto uit 1907; Berlage en verwoesting tijdens de Tweede Wereldoorlog worden expliciet genoemd in de annotatie. CC0."
+      }
+    }
+  ]
+}

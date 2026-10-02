@@ -1,0 +1,66 @@
+{
+  "photos": [
+    {
+      "src": "landmarks/amicitia-zuidblaak/foto-1-origineel.jpg",
+      "ai": "landmarks/amicitia-zuidblaak/foto-1-ai.webp",
+      "aiMaster": "landmarks/amicitia-zuidblaak/foto-1-ai.png",
+      "title": "Amicitia met gevelversiering · vooroorlogs",
+      "shortTitle": "De gevel van Amicitia",
+      "date": "Vooroorlogs; exacte opnamedatum onbekend. Overgeleverd op menukaart gedateerd 1923.",
+      "author": "Anonieme fotograaf",
+      "identifier": "Stadsarchief Rotterdam · XXIII-35 · toegang 4101",
+      "license": "Publiek domein · anoniem werk ouder dan 70 jaar (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=140434823",
+      "archiveUrl": "https://hdl.handle.net/21.12133/69C5DBD5AB80451C81E04D16F5074E35",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie, geen authentieke kleurenfoto. Origineel is de bestaande Commons-fotouitsnede uit een historische menukaart. Vijf vensterassen, bogen en gevelnaam zijn behouden; kleuren, reliëf, kleine letters, gezichten en detaillering zijn interpretatief. De gelegenheid van de versiering is onbekend."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Belasting & Douane Museum · Impost 20, september 2000",
+      "url": "https://www.bdmuseum.nl/wp-content/uploads/imposts/Impost_20.pdf#page=18",
+      "supports": "Interview De fiscale carrière van Henk Davelaar, pagina’s 17–20: Rijksbelastingacademie vanaf 1939 in voormalig Amicitia; expliciet totaal verwoest op 14 mei 1940. Onderschrift ruïnefoto op pagina 20 noemt Beursplein 20a.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Rotterdams Jaarboekje 1940 · kroniek 1939",
+      "url": "https://rjb.x-cago.com/GARJB/1940/12/19401231/GARJB-19401231-0014/story.pdf",
+      "supports": "Verplaatsing van de sociëteit Amicitia van de Zuidblaak naar zalen in Pschorr in 1939.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · menukaart XXIII-35",
+      "url": "https://hdl.handle.net/21.12133/69C5DBD5AB80451C81E04D16F5074E35",
+      "supports": "Menukaart gedateerd 1923 met foto van het gebouw. Datum van de opname en aanleiding voor de versiering zijn niet vastgesteld.",
+      "role": "beeld",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Wikimedia Commons · Amicitia en rechten",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=140434823",
+      "supports": "Gebruikte historische fotouitsnede; anoniem en publiek domein volgens PD-anon-70-EU.",
+      "role": "beeld",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "RCE · Amicitia met naastgelegen panden, september 1928",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=23742295",
+      "supports": "RCE 20191883: gevelritme en relatie met A. van Hasselt op 22 en De Nederlanden op 24. CC BY-SA 4.0; als onderzoeksbron gebruikt, niet als AI-bron.",
+      "role": "beeld",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchiefkaart 1972-755-1",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "supports": "Historische straten en gevelblokken; gecombineerd met straatfoto’s voor de benaderde plaatsing. Geen exacte kadastrale identificatie.",
+      "role": "kaart",
+      "checkedAt": "2026-10-02"
+    }
+  ],
+  "placementNote": "Voorgebouw aan Zuidblaak 20 / Beursplein 20a, oostelijk van De Nederlanden van 1845 (nummer 24), met winkelpand 22 en een steeg ertussen. Gevelbreedte circa 20 meter en diepte circa 15 meter zijn afgeleid van kaart en straatfoto; circa 10 meter plaatsingsonzekerheid. Alleen de voorbouw is gereconstrueerd, geen onbewezen achtercomplex. Hoogten en verborgen zijgevels zijn benaderd."
+}
