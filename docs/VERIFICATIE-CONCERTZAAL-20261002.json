@@ -1,0 +1,33 @@
+{
+  "status": "lokaal gecontroleerd; niet gepubliceerd",
+  "landmark": "groote-concertzaal-bierstraat",
+  "catalogueCountAtCheck": 135,
+  "sourcePeriod": "september 1929",
+  "historicalLimitations": [
+    "Historische dakvorm achter de kroonlijst onbekend; eenvoudige volume-afsluiting is een benadering.",
+    "Hoogte circa 17 meter geschat; positie circa 4 meter onzeker.",
+    "AI-kleuren en moeilijk leesbare kleine/gevelletters zijn geen historisch bewijs."
+  ],
+  "sourceImageByteIdentical": true,
+  "meshWithinWorkingBoundary": true,
+  "meshWithinParcelPlus2m": true,
+  "otherModelOverlaps": [],
+  "browser": {
+    "base": "http://127.0.0.1:8765/",
+    "pageErrors": [],
+    "failedRequests": [],
+    "mobileOverflow": false,
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "visualReview": "Hoofdagent heeft origineel en geselecteerd AI-beeld, losse modelpreview, model op kaart en mobiele fotoviewer daadwerkelijk bekeken.",
+  "evidence": [
+    "artifacts/concert-browser/browser-report.json",
+    "artifacts/browser-report.json",
+    "artifacts/expansion-20261002/groote-concertzaal-bierstraat-model.png",
+    "artifacts/concert-browser/mobile-image-viewer.png",
+    "research/expansion-20261002/groote-concertzaal/mesh-footprint-qa.json"
+  ],
+  "publicRelease": "Nog niet gecontroleerd; lokale tests bewijzen geen publicatie."
+}
