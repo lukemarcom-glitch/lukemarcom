@@ -365,3 +365,9 @@ Concertzaal-dak: luchtfoto biedt geen unieke identificatie. Voor verdere integra
 ### 2 oktober 2026 · Onze Lieve Vrouwekerk Wijnhaven lokaal toegevoegd
 
 136e locatie `olv-wijnhaven`: verdwenen kerk aan historische Wijnhaven64/perceel2037. Eén CC0-origineel/AI-paar van F.H.vanDijk,1910–1925; expliciete kerkperiodenotitie omdat het gebouw later pakhuis was. Vier directe inhoudsbronnen plus plaats- en zijgevelbron. Bentheimer gevelmateriaal primair onderbouwd; kleur, hoogte en achterbouw blijven benaderd. Positie±6m. Model/GLB/Blend en achtergrondclip bijgewerkt; gehele mesh geen overlap met andere landmarks. Kruisende achterdakrand uit concept opgelost. `npm run check`:136gebouwen,18verhalen,288foto’s,268paren,0fouten;10tests geslaagd. Browser desktop/mobiel:geenfouten,ontbrekendebestanden ofoverflow; origineel/AI en mobiele viewer werken. Specifieke OLVdesktop- en mobielbeelden visueel bekeken. Nog geen publicatie door deze integratie.
+
+### Ronde 6 — stand na controle door hoofdagent
+
+Vier nieuwe locaties zijn lokaal opgeslagen in Git: Galeries Modernes, Notarishuis, Groote Concertzaal en OLV Wijnhaven. Laatste modelcommit `1a8ce97`. Parent heeft bij OLV het model in de kaart, origineel/AI in het paneel en mobiel bekeken; origineel en geselecteerde AI-webvariant zijn bytegelijk aan het gecontroleerde researchmateriaal. Zeven directe bronnen in het item, inclusief de gebruikte luchtfoto uit1925. Laatste npmcheck136locaties/18verhalen/288foto’s/268paren, nul fouten en10tests geslaagd; browser136locaties zonder errors/failed/overflow.
+
+Nog één locatie nodig voor volledige ronde6 en checkpoint30. Publiek blijft de gecontroleerde ronde5 met132locaties/25toevoegingen; niet verwarren met lokaal136. Nog geen push of nieuwe versieback-up. Ter Meulen blijft onderzoek wegens fotoherkomst; vervangende kandidaat wordt onderzocht. De voorgestelde herindeling van Gebieden naar Ga naar een plek is alleen geadviseerd, niet geïmplementeerd.
