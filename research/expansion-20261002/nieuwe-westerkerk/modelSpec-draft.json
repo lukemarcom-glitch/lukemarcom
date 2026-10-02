@@ -429,6 +429,22 @@
         "w": 1.4,
         "h": 5.5,
         "arched": true
+      },
+      {
+        "x": -0.44,
+        "z": 18.13,
+        "y": 19.0,
+        "w": 0.43,
+        "h": 1.1,
+        "arched": true
+      },
+      {
+        "x": 0.44,
+        "z": 18.13,
+        "y": 19.0,
+        "w": 0.43,
+        "h": 1.1,
+        "arched": true
       }
     ],
     "accents": [
@@ -467,9 +483,9 @@
       {
         "x": -8.6,
         "z": 15.5,
-        "y": 34.7,
+        "y": 34.45,
         "w": 0.07,
-        "h": 1.4,
+        "h": 1.6,
         "d": 0.07,
         "material": "dark"
       },
@@ -508,9 +524,9 @@
       {
         "x": 8.6,
         "z": 15.5,
-        "y": 34.7,
+        "y": 34.45,
         "w": 0.07,
-        "h": 1.4,
+        "h": 1.6,
         "d": 0.07,
         "material": "dark"
       },
@@ -547,14 +563,194 @@
         "w": 12.8,
         "h": 0.23,
         "d": 0.23
+      },
+      {
+        "x": -9.45,
+        "z": 18.28,
+        "y": 12.4,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -9.45,
+        "z": 18.28,
+        "y": 12.75,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -9.45,
+        "z": 18.28,
+        "y": 13.1,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -9.45,
+        "z": 18.28,
+        "y": 13.45,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -9.45,
+        "z": 18.28,
+        "y": 13.8,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -7.75,
+        "z": 18.28,
+        "y": 12.4,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -7.75,
+        "z": 18.28,
+        "y": 12.75,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -7.75,
+        "z": 18.28,
+        "y": 13.1,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -7.75,
+        "z": 18.28,
+        "y": 13.45,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -7.75,
+        "z": 18.28,
+        "y": 13.8,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 7.75,
+        "z": 18.28,
+        "y": 12.4,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 7.75,
+        "z": 18.28,
+        "y": 12.75,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 7.75,
+        "z": 18.28,
+        "y": 13.1,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 7.75,
+        "z": 18.28,
+        "y": 13.45,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 7.75,
+        "z": 18.28,
+        "y": 13.8,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 9.45,
+        "z": 18.28,
+        "y": 12.4,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 9.45,
+        "z": 18.28,
+        "y": 12.75,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 9.45,
+        "z": 18.28,
+        "y": 13.1,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 9.45,
+        "z": 18.28,
+        "y": 13.45,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 9.45,
+        "z": 18.28,
+        "y": 13.8,
+        "w": 0.88,
+        "h": 0.09,
+        "d": 0.1,
+        "material": "trim"
       }
     ],
     "roundWindows": [
       {
         "x": 0,
         "z": 18.13,
-        "y": 15.1,
-        "radius": 1.65
+        "y": 14.65,
+        "radius": 0.95
       }
     ],
     "colors": {
@@ -567,11 +763,86 @@
       "door": "#674c42"
     }
   },
-  "researchStatus": {
-    "placement": "Hoofdvolume op kaart1900 expliciet Geref.Kerk; overgezet naar projectkaart. Hoekaflezing circa3m. Kleine vooruitsprongen schematisch.",
-    "geometry": "Voorgevelsilhouet gebaseerd op archieftekening XVIII-205-01. Geen geverifieerde absolute hoogte; circa35m torens en circa21.5m nok uit gevelverhoudingen afgeleid. Achtergevel, zijramen, zijbeuken en dakindeling benaderingen.",
-    "color": "Ingetogen bruin/lichtgrijs uit geveltekening; geen bewezen materiaalsoorten of historische verfkleuren.",
-    "imageCaveat": "Vooroorlogse luchtfoto context, kerkdetail nog niet ondubbelzinnig gematcht; nooit tekening een foto noemen.",
-    "ready": "DRAFT: parent moet visueel testen voor runtime; geen rendererwijziging nodig."
-  }
+  "description": "Gereformeerde kerk aan de Ammanstraat, gebouwd in 1890 en verloren bij het bombardement van mei 1940. De twee slanke torens maakten het gebouw herkenbaar in een dichtbebouwde straat.",
+  "periodNote": "Nieuwe Westerkerk uit 1890; de bijgevoegde luchtfoto toont het stadscentrum in 1933. Het gebouw ging bij het bombardement van 14 mei 1940 verloren.",
+  "placementNote": "Westzijde van de vooroorlogse Ammanstraat, ten zuiden van de Helmersstraat. De kaart van 1900 benoemt hier de Gereformeerde Kerk, tegenover het Doofstommeninstituut. Contour circa 23 × 36 m, afgelezen op de historische centrumkaart; ongeveer 3–5 m plaatsingsonzekerheid. De spitsen, dakvorm en achtergevel zijn vereenvoudigd; hoogten zijn proportionele schattingen, niet opgemeten.",
+  "colorNote": "Warme gevelvlakken, lichte banden en donkere spitsen volgen de overgeleverde geveltekening bij benadering. Precieze baksteen-, natuursteen- en verfkleur zijn niet bewezen. De ingekleurde luchtfoto is een AI-interpretatie.",
+  "story": "Na de Doleantie van 1887 hielden de Rotterdamse gereformeerden aanvankelijk diensten in tijdelijke zalen. Aan de Ammanstraat kwam vervolgens een eigen grote kerk, ontworpen door Tjeerd Kuipers en in 1890 in gebruik genomen. Met twee hoge, slanke torens kreeg het gebouw een opvallend silhouet tussen de huizen. De naam Nieuwe Westerkerk onderscheidde het van de hervormde Westerkerk aan de Kruiskade: het waren twee verschillende kerken. Naast de kerk lag het kerkeraadsgebouw aan Ammanstraat 25. Een briefkaart uit 1917 laat zien hoe de bovenzaal tijdelijk als militair tehuis werd gebruikt, met soldaten aan koffietafels. De kerk zelf was ook een plek voor bijzondere diensten en grote bijeenkomsten. Het bombardement van 14 mei 1940 verwoestte het gebouw. De bijgevoegde luchtfoto uit 1933 toont de omgeving rond de Coolsingel en Ammanstraat; het is een overzichtsbeeld, geen close-up van de kerk. Het 3D-model benadert de buitenkant aan de hand van kaarten en een geveltekening. Exacte spitsdetails, hoogten en verborgen gevels zijn niet volledig gedocumenteerd.",
+  "photos": [
+    {
+      "src": "landmarks/nieuwe-westerkerk-ammanstraat/foto-1-origineel.jpg",
+      "ai": "landmarks/nieuwe-westerkerk-ammanstraat/foto-1-ai.webp",
+      "title": "Omgeving Coolsingel en Ammanstraat · luchtfoto 1933",
+      "shortTitle": "De omgeving in 1933",
+      "date": "1933",
+      "author": "KLM Aerocarto",
+      "identifier": "Stadsarchief Rotterdam · BF620481D3324BCC8528477F74B2048A",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=144570821",
+      "archiveUrl": "https://hdl.handle.net/21.12133/BF620481D3324BCC8528477F74B2048A",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie van een luchtfoto, geen authentieke kleurenopname. Dit is een contextbeeld van de omgeving, geen kerkclose-up. Kleine ramen, daken, personen en andere details zijn plaatselijk generatief geïnterpreteerd. Deze bewerking bewijst geen precieze architectuur of historische kleuren. Het ongewijzigde origineel staat ernaast."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Stadsarchief Rotterdam · KLM-luchtfoto centrum, 1933",
+      "url": "https://hdl.handle.net/21.12133/BF620481D3324BCC8528477F74B2048A",
+      "role": "beeld",
+      "supports": "Originele luchtfoto, maker KLM Aerocarto en datering 1933; context van Coolsingel, Kruiskade en Ammanstraat. Geen close-up of bewijs voor exacte kleuren.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Wikimedia Commons · bronregistratie en CC0-licentie luchtfoto",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=144570821",
+      "role": "beeld",
+      "supports": "Controleerbare CC0-vermelding bij het ongewijzigde archiefbeeld.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Historische stadsplattegrond 1900 · wijk Cool",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=165217459",
+      "role": "kaart",
+      "supports": "Expliciet ingetekende Gereformeerde Kerk aan westzijde Ammanstraat, ten zuiden van Helmersstraat, tegenover Doofstommeninstituut. Basis voor plaatsing.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · centrumkaart vóór mei 1940",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "role": "kaart",
+      "supports": "Kaart uit 1955 met vooroorlogse toestand; benaderde kerkcontour en verhouding tot straat en buurpanden.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief XVIII-205-01 · tekening voorgevel",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=98467792",
+      "role": "beeld",
+      "supports": "Overgeleverde geveltekening, gedateerd circa 1903–1907: tweelingtorens, puntgevel en raam-/deurindeling. Geen foto, geen exact bewijs van uitgevoerde kleuren.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · kerkruïnes na bombardement, 1940",
+      "url": "https://hdl.handle.net/21.12133/FCF87A247DD841FEBAADAA8C4A31289A",
+      "role": "historie",
+      "supports": "Hendrik Sutterland, juni–augustus 1940; registratie benoemt de ruïnes van Nieuwe Westerkerk na het bombardement van 14 mei.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Museum Rotterdam 90511-M · militair tehuis, 1917",
+      "url": "https://museumrotterdam.nl/collectie/item/90511-M",
+      "role": "historie",
+      "supports": "Briefkaart met expliciet opschrift bovenzaal kerkeraadsgebouw, Ammanstraat 25, tijdelijk militair tehuis van Comité Gideon. Niet de kerkzaal.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Reliwiki · Nieuwe Westerkerk Ammanstraat 21",
+      "url": "https://reliwiki.nl/index.php/Rotterdam,_Ammanstraat_21_-_Nieuwe_Westerkerk_(1890_-_1940)",
+      "role": "historie",
+      "supports": "Architect Tjeerd Kuipers, ingebruikname 1890, aanleiding na Doleantie en verwoesting; bevat bibliografisch citaat Het Vaderland 6 juni 1940 over bijzondere diensten en vergaderingen. Krantcitaat hier secundair overgeleverd.",
+      "checkedAt": "2026-10-02"
+    }
+  ],
+  "wikipediaNote": "Geen passende Wikipedia-pagina over deze kerk gevonden; de Westerkerk aan de Kruiskade is een ander gebouw. De directe bronnen hierboven documenteren dit pand."
 }

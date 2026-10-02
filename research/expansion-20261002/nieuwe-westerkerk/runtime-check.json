@@ -1,0 +1,11 @@
+{
+  "catalogCount": 118,
+  "originalSHA256": "015fcf8a7e7612fe73e1fa2ca7f8cbfbbcdb8cb7e7e3e52e2333e24466df1950",
+  "originalByteIdentical": true,
+  "glbBytes": 433172,
+  "glbHeader": "glTF",
+  "npmCheck": "passed 9 tests; 118 catalog items",
+  "targetedBrowser": "passed desktop, modern3D, mobile gallery and lightbox; no errors/failed responses/overflow",
+  "visualInspection": "map close-up and mobile gallery inspected; roof/spires unobstructed, source+AI uncertainty visible",
+  "published": false
+}
