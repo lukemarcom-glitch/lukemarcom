@@ -1,0 +1,9 @@
+# Model-/broncontrole 2026-10-02
+
+Originele foto1910 (142632085.jpg) en1938–1939 (145894836.jpg) bekeken naast bestaande modelopname en nieuw zelfstandigrender uit actuele catalogus. Laatstgenoemde artifacts/round2-model-review/internatio-wolfshoek-preview.png daadwerkelijk bekeken. Toegevoegde boogvensters bovenin toren zijn zichtbaar, liggen niet in massieve torenschacht begraven en benaderen herkenbare openingen op1910foto. Acht rondom is geometrische benadering; achterzijde niet bewezen. Geen nieuwe modelwijziging voorgesteld.
+
+Belangrijke resterende vereenvoudiging: torenonderbouw heeft generieke rechthoekige ramen, centrale Wijnhavengevel raamverhoudingen/details sterk versimpeld. Moderne vleugel heeft in bron brede raamstroken, model apartevensters. Dat is expliciet schematisch; geen exacte reconstructie claimen. Geen volle nieuwe fantasieornamenten toevoegen.
+
+Alle huidige verhaalzinnen nagegaan: identiteit en hoeklocatie staan in exacte Stadsarchiefregistraties1910/1938–39; verschil linkerbouwfase en torenkoepel visueel in beide bronfotos; uitgebrande restanten en verdwenenkoepel in juni1940foto. Story bevat geen extra architect/bouwjaar/bedrijfsopvolging die andere tekstbron nodig maakt. Nieuwe webzoektocht naar specifiek gebouw leverde hoofdzakelijk duplicaten van dezelfde archiefmetadata en https://colonialarchitecture.hotglue.me/ (verwijst naar Internatiogedenkboek, editie/pagina niet duidelijk). Laatste NIET toegevoegd als historischebewijsbron. Advies: houd bestaand bescheiden verhaal totdat exacte originele gedenkboekpagina of bouwarchief gevonden is; niet generiekeWiki inzetten als schijnbron. Bronlinks kunnen direct HDL in plaats vanCommons worden, met Commonsbijfoto alsrechtenvindplaats. ArchiefIDs staan reeds broncontrole.json.
+
+Geen gedeelde bestanden, geen exports, geen commits gewijzigd.

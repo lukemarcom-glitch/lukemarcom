@@ -1,0 +1,184 @@
+{
+  "query": {
+    "pages": {
+      "129048015": {
+        "pageid": 129048015,
+        "ns": 6,
+        "title": "File:Het Groenendaal richting de Pottebakkersbrug vanaf de Valkenbrug 1908 - 1912.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Het_Groenendaal_richting_de_Pottebakkersbrug_vanaf_de_Valkenbrug_1908_-_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Het_Groenendaal_richting_de_Pottebakkersbrug_vanaf_de_Valkenbrug_1908_-_1912.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129048015",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-25 16:50:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Het Groenendaal richting de Pottebakkersbrug vanaf de Valkenbrug 1908 - 1912",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|1910 in Rotterdam|Marinierskazerne (Oostplein)|Pottebakkersbrug (Rotterdam)|History of Groenendaal (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Groenendaal, seen from the Valkenbrug. Year: 1908 - 1912.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1908 and 1912<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1908-00-00T00:00:00Z/9,P1326,+1912-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/27C23DFD5BF74728B5A17F1F00F458F2\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Wouter (W.) Cool [jr.]",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "130812663": {
+        "pageid": 130812663,
+        "ns": 6,
+        "title": "File:Panden aan het Groenendaal met een stuk van de Marinierskazerne aan het Oostplein 1908.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Panden_aan_het_Groenendaal_met_een_stuk_van_de_Marinierskazerne_aan_het_Oostplein_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panden_aan_het_Groenendaal_met_een_stuk_van_de_Marinierskazerne_aan_het_Oostplein_1908.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130812663",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-04-17 09:00:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Panden aan het Groenendaal met een stuk van de Marinierskazerne aan het Oostplein 1908",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|1908 in Rotterdam|Photographs by Henri Berssenbrugge|Marinierskazerne (Oostplein)|History of Groenendaal (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of houses on the Groenendaal and the back of houses on Hoogstraat. From the west. Year: 1908.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "01-01-1908 - 31-12-1908",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/FC936DE1902D47249170BEFEB643A24C\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bernard Heinrich Wilhelm (Henri) (B.H.W.) Berssenbrugge",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

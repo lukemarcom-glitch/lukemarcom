@@ -29474,9 +29474,7 @@
           "d": 16,
           "h": 20.3,
           "windows": false,
-          "roof": "gable",
-          "roofAlongFront": true,
-          "roofHeight": 3.2
+          "roof": "flat"
         },
         {
           "w": 18.15,
@@ -29509,7 +29507,7 @@
           "windows": false
         },
         {
-          "z": 4.55,
+          "z": 6.55,
           "base": 21,
           "w": 6.6,
           "d": 1.1,
@@ -29517,6 +29515,17 @@
           "windows": false,
           "roof": "flat",
           "wall": "dark"
+        },
+        {
+          "z": 4,
+          "base": 20.3,
+          "w": 18,
+          "d": 8,
+          "h": 0.02,
+          "windows": false,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 3.18
         }
       ],
       "colors": {
@@ -29702,49 +29711,49 @@
         },
         {
           "x": -2.8,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
         },
         {
           "x": -1.87,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
         },
         {
           "x": -0.94,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
         },
         {
           "x": 0,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
         },
         {
           "x": 0.94,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
         },
         {
           "x": 1.87,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
         },
         {
           "x": 2.8,
-          "z": 5.15,
+          "z": 7.15,
           "y": 21.55,
           "w": 0.73,
           "h": 0.73
@@ -29974,7 +29983,8 @@
         "checkedAt": "2026-10-02"
       }
     ],
-    "wikipediaNote": "Geen passende zelfstandige pagina over dit verdwenen pand gebruikt; zie de directe beeld- en archiefbronnen."
+    "wikipediaNote": "Geen passende zelfstandige pagina over dit verdwenen pand gebruikt; zie de directe beeld- en archiefbronnen.",
+    "dimensionNote": " Dakverhouding gecorrigeerd naar luchtfoto1924: circa8m diepe voorkap en vlak achterdak; deze diepte is een visuele schatting."
   },
   {
     "id": "marx-bank-zuidblaak",

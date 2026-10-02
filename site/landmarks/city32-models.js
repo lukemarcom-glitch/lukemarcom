@@ -107,6 +107,13 @@ export function buildCity32(meta,{material,box,merge}){
   if(p.dormers)for(let i=0;i<p.dormers;i++){const z=-d*.35+i*(d*.7/Math.max(1,p.dormers-1));for(const s of [-1,1]){const dorm=part(g,s*w*.32,z,s*Math.PI/2);b(dorm,0,h+1.0,0,1.2,1.5,1.15,'stone');window(dorm,0,h+1.0,.59,.72,1.0);roof(dorm,1.3,1.3,h+1.8,.65,'hip')}}
   if(p.parapet)for(const s of [-1,1]){b(g,0,h+.5,s*d/2,w,.9,.3,p.wall||'brick');b(g,s*w/2,h+.5,0,.3,.9,d,p.wall||'brick')}
  }
+ // Source-traced silhouettes for curved facade tops; no automatic ornament.
+ for(const a of spec.facadeReliefs||[]){
+  if(!Array.isArray(a.outline)||a.outline.length<3||!a.outline.every(p=>p.length===2&&p.every(Number.isFinite)))throw new Error(`Invalid facade relief: ${meta.id}`);
+  const shape=new T.Shape();a.outline.forEach(([x,y],i)=>i?shape.lineTo(x,y):shape.moveTo(x,y));shape.closePath();
+  const mesh=new T.Mesh(new T.ExtrudeGeometry(shape,{depth:a.depth||.25,bevelEnabled:false}),mats[a.material||'stone']);
+  mesh.position.set(a.x||0,a.y||0,a.z||0);mesh.rotation.y=a.angle||0;root.add(mesh);
+ }
  // Individually documented openings, e.g. the six-metre reading-room windows.
  // Keep these separate from the regular floor grid used by ordinary facades.
  for(const a of spec.facadeWindows||[])window(part(root,a.x||0,a.z||0,a.angle||0),0,a.y,.08,a.w,a.h,Boolean(a.arched));
