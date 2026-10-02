@@ -76126,5 +76126,1232 @@
         19.235333362227266
       ]
     ]
+  },
+  {
+    "id": "groote-concertzaal-bierstraat",
+    "name": "Groote Concertzaal · Bierstraat",
+    "modelFamily": "city33",
+    "center": [
+      156.17999953818213,
+      -249.20435483719567
+    ],
+    "angle": 1.8834661296630355,
+    "height": 17.15,
+    "polygon": [
+      [
+        165.773301782718,
+        -241.09086219183533
+      ],
+      [
+        168.66721819408832,
+        -250.0427678813881
+      ],
+      [
+        145.91197657475834,
+        -257.3251289604349
+      ],
+      [
+        144.36750160116384,
+        -248.35866031512435
+      ]
+    ],
+    "modelSpec": {
+      "colors": {
+        "stone": "#b9b5a7",
+        "trim": "#d5cfbd",
+        "brick": "#927762",
+        "roof": "#77766c",
+        "glass": "#425350",
+        "dark": "#303530",
+        "bronze": "#554b3f",
+        "mortar": "#8b877c"
+      },
+      "parts": [
+        {
+          "x": 0,
+          "z": 0,
+          "w": 8.8,
+          "d": 22.8,
+          "h": 17.0,
+          "wall": "stone",
+          "roof": "flat",
+          "windows": false
+        }
+      ],
+      "accents": [
+        {
+          "x": 0,
+          "y": 1.85,
+          "z": 11.43,
+          "w": 8.8,
+          "h": 3.7,
+          "d": 0.12,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 0.7,
+          "z": 11.52,
+          "w": 8.8,
+          "h": 0.045,
+          "d": 0.05,
+          "material": "mortar"
+        },
+        {
+          "x": 0,
+          "y": 1.4,
+          "z": 11.52,
+          "w": 8.8,
+          "h": 0.045,
+          "d": 0.05,
+          "material": "mortar"
+        },
+        {
+          "x": 0,
+          "y": 2.1,
+          "z": 11.52,
+          "w": 8.8,
+          "h": 0.045,
+          "d": 0.05,
+          "material": "mortar"
+        },
+        {
+          "x": 0,
+          "y": 2.8,
+          "z": 11.52,
+          "w": 8.8,
+          "h": 0.045,
+          "d": 0.05,
+          "material": "mortar"
+        },
+        {
+          "x": 0,
+          "y": 3.5,
+          "z": 11.52,
+          "w": 8.8,
+          "h": 0.045,
+          "d": 0.05,
+          "material": "mortar"
+        },
+        {
+          "x": -3.65,
+          "y": 1.85,
+          "z": 11.530000000000001,
+          "w": 0.025,
+          "h": 3.6,
+          "d": 0.035,
+          "material": "mortar"
+        },
+        {
+          "x": -2.85,
+          "y": 1.85,
+          "z": 11.530000000000001,
+          "w": 0.025,
+          "h": 3.6,
+          "d": 0.035,
+          "material": "mortar"
+        },
+        {
+          "x": -1.1,
+          "y": 1.85,
+          "z": 11.530000000000001,
+          "w": 0.025,
+          "h": 3.6,
+          "d": 0.035,
+          "material": "mortar"
+        },
+        {
+          "x": 1.1,
+          "y": 1.85,
+          "z": 11.530000000000001,
+          "w": 0.025,
+          "h": 3.6,
+          "d": 0.035,
+          "material": "mortar"
+        },
+        {
+          "x": 2.85,
+          "y": 1.85,
+          "z": 11.530000000000001,
+          "w": 0.025,
+          "h": 3.6,
+          "d": 0.035,
+          "material": "mortar"
+        },
+        {
+          "x": 3.65,
+          "y": 1.85,
+          "z": 11.530000000000001,
+          "w": 0.025,
+          "h": 3.6,
+          "d": 0.035,
+          "material": "mortar"
+        },
+        {
+          "x": 0,
+          "y": 1.35,
+          "z": 11.6,
+          "w": 1.6,
+          "h": 2.7,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.725,
+          "z": 11.6,
+          "w": 1.5992185591719477,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.7750000000000004,
+          "z": 11.6,
+          "w": 1.5929532322073994,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.825,
+          "z": 11.6,
+          "w": 1.580348062927911,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.875,
+          "z": 11.6,
+          "w": 1.5612494995995998,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.9250000000000003,
+          "z": 11.6,
+          "w": 1.5354152532784089,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2.975,
+          "z": 11.6,
+          "w": 1.502497920131672,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.0250000000000004,
+          "z": 11.6,
+          "w": 1.4620191517213448,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.075,
+          "z": 11.6,
+          "w": 1.4133294025102572,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.125,
+          "z": 11.6,
+          "w": 1.355544171172596,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.1750000000000003,
+          "z": 11.6,
+          "w": 1.2874393189583735,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.225,
+          "z": 11.6,
+          "w": 1.2072696467649637,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.2750000000000004,
+          "z": 11.6,
+          "w": 1.1124297730643495,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.325,
+          "z": 11.6,
+          "w": 0.9987492177719092,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.375,
+          "z": 11.6,
+          "w": 0.8587782018658836,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.4250000000000003,
+          "z": 11.6,
+          "w": 0.6763874629234342,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.475,
+          "z": 11.6,
+          "w": 0.3968626966596888,
+          "h": 0.051,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 1.25,
+          "z": 11.66,
+          "w": 0.045,
+          "h": 2.5,
+          "d": 0.045,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 1.9,
+          "z": 11.6,
+          "w": 1.5,
+          "h": 2.65,
+          "d": 0.08,
+          "material": "glass"
+        },
+        {
+          "x": -3.62,
+          "y": 1.9,
+          "z": 11.67,
+          "w": 0.07,
+          "h": 2.8,
+          "d": 0.07,
+          "material": "bronze"
+        },
+        {
+          "x": -2.08,
+          "y": 1.9,
+          "z": 11.67,
+          "w": 0.07,
+          "h": 2.8,
+          "d": 0.07,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 1.9,
+          "z": 11.67,
+          "w": 0.055,
+          "h": 2.65,
+          "d": 0.055,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 2.5,
+          "z": 11.67,
+          "w": 1.5,
+          "h": 0.07,
+          "d": 0.06,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 1.9,
+          "z": 11.6,
+          "w": 1.5,
+          "h": 2.65,
+          "d": 0.08,
+          "material": "glass"
+        },
+        {
+          "x": 2.08,
+          "y": 1.9,
+          "z": 11.67,
+          "w": 0.07,
+          "h": 2.8,
+          "d": 0.07,
+          "material": "bronze"
+        },
+        {
+          "x": 3.62,
+          "y": 1.9,
+          "z": 11.67,
+          "w": 0.07,
+          "h": 2.8,
+          "d": 0.07,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 1.9,
+          "z": 11.67,
+          "w": 0.055,
+          "h": 2.65,
+          "d": 0.055,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 2.5,
+          "z": 11.67,
+          "w": 1.5,
+          "h": 0.07,
+          "d": 0.06,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 6.45,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 3.85,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -3.72,
+          "y": 6.45,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 4.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -1.98,
+          "y": 6.45,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 4.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 4.525,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 8.375,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 6.45,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 3.85,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 5.808333333333334,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 7.091666666666667,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 4.425000000000001,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 6.45,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 3.85,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -0.87,
+          "y": 6.45,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 4.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0.87,
+          "y": 6.45,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 4.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 4.525,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 8.375,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 6.45,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 3.85,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 5.808333333333334,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 7.091666666666667,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 4.425000000000001,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 2.85,
+          "y": 6.45,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 3.85,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 1.98,
+          "y": 6.45,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 4.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 3.72,
+          "y": 6.45,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 4.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 4.525,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 8.375,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 6.45,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 3.85,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 5.808333333333334,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 7.091666666666667,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 4.425000000000001,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": -2.85,
+          "y": 11.25,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 3.25,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -3.72,
+          "y": 11.25,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 3.4,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -1.98,
+          "y": 11.25,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 3.4,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 9.625,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 12.875,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 11.25,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 3.25,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 10.708333333333334,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 11.791666666666666,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 9.525,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 11.25,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 3.25,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -0.87,
+          "y": 11.25,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 3.4,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0.87,
+          "y": 11.25,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 3.4,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 9.625,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 12.875,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 11.25,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 3.25,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 10.708333333333334,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 11.791666666666666,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 9.525,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 2.85,
+          "y": 11.25,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 3.25,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 1.98,
+          "y": 11.25,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 3.4,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 3.72,
+          "y": 11.25,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 3.4,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 9.625,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 12.875,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 11.25,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 3.25,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 10.708333333333334,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 11.791666666666666,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 9.525,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": -2.85,
+          "y": 14.9,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 1.85,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -3.72,
+          "y": 14.9,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 2.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -1.98,
+          "y": 14.9,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 2.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 13.975,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 15.825000000000001,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 14.9,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 1.85,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 14.9,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": -2.85,
+          "y": 13.875,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 14.9,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 1.85,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -0.87,
+          "y": 14.9,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 2.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0.87,
+          "y": 14.9,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 2.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 13.975,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 15.825000000000001,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 14.9,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 1.85,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 14.9,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 13.875,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 2.85,
+          "y": 14.9,
+          "z": 11.47,
+          "w": 1.68,
+          "h": 1.85,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 1.98,
+          "y": 14.9,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 2.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 3.72,
+          "y": 14.9,
+          "z": 11.55,
+          "w": 0.11,
+          "h": 2.0,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 13.975,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 15.825000000000001,
+          "z": 11.55,
+          "w": 1.82,
+          "h": 0.1,
+          "d": 0.13,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 14.9,
+          "z": 11.57,
+          "w": 0.055,
+          "h": 1.85,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 14.9,
+          "z": 11.57,
+          "w": 1.7,
+          "h": 0.055,
+          "d": 0.08,
+          "material": "bronze"
+        },
+        {
+          "x": 2.85,
+          "y": 13.875,
+          "z": 11.58,
+          "w": 1.94,
+          "h": 0.13,
+          "d": 0.29,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 16.55,
+          "z": 11.5,
+          "w": 8.92,
+          "h": 0.12,
+          "d": 0.3,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 16.82,
+          "z": 11.5,
+          "w": 9.22,
+          "h": 0.22,
+          "d": 0.55,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 17.05,
+          "z": 11.5,
+          "w": 9.38,
+          "h": 0.16,
+          "d": 0.65,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 7.8,
+          "z": 11.92,
+          "w": 0.14,
+          "h": 0.15,
+          "d": 1.05,
+          "material": "bronze"
+        },
+        {
+          "x": 0,
+          "y": 7.2,
+          "z": 12.34,
+          "w": 0.08,
+          "h": 1.2,
+          "d": 0.08,
+          "material": "bronze"
+        }
+      ]
+    },
+    "kind": "building",
+    "cameraDistance": 76,
+    "backgroundClearance": 0.6,
+    "uncertaintyMeters": 4,
+    "placementStatus": "approximate-reconstruction",
+    "description": "Achter deze handelsgevel ging een voormalige concertzaal uit 1804 schuil. Het gebouw ging verloren op 14 mei 1940.",
+    "story": "Aan de Bierstraat stond een bescheiden gebouw met een bijzonder muzikaal verleden. In december 1804 trad de jonge fluitist Drouet op in de nieuwe concertzaal van architect Jan Giudici. Een statietrap leidde naar een langwerpige zaal, waar ongeveer tweehonderd bezoekers konden luisteren.\n\nLater verloor de zaal terrein aan grotere en goedkopere concertgelegenheden. In 1863 kwam er een filiaal van de European Bank. Daarna kreeg het gebouw verschillende gebruikers. De voormalige muziekzaal werd uiteindelijk opslagruimte voor ijzerwaren. Op de foto uit 1929 zijn de handelsopschriften van Houtzager & Co, de hoge ramen en de eenvoudige ingang te zien. Het vroegere bordes met zuilen was toen al verdwenen.\n\nHet pand aan de historische Bierstraat 11 overleefde het bombardement van 14 mei 1940 niet. Het model volgt de gefotografeerde handelsgevel uit 1929, niet de oorspronkelijke concertentree. De hoogte en achterbouw zijn benaderingen. De eenvoudige afsluiting achter de kroonlijst toont geen bewezen historische dakvorm; daarvoor ontbreekt nog voldoende beeldbewijs.",
+    "periodNote": "Gevelbeeld uit september 1929, toen in gebruik voor handel en opslag. Voormalige concertzaal in gebruik genomen in 1804; gebouw verloren bij het bombardement van 14 mei 1940.",
+    "colorNote": "Licht pleisterwerk en donkere raamkozijnen zijn zichtbaar in zwart-wit. De warme gevelkleur, kozijnkleur en dakafsluiting zijn interpretaties; er is geen historische kleurenopname gebruikt.",
+    "placementNote": "Historische Bierstraat 11 op huisnummerkaart Z12 uit 1938, westzijde naast de kerk en noordelijk van hoekpand 13 aan de Dwarsbierstraat. Positie circa 4 meter onzeker. Perceeldiepte circa 24 meter; hoogte circa 17 meter geschat. De historische dakvorm is onbekend: het model heeft alleen een eenvoudige volume-afsluiting achter de kroonlijst, geen gereconstrueerde kap.",
+    "sources": [
+      {
+        "title": "Waterstadgenootschap · Groote Concertzaal · 2018",
+        "url": "https://maritiemdistrict.nl/wp-content/uploads/2018/12/Folder-Concertzaal-Bierstraat-MD-2018.pdf",
+        "supports": "Pagina 2 noemt Bierstraat 11 en expliciet het verlies door het bombardement van 14 mei 1940.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Hazewinkel · De Concertzaal in de Bierstraat · 1940",
+        "url": "https://rjb.x-cago.com/GARJB/1940/12/19401231/GARJB-19401231-0274/story.pdf",
+        "supports": "Pagina 185 onderbouwt ingebruikname eind 1804 met een krantenbericht; pagina 187 noemt het bankfiliaal in november 1863. Pagina 188 beschrijft ijzerwarenopslag en het verwijderde bordes.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · XIV-285 · 1933",
+        "url": "https://hdl.handle.net/21.12133/4B634995805646548350696BCB4BE832",
+        "supports": "Identificeert het pakhuis van N.V. Houtzager en Co als de voormalige Concertzaal. Dit auteursrechtelijk beperkte beeld wordt niet hergebruikt.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · Bierstraat · september 1929",
+        "url": "https://hdl.handle.net/21.12133/C1ABF9A00EB94DE6A145B86ACF8CA01B",
+        "supports": "Origineel gevelbeeld met handelsopschriften, drie raamassen, kroonlijst en ingang; F.H. van Dijk, expliciet CC0.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief Rotterdam · huisnummerkaart Z12 · 1938",
+        "url": "https://hdl.handle.net/21.12133/EBF9E8EEB70E4DE3B07231C1FAF06EB1",
+        "supports": "Huisnummer 11 aan de westzijde van de Bierstraat, direct noordelijk van hoekpand 13 en Dwarsbierstraat. Basis voor benaderde contour.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "photos": [
+      {
+        "src": "landmarks/groote-concertzaal-bierstraat/foto-1-origineel.jpg",
+        "ai": "landmarks/groote-concertzaal-bierstraat/foto-1-ai.webp",
+        "aiMaster": "landmarks/groote-concertzaal-bierstraat/foto-1-ai.png",
+        "title": "Houtzager & Co in de voormalige Concertzaal · september 1929",
+        "shortTitle": "Handelsgevel aan de Bierstraat",
+        "date": "September 1929",
+        "author": "François Henry van Dijk (1888–1977) · Stadsarchief Rotterdam",
+        "identifier": "Stadsarchief Rotterdam 4117 / 1976-11159",
+        "license": "CC0 · Gemeente Rotterdam (Stadsarchief)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://hdl.handle.net/21.12133/C1ABF9A00EB94DE6A145B86ACF8CA01B",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie van het ongewijzigde archiefbeeld uit 1929. Gevel- en kozijnkleuren blijven schattingen. De lange bedrijfsregel en kleine letters zijn niet volledig betrouwbaar leesbaar; de ingekleurde tekst vormt geen zelfstandig historisch bewijs. De kerktoren ernaast hoort niet bij de Concertzaal."
+      }
+    ]
   }
 ]

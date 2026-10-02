@@ -349,3 +349,15 @@ Commit `cc63867` bewaart de twee gecontroleerde toevoegingen (Galeries Modernes 
 Ter Meulen is inmiddels primair gelokaliseerd: gemeentelijke Hinderwetberichten van 26 oktober 1933, 17 oktober en 3 december 1935 verbinden Hoogstraat 83, Sint-Janstraat 24 en Achterklooster 68. Kaart Z16 koppelt dit aan M1624/M1598. De woninginrichting aan 44–54 is een andere afdeling. Advertentie 23 december 1920 kondigt verhuizing in 1921 aan; de retrospectieve datering 1912 niet gebruiken voor deze hoek. Dossier: research/expansion-20261002/ter-meulen/ONDERZOEK.md. Een duidelijke vrij publiceerbare intacte gevelopname ontbreekt nog.
 
 Concertzaal: bestaand vlak dakconcept nog niet vrijgegeven. Nieuwe referentie SAR PBK-7626 (https://hdl.handle.net/21.12133/F0CC1176213B40AEB04BFAC074B143ED) toont de hoofdingang van de OLV-kerk aan Wijnhaven met achter links dezelfde slanke toren als naast de Concertzaal op de foto van 1929; parent heeft het beeld bekeken. Deze koppeling ondersteunt verdere ruimtelijke identificatie, niet op zichzelf de dakvorm van Bierstraat 11. De OLV-kerk aan de Wijnhaven wordt als aanvullende kandidaat onderzocht; nog niet aan de catalogus toegevoegd.
+
+## Ronde 6 — aanvullende bron- en modelcontrole
+
+OLV Wijnhaven heeft nu een geselecteerd origineel/AI-paar (SAR2008-5180, F.H.vanDijk,1910–1925,CC0) en een primair materiaalbewijs voor Bentheimer zandsteen uit1902. Model blijft onderzoek tot de footprint en torenplaatsing zijn gecontroleerd; expliciet kerkperiode1910–1925, later pakhuis. Details en prompt in research/expansion-20261002/olv-wijnhaven/.
+
+Ter Meulen-concept is op de werkkaart geregistreerd, maar blijft onvolledig: conservatief voorvolume526,88m² vermijdt binnenplaats; primaire650m² nog niet volledig ruimtelijk verklaard. Geen AI-paar wegens ontbrekende fotoherkomst/rechten. Bedrijfsarchief480-01 daadwerkelijk in browser gecontroleerd: foto-inventaris vooral naoorlogs; jubileumalbum inv110 (catalogus1971) alleen als studiezaalstuk zichtbaar, inhoud niet ingezien. Zie ARCHIEF-480-BEELDZOEK.md; geen aanvraag verzonden.
+
+Concertzaal-dak: luchtfoto biedt geen unieke identificatie. Voor verdere integratie toegestaan: onversierde afsluiting achter brongetrouwe hoge kroonlijst, met expliciete melding dat de historische dakvorm onbekend is. Geen lichtlantaarn of andere onbewezen dakornamenten toevoegen. Dit is een onderzoeksbenadering, geen exacte1939opmeting.
+
+### 2 oktober 2026 — Groote Concertzaal, lokaal toegevoegd
+
+`groote-concertzaal-bierstraat` toegevoegd met één ongewijzigd CC0-archiefbeeld van F.H. van Dijk (september 1929), apart AI-paar en prompt. Brongetrouwe handelsgevel, historische Bierstraat 11 op huisnummerkaart Z12; verlies 14 mei 1940 rechtstreeks onderbouwd. Hazewinkel1940 onderbouwt ingebruikname1804 en bankfunctie1863. Hoogte en achtervolume zijn benaderingen; de eenvoudige afsluiting achter de kroonlijst is nadrukkelijk **geen vastgestelde historische dakvorm**. Geen kerkportiek of fictieve dakornamenten toegevoegd. Oorspronkelijke contouren behouden, achtergrond opnieuw uitgesneden. Lokale integratie is geen publicatiebewijs.

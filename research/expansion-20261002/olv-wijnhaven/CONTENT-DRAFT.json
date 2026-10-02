@@ -1,0 +1,28 @@
+{
+  "name": "Onze Lieve Vrouwekerk · Wijnhaven",
+  "periodNote": "Het beeld toont de kerkperiode in 1910–1925. Dit is geen exacte reconstructie van de pakhuisfase in 1939.",
+  "description": "Tussen de koopmanshuizen aan de Wijnhaven stond een kerk met een opvallende lichte gevel. Architect Jac. van Gils gebruikte bij de vernieuwing de funderingen, zijmuren en een deel van het transept van de oudere kerk opnieuw. Een eigentijds artikel uit 1902 beschrijft de nieuwe voorgevel als Bentheimer zandsteen en prijst de lichte kleur.\n\nDe smalle ruimte tussen de omliggende pakhuizen bepaalde het ontwerp. De architect moest de zijramen hoog plaatsen om licht binnen te krijgen. Ook het orgel kreeg een plek aan de zijkant, zodat het de lichtinval door de voorgevel niet zou blokkeren.\n\nLater diende het gebouw als pakhuis. Bij het bombardement van 14 mei 1940 werd het verwoest; archieffoto’s tonen de ruïne tussen de getroffen havenbebouwing.\n\nDe archieffoto en kleurrestauratie tonen bewust de eerdere kerkperiode van 1910–1925. Ze geven dus geen zekerheid over alle wijzigingen tijdens het latere gebruik als pakhuis. De kleurversie is een AI-interpretatie: de steensoort is gedocumenteerd, maar de exacte tinten, verwering en kleine details zijn niet vastgesteld.",
+  "sources": [
+    {
+      "title": "De Nieuwe Belgische Illustratie1902, nummer47, p370",
+      "url": "https://www.dbnl.org/tekst/_nie244190201_01/_nie244190201_01_0256.php",
+      "supports": "Architect, hergebruik oudere bouwdelen, Bentheimer steen, lichte kleur, beperkingen lichtinval en orgelplaatsing."
+    },
+    {
+      "title": "Stadsarchief Rotterdam2008-5180",
+      "url": "https://hdl.handle.net/21.12133/DAED11FB185D400AA3DF2A2193E36217",
+      "supports": "Gevel en omgeving1910–1925; F.H. van Dijk, CC0. Origineel en AI-paar."
+    },
+    {
+      "title": "Stadsarchief Rotterdam · XXXIII-569-35-29, juni–juli 1940",
+      "url": "https://hdl.handle.net/21.12133/AA658F5C7CE748929E8F2636A80A7E7E",
+      "supports": "Primaire ruïnebeschrijving verbindt de voormalige Onze Lieve Vrouwekerk aan de Wijnhaven expliciet met het bombardement van 14 mei 1940."
+    },
+    {
+      "title": "Stadsarchief Rotterdam · 2001-1539, mei 1940",
+      "url": "https://hdl.handle.net/21.12133/458200AB91D147D6B23AA2BDAC7442B7",
+      "supports": "Identificeert de voormalige Wijnhavense kerk als later pakhuis in de getroffen havenomgeving. Geen bewijs voor een exacte datum van de functiewijziging."
+    }
+  ],
+  "status": "Tekst en beeldpakket voorbereid; historische plaatsing, maatvoering en modelcontrole nog nodig vóór runtime. Exacte datum overgang naar pakhuis niet in tekst gebruikt."
+}
