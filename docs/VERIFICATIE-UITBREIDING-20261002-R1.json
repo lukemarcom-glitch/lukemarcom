@@ -1,5 +1,5 @@
 {
-  "status": "local_verified_pending_deployment",
+  "status": "published_verified",
   "locations": [
     {
       "id": "schotse-kerk",
@@ -47,5 +47,194 @@
     "Schotse kerk documented destroyed edge location; approximate boundary unchanged",
     "Dimensions and non-visible architectural details remain reconstructions",
     "Tiny AI inscriptions not guaranteed exact"
+  ],
+  "release": "8c135ef3193ee83e21e6039183fc6fcddfb47869",
+  "publicUrl": "https://rdam39.nl/",
+  "pagesRun": {
+    "id": 36992254370,
+    "conclusion": "success"
+  },
+  "checkRun": {
+    "id": 36992254296,
+    "conclusion": "success"
+  },
+  "publicFiles": [
+    {
+      "path": "landmarks/catalog.json",
+      "bytes": 1057448,
+      "sha256": "efcb11acfc4f1768d28a980fbf6d516441144f539ce82b52648c353ce5125b3a"
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "bytes": 9648,
+      "sha256": "d5e0745b4f040ef142c39612a527acbf384aea5e5f2946c618aa0d34f14d05fd"
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "bytes": 735706,
+      "sha256": "f801f3b2c43e270d45b555ec02bee8ee50520c6fb5edb3f79463af726a430a3c"
+    },
+    {
+      "path": "landmarks/passage/model.glb",
+      "bytes": 418188,
+      "sha256": "c5929704863d03a7c49bea1e15bc792423d89ce8ec7d2117d737a061d7ca336d"
+    },
+    {
+      "path": "landmarks/schotse-kerk/model.glb",
+      "bytes": 273212,
+      "sha256": "ae5a95cab5db8a39bace1d8c56e347e25975c68c6bfbedebe5776cd64d6a0703"
+    },
+    {
+      "path": "landmarks/schotse-kerk/foto-1-origineel.jpg",
+      "bytes": 1743651,
+      "sha256": "97688dc7438053901d74abd45ed06cf2af09eeeeb982b5b9a5aeb096cc5b2366"
+    },
+    {
+      "path": "landmarks/schotse-kerk/foto-1-ai.webp",
+      "bytes": 331528,
+      "sha256": "7cf9e8c389fe2fe561a3b8532cb7229b05b77f9c5b3b35e38b6ca2bc1a2055e8"
+    },
+    {
+      "path": "landmarks/noordzee/model.glb",
+      "bytes": 853544,
+      "sha256": "50a33c473ea8732cfbe70291a0cdd49664f72698f7c76f12a85bfaf45c39ae63"
+    },
+    {
+      "path": "landmarks/noordzee/foto-1-origineel.jpg",
+      "bytes": 1668825,
+      "sha256": "6e9fd69f1346af6ac9fdec9d2a228b2cc5954605284ad71a5bb8128210054679"
+    },
+    {
+      "path": "landmarks/noordzee/foto-1-ai.webp",
+      "bytes": 401604,
+      "sha256": "d9034c6e1bf9d16a369c4ccb363b9660d753e54bb8f37ec00a22c96fb74bc286"
+    },
+    {
+      "path": "landmarks/nijgh-van-ditmar/model.glb",
+      "bytes": 510188,
+      "sha256": "fdad7cc8f1b744cbcabca5591a01ccbdeb9b3bad9ca2b813012e72484170d9ce"
+    },
+    {
+      "path": "landmarks/nijgh-van-ditmar/foto-1-origineel.jpg",
+      "bytes": 912047,
+      "sha256": "4d9e5c83174fdafe382f836cdcdd94c0591075330114456d5aaf1f505669b9c4"
+    },
+    {
+      "path": "landmarks/nijgh-van-ditmar/foto-1-ai.webp",
+      "bytes": 444684,
+      "sha256": "833b8ef5d7ff32dc98785fa101d79443580e03c928368658fb6d713e60397f15"
+    },
+    {
+      "path": "landmarks/nijgh-van-ditmar/foto-2-origineel.jpg",
+      "bytes": 883039,
+      "sha256": "67be8d37ff2384fcafcd6507480b45d3f9956dbc9b3f8bf9dcb87d96e68bb773"
+    },
+    {
+      "path": "landmarks/nijgh-van-ditmar/foto-2-ai.webp",
+      "bytes": 535230,
+      "sha256": "fef594c9af183f86391093b49a729ff507aeb6c8cc2b1985a5cd8ae090fc3e58"
+    },
+    {
+      "path": "landmarks/van-dooren/model.glb",
+      "bytes": 296484,
+      "sha256": "4e4789bd869d562cd6dc1ca8661e3f3c90cffcc9b3b508de72e3cb89b19ed30b"
+    },
+    {
+      "path": "landmarks/van-dooren/foto-1-origineel.jpg",
+      "bytes": 15016314,
+      "sha256": "4e559e53697481a719ccabb8c2ca219b5646a2f7e9f4a97de30d3b20e4b37737"
+    },
+    {
+      "path": "landmarks/van-dooren/foto-1-ai.webp",
+      "bytes": 398088,
+      "sha256": "f40b367ca9fd41ed465f94489dd8e60b2267e50a1c37c2f4c61ca9deda125a64"
+    },
+    {
+      "path": "landmarks/doopsgezinde-kerk/model.glb",
+      "bytes": 129624,
+      "sha256": "04b335dcb8f1c18fb9b73b093d09a90d59be45b204980ec91c8ace61dd117adf"
+    },
+    {
+      "path": "landmarks/doopsgezinde-kerk/foto-1-origineel.jpg",
+      "bytes": 2116237,
+      "sha256": "288e06479a959a1e40c0eac42f944bc791c4ffd6ed35404b57db078b5ba1ff85"
+    },
+    {
+      "path": "landmarks/doopsgezinde-kerk/foto-1-ai.webp",
+      "bytes": 321772,
+      "sha256": "5c63d0931bd900b7e5d2b94b523938d289de8a88271228acf3e7bdcc4b77b3a0"
+    }
+  ],
+  "liveBrowser": [
+    {
+      "base": "https://rdam39.nl/",
+      "buildings": 112,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "https://rdam39.nl/",
+      "buildings": 112,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "https://rdam39.nl/",
+      "buildings": 112,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "https://rdam39.nl/",
+      "buildings": 112,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "https://rdam39.nl/",
+      "buildings": 112,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    }
   ]
 }

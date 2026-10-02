@@ -122,3 +122,9 @@ Van Doorengesticht heeft nu ook een losse 3D-gevelstudie in research/expansion-2
 Van Dooren is inmiddels de vierde lokale catalogustoevoeging (111 locaties). Geschatte breedte Passage bijgesteld 32→27 m met behoud zuidrand; Van Dooren circa 12 m breed, verdere maatvoering expliciet benaderd. Beide GLB’s bijgewerkt. Footprint/achtergrond, gekoppelde gevels en desktop/mobiele galerie gecontroleerd. Nog geen ronde gepubliceerd. Zie laatste registersectie voor actuele status.
 
 Doopsgezinde schuilkerk toegevoegd als vijfde lokaal model (catalogus 112). Historische binnenbloklocatie, origineel/AI-interieur, directe bronnen, GLB en achtergrondcontrole aanwezig. Dakvorm/maten expliciet benaderd; kerk uit 1951 niet verwisseld. Gerichte mobiele/desktopcontrole geslaagd, camerahoek aangepast voor zicht langs warenhuis. Ronde nog niet gepubliceerd: Schotse eindcontrole en gezamenlijke publicatiecontrole staan open. Zie uitbreidingsregister.
+
+## Ronde 1 gepubliceerd en geverifieerd
+
+Commit 8c135ef: Schotse kerk, Noordzee, Nijgh & Van Ditmar, Van Doorengesticht, Doopsgezinde schuilkerk. Catalogus 112. Pages-run 36992254370 en Check-run 36992254296 geslaagd. Op https://rdam39.nl/ alle vijf afzonderlijk in anonieme browser getest, desktop/mobiel, foto/AI/lichtbak en Nu 3D zonder JS-/HTTP-fouten of overflow. 21 publieke model-/beeld-/runtimebestanden bytegelijk aan lokaal. Bewijs VERIFICATIE-UITBREIDING-20261002-R1.json.
+
+Doorlopende goal: 5 nieuwe gebouwen voltooid sinds start; volgende backupcheckpoint na nog 5. Historische grenzen/maten blijven benaderd; Schotse randligging en kleine AI-letters expliciet toegelicht. Volgende ronde in research/expansion-20261002/round2/kandidaten.md; kandidaten nog niet toegevoegd.

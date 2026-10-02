@@ -158,3 +158,7 @@ https://museumrotterdam.nl/verhalen/rotterdamse-vrouwen-die-het-hebben-gemaakt/m
 ## Ronde 1 — lokaal gecontroleerd
 
 Vijf toevoegingen gezamenlijk gecontroleerd. Schotse randligging beoordeeld als gedocumenteerde verwoeste kerk aan bestaande gebiedsrand; benaderde grens en historische positie behouden, afwijking toegelicht. Derde AI-poging opgeslagen, tekstbeperking blijft zichtbaar. Geen perfecte transcriptie claimen. Alle vijf zonder modeloverlap; vier geheel binnen werkgrens. npm check, algemene browsercheck en vijf gerichte desktop/mobiel/fullscreen/Nu-controles geslaagd. Screenshots bekeken. Publicatiebewijs volgt; teller nog niet verhogen vóór livecontrole.
+
+## Ronde 1 LIVE — teller 5
+
+8c135ef gepubliceerd; Pages36992254370 en Check36992254296 geslaagd. 21 publieke bestanden bytegelijk, vijf anonieme browsercontroles geslaagd. Nu 5 voltooide toevoegingen. Backup/tag-checkpoint bij 10 nog niet bereikt. GitHub bewaart deze ronde al in commitgeschiedenis. Ronde 2 nog bron-/beeldonderzoek, geen uitputtingsclaim.
