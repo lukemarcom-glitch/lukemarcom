@@ -453,3 +453,10 @@ Twee ongewijzigde PDM-archieffoto's naast afzonderlijke, door root bekeken AI-be
 Gewijzigde runtimebestanden: `site/landmarks/catalog.json`, `site/data/model-landmarks.json` en nieuwe map `site/landmarks/hbs-alkemade/` (foto's, prompts, beeldcontrole, BRONNEN.md, placement.json, geometry.json, model.blend en model.glb). Bestaande catalogusitems behouden. Live en export gebruiken dezelfde modelSpec.
 
 Validatie: exacte horizontale projectie van alle modeldriehoeken 709,6124 m²; geen geometrische overlap met andere modellen, 0 m² overlap met uitgesneden achtergrond. Bewijs `site/landmarks/hbs-alkemade/GEOMETRIE-QA.json`. `npm run check`: 143 gebouwen, 18 verhalen, 297 foto's, 277 AI-paren, geen fouten; 10 tests geslaagd. Algemene browsercheck met lokale Chrome en `LANDMARK_ID=hbs-alkemade`: geen JavaScript-/HTTP-fouten, geen horizontale overflow, fotoparen, Nu 3D en mobiele viewer in orde. Desktopmodel/foto1/fullscreen AI1 en mobiele AI2 daadwerkelijk bekeken. Parent heeft aanvullende desktops/mobiele screenshots gecontroleerd. Geen commit of push door integratieagent.
+
+
+### 3 oktober 2026 — toevoeging 37 lokaal: Wijnhaven 145
+
+P. Moll & Zoon op Wijnhaven145 toegevoegd als144e locatie met twee originele/AI-paren, directe RCE-fotobronnen, CC BY-SA4.0 en zes inhoudelijke bronnen. Verlies is combinatie van perceel296 op Z11/1938, gemeentelijke schadekaart1940 en de ruïneregistratie van Wijnhaven/Posthoornsteeg. Hoogendijk-attributie gecontroleerd op beide Commons-records; geen opnamedatum afgeleid. Kleine AI-letters blijven interpretatief; de luifeltekst in foto2 is gericht opnieuw gegenereerd.
+
+Hoofdagent bekeek galerij/fullscreen en mobiele screenshots. npmcheck144locaties/18verhalen/299foto's/279paren,10tests goed; browsercheck geen errors/failed/overflow. Meshvoetprint189.744m², geen overlap; achtergrond opnieuw uitgesneden, GLB/Blend gelijk aan gebruikte modelSpec. Onderzoek en QA in research/expansion-20261003/round8-b. Noggeenpublicatie; ronde8 mist drie definitief geïntegreerde items. Volgende checkpointbackup40.
