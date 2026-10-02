@@ -1,0 +1,24 @@
+{
+  "source": "https://dhkonline.nl/wp-content/uploads/sites/48/2025/11/DB_51_2025-INTEGRAAL.pdf#page=65",
+  "publication": "Doopsgezinde Bijdragen 51 (2025), pagina 65",
+  "photoSourceAsPrinted": "Maandblad, november 1927",
+  "photoDate": "Uiterlijk november 1927; precieze opnamedatum onbekend",
+  "rights": "Niet vastgesteld; alleen onderzoeksreferentie, niet in openbare fotogalerie opnemen of AI-bewerken zonder rechtencontrole.",
+  "observations": [
+    "Bakstenen gesloten hoekvlak",
+    "Hoge raamopeningen in lange zijgevel",
+    "Geprofileerde daklijst",
+    "Omlijste lage deur in korte gevel",
+    "IJzeren hek en begroeiing op binnenterrein"
+  ],
+  "access": "Webtool gaf 403; rechtstreeks ophalen met curl slaagde, tekst en pagina visueel gecontroleerd.",
+  "placementHypothesis": {
+    "historicalMapOriginalPixel": [
+      2630,
+      2070
+    ],
+    "reason": "Los kerkachtig volume binnen bouwblok Roodezand/Leeuwenstraat/Wagenstraat/Sint Laurensstraat; nog met tweede kaart of luchtfoto te bevestigen.",
+    "applied": false
+  },
+  "localReference": "artifacts/expansion-20261002/doopsgezinde-exterieur-referentie-1927-p65.png (genegeerd door Git; reproductie niet publiceren)"
+}

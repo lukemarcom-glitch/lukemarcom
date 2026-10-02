@@ -42,7 +42,7 @@ try{
   await p.locator('.sheet-expand').click();
   await p.locator('.photo-pair').first().locator('.photo-thumb').last().click();
   await p.waitForFunction(()=>{const im=document.querySelector('.hero-photo');return im?.complete&&im.naturalWidth>0;});
-  await p.waitForFunction(()=>document.querySelector('.photo-viewer')?.getBoundingClientRect().top<250);
+  await p.waitForFunction(()=>{const photo=document.querySelector('.photo-viewer')?.getBoundingClientRect(),bar=document.querySelector('.sheet-bar')?.getBoundingClientRect();return photo&&bar&&photo.top>=bar.bottom-2&&photo.top<=bar.bottom+24;});
   const overflow=await p.evaluate(()=>({page:document.documentElement.scrollWidth>innerWidth,panel:document.querySelector('#landmark-panel').scrollWidth>document.querySelector('#landmark-panel').clientWidth}));
   assert.deepEqual(overflow,{page:false,panel:false});
   await p.screenshot({path:fileURLToPath(new URL('mobile-gallery.png',output))});

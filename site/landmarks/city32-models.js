@@ -11,6 +11,7 @@ export function buildCity32(meta,{material,box,merge}){
  const part=(parent,x,z,angle=0)=>{const g=new T.Group();g.position.set(x,0,z);g.rotation.y=angle;parent.add(g);return g};
  function triangle(g,pts,mat){const geo=new T.BufferGeometry();geo.setAttribute('position',new T.Float32BufferAttribute(pts.flat(),3));geo.setAttribute('uv',new T.Float32BufferAttribute(pts.flatMap(p=>[p[0]/4,p[1]/4]),2));geo.computeVertexNormals();g.add(new T.Mesh(geo,mat));}
  function roof(g,w,d,y,rh,type,gableMaterial=mats.brick){
+  if(type==='none')return; // Stone caps/pediments do not need a slate roof plane.
   if(type==='flat'||!rh){b(g,0,y+.12,0,w+.2,.24,d+.2,'roof');return}
   const x=w/2+.25,z=d/2+.25,a=[-x,y,-z],bb=[x,y,-z],c=[x,y,z],dd=[-x,y,z];
   if(type==='gable'){
@@ -52,8 +53,25 @@ export function buildCity32(meta,{material,box,merge}){
  }
  for(const t of spec.towers||[]){
   const g=part(root,t.x||0,t.z||0),r=t.radius||2.4,base=t.base||0,h=t.h;
+  if(t.lantern){
+   // Open timber lantern and curved cupola, documented on the Scots church.
+   const sides=t.sides||8,plinth=t.plinthHeight||.9;
+   for(const [y,depth,radius] of [[base+plinth/2,plinth,r],[base+h-.12,.24,r+.18]]){
+    const ring=new T.Mesh(new T.CylinderGeometry(radius,radius,depth,sides),mats.trim);ring.position.y=y;g.add(ring);
+   }
+   for(let i=0;i<sides;i++){
+    const angle=i*Math.PI*2/sides;
+    b(g,Math.sin(angle)*r,base+plinth+(h-plinth)/2,Math.cos(angle)*r,.23,h-plinth,.23,'trim');
+   }
+   const rh=t.roofHeight||1.8,profile=[];
+   for(let i=0;i<=12;i++){const a=i/12*Math.PI/2;profile.push(new T.Vector2((r+.2)*Math.cos(a),base+h+rh*Math.sin(a)));}
+   g.add(new T.Mesh(new T.LatheGeometry(profile,16),mats.roof));
+   const finial=new T.Mesh(new T.SphereGeometry(.28,8,6),mats.roof);finial.position.y=base+h+rh+.3;finial.scale.y=1.6;g.add(finial);
+   b(g,0,base+h+rh+.95,0,.07,1.5,.07,'dark');
+   continue;
+  }
   const body=new T.Mesh(new T.CylinderGeometry(r,r,h,t.sides||8),mats[t.wall||'stone']);body.position.y=base+h/2;g.add(body);
-  for(let y=base+3;y<base+h-1;y+=t.storey||3.5){const band=new T.Mesh(new T.CylinderGeometry(r+.14,r+.14,.18,t.sides||8),mats.trim);band.position.y=y;g.add(band);for(let i=0;i<4;i++)window(part(g,Math.sin(i*Math.PI/2)*(r+.04),Math.cos(i*Math.PI/2)*(r+.04),i*Math.PI/2),0,y-1.5,.04,r*.63,1.55);}
+  for(let y=base+3;y<base+h-1;y+=t.storey||3.5){if(t.bands!==false){const band=new T.Mesh(new T.CylinderGeometry(r+.14,r+.14,.18,t.sides||8),mats.trim);band.position.y=y;g.add(band);}for(let i=0;i<4;i++)window(part(g,Math.sin(i*Math.PI/2)*(r+.04),Math.cos(i*Math.PI/2)*(r+.04),i*Math.PI/2),0,y-1.5,.04,t.windowWidth||r*.63,t.windowHeight||1.55);}
   if(t.roofHeight){const cap=new T.Mesh(new T.ConeGeometry(r+.25,t.roofHeight,t.sides||8),mats.roof);cap.position.y=base+h+t.roofHeight/2;g.add(cap)}
  }
  for(const c of spec.columns||[]){const mesh=new T.Mesh(new T.CylinderGeometry(c.radius||.5,c.radius||.5,c.h,12),mats.trim);mesh.position.set(c.x,c.y,c.z);root.add(mesh)}
@@ -87,6 +105,12 @@ export function buildCity32(meta,{material,box,merge}){
  // Individually documented openings, e.g. the six-metre reading-room windows.
  // Keep these separate from the regular floor grid used by ordinary facades.
  for(const a of spec.facadeWindows||[])window(part(root,a.x||0,a.z||0,a.angle||0),0,a.y,.08,a.w,a.h,Boolean(a.arched));
+ for(const a of spec.roundWindows||[]){
+  const g=part(root,a.x||0,a.z||0,a.angle||0),r=a.radius;
+  const disk=new T.Mesh(new T.CircleGeometry(r,24),mats.glass);disk.position.set(0,a.y,.1);g.add(disk);
+  const rim=new T.Mesh(new T.TorusGeometry(r,.10,4,24),mats.trim);rim.position.set(0,a.y,.13);g.add(rim);
+  for(let i=0;i<4;i++){const mull=b(g,0,a.y,.18,.07,r*1.95,.07,'trim');mull.rotation.z=i*Math.PI/4;}
+ }
  for(const a of spec.accents||[])b(root,a.x||0,a.y,a.z||0,a.w,a.h,a.d,a.material||'trim');
  root.rotation.y=meta.angle||0;root.position.set(meta.center[0],.35,-meta.center[1]);
  const result=merge(root);result.name=meta.name;result.userData.landmark=meta.id;return result;

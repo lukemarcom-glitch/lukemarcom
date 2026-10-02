@@ -1,0 +1,51 @@
+{
+  "status": "comparison only, not a measured plan and not applied",
+  "reason": "1930 photograph shows Van Dooren wider than 10 m Cafe De Unie; current residual 8 m cannot be adopted as building width. Passage existing 32 m outer width was explicitly approximate.",
+  "photo": "omgeving-1930.jpg",
+  "photoSource": "https://hdl.handle.net/21.12133/FBD88B00D8C04585899D090B62862FF4",
+  "date": "1930",
+  "author": "Anoniem",
+  "license": "PD-anon-70-EU volgens Commons",
+  "commons": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Coolsingel_met_het_Erasmiaans_Gymnasium,_Caf%C3%A9_de_Unie,_Van_Doorensgesticht,_Passage_en_Bijenkorf_1930.jpg",
+  "cafeWidthReference": {
+    "url": "https://architecture-history.org/books/J.J.P.%20Oud.%20Architect%2C%201890-1963.pdf",
+    "page": "gedrukte p.84",
+    "widthMetres": 10,
+    "certainty": "ongeveer; vermeldt oorspronkelijke bouwkavel en verwijst naar Oud 1925 pp.397–400"
+  },
+  "possiblePassageComparison": {
+    "width": 27.0,
+    "depth": 92,
+    "center": [
+      -245.9221297094851,
+      79.36709642217234
+    ],
+    "polygon": [
+      [
+        -293.83925511029446,
+        77.88416239696741
+      ],
+      [
+        -285.4382559727335,
+        52.224403756428735
+      ],
+      [
+        -198.00500430867572,
+        80.85003044737726
+      ],
+      [
+        -206.4060034462367,
+        106.50978908791595
+      ]
+    ],
+    "note": "Rekenvariant met behouden zuidrand; GEEN definitieve maatvoering. Eerst gevelvlucht en eventuele verspringing aan Van Dooren toetsen. Cafe niet verkleinen: circa 10 m is gedocumenteerd."
+  },
+  "vanDoorenEstimate": {
+    "widthRangeMetres": [
+      11,
+      15
+    ],
+    "confidence": "laag; alleen beeldverhouding, geen opmeting",
+    "note": "Hogere zijmuur boven cafe zichtbaar; gevelvlucht en perspectief beïnvloeden schijnbare breedte. Niet blind dezelfde voorgevellijn aannemen."
+  }
+}

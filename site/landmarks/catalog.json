@@ -278,12 +278,12 @@
     "id": "passage",
     "name": "De Passage",
     "center": [
-      -246.7,
-      81.743
+      -245.9221297094851,
+      79.36709642217234
     ],
     "angle": -1.254395449125985,
     "dimensions": {
-      "width": 32,
+      "width": 27.0,
       "depth": 92
     },
     "height": 25,
@@ -335,6 +335,13 @@
         "role": "achtergrond",
         "supports": "Aanvullend overzicht: Passage (Rotterdam). Gebruik de specifieke beeld- en archiefbronnen voor de historische opname en plaatsing.",
         "checkedAt": "2026-09-28"
+      },
+      {
+        "title": "Stadsarchief · onderlinge gevelverhoudingen Coolsingel 1930",
+        "url": "https://hdl.handle.net/21.12133/FBD88B00D8C04585899D090B62862FF4",
+        "supports": "Zichtbare verhouding Passage, Van Doorengesticht en Café De Unie; helpt geschatte buitenbreedte toetsen. Geen exacte maatvoering.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
       }
     ],
     "placement": {
@@ -358,26 +365,27 @@
     "cameraDistance": 193.20000000000002,
     "polygon": [
       [
-        -295.395,
-        82.636
+        -293.83925511029446,
+        77.88416239696741
       ],
       [
-        -285.438,
-        52.224
+        -285.4382559727335,
+        52.224403756428735
       ],
       [
-        -198.005,
-        80.85
+        -198.00500430867572,
+        80.85003044737726
       ],
       [
-        -207.962,
-        111.262
+        -206.4060034462367,
+        106.50978908791595
       ]
     ],
     "story": "Vanaf 1879 konden Rotterdammers tussen de Korte Hoogstraat en de Coolvest overdekt winkelen. De Passage van Jan Christiaan van Wijk was ongeveer honderd meter lang en kreeg een glazen dak op een hoge gietijzeren constructie. Het idee kwam voort uit de winkelgalerijen van Parijs en Brussel. Achter de ingangen zat veel meer dan een rij etalages: er waren woningen, een hotel, een café en een luxe badinrichting. In de kelder lagen een markt en een bierhuis met aquarium. Daarmee was de Passage tegelijk winkelstraat en uitgaansplek. Het complex ging bij het bombardement van 14 mei 1940 verloren.",
     "wikipedia": "https://nl.wikipedia.org/wiki/Passage_(Rotterdam)",
     "colorNote": "De kleuren van dit proefmodel zijn materiaalinterpretaties. Ze zijn nog niet voor alle gevels en bouwdelen met een oorspronkelijk kleurenbestek bevestigd.",
-    "wikipediaNote": "Aanvullend overzicht. De specifieke herkomst van beelden en informatie staat hierboven bij de bronverwijzingen."
+    "wikipediaNote": "Aanvullend overzicht. De specifieke herkomst van beelden en informatie staat hierboven bij de bronverwijzingen.",
+    "placementNote": "Buitenbreedte circa 27 m (eerder 32 m), opnieuw geschat naar historische kaart en de onderlinge gevelverhoudingen op het Coolsingel-overzicht 1930. Zuidrand behouden; gevelmaat en details niet ingemeten. De correctie laat het bredere Van Doorengesticht naast Café De Unie zien zonder dat zelfstandige modellen elkaar doorsnijden."
   },
   {
     "id": "oude-beurs",
@@ -26065,5 +26073,3304 @@
     "cameraDistance": 105,
     "modelDownload": "landmarks/cafetaria-ruttens/model.glb",
     "wikipediaNote": "Dit artikel gaat over de bredere straat, instelling of gebouwsoort; het is geen volledige bron voor dit specifieke historische pand. Gebruik daarvoor de archiefregistratie en de andere bronnen hierboven."
+  },
+  {
+    "id": "schotse-kerk",
+    "name": "Schotse kerk · Vasteland",
+    "kind": "building",
+    "modelFamily": "city33",
+    "center": [
+      -248.19000664888225,
+      -712.1709346971404
+    ],
+    "angle": -2.8624489284157146,
+    "modelWidth": 28.5,
+    "modelDepth": 25.5,
+    "polygon": [
+      [
+        -230.97855870341382,
+        -720.5010643252093
+      ],
+      [
+        -258.3753727901225,
+        -728.3537439887583
+      ],
+      [
+        -265.4014545943507,
+        -703.8408050690715
+      ],
+      [
+        -238.00464050764194,
+        -695.9881254055225
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        -230.97855870341382,
+        -720.5010643252093
+      ],
+      [
+        -258.3753727901225,
+        -728.3537439887583
+      ],
+      [
+        -265.4014545943507,
+        -703.8408050690715
+      ],
+      [
+        -238.00464050764194,
+        -695.9881254055225
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          -230.97855870341382,
+          -720.5010643252093
+        ],
+        [
+          -258.3753727901225,
+          -728.3537439887583
+        ],
+        [
+          -265.4014545943507,
+          -703.8408050690715
+        ],
+        [
+          -238.00464050764194,
+          -695.9881254055225
+        ]
+      ]
+    ],
+    "backgroundClearance": 3,
+    "height": 25,
+    "cameraDistance": 115,
+    "modelDownload": "landmarks/schotse-kerk/model.glb",
+    "modelSpec": {
+      "colors": {
+        "brick": "#87674e",
+        "stone": "#beb7a7",
+        "trim": "#d3cab6",
+        "roof": "#605e53",
+        "glass": "#435255",
+        "dark": "#373d39"
+      },
+      "parts": [
+        {
+          "x": 0,
+          "z": 0,
+          "w": 11.5,
+          "d": 25.5,
+          "h": 12.5,
+          "roof": "hip",
+          "roofHeight": 5,
+          "windows": false,
+          "wall": "brick"
+        },
+        {
+          "x": 0,
+          "z": -2,
+          "w": 28.5,
+          "d": 10.5,
+          "h": 12.5,
+          "roof": "hip",
+          "roofHeight": 4.5,
+          "windows": false,
+          "wall": "brick"
+        },
+        {
+          "x": -10,
+          "z": 8.5,
+          "w": 8.5,
+          "d": 8.5,
+          "h": 7.8,
+          "roof": "hip",
+          "roofHeight": 5,
+          "windows": false,
+          "wall": "brick"
+        },
+        {
+          "x": 10,
+          "z": 8.5,
+          "w": 8.5,
+          "d": 8.5,
+          "h": 7.8,
+          "roof": "hip",
+          "roofHeight": 5,
+          "windows": false,
+          "wall": "brick"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -3.1,
+          "z": 12.99,
+          "y": 6.4,
+          "w": 2.65,
+          "h": 6.3,
+          "arched": true
+        },
+        {
+          "x": 3.1,
+          "z": 12.99,
+          "y": 6.4,
+          "w": 2.65,
+          "h": 6.3,
+          "arched": true
+        },
+        {
+          "x": -10,
+          "z": 12.99,
+          "y": 2.8,
+          "w": 2.8,
+          "h": 4.5,
+          "arched": true
+        },
+        {
+          "x": 10,
+          "z": 12.99,
+          "y": 2.8,
+          "w": 2.8,
+          "h": 4.5,
+          "arched": true
+        },
+        {
+          "x": -14.3,
+          "z": -4.7,
+          "y": 6.5,
+          "w": 2.5,
+          "h": 6.3,
+          "arched": true,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -14.3,
+          "z": 0.7,
+          "y": 6.5,
+          "w": 2.5,
+          "h": 6.3,
+          "arched": true,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": 14.3,
+          "z": -4.7,
+          "y": 6.5,
+          "w": 2.5,
+          "h": 6.3,
+          "arched": true,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 14.3,
+          "z": 0.7,
+          "y": 6.5,
+          "w": 2.5,
+          "h": 6.3,
+          "arched": true,
+          "angle": 1.5707963267948966
+        }
+      ],
+      "accents": [
+        {
+          "x": 0,
+          "y": 6.25,
+          "z": 12.8,
+          "w": 11.6,
+          "h": 12.5,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 12.5,
+          "z": 12.85,
+          "w": 11.9,
+          "h": 0.35,
+          "d": 0.6
+        },
+        {
+          "x": 0,
+          "y": 12.5,
+          "z": 3.4,
+          "w": 29,
+          "h": 0.35,
+          "d": 0.6
+        },
+        {
+          "x": -10,
+          "y": 7.8,
+          "z": 12.85,
+          "w": 8.8,
+          "h": 0.35,
+          "d": 0.6
+        },
+        {
+          "x": 10,
+          "y": 7.8,
+          "z": 12.85,
+          "w": 8.8,
+          "h": 0.35,
+          "d": 0.6
+        }
+      ],
+      "towers": [
+        {
+          "x": 0,
+          "z": -1,
+          "radius": 1.8,
+          "base": 17,
+          "h": 4.5,
+          "sides": 8,
+          "storey": 3,
+          "roofHeight": 1.8,
+          "lantern": true,
+          "plinthHeight": 0.9
+        }
+      ],
+      "roundWindows": [
+        {
+          "x": 0,
+          "z": 13.03,
+          "y": 10.9,
+          "radius": 1.05
+        },
+        {
+          "x": -14.32,
+          "z": -2,
+          "y": 10.9,
+          "radius": 1.05,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": 14.32,
+          "z": -2,
+          "y": 10.9,
+          "radius": 1.05,
+          "angle": 1.5707963267948966
+        }
+      ]
+    },
+    "frontagePixels4096": [
+      [
+        1599,
+        2265
+      ],
+      [
+        1570,
+        2273
+      ]
+    ],
+    "frontage": [
+      [
+        -237.96197454844832,
+        -695.975896169341
+      ],
+      [
+        -265.4441205535443,
+        -703.853034305253
+      ]
+    ],
+    "periodNote": "Kerkgebouw uit 1697, verwoest in mei 1940. De foto toont de toestand in 1926.",
+    "placementNote": "Zuidzijde Vasteland, westelijke hoek met de verdwenen Herderstraat. Afgeleid van kaart NL-RtSA_4001_1972-755-1 en vergelijking met een stadskaart uit 1865–1870. Geen plaatsing op het huidige kerkadres. De werkgrens is benaderd: circa 15% van deze footprint ligt erbuiten, tot ongeveer vier meter. De verwoeste kerk stond aantoonbaar op deze randlocatie; de historische positie en de bestaande werkgrens zijn daarom niet verschoven.",
+    "uncertaintyMeters": 10,
+    "description": "Schematische reconstructie van de kruisvormige bouwmassa, samengestelde schilddaken, hoge vensters, ronde gevelvensters en open dakruiter met koepel. Ligging en maten zijn benaderingen. Rijke gevelsculptuur, venstertraceringen en niet zichtbare gevels zijn vereenvoudigd; dit is geen exacte opmeting.",
+    "colorNote": "Gedempte materiaalinterpretatie; exacte verf-, baksteen- en dakpankleuren zijn niet bewezen met de zwart-witfoto.",
+    "story": "Aan het Vasteland stond tot 1940 de kerk van de Schotse gemeente. De gemeente ontstond voor Schotten die in Rotterdam leefden en werkten, onder meer in de handel, scheepvaart en het leger. Het gebouw aan de hoek met de Herderstraat was herkenbaar aan de samengestelde daken, de kleine dakruiter en de rijk versierde stenen voorgevel. Op de foto uit 1926 is boven beide ingangen SCOTS CHURCH te lezen.\n\nBij het bombardement in mei 1940 ging deze kerk verloren. Kerkleden konden het archief uit het verwoeste gebouw redden. De huidige Scots International Church staat op een andere locatie: deze reconstructie markeert de oude plek aan het Vasteland.\n\nHet model toont de hoofdvormen bij benadering. De kleuren zijn een interpretatie van materialen; de originele foto blijft het historische bewijs.",
+    "photos": [
+      {
+        "title": "Schotse kerk aan Vasteland en Herderstraat",
+        "date": "1926",
+        "author": "Cornelis Johannes Steenbergh / Rijksdienst voor het Cultureel Erfgoed",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Voorgevel_met_gebeeldhouwd_fronton,_linker_zijgevel_en_koepeltorentje_-_Rotterdam_-_20191633_-_RCE.jpg",
+        "identifier": "RCE 20191633",
+        "src": "landmarks/schotse-kerk/foto-1-origineel.jpg",
+        "ai": "landmarks/schotse-kerk/foto-1-ai.webp",
+        "aiLabel": "AI in kleur",
+        "shortTitle": "Kerk vanaf het Vasteland",
+        "aiNote": "AI-kleurinterpretatie. Kleuren zijn niet gedocumenteerd; reliëfs en kleine letters kunnen afwijken. De bron toont boven beide ingangen SCOTS CHURCH; het kleine rechter opschrift is in deze proef minder betrouwbaar. Bewerking onder CC BY-SA 4.0.",
+        "sourceChecked": "2026-10-02"
+      }
+    ],
+    "sources": [
+      {
+        "title": "RCE · kerkfoto uit 1926, 20191633",
+        "url": "https://commons.wikimedia.org/wiki/File:Voorgevel_met_gebeeldhouwd_fronton,_linker_zijgevel_en_koepeltorentje_-_Rotterdam_-_20191633_-_RCE.jpg",
+        "role": "beeld",
+        "supports": "Voorgevel, zijgevel, dakvormen, dakruiter en opschrift SCOTS CHURCH; maker, datering en beeldlicentie."
+      },
+      {
+        "title": "Scots International Church · Our History",
+        "url": "https://www.scotsintchurch.com/our-ministry/our-history/",
+        "supports": "Ontstaan van de gemeente in 1643, doelgroepen, vernietiging van het vorige gebouw door bombardement in 1940 en herbouw na de oorlog."
+      },
+      {
+        "title": "Open Monumentendag · Scots International Church",
+        "url": "https://omdrotterdam.nl/monument/scots-international-church-rotterdam/",
+        "supports": "Redding van het kerkarchief uit de vernielde kerk aan het Vasteland na het bombardement van 14 mei 1940."
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "role": "kaart",
+        "supports": "Oude ligging Vasteland en Herderstraat en bouwblok vóór mei 1940; geen bewijs voor hoogten of gevelkleuren."
+      },
+      {
+        "title": "Locatievergelijking · historische kaart 1865–1870",
+        "url": "https://humphrysfamilytree.com/Yeats/rotterdam.church.html",
+        "role": "kaart",
+        "supports": "Kaart met de kerk gemarkeerd als nummer 10 aan Vasteland en Herderstraat; alleen ter vergelijking van de locatie."
+      }
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Scots_International_Church",
+    "wikipediaNote": "Aanvullende achtergrond over de gemeente en haar opeenvolgende kerkgebouwen.",
+    "sourceRegister": "landmarks/schotse-kerk/BRONNEN.md",
+    "boundaryReview": {
+      "status": "historical-edge-location",
+      "outsideApproximateBoundarySquareMeters": 109.5,
+      "outsideApproximateBoundaryPercent": 15.07,
+      "reason": "Gedocumenteerde vernietiging van oude kerk aan Vasteland op 14 mei 1940; werkgrens geen geverifieerde brandgrens. Geen geografische uitbreiding naar een nieuwe buurt.",
+      "source": "https://omdrotterdam.nl/monument/scots-international-church-rotterdam/",
+      "reviewedAt": "2026-10-02"
+    }
+  },
+  {
+    "id": "noordzee",
+    "name": "Kantoorgebouw Noordzee",
+    "kind": "building",
+    "modelFamily": "city33",
+    "center": [
+      192.1756108849137,
+      -95.75952179968066
+    ],
+    "angle": 0.33148899958089667,
+    "modelWidth": 12,
+    "modelDepth": 36,
+    "polygon": [
+      [
+        180.64413425922683,
+        -80.69217144099991
+      ],
+      [
+        191.99083979957263,
+        -76.78675553732393
+      ],
+      [
+        203.7070875106006,
+        -110.8268721583614
+      ],
+      [
+        196.8990641863931,
+        -113.170121700567
+      ],
+      [
+        197.22451551169945,
+        -114.11568049559581
+      ],
+      [
+        193.4422803315842,
+        -115.41748579682114
+      ],
+      [
+        193.11682900627784,
+        -114.47192700179232
+      ],
+      [
+        192.3603819702548,
+        -114.73228806203738
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        180.64413425922683,
+        -80.69217144099991
+      ],
+      [
+        191.99083979957263,
+        -76.78675553732393
+      ],
+      [
+        203.7070875106006,
+        -110.8268721583614
+      ],
+      [
+        196.8990641863931,
+        -113.170121700567
+      ],
+      [
+        197.22451551169945,
+        -114.11568049559581
+      ],
+      [
+        193.4422803315842,
+        -115.41748579682114
+      ],
+      [
+        193.11682900627784,
+        -114.47192700179232
+      ],
+      [
+        192.3603819702548,
+        -114.73228806203738
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          180.64413425922683,
+          -80.69217144099991
+        ],
+        [
+          191.99083979957263,
+          -76.78675553732393
+        ],
+        [
+          203.7070875106006,
+          -110.8268721583614
+        ],
+        [
+          196.8990641863931,
+          -113.170121700567
+        ],
+        [
+          197.22451551169945,
+          -114.11568049559581
+        ],
+        [
+          193.4422803315842,
+          -115.41748579682114
+        ],
+        [
+          193.11682900627784,
+          -114.47192700179232
+        ],
+        [
+          192.3603819702548,
+          -114.73228806203738
+        ]
+      ]
+    ],
+    "backgroundClearance": 3,
+    "height": 32,
+    "cameraDistance": 125,
+    "modelDownload": "landmarks/noordzee/model.glb",
+    "modelSpec": {
+      "colors": {
+        "brick": "#936b53",
+        "stone": "#c4bba8",
+        "trim": "#ada694",
+        "roof": "#525653",
+        "glass": "#3f5052",
+        "dark": "#303733"
+      },
+      "parts": [
+        {
+          "x": 0,
+          "z": -4,
+          "w": 12,
+          "d": 28,
+          "h": 21.5,
+          "floors": 5,
+          "bays": 3,
+          "sideBays": 7,
+          "roof": "hip",
+          "roofHeight": 1.2,
+          "groundHeight": 4,
+          "cornice": false,
+          "pilasters": true,
+          "entrance": false,
+          "windowWidth": 1.5
+        },
+        {
+          "x": 0,
+          "z": 14,
+          "w": 12,
+          "d": 8,
+          "h": 25,
+          "floors": 6,
+          "bays": 3,
+          "sideBays": 2,
+          "roof": "flat",
+          "groundHeight": 4,
+          "cornice": false,
+          "pilasters": true,
+          "entrance": false,
+          "windowWidth": 1.5
+        }
+      ],
+      "accents": [
+        {
+          "x": -5.8,
+          "z": 18.18,
+          "y": 13.7,
+          "w": 0.48,
+          "h": 27.4,
+          "d": 0.55,
+          "material": "brick"
+        },
+        {
+          "x": -1,
+          "z": 18.18,
+          "y": 13.7,
+          "w": 0.48,
+          "h": 27.4,
+          "d": 0.55,
+          "material": "brick"
+        },
+        {
+          "x": 2.9,
+          "z": 18.18,
+          "y": 13.7,
+          "w": 0.48,
+          "h": 27.4,
+          "d": 0.55,
+          "material": "brick"
+        },
+        {
+          "x": 5.8,
+          "z": 18.18,
+          "y": 13.7,
+          "w": 0.48,
+          "h": 27.4,
+          "d": 0.55,
+          "material": "brick"
+        },
+        {
+          "x": -6.2,
+          "z": -15,
+          "y": 11.5,
+          "w": 0.48,
+          "h": 23,
+          "d": 0.45,
+          "material": "brick"
+        },
+        {
+          "x": -6.2,
+          "z": -10,
+          "y": 11.5,
+          "w": 0.48,
+          "h": 23,
+          "d": 0.45,
+          "material": "brick"
+        },
+        {
+          "x": -6.2,
+          "z": -5,
+          "y": 11.5,
+          "w": 0.48,
+          "h": 23,
+          "d": 0.45,
+          "material": "brick"
+        },
+        {
+          "x": -6.2,
+          "z": 0,
+          "y": 11.5,
+          "w": 0.48,
+          "h": 23,
+          "d": 0.45,
+          "material": "brick"
+        },
+        {
+          "x": -6.2,
+          "z": 5,
+          "y": 11.5,
+          "w": 0.48,
+          "h": 23,
+          "d": 0.45,
+          "material": "brick"
+        },
+        {
+          "x": -6.2,
+          "z": 9,
+          "y": 11.5,
+          "w": 0.48,
+          "h": 23,
+          "d": 0.45,
+          "material": "brick"
+        },
+        {
+          "x": -6.24,
+          "z": -4,
+          "y": 1.8,
+          "w": 0.12,
+          "h": 3.6,
+          "d": 2,
+          "material": "dark"
+        }
+      ],
+      "towers": [
+        {
+          "x": -3.2,
+          "z": 17,
+          "radius": 1.8,
+          "base": 0,
+          "h": 27.5,
+          "sides": 12,
+          "storey": 4,
+          "wall": "brick",
+          "roofHeight": 1.2,
+          "bands": false,
+          "windowHeight": 2.8,
+          "windowWidth": 0.9
+        },
+        {
+          "x": -3.2,
+          "z": 13.6,
+          "radius": 2.4,
+          "base": 24,
+          "h": 6.5,
+          "sides": 8,
+          "storey": 3.5,
+          "wall": "brick",
+          "roofHeight": 1.4,
+          "bands": false,
+          "windowHeight": 2.5,
+          "windowWidth": 0.8
+        }
+      ]
+    },
+    "frontagePixels4096": [
+      [
+        2054,
+        1657
+      ],
+      [
+        2069,
+        1652
+      ]
+    ],
+    "frontage": [
+      [
+        190.9283335430589,
+        -115.22518396759506
+      ],
+      [
+        205.13913593779648,
+        -110.33397625280372
+      ]
+    ],
+    "uncertaintyMeters": 7,
+    "placementNote": "Noordoostelijke hoek van Wijnhaven en Korte Wijnbrugstraat, tegenover de bestaande westelijke straatwand. Gevelrichting afgelezen van de historische kaart; bouwmassa circa 12 × 36 m volgens architectuurbeschrijving. Geen moderne adresgeocodering.",
+    "periodNote": "Gebouwd in 1919; onherstelbaar beschadigd bij het bombardement van mei 1940. Bronfoto ongedateerd, vóór de verwoesting.",
+    "description": "Schematische reconstructie van de smalle hoge havengevel, lange straatvleugel, verticale baksteenaccenten en afgeronde torenmassa. Hoogten en details zijn schattingen naar foto en ontwerptekening; geen ingemeten model. Achtergevel en fijne sculptuur vereenvoudigd.",
+    "colorNote": "Handgevormde baksteen gedocumenteerd. Roodbruine vlakken komen voor op Kromhouts gekleurde ontwerptekening uit 1917, maar bewijzen de uitgevoerde tint niet. Kozijnen, dak en natuursteen zijn gedempte materiaalinterpretaties.",
+    "story": "Aan de Wijnhaven stond vanaf 1919 een opvallend hoog en smal kantoorgebouw: De Noordzee. Willem Kromhout ontwierp het voor het scheepvaartkantoor F. en W. van Dam. De verticale baksteenaccenten en torenachtige hoek maakten het herkenbaar tussen de oudere havenpanden.\n\nHet gebouw was ongeveer 36 meter lang en 12 meter breed. De ingang lag niet aan de haven, maar in de lange gevel aan de Korte Wijnbrugstraat. Vanuit de Wijnhaven keek je dus tegen de korte, hoge kop aan. Het model staat aan de oostzijde van die straat; de bestaande straatwand ertegenover blijft afzonderlijk zichtbaar.\n\nBij het bombardement van mei 1940 raakte Noordzee onherstelbaar beschadigd. Een opname van het verwoeste centrum toont het overgebleven karkas. De reconstructie brengt de hoofdvormen terug, met expliciet geschatte hoogten en kleuren.",
+    "photos": [
+      {
+        "title": "Noordzee aan de Wijnhaven, met Grote Wijnbrug",
+        "date": "Ongedateerd, vóór mei 1940",
+        "author": "Fotograaf onbekend / Rijksdienst voor het Cultureel Erfgoed",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Gevel_van_kantoorgebouw_van_de_architect_Willem_Kromhout_met_brug_en_water_op_de_voorgrond_-_Rotterdam_-_20415891_-_RCE.jpg",
+        "identifier": "RCE 20415891",
+        "src": "landmarks/noordzee/foto-1-origineel.jpg",
+        "ai": "landmarks/noordzee/foto-1-ai.webp",
+        "shortTitle": "Havengevel en brug",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie, geen authentieke kleurenfoto. Materiaalkleuren zijn benaderingen; kleine opschriften, personen en details kunnen afwijken. Bewerking onder CC BY-SA 4.0.",
+        "sourceChecked": "2026-10-02"
+      }
+    ],
+    "sources": [
+      {
+        "title": "RCE · gevel met brug en water, 20415891",
+        "url": "https://commons.wikimedia.org/wiki/File:Gevel_van_kantoorgebouw_van_de_architect_Willem_Kromhout_met_brug_en_water_op_de_voorgrond_-_Rotterdam_-_20415891_-_RCE.jpg",
+        "role": "beeld",
+        "supports": "Zichtbare architectuur, raamritme, torenmassa, brug en omgeving; RCE-herkomst en CC BY-SA 4.0. Opnamedatum en fotograaf onbekend."
+      },
+      {
+        "title": "Architectuurbeschrijving · De Noordzee 1919–1940",
+        "url": "https://nieuws.top010.nl/gebouw-de-noordzee-1919-1940.htm",
+        "supports": "Architect Kromhout, opdrachtgever F. en W. van Dam, bouwjaar 1919, omvang 36 × 12 meter, handgevormde baksteen, ingang aan Korte Wijnbrugstraat en onherstelbare schade in mei 1940."
+      },
+      {
+        "title": "Het Nieuwe Instituut · gekleurd ontwerp KROM_59-12",
+        "url": "https://commons.wikimedia.org/wiki/File:Gekleurde_tekening_van_het_ontwerp_van_het_kantoorpand_van_Noordzee.jpg",
+        "supports": "Ontwerptekening uit project KROM59, 1917: lange gevel, toren en baksteenkleurindicatie. Ontwerp is niet automatisch de uitgevoerde toestand; 2010 is reproductiedatum."
+      },
+      {
+        "title": "Stadsarchief · karkas van Noordzee na het bombardement",
+        "url": "https://hdl.handle.net/21.12133/E3AF2DCCB5CE4F409B96393E37B337B8",
+        "supports": "Archiefopname gedateerd 1940–1941 van door het bombardement van 14 mei 1940 verwoeste huizen met het karkas van Noordzee."
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "role": "kaart",
+        "supports": "Straathoek, gevelrichting en bouwblok vóór mei 1940. Latere kaartuitgave; geen hoogte- of kleurbewijs."
+      }
+    ],
+    "wikipedia": "https://nl.wikipedia.org/wiki/Kantoorgebouw_De_Noordzee",
+    "wikipediaNote": "Aanvullende achtergrond; specifieke beeld- en tekstbronnen staan hierboven.",
+    "sourceRegister": "landmarks/noordzee/BRONNEN.md"
+  },
+  {
+    "id": "nijgh-van-ditmar",
+    "name": "Nijgh & Van Ditmar · Wijnhaven",
+    "kind": "building",
+    "modelFamily": "city33",
+    "center": [
+      99.30406296125678,
+      -124.47144682883646
+    ],
+    "angle": 0.2882361531327996,
+    "modelWidth": 13,
+    "modelDepth": 38,
+    "polygon": [
+      [
+        87.67123888923558,
+        -108.10295868516832
+      ],
+      [
+        100.13494677658045,
+        -104.40755807103497
+      ],
+      [
+        110.93688703327797,
+        -140.8399349725046
+      ],
+      [
+        98.4731791459331,
+        -144.53533558663796
+      ]
+    ],
+    "exclusionPolygon": [
+      [
+        87.67123888923558,
+        -108.10295868516832
+      ],
+      [
+        100.13494677658045,
+        -104.40755807103497
+      ],
+      [
+        110.93688703327797,
+        -140.8399349725046
+      ],
+      [
+        98.4731791459331,
+        -144.53533558663796
+      ]
+    ],
+    "footprints": [
+      [
+        [
+          87.67123888923558,
+          -108.10295868516832
+        ],
+        [
+          100.13494677658045,
+          -104.40755807103497
+        ],
+        [
+          110.93688703327797,
+          -140.8399349725046
+        ],
+        [
+          98.4731791459331,
+          -144.53533558663796
+        ]
+      ]
+    ],
+    "backgroundClearance": 3,
+    "height": 21.5,
+    "cameraDistance": 120,
+    "modelDownload": "landmarks/nijgh-van-ditmar/model.glb",
+    "modelSpec": {
+      "colors": {
+        "brick": "#907b64",
+        "stone": "#c4bba6",
+        "trim": "#d2c9b6",
+        "roof": "#575b57",
+        "glass": "#435559",
+        "dark": "#333c39"
+      },
+      "parts": [
+        {
+          "x": 0,
+          "z": 0,
+          "w": 13,
+          "d": 38,
+          "h": 16.5,
+          "windows": false,
+          "roof": "flat"
+        },
+        {
+          "x": 0,
+          "z": 14,
+          "w": 13,
+          "d": 10,
+          "h": 0.1,
+          "base": 16.5,
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 4.6
+        },
+        {
+          "x": -3.4,
+          "z": 17.4,
+          "w": 2.1,
+          "d": 1.6,
+          "h": 2,
+          "base": 17.5,
+          "windows": false,
+          "roof": "gable",
+          "roofHeight": 0.8,
+          "wall": "stone"
+        },
+        {
+          "x": 3.4,
+          "z": 17.4,
+          "w": 2.1,
+          "d": 1.6,
+          "h": 2,
+          "base": 17.5,
+          "windows": false,
+          "roof": "gable",
+          "roofHeight": 0.8,
+          "wall": "stone"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -3.1,
+          "z": 19.06,
+          "y": 6.3,
+          "w": 4.0,
+          "h": 2.9
+        },
+        {
+          "x": 3.1,
+          "z": 19.06,
+          "y": 6.3,
+          "w": 4.0,
+          "h": 2.9
+        },
+        {
+          "x": -3.1,
+          "z": 19.06,
+          "y": 10.2,
+          "w": 4.0,
+          "h": 2.9
+        },
+        {
+          "x": 3.1,
+          "z": 19.06,
+          "y": 10.2,
+          "w": 4.0,
+          "h": 2.9
+        },
+        {
+          "x": -3.1,
+          "z": 19.06,
+          "y": 14.1,
+          "w": 4.0,
+          "h": 2.9
+        },
+        {
+          "x": 3.1,
+          "z": 19.06,
+          "y": 14.1,
+          "w": 4.0,
+          "h": 2.9
+        },
+        {
+          "x": -5,
+          "z": 19.06,
+          "y": 2,
+          "w": 1.25,
+          "h": 2.8
+        },
+        {
+          "x": -3.2,
+          "z": 19.06,
+          "y": 2,
+          "w": 1.25,
+          "h": 2.8
+        },
+        {
+          "x": -1.4,
+          "z": 19.06,
+          "y": 2,
+          "w": 1.25,
+          "h": 2.8
+        },
+        {
+          "x": 3.2,
+          "z": 19.06,
+          "y": 2,
+          "w": 1.25,
+          "h": 2.8
+        },
+        {
+          "x": 5,
+          "z": 19.06,
+          "y": 2,
+          "w": 1.25,
+          "h": 2.8
+        },
+        {
+          "x": -6.53,
+          "z": -16,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -12.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -9,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -5.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -2,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 1.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 8.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 12,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 15.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -16,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -12.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -9,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -5.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -2,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 1.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 8.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 12,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 15.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -16,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -12.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -9,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -5.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -2,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 1.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 8.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 12,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 15.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -16,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -12.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -9,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -5.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": -2,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 1.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 8.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 12,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -6.53,
+          "z": 15.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -16,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -12.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -9,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -5.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -2,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 1.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 8.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 12,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 15.5,
+          "y": 2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -16,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -12.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -9,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -5.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -2,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 1.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 8.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 12,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 15.5,
+          "y": 6.3,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -16,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -12.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -9,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -5.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -2,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 1.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 8.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 12,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 15.5,
+          "y": 10.2,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -16,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -12.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -9,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -5.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": -2,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 1.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 8.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 12,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 6.53,
+          "z": 15.5,
+          "y": 14.1,
+          "w": 1.2,
+          "h": 2.5,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": -3.4,
+          "z": 18.25,
+          "y": 18.55,
+          "w": 1.5,
+          "h": 1.65
+        },
+        {
+          "x": 3.4,
+          "z": 18.25,
+          "y": 18.55,
+          "w": 1.5,
+          "h": 1.65
+        }
+      ],
+      "accents": [
+        {
+          "x": 0,
+          "z": 19.1,
+          "y": 0.2,
+          "w": 13.15,
+          "h": 0.35,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": 19.1,
+          "y": 4.25,
+          "w": 13.15,
+          "h": 0.35,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": 19.1,
+          "y": 8.25,
+          "w": 13.15,
+          "h": 0.35,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": 19.1,
+          "y": 12.2,
+          "w": 13.15,
+          "h": 0.35,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": 19.1,
+          "y": 16.4,
+          "w": 13.15,
+          "h": 0.35,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": -6.2,
+          "z": 19.05,
+          "y": 8.25,
+          "w": 0.7,
+          "h": 16.5,
+          "d": 0.28,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": 19.05,
+          "y": 8.25,
+          "w": 0.7,
+          "h": 16.5,
+          "d": 0.28,
+          "material": "stone"
+        },
+        {
+          "x": 6.2,
+          "z": 19.05,
+          "y": 8.25,
+          "w": 0.7,
+          "h": 16.5,
+          "d": 0.28,
+          "material": "stone"
+        },
+        {
+          "x": 1.25,
+          "z": 19.15,
+          "y": 1.8,
+          "w": 1.15,
+          "h": 3.6,
+          "d": 0.15,
+          "material": "dark"
+        }
+      ]
+    },
+    "frontagePixels4096": [
+      [
+        1956,
+        1687
+      ],
+      [
+        1970,
+        1683
+      ]
+    ],
+    "frontage": [
+      [
+        98.07173969700739,
+        -144.65435952393705
+      ],
+      [
+        111.33832648220368,
+        -140.72091103520552
+      ]
+    ],
+    "uncertaintyMeters": 8,
+    "periodNote": "Uitgeverij aan Wijnhaven 113, gefotografeerd in 1933; verwoest bij het bombardement van 14 mei 1940.",
+    "placementNote": "Noordzijde Wijnhaven, direct ten oosten van de Bezemmakerssteeg. Gevelrichting en perceel uit historische kaart; steeg herkend naast het pand op foto 189-0321. Niet gebaseerd op het huidige huisnummer.",
+    "description": "Schematische reconstructie van de vier bouwlagen, brede gekoppelde voorramen, lange zijgevel en voorste kap met twee dakkapellen. Afmetingen circa 13 × 38 m en hoogte circa 21,5 m afgeleid van kaart en foto; geen opmeting. Achterste dak en niet-zichtbare gevel vereenvoudigd.",
+    "colorNote": "Bleke steenbanden, gedempte baksteen en grijs dak als materiaalinterpretatie. Exacte verf- en steenkleuren zijn niet met een historische kleurbron bevestigd.",
+    "story": "Aan Wijnhaven 113 werkte uitgeverij Nijgh & Van Ditmar tussen de schepen, pakhuizen en kantoren. De foto van Willem van de Poll uit 1933 laat de bedrijfsnaam op de gevel zien, met daarnaast UITGEVERS MIJ. Het brede front kijkt uit over de haven; langs de Bezemmakerssteeg loopt de veel langere zijgevel.\n\nDit adres hoort ook bij de Nederlandse literatuurgeschiedenis. Het colofon van het tijdschrift Forum uit 1932 vermeldt Wijnhaven 113 als adres van het redactiesecretariaat. Zo verbindt een gewoon kantoorpand aan het water de Rotterdamse haven met het literaire leven van het interbellum.\n\nHet pand werd getroffen door het bombardement van 14 mei 1940. Een latere archiefopname laat puinruimers in de resten van de uitgeverij zien. Het model brengt de zichtbare hoofdvormen terug; maten en kleuren blijven benaderingen.",
+    "photos": [
+      {
+        "title": "Nijgh & Van Ditmar vanaf de Wijnhaven",
+        "date": "1933",
+        "author": "Willem van de Poll / Nationaal Archief",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_pand_van_Uitgeverij_Nijgh_en_Van_Ditmar_aan_de_Wijnhaven_te_Rotterdam,_Bestanddeelnr_189-0321.jpg",
+        "archiveUrl": "https://proxy.handle.net/10648/ae996770-d0b4-102d-bcf8-003048976d84",
+        "identifier": "189-0321 · toegang 2.24.14.02",
+        "src": "landmarks/nijgh-van-ditmar/foto-1-origineel.jpg",
+        "ai": "landmarks/nijgh-van-ditmar/foto-1-ai.webp",
+        "shortTitle": "Gevel en haven",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie. Hoofdwoorden NIJGH & VAN DITMAR en UITGEVERS MIJ gericht gecontroleerd en hersteld; kleine toevoegingen en raamteksten kunnen afwijken. Zie ook de tweede oorspronkelijke opname voor de verhoogde eindletter S. Kleuren niet historisch bewezen.",
+        "sourceChecked": "2026-10-02"
+      },
+      {
+        "title": "Nijgh & Van Ditmar, gevel vanaf de straathoek",
+        "date": "1933",
+        "author": "Willem van de Poll / Nationaal Archief",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_pand_van_Uitgeverij_Nijgh_en_Van_Ditmar_aan_de_Wijnhaven_te_Rotterdam,_Bestanddeelnr_189-0322.jpg",
+        "archiveUrl": "https://proxy.handle.net/10648/ae996838-d0b4-102d-bcf8-003048976d84",
+        "identifier": "189-0322 · toegang 2.24.14.02",
+        "src": "landmarks/nijgh-van-ditmar/foto-2-origineel.jpg",
+        "ai": "landmarks/nijgh-van-ditmar/foto-2-ai.webp",
+        "shortTitle": "Gevel dichtbij",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie. Hoofdtekst NIJGH & VAN DITMAR’S / UITGEVERS MIJ vooraf gelezen en in prompt vastgelegd. Kleine straatnaambordjes en fijne details zijn minder betrouwbaar; raadpleeg daarvoor het origineel. Kleuren niet historisch bewezen.",
+        "sourceChecked": "2026-10-02"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nationaal Archief · Willem van de Poll, 189-0321",
+        "url": "https://proxy.handle.net/10648/ae996770-d0b4-102d-bcf8-003048976d84",
+        "role": "beeld",
+        "supports": "Gevel, zijgevel aan de steeg, opschriften, omgeving en fotodatering 1933."
+      },
+      {
+        "title": "Fotometadata en CC0-licentie",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_pand_van_Uitgeverij_Nijgh_en_Van_Ditmar_aan_de_Wijnhaven_te_Rotterdam,_Bestanddeelnr_189-0321.jpg",
+        "role": "beeld",
+        "supports": "Maker Willem van de Poll, collectie Nationaal Archief, inventaris 2.24.14.02 en CC0-licentie."
+      },
+      {
+        "title": "Nationaal Archief · geveldetail, 189-0322",
+        "url": "https://proxy.handle.net/10648/ae996838-d0b4-102d-bcf8-003048976d84",
+        "role": "beeld",
+        "supports": "Tweede opname door Willem van de Poll uit 1933, met vensters, dakkapellen, geveltekst en straathoek; CC0."
+      },
+      {
+        "title": "Forum 1932 · oorspronkelijk colofon",
+        "url": "https://www.dbnl.org/tekst/_for003193201_01/colofon.php",
+        "supports": "Wijnhaven 113, Rotterdam als adres van het redactiesecretariaat van Forum en Nijgh & Van Ditmar als uitgever."
+      },
+      {
+        "title": "Antoon Coolen · De bevrijding van Nederland (1946)",
+        "url": "https://www.dbnl.org/tekst/cool004bevr01_01/cool004bevr01_01_0002.php",
+        "supports": "Herinnering aan de verwoesting van Rotterdam en uitgeverij Nijgh & Van Ditmar."
+      },
+      {
+        "title": "Stadsarchief · puinruimen bij Nijgh & Van Ditmar, 1980-5136",
+        "url": "https://hdl.handle.net/21.12133/44226AA9B4334A1D81AA9AEDE6A37757",
+        "supports": "Record 1980-5136: puinruimers in het door het bombardement van 14 mei 1940 getroffen pand Wijnhaven 113. Foto H.F. Grimeijer, juni–december 1940."
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "role": "kaart",
+        "supports": "Oude straat- en perceelsligging; geen hoogte- of kleurbewijs."
+      }
+    ],
+    "wikipedia": "https://nl.wikipedia.org/wiki/Nijgh_%26_Van_Ditmar",
+    "wikipediaNote": "Aanvullende geschiedenis van de uitgeverij; specifieke pandbronnen hierboven.",
+    "sourceRegister": "landmarks/nijgh-van-ditmar/BRONNEN.md"
+  },
+  {
+    "id": "van-dooren",
+    "name": "Van Doorengesticht",
+    "modelFamily": "city33",
+    "center": [
+      -285.7818040640367,
+      87.49419407167709
+    ],
+    "angle": -1.28,
+    "modelWidth": 12,
+    "modelDepth": 21,
+    "height": 25,
+    "cameraDistance": 83,
+    "colorNote": "Gedempte baksteen, lichte natuursteen en grijze dakbedekking als materiaalinterpretatie; geen bevestigd kleurenbestek.",
+    "modelSpec": {
+      "colors": {
+        "brick": "#917158",
+        "stone": "#b7ae99",
+        "trim": "#d1c7b0",
+        "roof": "#555b5b",
+        "glass": "#475b5f",
+        "dark": "#393a34"
+      },
+      "parts": [
+        {
+          "w": 12.0,
+          "d": 21,
+          "h": 19,
+          "windows": false,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 4.3
+        },
+        {
+          "w": 12.018461538461539,
+          "d": 0.32,
+          "h": 4.8,
+          "z": 10.56,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none"
+        },
+        {
+          "w": 2.769230769230769,
+          "d": 0.7,
+          "h": 4.0,
+          "x": 0.0,
+          "z": 10.76,
+          "base": 5.25,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none"
+        },
+        {
+          "w": 7.107692307692308,
+          "d": 0.24,
+          "h": 0.17,
+          "base": 19.18,
+          "z": 10.63,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "w": 1.2461538461538464,
+          "d": 1.5,
+          "h": 1.65,
+          "base": 19.45,
+          "x": -4.107692307692308,
+          "z": 9.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.55
+        },
+        {
+          "w": 0.9230769230769231,
+          "d": 1.0,
+          "h": 1.0,
+          "base": 19.95,
+          "x": 2.307692307692308,
+          "z": 8.55,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.5
+        },
+        {
+          "w": 1.2461538461538464,
+          "d": 1.5,
+          "h": 1.65,
+          "base": 19.45,
+          "x": 4.107692307692308,
+          "z": 9.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.55
+        },
+        {
+          "x": -4.476923076923077,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 13.85,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": -4.476923076923077,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 18.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": -2.233846153846154,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 13.85,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": -2.233846153846154,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 18.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": 0.0,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 13.85,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": 0.0,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 18.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": 2.233846153846154,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 13.85,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": 2.233846153846154,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 18.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": 4.476923076923077,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 13.85,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        },
+        {
+          "x": 4.476923076923077,
+          "z": 10.85,
+          "w": 1.6615384615384616,
+          "d": 0.16,
+          "h": 0.13,
+          "base": 18.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "none",
+          "pediment": 1
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -4.476923076923077,
+          "y": 7.35,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": -2.233846153846154,
+          "y": 7.35,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": 0.0,
+          "y": 7.35,
+          "z": 11.14,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": 2.233846153846154,
+          "y": 7.35,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": 4.476923076923077,
+          "y": 7.35,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": -4.476923076923077,
+          "y": 12.0,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.4
+        },
+        {
+          "x": -2.233846153846154,
+          "y": 12.0,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.4
+        },
+        {
+          "x": 0.0,
+          "y": 12.0,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.4
+        },
+        {
+          "x": 2.233846153846154,
+          "y": 12.0,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.4
+        },
+        {
+          "x": 4.476923076923077,
+          "y": 12.0,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.4
+        },
+        {
+          "x": -4.476923076923077,
+          "y": 16.6,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": -2.233846153846154,
+          "y": 16.6,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": 0.0,
+          "y": 16.6,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": 2.233846153846154,
+          "y": 16.6,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": 4.476923076923077,
+          "y": 16.6,
+          "z": 10.74,
+          "w": 1.3107692307692307,
+          "h": 3.3
+        },
+        {
+          "x": -4.246153846153846,
+          "y": 2.55,
+          "z": 10.79,
+          "w": 1.3846153846153846,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": 0.0,
+          "y": 2.45,
+          "z": 10.79,
+          "w": 1.523076923076923,
+          "h": 4.0,
+          "arched": true
+        },
+        {
+          "x": 2.261538461538462,
+          "y": 2.7,
+          "z": 10.79,
+          "w": 1.3384615384615386,
+          "h": 3.4,
+          "arched": true
+        },
+        {
+          "x": 4.430769230769231,
+          "y": 1.85,
+          "z": 10.79,
+          "w": 1.2923076923076924,
+          "h": 3.25,
+          "arched": true
+        },
+        {
+          "x": -4.107692307692308,
+          "y": 20.25,
+          "z": 10.15,
+          "w": 0.7846153846153846,
+          "h": 1.2,
+          "arched": true
+        },
+        {
+          "x": 2.307692307692308,
+          "y": 20.45,
+          "z": 9.08,
+          "w": 0.6000000000000001,
+          "h": 0.75,
+          "arched": true
+        },
+        {
+          "x": 4.107692307692308,
+          "y": 20.25,
+          "z": 10.15,
+          "w": 0.7846153846153846,
+          "h": 1.2,
+          "arched": true
+        }
+      ],
+      "accents": [
+        {
+          "x": 0.0,
+          "y": 4.85,
+          "z": 10.72,
+          "w": 12.184615384615384,
+          "h": 0.2,
+          "d": 0.45,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 5.3,
+          "z": 10.72,
+          "w": 12.184615384615384,
+          "h": 0.2,
+          "d": 0.45,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 9.65,
+          "z": 10.72,
+          "w": 12.184615384615384,
+          "h": 0.2,
+          "d": 0.45,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 14.1,
+          "z": 10.72,
+          "w": 12.184615384615384,
+          "h": 0.2,
+          "d": 0.45,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 18.6,
+          "z": 10.72,
+          "w": 12.184615384615384,
+          "h": 0.2,
+          "d": 0.45,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 19.05,
+          "z": 10.72,
+          "w": 12.184615384615384,
+          "h": 0.2,
+          "d": 0.45,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 5.8,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 6.6499999999999995,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 7.5,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 8.35,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 9.2,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 10.05,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 10.899999999999999,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 11.75,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 12.6,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 13.45,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 14.3,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 15.149999999999999,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 16.0,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 16.849999999999998,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -5.861538461538461,
+          "y": 17.7,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 5.8,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 6.6499999999999995,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 7.5,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 8.35,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 9.2,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 10.05,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 10.899999999999999,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 11.75,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 12.6,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 13.45,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 14.3,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 15.149999999999999,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 16.0,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 16.849999999999998,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": 5.861538461538461,
+          "y": 17.7,
+          "z": 10.68,
+          "w": 0.4430769230769231,
+          "h": 0.44,
+          "d": 0.26,
+          "material": "trim"
+        },
+        {
+          "x": -4.476923076923077,
+          "y": 9.5,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": -4.476923076923077,
+          "y": 13.9,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": -2.233846153846154,
+          "y": 9.5,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": -2.233846153846154,
+          "y": 13.9,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 0.0,
+          "y": 9.5,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 0.0,
+          "y": 13.9,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 2.233846153846154,
+          "y": 9.5,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 2.233846153846154,
+          "y": 13.9,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 4.476923076923077,
+          "y": 9.5,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 4.476923076923077,
+          "y": 13.9,
+          "z": 10.78,
+          "w": 1.5692307692307692,
+          "h": 0.42,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 0.0,
+          "y": 10,
+          "z": 11.05,
+          "w": 3.230769230769231,
+          "h": 0.28,
+          "d": 1.1,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 10.95,
+          "z": 11.55,
+          "w": 3.230769230769231,
+          "h": 0.18,
+          "d": 0.25,
+          "material": "trim"
+        },
+        {
+          "x": -1.476923076923077,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": -1.1076923076923078,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": -0.7384615384615385,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": -0.36923076923076925,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": 0.36923076923076925,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": 0.7384615384615385,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": 1.1076923076923078,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": 1.476923076923077,
+          "y": 10.48,
+          "z": 11.55,
+          "w": 0.10153846153846155,
+          "h": 0.82,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": -5.538461538461538,
+          "y": 23,
+          "z": 0,
+          "w": 0.5076923076923078,
+          "h": 3.0,
+          "d": 0.7,
+          "material": "brick"
+        },
+        {
+          "x": -5.538461538461538,
+          "y": 24.5,
+          "z": 0,
+          "w": 0.7384615384615385,
+          "h": 0.2,
+          "d": 0.95,
+          "material": "stone"
+        },
+        {
+          "x": 5.538461538461538,
+          "y": 23,
+          "z": 0,
+          "w": 0.5076923076923078,
+          "h": 3.0,
+          "d": 0.7,
+          "material": "brick"
+        },
+        {
+          "x": 5.538461538461538,
+          "y": 24.5,
+          "z": 0,
+          "w": 0.7384615384615385,
+          "h": 0.2,
+          "d": 0.95,
+          "material": "stone"
+        },
+        {
+          "x": 0.0,
+          "y": 23.55,
+          "z": 0,
+          "w": 11.538461538461538,
+          "h": 0.13,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": -5.538461538461538,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": -4.615384615384616,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": -3.6923076923076925,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": -2.769230769230769,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": -1.8461538461538463,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": -0.9230769230769231,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 0.9230769230769231,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 1.8461538461538463,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 2.769230769230769,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 3.6923076923076925,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 4.615384615384616,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 5.538461538461538,
+          "y": 23.29,
+          "z": 0,
+          "w": 0.11076923076923077,
+          "h": 0.5,
+          "d": 0.13,
+          "material": "trim"
+        },
+        {
+          "x": 0.0,
+          "y": 1.94,
+          "z": 10.97,
+          "w": 1.4215384615384616,
+          "h": 3.0,
+          "d": 0.05,
+          "material": "dark"
+        },
+        {
+          "x": 4.430769230769231,
+          "y": 1.46,
+          "z": 10.97,
+          "w": 1.2000000000000002,
+          "h": 2.28,
+          "d": 0.05,
+          "material": "dark"
+        }
+      ]
+    },
+    "backgroundClearance": 2,
+    "polygon": [
+      [
+        -294.46577191352236,
+        78.31916260638505
+      ],
+      [
+        -273.6289269522317,
+        84.55521841588009
+      ],
+      [
+        -277.2415385935944,
+        96.62621825552432
+      ],
+      [
+        -298.078383554885,
+        90.3901624460293
+      ],
+      [
+        -296.80250087202285,
+        86.12699186774223
+      ],
+      [
+        -297.5689135602542,
+        85.89761970003667
+      ],
+      [
+        -296.50806728461595,
+        82.35296101696655
+      ],
+      [
+        -295.7416545963846,
+        82.58233318467211
+      ]
+    ],
+    "description": "Coolsingel, tussen Café De Unie en de Passage. Liefdadigheidsinstelling met rijk versierde gevel, erker en balkon. Schematische reconstructie naar de opname uit 1908–1909 en een stadsbeeld uit 1930.",
+    "periodNote": "De foto dateert uit 1908–1909; de hoofdgevel is ook herkenbaar op een overzicht uit 1930. Exact bouwjaar niet vastgesteld. Bij het bombardement van mei 1940 ging het pand verloren.",
+    "placementNote": "Positie in het bouwblok tussen Café De Unie en Passage naar historische centrumkaart en overzicht 1930. Breedte circa 12 m, diepte 21 m en hoogte 25 m zijn schattingen; geen kadastrale opmeting. De eerder geschatte Passage-breedte is hierbij opnieuw geïnterpreteerd. Achtergevel en binnenindeling onbekend.",
+    "story": "Maria Catharina van Dooren liet een groot deel van haar vermogen na om arme Rotterdammers te helpen. Na haar overlijden in 1832 zetten zes ongehuwde katholieke vrouwen dit werk voort vanuit het Vrouwengesticht van Weldadigheid. Zij deelden onder meer brandstof, kleding en voedsel uit. Het begon aan de Korte Hoogstraat; later kreeg de instelling een opvallend gebouw aan de Coolvest, de latere Coolsingel. De lange naam stond over vrijwel de hele gevel geschreven. Op de foto zijn ook de erker, het balkon en het gebeeldhouwde fronton te zien. In 1925 verscheen het moderne Café De Unie naast deze veel uitbundiger gevel. Het contrast tussen beide gebouwen is goed zichtbaar op de overzichtsfoto uit 1930. Het Van Doorengesticht ging in mei 1940 verloren, maar het liefdadigheidswerk hield niet op. In 1974 ging de stichting op in een samenwerkingsverband met twee andere Rotterdamse fondsen. Het 3D-model benadert de buitenkant: precieze maten, kleuren en verborgen bouwdelen zijn niet volledig gedocumenteerd.",
+    "photos": [
+      {
+        "src": "landmarks/van-dooren/foto-1-origineel.jpg",
+        "ai": "landmarks/van-dooren/foto-1-ai.webp",
+        "title": "Voorgevel aan de Coolvest · 1908–1909",
+        "shortTitle": "De hele gevel",
+        "date": "1908–1909",
+        "author": "Willem Johannes Kuipers (W.J. Kuipers & Co.)",
+        "identifier": "Museum Rotterdam 16698",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Foto_van_het_Maria_Catharina_van_Dooren%E2%80%99s_Vrouwengesticht_van_Weldadigheid,_objectnr_16698.JPG",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiLicense": "CC BY-SA 3.0 · AI-bewerking van Museum Rotterdam 16698",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "aiNote": "AI-kleurinterpretatie, geen authentieke kleurenfoto. De volledige gevelnaam is in de prompt opgenomen en gecontroleerd. Kleuren, kleine personen, sierdetails en onleesbare bordjes blijven interpretaties. Het ongewijzigde origineel staat ernaast."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Museum Rotterdam · Maria Catharina van Dooren",
+        "url": "https://museumrotterdam.nl/verhalen/rotterdamse-vrouwen-die-het-hebben-gemaakt/maria-catharina-van-dooren/",
+        "supports": "Nalatenschap, armenzorg met zes stichtvrouwen, oorspronkelijke vestiging Korte Hoogstraat, hulp in natura en samengaan van fondsen in 1974.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Museum Rotterdam 16698 · oorspronkelijke gevelopname",
+        "url": "https://commons.wikimedia.org/wiki/File:Foto_van_het_Maria_Catharina_van_Dooren%E2%80%99s_Vrouwengesticht_van_Weldadigheid,_objectnr_16698.JPG",
+        "supports": "Foto W.J. Kuipers 1908–1909, gevelvorm en opschrift. Bestandsregistratie vermeldt Museum Rotterdam en CC BY-SA 3.0. Geen bewijs van exacte kleuren.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · Coolsingel met De Unie en Van Dooren, 1930",
+        "url": "https://hdl.handle.net/21.12133/FBD88B00D8C04585899D090B62862FF4",
+        "supports": "Onderlinge volgorde en gevelverhoudingen van Gymnasium, Café De Unie, Van Doorengesticht en Passage in 1930.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · verwoeste omgeving Coolsingel, juni 1940",
+        "url": "https://hdl.handle.net/21.12133/D5774761E13C4056A710BC5CBA8F78A9",
+        "supports": "Verwoesting van het bouwblok bij de Passage na het bombardement van 14 mei 1940; datering juni 1940. Individuele overgebleven muren zijn niet alle afzonderlijk geïdentificeerd.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · centrumkaart vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Historische straten en bouwblokken; uitgegeven in 1955. Basis voor benaderde plaatsing, geen bewijs van exacte pandhoogte of gevelbreedte.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Fonds DBL · geschiedenis",
+        "url": "https://www.fondsdbl.nl/over-ons.html",
+        "supports": "Voortzetting van de liefdadige fondsen Van Dooren, Blankenheym en Van Lede.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "wikipediaNote": "Geen passende Nederlandse Wikipedia-pagina over dit pand gevonden; de directe museum- en archiefbronnen hierboven geven de gebruikte informatie."
+  },
+  {
+    "id": "doopsgezinde-kerk",
+    "name": "Doopsgezinde schuilkerk",
+    "kind": "building",
+    "modelFamily": "city33",
+    "center": [
+      -180.77355599404427,
+      211.21314945578047
+    ],
+    "angle": 0.38,
+    "modelWidth": 16,
+    "modelDepth": 24,
+    "polygon": [
+      [
+        -193.17375275360794,
+        219.61285899386013
+      ],
+      [
+        -177.5721868759226,
+        225.84432287999823
+      ],
+      [
+        -168.3733592344806,
+        202.8134399177008
+      ],
+      [
+        -183.97492511216595,
+        196.5819760315627
+      ]
+    ],
+    "backgroundClearance": 1.2,
+    "height": 18,
+    "cameraDistance": 85,
+    "modelDownload": "landmarks/doopsgezinde-kerk/model.glb",
+    "modelSpec": {
+      "colors": {
+        "brick": "#88705a",
+        "stone": "#aea99b",
+        "trim": "#d0c8b3",
+        "roof": "#686357",
+        "glass": "#526465",
+        "dark": "#3c403a"
+      },
+      "parts": [
+        {
+          "x": 0,
+          "z": 0,
+          "w": 16,
+          "d": 24,
+          "h": 13.5,
+          "roof": "hip",
+          "roofHeight": 4.5,
+          "windows": false,
+          "wall": "brick"
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -8.07,
+          "z": -7.5,
+          "y": 8,
+          "w": 2.8,
+          "h": 8,
+          "arched": true,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -8.07,
+          "z": 0,
+          "y": 8,
+          "w": 2.8,
+          "h": 8,
+          "arched": true,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": -8.07,
+          "z": 7.5,
+          "y": 8,
+          "w": 2.8,
+          "h": 8,
+          "arched": true,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": 8.07,
+          "z": -7.5,
+          "y": 8,
+          "w": 2.8,
+          "h": 8,
+          "arched": true,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 8.07,
+          "z": 0,
+          "y": 8,
+          "w": 2.8,
+          "h": 8,
+          "arched": true,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 8.07,
+          "z": 7.5,
+          "y": 8,
+          "w": 2.8,
+          "h": 8,
+          "arched": true,
+          "angle": 1.5707963267948966
+        },
+        {
+          "x": 0,
+          "z": -12.05,
+          "y": 2,
+          "w": 2.5,
+          "h": 3.5,
+          "arched": true,
+          "angle": 3.141592653589793
+        },
+        {
+          "x": 0,
+          "z": 12.05,
+          "y": 2,
+          "w": 2.5,
+          "h": 3.5,
+          "arched": true,
+          "angle": 0
+        }
+      ],
+      "accents": [
+        {
+          "x": 0,
+          "z": -12.05,
+          "y": 4.15,
+          "w": 4.3,
+          "h": 0.45,
+          "d": 0.4,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "z": 12.05,
+          "y": 4.15,
+          "w": 4.3,
+          "h": 0.45,
+          "d": 0.4,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "z": -12.1,
+          "y": 0.45,
+          "w": 16.5,
+          "h": 0.9,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": 12.1,
+          "y": 0.45,
+          "w": 16.5,
+          "h": 0.9,
+          "d": 0.35,
+          "material": "stone"
+        },
+        {
+          "x": -8.1,
+          "z": 0,
+          "y": 0.45,
+          "w": 0.35,
+          "h": 0.9,
+          "d": 24.4,
+          "material": "stone"
+        },
+        {
+          "x": 8.1,
+          "z": 0,
+          "y": 0.45,
+          "w": 0.35,
+          "h": 0.9,
+          "d": 24.4,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "z": -12.1,
+          "y": 13.3,
+          "w": 16.5,
+          "h": 0.45,
+          "d": 0.35,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "z": 12.1,
+          "y": 13.3,
+          "w": 16.5,
+          "h": 0.45,
+          "d": 0.35,
+          "material": "trim"
+        },
+        {
+          "x": -8.1,
+          "z": 0,
+          "y": 13.3,
+          "w": 0.35,
+          "h": 0.45,
+          "d": 24.4,
+          "material": "trim"
+        },
+        {
+          "x": 8.1,
+          "z": 0,
+          "y": 13.3,
+          "w": 0.35,
+          "h": 0.45,
+          "d": 24.4,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "z": -12.1,
+          "y": 13.65,
+          "w": 16.5,
+          "h": 0.22,
+          "d": 0.35,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "z": 12.1,
+          "y": 13.65,
+          "w": 16.5,
+          "h": 0.22,
+          "d": 0.35,
+          "material": "trim"
+        },
+        {
+          "x": -8.1,
+          "z": 0,
+          "y": 13.65,
+          "w": 0.35,
+          "h": 0.22,
+          "d": 24.4,
+          "material": "trim"
+        },
+        {
+          "x": 8.1,
+          "z": 0,
+          "y": 13.65,
+          "w": 0.35,
+          "h": 0.22,
+          "d": 24.4,
+          "material": "trim"
+        }
+      ]
+    },
+    "uncertaintyMeters": 10,
+    "description": "Verborgen kerkzaal tussen de Sint Laurensstraat en Leeuwenstraat. Benadering van de bakstenen bouwmassa, hoge ramen en daklijst; de rijk versierde binnenruimte is zichtbaar op de archieffoto.",
+    "periodNote": "Gebouwd in 1773–1775, verwoest in mei 1940. De interieurfoto is van vóór de verwoesting; het exacte opnamejaar is onbekend.",
+    "placementNote": "Binnenblok Roodezand/Leeuwenstraat/Wagenstraat/Sint Laurensstraat, naar historische centrumkaart en vergelijking met de verdwenen-kerkenkaart (nr.6, ten zuiden van Rosaliakerk nr.7). Geschatte kerkzaal 16 × 24 m, kroonlijst 13,5 m, dak 18 m; geen opmeting. Buitenfoto uit uiterlijk 1927 ondersteunt gevel en hoge ramen. Schilddak, dakhoogte en verborgen geveldetails zijn vereenvoudigde interpretaties. Niet de kerk uit 1951 bij de Delftsevaart.",
+    "colorNote": "Buitenwerk: gedempte baksteen- en dakkleuren geschat uit zwart-witbeeld. Een historische beschrijving noemt lichte interieurwanden, eiken lambrisering en donker gevernist eiken orgelkasten met vergulde details; exacte tinten onbekend.",
+    "story": "Achter gewone huizen aan de Sint Laurensstraat lag een kerk die vanaf de straat nauwelijks herkenbaar was. De Doopsgezinde gemeente kwam hier samen in een zaal uit 1773–1775. Via gangen en poortjes bereikten bezoekers het binnenterrein tussen de Sint Laurensstraat en de Leeuwenstraat. De sobere buitenkant verborg een rijk versierde ruimte met hoge ramen, een gewelfd plafond en houten kerkbanken. Op de archieffoto staat het orgel centraal: de kasten stamden uit 1775, terwijl het binnenwerk in 1921 werd vervangen. Bij het bombardement van mei 1940 gingen kerk en orgel verloren. Na de oorlog bouwde de gemeente elders een nieuwe kerk, bij de Delftsevaart. Die latere locatie is dus niet de plek die dit model markeert. De reconstructie toont de oude kerkzaal op hoofdlijnen. Maten, dakvorm en buitenkleuren zijn benaderingen; de originele interieurfoto blijft het historische uitgangspunt.",
+    "photos": [
+      {
+        "src": "landmarks/doopsgezinde-kerk/foto-1-origineel.jpg",
+        "ai": "landmarks/doopsgezinde-kerk/foto-1-ai.webp",
+        "title": "Kerkzaal met orgel vóór mei 1940",
+        "shortTitle": "De verborgen kerkzaal",
+        "date": "Onbekend; vóór mei 1940",
+        "author": "J.P.A. Antonietti (1879–1963)",
+        "identifier": "RCE 20191613",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Interieur,_met_zicht_op_orgel_-_Rotterdam_-_20191613_-_RCE.jpg",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie. Hoofdcompositie behouden; fijne sculptuur, stoelconstructies en kleine tekstpanelen kunnen afwijken. De tekstpanelen zijn in de bron niet betrouwbaar leesbaar; de AI-letters zijn geen transcriptie. Exacte kleuren onbekend.",
+        "aiLicense": "CC BY-SA 4.0 · AI-bewerking",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "RCE 20191613 · interieur met orgel",
+        "url": "https://commons.wikimedia.org/wiki/File:Interieur,_met_zicht_op_orgel_-_Rotterdam_-_20191613_-_RCE.jpg",
+        "supports": "Originele interieurfoto, maker, registratie en CC BY-SA 4.0; exact opnamejaar onbekend.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "De Orgelsite · oude en nieuwe Doopsgezinde kerk",
+        "url": "https://www.orgelsite.nl/rotterdam-doopsgezinde-kerk/",
+        "supports": "Bouwperiode, verborgen ligging, orgel 1775 en binnenwerk 1921, vernietiging en andere herbouwlocatie. Moderne orgelfoto’s op deze pagina tonen een ander instrument.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Roterodamum · Doopsgezinde kerk wordt Muziekwerf",
+        "url": "https://www.roterodamum.nl/wp-content/uploads/2023/05/Kroniek.juni2023_def.pdf#page=9",
+        "supports": "Gedrukte pagina’s 18–21: oude rococozaal, schuilkerk op binnenterrein, verlies in 1940 en afzonderlijke wederopbouwkerk.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Straten en bouwblok vóór mei 1940 op kaart uitgegeven in 1955. Basis voor benaderde footprint.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Doopsgezinde Bijdragen 51 · buitenfoto",
+        "url": "https://dhkonline.nl/wp-content/uploads/sites/48/2025/11/DB_51_2025-INTEGRAAL.pdf#page=65",
+        "supports": "Pagina 65: buitenfoto ontleend aan Maandblad november 1927. Bakstenen gevel, hoge ramen, lijst en hek. Reproductie niet in galerij wegens niet vastgestelde rechten.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Oude Rotterdamse kerken · beschrijving en locatiekaart",
+        "url": "https://www.engelfriet.net/Alie/Hans/oudekerken.htm",
+        "supports": "Sectie De Doopsgezinde Kerk: licht interieur, eiken betimmering en orgelkasten; kaart nr.6 tegenover Rosaliakerk nr.7. Secundaire transcriptie, geen exacte kleurmeting.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "sourceRegister": "landmarks/doopsgezinde-kerk/BRONNEN.md",
+    "wikipediaNote": "Geen afzonderlijke passende Wikipedia-pagina over dit verdwenen gebouw; gebruik de directe bronnen hieronder.",
+    "cameraAngle": 2.3
   }
 ]

@@ -1,0 +1,51 @@
+{
+  "status": "local_verified_pending_deployment",
+  "locations": [
+    {
+      "id": "schotse-kerk",
+      "outsideApproximateBoundaryM2": 109.5018233523983,
+      "overlaps": [],
+      "photoPairs": 1,
+      "storyWords": 127
+    },
+    {
+      "id": "noordzee",
+      "outsideApproximateBoundaryM2": 0.0,
+      "overlaps": [],
+      "photoPairs": 1,
+      "storyWords": 126
+    },
+    {
+      "id": "nijgh-van-ditmar",
+      "outsideApproximateBoundaryM2": 0.0,
+      "overlaps": [],
+      "photoPairs": 2,
+      "storyWords": 128
+    },
+    {
+      "id": "van-dooren",
+      "outsideApproximateBoundaryM2": 0.0,
+      "overlaps": [],
+      "photoPairs": 1,
+      "storyWords": 157
+    },
+    {
+      "id": "doopsgezinde-kerk",
+      "outsideApproximateBoundaryM2": 0.0,
+      "overlaps": [],
+      "photoPairs": 1,
+      "storyWords": 136
+    }
+  ],
+  "catalogCount": 112,
+  "checks": [
+    "npm run check: 9 tests passed",
+    "npm run test:browser: passed",
+    "all 5 targeted desktop/mobile/fullscreen/modern checks passed"
+  ],
+  "limitations": [
+    "Schotse kerk documented destroyed edge location; approximate boundary unchanged",
+    "Dimensions and non-visible architectural details remain reconstructions",
+    "Tiny AI inscriptions not guaranteed exact"
+  ]
+}

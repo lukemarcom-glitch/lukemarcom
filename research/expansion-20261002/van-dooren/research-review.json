@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-02",
+  "status": "research; first AI pair ready for placement review; no model or publication",
+  "facadeTranscription": "MARIA CATHARINA VAN DOOREN'S VROUWENGESTICHT VAN WELDADIGHEID",
+  "aiReview": {
+    "file": "ai-foto-1.png",
+    "prompt": "PROMPT-FOTO-1.txt",
+    "source": "original-1.jpg",
+    "mainText": "Alle hoofdwoorden aanwezig; punten, letterkleur en lettervormen geïnterpreteerd.",
+    "geometry": "Vijf bovenste vensterassen, drie bovengrondse verdiepingen boven begane grond, middenfronton, erker/balkon en dakopbouw behouden.",
+    "uncertainty": "Kleuren niet met kleurenbestek bevestigd; kleine personen, ornamenten en bordjes generatief geïnterpreteerd. Geen lettergetrouwe facsimile.",
+    "license": "CC BY-SA 3.0; afgeleid van Museum Rotterdam 16698, W.J. Kuipers"
+  },
+  "references": [
+    {
+      "url": "https://kdc-opac.hosting.ru.nl/lijsten/archieven/pdf/MGRY.pdf",
+      "supports": "Archief Margry, inventaris 80, PDF p.8: bestek bedeellokaal Van Dooren, mei 1899, werknummer 77. Dit bewijst niet zonder bouwtekening dat de volledige gefotografeerde gevel toen is gebouwd."
+    },
+    {
+      "url": "https://www.ensie.nl/nbw/dooren-maria-catharina-van",
+      "supports": "Digitalisering NBW-biografie Moquette vermeldt reeds herbouw aan Coolvest. Tegenbewijs voor onbevestigde claim eerste Coolsingelnieuwbouw 1932; exact bouwjaar nog niet vastgesteld."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_Coolsingel_met_de_Passage,_het_Van_Doorensgesticht,_Caf%C3%A9_de_Unie_en_het_Erasmiaans_Gymnasium_1925_-_1929.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/601ECB0EA58A4F7BA957F7B9C6A4205F",
+      "file": "omgeving-1925-1929.jpg",
+      "date": "1925–1929",
+      "author": "Anoniem",
+      "license": "PD-anon-70-EU volgens Commons",
+      "supports": "Vergelijking gevel en positie tussen Passage en Café De Unie; aanzicht uit zuidwesten. Museumfoto 1908–1909 toont herkenbare zelfde hoofdgevel."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:De_verwoeste_Sint-Laurensstraat_met_de_Passage_en_de_nieuwe_Beurs_1940.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/D5774761E13C4056A710BC5CBA8F78A9",
+      "file": "omgeving-juni-1940.jpg",
+      "date": "juni 1940",
+      "author": "Anoniem",
+      "license": "PD-anon-70-EU volgens Commons",
+      "supports": "Verwoeste omgeving Coolsingel naast Passage; archiefbeschrijving expliciet bombardement 14 mei 1940. Categorisatie noemt Van Dooren, individuele muren niet zonder vergelijking als identificatiebewijs gebruiken."
+    }
+  ],
+  "placementReview": "Overlay bestaande losse modellen op historische kaart gemaakt in artifacts/expansion-20261002/van-dooren-neighbors.png. Resterende strook tussen Cafe en Passage circa 8 m aan gevel. Nog toetsen aan verhoudingen foto/bouwplan; gebouw niet kunstmatig versmallen en buurpanden niet zonder bewijs verplaatsen.",
+  "sha256": {
+    "omgeving-juni-1940.jpg": "af65b504738bd78a81abd42206c67929d9c19774e23bc05496543560f100806f",
+    "ai-foto-1.png": "7cd0b4e6e5d464b18b3449409578786a6a8f85aaa0a5cb578e72b74063bc9e31",
+    "original-1.jpg": "4e559e53697481a719ccabb8c2ca219b5646a2f7e9f4a97de30d3b20e4b37737",
+    "omgeving-1925-1929.jpg": "92cd157fdd1495ca76ec83ee4010c53dd4820022c179d975fc2268ed6a695c13"
+  }
+}
