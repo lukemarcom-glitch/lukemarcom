@@ -1,28 +1,18 @@
 {
-  "status": "nog niet plaatsen",
-  "stationMapPolygon": [
+  "status": "lokaal geplaatst, schematische reconstructie",
+  "stationOverlaps": [],
+  "stationArea": 739.0062331536526,
+  "railRoute": [
     [
-      280.566336792323,
-      70.66504643016083
+      -37.62232864179509,
+      489.438614811805
     ],
     [
-      294.32154419329095,
-      78.59887527976002
-    ],
-    [
-      321.5087935812728,
-      39.36647568295848
-    ],
-    [
-      309.5558478038913,
-      30.853220793885612
+      309.63701988081016,
+      14.684451320810695
     ]
   ],
-  "existingFootprintOverlaps": [
-    {
-      "id": "luchtspoor",
-      "overlapSquareMeters": 556.68
-    }
-  ],
-  "note": "Bestaande Luchtspoor-voetafdruk overlapt stationsrechthoek van bronkaart. Bestaande spoorlijn is schematisch; station niet verplaatsen om die fout te maskeren. Controleer historische spooras op meerdere punten; daarna kap/perrons en modeldownloads samen aanpassen."
+  "railwayDeckStreetwallOverlap": 0.0,
+  "note": "Luchtspoor-clearancepolygoon9m heeft2.3m² raakvlak met binnenrotte-straatwand; fysieke spoorvloer4.5m heeft geen overlap. Brug/perrons schematisch, niet ingemeten.",
+  "stationWithinBoundary": true
 }

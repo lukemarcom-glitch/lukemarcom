@@ -2180,42 +2180,38 @@
     "name": "Het Luchtspoor",
     "kind": "railway",
     "center": [
-      182,
-      240
+      136.00734561950753,
+      252.06153306630785
     ],
     "height": 16,
     "angle": -0.55,
     "cameraDistance": 620,
     "route": [
       [
-        27,
-        490
+        -37.62232864179509,
+        489.438614811805
       ],
       [
-        320,
-        15
+        309.63701988081016,
+        14.684451320810695
       ]
     ],
     "polygon": [
       [
-        327.6599373744145,
-        19.724971896217788
+        -30.358168061524935,
+        494.75199142786084
       ],
       [
-        312.3400626255855,
-        10.275028103782214
+        316.90118046108034,
+        19.997827936866543
       ],
       [
-        19.3400626255855,
-        485.27502810378223
+        302.37285930054,
+        9.371074704754845
       ],
       [
-        34.6599373744145,
-        494.72497189621777
-      ],
-      [
-        327.6599373744145,
-        19.724971896217788
+        -44.88648922206525,
+        484.12523819574915
       ]
     ],
     "periodNote": "Traject Binnenrotte–station Beurs. Ruimtelijke benadering van de vooroorlogse situatie; de vijf archiefbeelden hebben elk hun eigen opnamedatum.",
@@ -2356,13 +2352,20 @@
         "role": "kaart",
         "supports": "Ligging van straten en bouwblokken vóór mei 1940. De kaart is later uitgegeven; zij bewijst geen exacte bouwhoogten of gevelkleuren.",
         "checkedAt": "2026-09-28"
+      },
+      {
+        "title": "Stadsarchief · spoortracé en station op historische kaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Kaartbasis voor herziene spooras en afzonderlijke stationscontour; uitgegeven 1955 met vooroorlogse toestand.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
       }
     ],
     "photoPoints": [
       {
         "name": "Luchtspoor · Binnenrotte",
         "center": [
-          115,
+          66.56452086426087,
           347
         ],
         "photoIndex": 0,
@@ -2371,7 +2374,7 @@
       {
         "name": "Luchtspoor · Middensteiger",
         "center": [
-          183,
+          166.0418399293525,
           211
         ],
         "photoIndex": 3,
@@ -2380,7 +2383,7 @@
       {
         "name": "Luchtspoor · Kolk",
         "center": [
-          245,
+          234.06677134886365,
           118
         ],
         "photoIndex": 2,
@@ -2389,14 +2392,95 @@
       {
         "name": "Luchtspoor · station Beurs",
         "center": [
-          302,
+          286.73123438332397,
           46
         ],
         "photoIndex": 4,
         "cameraDistance": 300
       }
     ],
-    "wikipediaNote": "Aanvullend overzicht. De specifieke herkomst van beelden en informatie staat hierboven bij de bronverwijzingen."
+    "wikipediaNote": "Aanvullend overzicht. De specifieke herkomst van beelden en informatie staat hierboven bij de bronverwijzingen.",
+    "previousPlacement20261002": {
+      "route": [
+        [
+          27,
+          490
+        ],
+        [
+          320,
+          15
+        ]
+      ],
+      "polygon": [
+        [
+          327.6599373744145,
+          19.724971896217788
+        ],
+        [
+          312.3400626255855,
+          10.275028103782214
+        ],
+        [
+          19.3400626255855,
+          485.27502810378223
+        ],
+        [
+          34.6599373744145,
+          494.72497189621777
+        ],
+        [
+          327.6599373744145,
+          19.724971896217788
+        ]
+      ],
+      "center": [
+        182,
+        240
+      ],
+      "photoPoints": [
+        {
+          "name": "Luchtspoor · Binnenrotte",
+          "center": [
+            66.56452086426087,
+            347
+          ],
+          "photoIndex": 0,
+          "cameraDistance": 270
+        },
+        {
+          "name": "Luchtspoor · Middensteiger",
+          "center": [
+            166.0418399293525,
+            211
+          ],
+          "photoIndex": 3,
+          "cameraDistance": 250
+        },
+        {
+          "name": "Luchtspoor · Kolk",
+          "center": [
+            234.06677134886365,
+            118
+          ],
+          "photoIndex": 2,
+          "cameraDistance": 270
+        },
+        {
+          "name": "Luchtspoor · station Beurs",
+          "center": [
+            286.73123438332397,
+            46
+          ],
+          "photoIndex": 4,
+          "cameraDistance": 300
+        }
+      ]
+    },
+    "bridgeSpan": [
+      329,
+      371
+    ],
+    "placementNote": "Spooras op meerdere punten vergeleken met historische kaart NL-RtSA_4001_1972-755-1. Rechte benadering tussen kaartpixels (2874,1608) en (3449,2407), circa 5–10 m onzeker. Afzonderlijk stationsgebouw ten oosten van het spoor. Brugopening Middensteiger schematisch aangepast; kap en steunpunten niet ingemeten."
   },
   {
     "id": "minervahuis-i",
@@ -30327,5 +30411,333 @@
       }
     ],
     "wikipediaNote": "Geen passende zelfstandige Wikipedia-pagina over dit bankpand vastgesteld; gebruik de directe bronnen."
+  },
+  {
+    "id": "station-beurs",
+    "name": "Station Beurs · ontvangstgebouw",
+    "modelFamily": "city33",
+    "center": [
+      301.4881305926945,
+      54.870904546691236
+    ],
+    "angle": 0.6,
+    "height": 23,
+    "polygon": [
+      [
+        280.566336792323,
+        70.66504643016083
+      ],
+      [
+        294.32154419329095,
+        78.59887527976002
+      ],
+      [
+        321.5087935812728,
+        39.36647568295848
+      ],
+      [
+        309.5558478038913,
+        30.853220793885612
+      ]
+    ],
+    "modelSpec": {
+      "colors": {
+        "brick": "#8c8374",
+        "stone": "#bcb4a4",
+        "trim": "#ccc2b0",
+        "roof": "#555955",
+        "glass": "#536265",
+        "dark": "#353c38"
+      },
+      "parts": [
+        {
+          "w": 14,
+          "d": 49,
+          "h": 12,
+          "roof": "gable",
+          "roofHeight": 2.5,
+          "windows": false
+        },
+        {
+          "w": 14,
+          "d": 15,
+          "h": 20,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 2.7,
+          "windows": false
+        }
+      ],
+      "clocks": [
+        {
+          "x": -7.1,
+          "z": 0,
+          "y": 19.8,
+          "radius": 0.85,
+          "angle": -1.5707963267948966
+        },
+        {
+          "x": 7.1,
+          "z": 0,
+          "y": 19.8,
+          "radius": 0.85,
+          "angle": 1.5707963267948966
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -7.06,
+          "z": -21,
+          "angle": -1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": -7.06,
+          "z": -17,
+          "angle": -1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": -7.06,
+          "z": -12,
+          "angle": -1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": -7.06,
+          "z": 12,
+          "angle": -1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": -7.06,
+          "z": 17,
+          "angle": -1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": -7.06,
+          "z": 21,
+          "angle": -1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": -7.06,
+          "z": -4.5,
+          "angle": -1.5707963267948966,
+          "y": 10,
+          "w": 2.2,
+          "h": 5
+        },
+        {
+          "x": -7.06,
+          "z": 0,
+          "angle": -1.5707963267948966,
+          "y": 10,
+          "w": 2.2,
+          "h": 5
+        },
+        {
+          "x": -7.06,
+          "z": 4.5,
+          "angle": -1.5707963267948966,
+          "y": 10,
+          "w": 2.2,
+          "h": 5
+        },
+        {
+          "x": 7.06,
+          "z": -21,
+          "angle": 1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": 7.06,
+          "z": -17,
+          "angle": 1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": 7.06,
+          "z": -12,
+          "angle": 1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": 7.06,
+          "z": 12,
+          "angle": 1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": 7.06,
+          "z": 17,
+          "angle": 1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": 7.06,
+          "z": 21,
+          "angle": 1.5707963267948966,
+          "y": 8.2,
+          "w": 2.4,
+          "h": 3.8
+        },
+        {
+          "x": 7.06,
+          "z": -4.5,
+          "angle": 1.5707963267948966,
+          "y": 10,
+          "w": 2.2,
+          "h": 5
+        },
+        {
+          "x": 7.06,
+          "z": 0,
+          "angle": 1.5707963267948966,
+          "y": 10,
+          "w": 2.2,
+          "h": 5
+        },
+        {
+          "x": 7.06,
+          "z": 4.5,
+          "angle": 1.5707963267948966,
+          "y": 10,
+          "w": 2.2,
+          "h": 5
+        }
+      ],
+      "accents": [
+        {
+          "y": 6.3,
+          "w": 14.3,
+          "d": 49.3,
+          "h": 0.25,
+          "material": "stone"
+        },
+        {
+          "y": 11.8,
+          "w": 14.3,
+          "d": 49.3,
+          "h": 0.25,
+          "material": "stone"
+        },
+        {
+          "y": 18.8,
+          "w": 14.3,
+          "d": 15.3,
+          "h": 0.25,
+          "material": "stone"
+        }
+      ]
+    },
+    "placement": {
+      "map": "NL-RtSA_4001_1972-755-1",
+      "mapPixels": [
+        [
+          3401,
+          2313
+        ],
+        [
+          3424,
+          2300
+        ],
+        [
+          3469,
+          2366
+        ],
+        [
+          3449,
+          2380
+        ]
+      ],
+      "uncertaintyMeters": 15,
+      "note": "Getraceerde rechthoek STATION BLAAK op naoorlogs uitgegeven kaart met vooroorlogse toestand. Naam Blaak niet overnemen als historische naam 1939."
+    },
+    "kind": "building",
+    "modelWidth": 14,
+    "modelDepth": 49,
+    "cameraDistance": 125,
+    "backgroundClearance": 0.6,
+    "uncertaintyMeters": 15,
+    "modelDownload": "landmarks/station-beurs/model.glb",
+    "description": "Het ontvangstgebouw naast de verhoogde perrons van station Beurs, tussen het Beursplein en Plan C.",
+    "periodNote": "Bouwmassa naar archiefbeelden uit 1925–1935 en 1938. Geen exacte opmeting van de toestand in 1939.",
+    "colorNote": "Gedempte steen-, metaal- en dakkleuren zijn materiaalinterpretaties. De zwart-witbeelden bewijzen geen oorspronkelijke verfkleuren.",
+    "placementNote": "Contouromvang circa14×49 m uit historische kaart afgeleid; hoog middendeel met twee lagere vleugels getoetst aan luchtfoto 1935. Hoogten, vensters, geveldetails en verborgen delen schematisch. Plaatsing circa15 m onzeker. Bestaande spoorlijn apart herzien om overlap te vermijden.",
+    "story": "Station Beurs bracht de trein midden in het drukke handelscentrum. Op de archiefbeelden lopen reizigers, fietsers en trams onder het verhoogde spoor door. Naast de perrons stond een lang ontvangstgebouw met lagere vleugels en een hoger middendeel. Een luchtfoto uit 1935 laat goed zien hoe dit gebouw tussen het spoor en Plan C stond, dicht bij de oude Beurs en de haven. De foto uit augustus 1938 toont vooral de glazen perronwand; daarboven is het middendeel met klok herkenbaar. Station en perronkap zijn dus verschillende bouwdelen. Het Spoorwegmuseum bewaart een ansichtkaart van het station na het bombardement van 1940 en beschrijft ook de beschadiging van het naastgelegen viaduct. Het model voegt de ontbrekende bouwmassa naast het bestaande Luchtspoor toe. De maten en details blijven benaderingen. De historische kaart is pas in 1955 uitgegeven en gebruikt hier de naam Blaak; voor deze vooroorlogse reconstructie houden we Beurs aan.",
+    "wikipedia": "https://nl.wikipedia.org/wiki/Station_Rotterdam_Blaak",
+    "wikipediaNote": "Aanvullende geschiedenis van het station en zijn latere opvolgers; de directe bronnen hieronder onderbouwen het oude gebouw.",
+    "photos": [
+      {
+        "src": "landmarks/station-beurs/foto-1-origineel.jpg",
+        "ai": "landmarks/station-beurs/foto-1-ai.webp",
+        "title": "Station Beurs vanaf straatniveau · augustus 1938",
+        "shortTitle": "Station en perronwand",
+        "date": "Augustus 1938 volgens archiefregistratie",
+        "author": "Nederlandse Spoorwegen, volgens Het Utrechts Archief; reproductie Collectie De Pater",
+        "license": "Publiek domein volgens Commons (PD-old)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:HUA-163341-Gezicht_op_het_N.S.-station_Rotterdam_Beurs_te_Rotterdam.jpg",
+        "archiveUrl": "https://hetutrechtsarchief.nl/beeld/0D898C485DBF588892DB0D5145A7F662",
+        "identifier": "Het Utrechts Archief ·163341",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Interpretatieve inkleuring. De cursieve reclameband en het kleine bord zijn niet volledig leesbaar; de prompt verbiedt nieuwe woorden. Kleine letters en fijne details kunnen toch afwijken. Exacte kleuren onbekend; origineel is leidend."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Het Utrechts Archief · station Beurs in 1938",
+        "url": "https://commons.wikimedia.org/wiki/File:HUA-163341-Gezicht_op_het_N.S.-station_Rotterdam_Beurs_te_Rotterdam.jpg",
+        "supports": "Archiefregistratie163341, datering, maker en foto van perronwand met stationsgebouw erachter. Directe HUA-record tijdens controle niet bereikbaar.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · KLM-luchtfoto 1935",
+        "url": "https://hdl.handle.net/21.12133/EF90B2CE61944207BF93319C02424A98",
+        "supports": "Vorm ontvangstgebouw, hogere middenbouw, lagere vleugels en relatie tot spoor en Plan C.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Spoorwegmuseum · verwoest station Beurs",
+        "url": "https://www.spoorwegmuseum.nl/collectie/kinderen-van-versteeg/oorlogsdreiging/",
+        "supports": "Onder Vijf dagen oorlog, Ansichtkaart: station Beurs verwoest door het bombardement van 1940 en beschadigd viaduct.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · spoortracé en station op historische kaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Kaartbasis voor herziene spooras en afzonderlijke stationscontour; uitgegeven 1955 met vooroorlogse toestand.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ]
   }
 ]

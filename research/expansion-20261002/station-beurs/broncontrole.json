@@ -1,5 +1,5 @@
 {
-  "status": "onderzoek, nog geen zelfstandig gebouw toegevoegd",
+  "status": "lokaal toegevoegd; tweede ronde nog niet gepubliceerd",
   "source1938": "https://hetutrechtsarchief.nl/beeld/0D898C485DBF588892DB0D5145A7F662",
   "catalogue": "163341",
   "date": "augustus 1938",
@@ -13,7 +13,7 @@
     "91754579.jpg",
     "91813626.jpg"
   ],
-  "next": "Historische spooras traceren: bestaande route overlapt circa557m² van stationscontour. Bouwmassa als model-draft.json opgeslagen; nog geen runtime. Glazen perronwand behoort bij bestaande kap, niet aan ontvangstgebouw dubbel toevoegen.",
+  "next": "Ronde2 aanvullen tot vijf, eindcontrole en gezamenlijke publicatie. Stationsmassa en spooras schematisch; geen engineeringmeting.",
   "destructionSource": {
     "url": "https://www.spoorwegmuseum.nl/collectie/kinderen-van-versteeg/oorlogsdreiging/",
     "section": "Vijf dagen oorlog > Ansichtkaart",

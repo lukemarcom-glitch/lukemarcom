@@ -11,7 +11,7 @@ export function buildLuchtspoor(meta,{material,box,merge}){
  for(let x=0;x<length;x+=1.4)for(const z of [-1.95,1.95])box(g,x,6.81,z,.2,.16,2.5,wood);
  for(const z of [-2.6675,-1.2325,1.2325,2.6675])box(g,length/2,6.98,z,length,.18,.12,rail);
  // Two rows of supports on stone bases, crossheads and diagonal knees.
- const bridgeStart=310,bridgeEnd=347;
+ const [bridgeStart,bridgeEnd]=meta.bridgeSpan||[310,347];
  for(let x=3;x<length;x+=14){if(x>bridgeStart&&x<bridgeEnd)continue;
   for(const z of [-3.5,3.5]){box(g,x,.65,z,1.35,1.3,1.35,stone);cylinder(x,3.4,z,.33,4.4,steel);box(g,x,5.65,z,.8,.5,.8,steel);beam([x,4.2,z],[x+2.3,5.8,z],.2,.2,steel);beam([x,4.2,z],[x-2.3,5.8,z],.2,.2,steel)}
   box(g,x,5.85,0,.6,.6,8.9,steel);
