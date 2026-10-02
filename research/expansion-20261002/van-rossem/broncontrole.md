@@ -57,3 +57,10 @@ Inventaris Midden-Holland, collectie Oorlogsdocumentatie ac196, inv.nr.682, rubr
 
 ## Luchtfoto’s en context
 1927KLM-luchtfoto aerial-129127489.jpg en1938–39NIMH-luchtfoto aerial-101361985.jpg gedownload en bekeken, bron/rechten in aerial-metadata.json. De laatste concentreert zich op Oostplein; geen scherp bevestigde match van VanRossem.1927 toont zuidwandGroenendaal en kerkdak; precieze fabrieksmatch nog niet bevestigd. Twee contextstraatfoto’s bij oostelijke hoekNieuweHaven/Groenendaal tonen andere kleine panden, niet de VanRossemgevel; niet als gebouwfoto gebruiken.
+
+## Adresonderzoek en sorteerderij-fotopaar
+Twee nieuwe bronbeelden van het naburige Lidmatenhuis Nieuwehaven59 uit1903 opgeslagen: neighbor-128930435.jpg en neighbor-128938634.jpg, HendrikJanvanDorp, CC0volgensCommons, directe archief-ID’s6D60E1C4D0EC4E6D85217A15363C5236 en1F116CC8A6B84CB2A9D1E9FC95E2681E. Metadata in neighbor-metadata.json. Straatbeeld bekeken; nog geen eenduidige match met perceel67 op luchtfoto. Niet als fotoVanRossem presenteren. Luchtfoto1921 (aerial-143030906.jpg, KLM/CC0 volgensmetadata) gedownload/bekeken; fabriek niet individueel bevestigd.
+
+HisGIS beschrijft expliciet Rotterdam1903-adressenlaag met STRAATNAAM/BLOK/VANNR/TOTNR: https://www.hisgis.nl/hisgis/gewesten/rotterdam/kaartlagen . Projectpagina https://hisgis.nl/projecten/rotterdam/ geeft in browser legepagina; oude viewer https://www.hisgis.nl/hisgis/gewesten/rotterdam/rotterdam geeft404. Dit is een kansrijke gegevensbron, geen opgehaalde adreslocatie. Gemeentelijke1940MapServermetadata heeft lege layers enNaNextent, dus ook geen plaatsingsbewijs.
+
+SorteerderijfotoSFA022808163 uit1915 nu AI-bewerkt. Zakvoorgrondletters exactMR/M/F. Gevouwen zakachtergrond slechtsSUMA zichtbaar, niet totSUMATRA aangevuld. PROMPT-sorteerderij-01 en02 bewaard. Proef01 afgekeurd wegens extra gedeeltelijk gezicht helemaal rechtsboven achter tabakszak. Proef02 verwijdert dat;10personen zoalsorigineel, grotelettersbehouden. Kleine etiketten engezichten blijven te gedetailleerd geïnterpreteerd, natuurkleur tabak/hout/kleding nietbewezen. Proef02 kandidaat voor aanvullend fotopaar, nog geenruntime.

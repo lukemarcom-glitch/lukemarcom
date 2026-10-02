@@ -1,0 +1,936 @@
+{
+  "\"Groenendaal\" \"Rossem\"": {
+    "batchcomplete": "",
+    "query": {
+      "searchinfo": {
+        "totalhits": 8
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 27-03-1830 (IA ddd 010392286 mpeg21).pdf",
+          "pageid": 109372897,
+          "size": 1155,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 27-03-1830 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T00:56:56Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 19-05-1860 (IA ddd 010545880 mpeg21).pdf",
+          "pageid": 109494321,
+          "size": 1127,
+          "wordcount": 47,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 19-05-1860 Dutch",
+          "timestamp": "2025-09-25T07:18:39Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Fabrieken, SFA022808164.jpg",
+          "pageid": 146490790,
+          "size": 675,
+          "wordcount": 17,
+          "snippet": "English applies to jurisdiction: United States applies to jurisdiction: European Union determination method or standard: SHA-1",
+          "timestamp": "2026-06-28T17:12:56Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 27-11-1827 (IA ddd 010517568 mpeg21).pdf",
+          "pageid": 109444914,
+          "size": 1127,
+          "wordcount": 47,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 27-11-1827 Dutch",
+          "timestamp": "2026-05-12T20:17:43Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 26-10-1848 (IA ddd 010395359 mpeg21).pdf",
+          "pageid": 109380409,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 26-10-1848 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T02:11:03Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 07-03-1850 (IA ddd 010395573 mpeg21).pdf",
+          "pageid": 109380951,
+          "size": 1130,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 07-03-1850 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T02:15:55Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 18-02-1841 (IA ddd 010394148 mpeg21).pdf",
+          "pageid": 109376209,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 18-02-1841 Dutch Rotterdamsche",
+          "timestamp": "2025-12-15T08:43:40Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 10-05-1853 (IA ddd 010516758 mpeg21).pdf",
+          "pageid": 109438135,
+          "size": 1127,
+          "wordcount": 41,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 10-05-1853 Dutch",
+          "timestamp": "2025-09-24T00:04:17Z"
+        }
+      ]
+    }
+  },
+  "\"Nieuwehaven\" \"67\"": {
+    "batchcomplete": "",
+    "continue": {
+      "sroffset": 30,
+      "continue": "-||"
+    },
+    "query": {
+      "searchinfo": {
+        "totalhits": 120
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:13-06-27-gouda-by-RalfR-019.jpg",
+          "pageid": 26927342,
+          "size": 616,
+          "wordcount": 183,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following licenses: This file is licensed under the Creative Commons Attribution 3.0",
+          "timestamp": "2026-02-10T15:58:33Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Nieuwehaven 29, Edam.jpg",
+          "pageid": 102394874,
+          "size": 647,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2025-10-06T06:25:51Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Edam, Nieuwehaven 22.jpg",
+          "pageid": 16479756,
+          "size": 783,
+          "wordcount": 183,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2026-05-13T05:17:15Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Tentoonstelling van kunstwerken van levende meesters te 's-Gravenhage (1890).djvu",
+          "pageid": 146038897,
+          "size": 412,
+          "wordcount": 21,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English determination method or standard: SHA-1",
+          "timestamp": "2025-11-09T14:31:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 25-05-1844 (IA ddd 010394632 mpeg21).pdf",
+          "pageid": 109377817,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 25-05-1844 Dutch Rotterdamsche",
+          "timestamp": "2026-03-02T20:30:21Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 14-03-1835 (IA ddd 010393220 mpeg21).pdf",
+          "pageid": 109374076,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 14-03-1835 Dutch Rotterdamsche",
+          "timestamp": "2025-11-09T10:03:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 17-10-1822 (IA ddd 010391271 mpeg21).pdf",
+          "pageid": 109371055,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 17-10-1822 Dutch Rotterdamsche",
+          "timestamp": "2025-11-17T14:02:31Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 03-04-1841 (IA ddd 010394168 mpeg21).pdf",
+          "pageid": 109376344,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 03-04-1841 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T01:36:04Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 17-05-1860 (IA ddd 010397914 mpeg21).pdf",
+          "pageid": 109390863,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 17-05-1860 Dutch Rotterdamsche",
+          "timestamp": "2026-09-13T06:25:09Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 08-11-1838 (IA ddd 010393636 mpeg21).pdf",
+          "pageid": 109375959,
+          "size": 1143,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 08-11-1838 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T01:30:32Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 27-12-1847 (IA ddd 010516177 mpeg21).pdf",
+          "pageid": 109434759,
+          "size": 1127,
+          "wordcount": 47,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 27-12-1847 Dutch",
+          "timestamp": "2025-12-16T13:35:34Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 12-07-1838 (IA ddd 010393585 mpeg21).pdf",
+          "pageid": 109375530,
+          "size": 1130,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 12-07-1838 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T01:26:10Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 23-03-1822 (IA ddd 010391182 mpeg21).pdf",
+          "pageid": 109370294,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 23-03-1822 Dutch Rotterdamsche",
+          "timestamp": "2026-04-24T17:46:03Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 27-04-1816 (IA ddd 010390267 mpeg21).pdf",
+          "pageid": 109368084,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 27-04-1816 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T00:04:29Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Architectura vol 002 no 029 technisch gedeelte.djvu",
+          "pageid": 129154777,
+          "size": 445,
+          "wordcount": 21,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English determination method or standard: SHA-1",
+          "timestamp": "2025-05-25T02:35:19Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 08-10-1835 (IA ddd 010393309 mpeg21).pdf",
+          "pageid": 109374728,
+          "size": 1131,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 08-10-1835 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T01:16:01Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 18-09-1821 (IA ddd 010391109 mpeg21).pdf",
+          "pageid": 109369688,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 18-09-1821 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T00:23:11Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 25-09-1821 (IA ddd 010391112 mpeg21).pdf",
+          "pageid": 109369712,
+          "size": 1131,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 25-09-1821 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T00:23:26Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 22-06-1857 (IA ddd 010397037 mpeg21).pdf",
+          "pageid": 109389173,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 22-06-1857 Dutch Rotterdamsche",
+          "timestamp": "2025-11-11T15:44:22Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 02-11-1860 (IA ddd 010398061 mpeg21).pdf",
+          "pageid": 109391253,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 02-11-1860 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T04:06:50Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Koninklĳke courant 06-01-1809 (IA ddd 010239656 mpeg21).pdf",
+          "pageid": 109188007,
+          "size": 1146,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Koninklĳke courant 06-01-1809 Dutch Koninklĳke",
+          "timestamp": "2025-09-20T17:03:01Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 11-01-1825 (IA ddd 010391642 mpeg21).pdf",
+          "pageid": 109371629,
+          "size": 1129,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 11-01-1825 Dutch Rotterdamsche",
+          "timestamp": "2026-09-16T22:45:15Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 06-01-1821 (IA ddd 010391001 mpeg21).pdf",
+          "pageid": 109368782,
+          "size": 1129,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 06-01-1821 Dutch Rotterdamsche",
+          "timestamp": "2026-09-09T20:46:57Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Middelburgsche courant 03-06-1828 (IA ddd 010269699 mpeg21).pdf",
+          "pageid": 109325103,
+          "size": 1146,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Middelburgsche courant 03-06-1828 Dutch",
+          "timestamp": "2025-09-22T09:26:16Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 01-05-1838 (IA ddd 010393554 mpeg21).pdf",
+          "pageid": 109375296,
+          "size": 1130,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 01-05-1838 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T01:23:36Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 07-06-1821 (IA ddd 010391065 mpeg21).pdf",
+          "pageid": 109369328,
+          "size": 1130,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 07-06-1821 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T00:19:23Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 22-01-1857 (IA ddd 010397063 mpeg21).pdf",
+          "pageid": 109389337,
+          "size": 1130,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 22-01-1857 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T03:30:43Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 27-03-1821 (IA ddd 010391034 mpeg21).pdf",
+          "pageid": 109369086,
+          "size": 1130,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 27-03-1821 Dutch Rotterdamsche",
+          "timestamp": "2026-05-17T03:29:11Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 21-09-1816 (IA ddd 010390331 mpeg21).pdf",
+          "pageid": 109368492,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 21-09-1816 Dutch Rotterdamsche",
+          "timestamp": "2026-02-04T23:40:03Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Koninklĳke courant 24-05-1808 (IA ddd 010239461 mpeg21).pdf",
+          "pageid": 109186228,
+          "size": 1148,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Koninklĳke courant 24-05-1808 Dutch Koninklĳke",
+          "timestamp": "2026-04-22T11:30:04Z"
+        }
+      ]
+    }
+  },
+  "\"Timmerhuis\" \"Rotterdam\"": {
+    "batchcomplete": "",
+    "continue": {
+      "sroffset": 30,
+      "continue": "-||"
+    },
+    "query": {
+      "searchinfo": {
+        "totalhits": 208
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam - from corner Raamplein-Haagseveer.jpg",
+          "pageid": 49867688,
+          "size": 431,
+          "wordcount": 134,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2026-09-03T15:42:00Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:2016 Detail van gevel met gebogen glas van het Timmerhuis aan het Rodezand.jpg",
+          "pageid": 155929310,
+          "size": 741,
+          "wordcount": 15,
+          "snippet": "English Dutch Detail van gevel met gebogen glas van het Timmerhuis aan het Rodezand, 2016",
+          "timestamp": "2026-05-13T20:28:25Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:2016 Stadhuisstraat met het Timmerhuis aan het Rodezand.jpg",
+          "pageid": 155929400,
+          "size": 704,
+          "wordcount": 16,
+          "snippet": "English Dutch Stadhuisstraat met het Timmerhuis aan het Rodezand, 2016 determination method or standard: SHA-1",
+          "timestamp": "2025-11-04T05:20:40Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:2016 Fototentoonstelling School in Rotterdam van Carel van Hees 25 augustus - 9 oktober 2016, in de hal van het Timmerhuis aan de Rodezand.jpg",
+          "pageid": 155929155,
+          "size": 933,
+          "wordcount": 31,
+          "snippet": "English Dutch Fototentoonstelling School in Rotterdam van Carel van Hees 25 augustus - 9 oktober 2016, in de hal van het Timmerhuis aan de Rodezand, 2016",
+          "timestamp": "2025-08-08T11:12:05Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Museum Rotterdam facade 2019 02.jpg",
+          "pageid": 79419575,
+          "size": 492,
+          "wordcount": 137,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2025-03-19T22:22:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Museum Rotterdam facade 2019 01.jpg",
+          "pageid": 79419567,
+          "size": 325,
+          "wordcount": 137,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2025-11-01T23:20:38Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Stadsdriehoek, Rotterdam, Netherlands - panoramio (66).jpg",
+          "pageid": 60328994,
+          "size": 894,
+          "wordcount": 52,
+          "snippet": "English object of statement has role: photographer author name string: Ben Bender URL: https://web.archive.org/web/20161101172954/http://www.panoramio",
+          "timestamp": "2026-09-14T01:30:55Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Prent het Haringvliet met de Engelse Epicopaalse kerk, Nieuwe Oostbrug en Stadstimmerhuis 1808 - 1816.jpg",
+          "pageid": 128216159,
+          "size": 976,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2025-08-22T09:32:53Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Stadsdriehoek, Rotterdam, Netherlands - panoramio (58).jpg",
+          "pageid": 60328941,
+          "size": 933,
+          "wordcount": 52,
+          "snippet": "English object of statement has role: photographer author name string: Ben Bender URL: https://web.archive.org/web/20161101172947/http://www.panoramio",
+          "timestamp": "2025-11-08T17:16:10Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam 03.jpg",
+          "pageid": 49869971,
+          "size": 332,
+          "wordcount": 134,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2026-03-01T12:13:09Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdam kunstwerk traa.jpg",
+          "pageid": 5828643,
+          "size": 480,
+          "wordcount": 16,
+          "snippet": "English Wikimedia username: Wikifrits author name string: Wikifrits URL: https://commons.wikimedia.org/wiki/user:Wikifrits",
+          "timestamp": "2021-01-17T00:33:06Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Prent Marinierskazerne aan het Oostplein met Stadstimmerhuis en korenmolen de Roode Leeuw 1859.jpg",
+          "pageid": 94804964,
+          "size": 819,
+          "wordcount": 21,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English determination method or standard: SHA-1",
+          "timestamp": "2024-07-27T12:04:14Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam 11.jpg",
+          "pageid": 49870036,
+          "size": 330,
+          "wordcount": 134,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2024-11-12T05:46:11Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:2016 Het Timmerhuis op de hoek van de Haagseveer, gezien vanaf het Raam Raamplein.jpg",
+          "pageid": 153768265,
+          "size": 742,
+          "wordcount": 22,
+          "snippet": "English Dutch Het Timmerhuis op de hoek van de Haagseveer, gezien vanaf het Raam Raamplein, 2016 determination method or standard: SHA-1",
+          "timestamp": "2026-09-03T15:42:00Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis met Museum Rotterdam artist impression.jpg",
+          "pageid": 44964393,
+          "size": 420,
+          "wordcount": 154,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2026-05-21T04:32:33Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Luchtopname van de Scheepmakershaven en Wijnhaven met de Boompjes, Punt, Rederijbrug, Glashaven, Grote Wijnbrug, Regentessebrug, Leuvehaven, Blaak en Coolsingel 1987.jpg",
+          "pageid": 153086987,
+          "size": 4945,
+          "wordcount": 170,
+          "snippet": "This file is licensed under the Creative Commons Attribution 4.0 International license. You are free: to share – to copy, distribute and transmit the work",
+          "timestamp": "2026-09-03T16:12:30Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam 01.jpg",
+          "pageid": 49869943,
+          "size": 475,
+          "wordcount": 128,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2026-03-19T07:56:39Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam 10.jpg",
+          "pageid": 49870033,
+          "size": 330,
+          "wordcount": 128,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2026-03-04T13:39:57Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Een opnieuw in elkaar gezet schavot bij het Stadstimmerhuis voor de kroning van koningin Wilhelmina nabij het Haringvliet 1897.jpg",
+          "pageid": 137071518,
+          "size": 740,
+          "wordcount": 21,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English determination method or standard: SHA-1",
+          "timestamp": "2025-06-01T12:56:00Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis.jpg",
+          "pageid": 63826016,
+          "size": 306,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2024-10-14T19:14:29Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdam meent115-133.jpg",
+          "pageid": 3581314,
+          "size": 506,
+          "wordcount": 16,
+          "snippet": "English author name string: Wikifrits Wikimedia username: Wikifrits URL: https://commons.wikimedia.org/wiki/user:Wikifrits",
+          "timestamp": "2026-08-31T03:23:24Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis (Rotterdam) P1360877.jpg",
+          "pageid": 78759025,
+          "size": 437,
+          "wordcount": 130,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2024-10-02T15:21:37Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdam - Stadstimmerhuis.jpg",
+          "pageid": 77996761,
+          "size": 1695,
+          "wordcount": 147,
+          "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+          "timestamp": "2026-09-03T16:12:54Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdam - Timmerhuis.jpg",
+          "pageid": 77996921,
+          "size": 1598,
+          "wordcount": 147,
+          "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+          "timestamp": "2025-07-29T06:18:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam 04.jpg",
+          "pageid": 49869994,
+          "size": 364,
+          "wordcount": 122,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2026-05-03T01:08:32Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:GraphyArchy - Wikipedia 00375.jpg",
+          "pageid": 76460043,
+          "size": 467,
+          "wordcount": 158,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2026-09-16T18:45:47Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Prent het Boerengat met rechts korenmolen de Roode Leeuw en het Admiraliteitsmagazijn op de achtergrond 1790.jpg",
+          "pageid": 136474783,
+          "size": 739,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2023-09-05T17:28:34Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Een zinker legt een buis voor de waterleiding aan in het Boerengat met links de Nieuwe Oostbrug over het Haringvliet, in het midden de Engelse Episcopale kerk en rechts de Oude Oostbrug over de Nieuwehaven 1893.jpg",
+          "pageid": 136947185,
+          "size": 1069,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2026-06-02T07:34:27Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Timmerhuis - Rotterdam 02.jpg",
+          "pageid": 49869956,
+          "size": 469,
+          "wordcount": 122,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2022-11-26T02:34:36Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdam Timmerhuis Binnenrotte Rotte.jpg",
+          "pageid": 63500645,
+          "size": 595,
+          "wordcount": 152,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2026-09-03T17:21:21Z"
+        }
+      ]
+    }
+  },
+  "\"Groenendaal\" \"38\"": {
+    "batchcomplete": "",
+    "continue": {
+      "sroffset": 30,
+      "continue": "-||"
+    },
+    "query": {
+      "searchinfo": {
+        "totalhits": 125
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 29-09-1853 (IA ddd 010516879 mpeg21).pdf",
+          "pageid": 109439199,
+          "size": 1127,
+          "wordcount": 47,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 29-09-1853 Dutch",
+          "timestamp": "2025-09-24T00:15:30Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Stolperstein voor Rozita Hanna Duijts-van Collum.jpg",
+          "pageid": 140987886,
+          "size": 559,
+          "wordcount": 150,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2026-03-28T14:49:36Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 13-11-1821 (IA ddd 010391133 mpeg21).pdf",
+          "pageid": 109369888,
+          "size": 1131,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 13-11-1821 Dutch Rotterdamsche",
+          "timestamp": "2025-09-23T00:25:10Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 18-07-1863 (IA ddd 010389285 mpeg21).pdf",
+          "pageid": 109366180,
+          "size": 1131,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 18-07-1863 Dutch Rotterdamsche",
+          "timestamp": "2025-11-25T16:20:19Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Stolpersteine Gouda Lange Groenendaal84 (detail3).jpg",
+          "pageid": 71962444,
+          "size": 705,
+          "wordcount": 45,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: English Dutch Stolpersteine Gouda - Lange Groenendaal 84 - Anna Gompers-van",
+          "timestamp": "2023-12-09T16:20:27Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rotterdamsche courant 02-08-1825 (IA ddd 010391636 mpeg21).pdf",
+          "pageid": 109371563,
+          "size": 1142,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Rotterdamsche courant 02-08-1825 Dutch Rotterdamsche",
+          "timestamp": "2025-12-08T17:50:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:ArboretumGroenendaal (19).JPG",
+          "pageid": 45307391,
+          "size": 295,
+          "wordcount": 164,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2025-07-28T23:19:41Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 27-07-1820 (IA ddd 010518753 mpeg21).pdf",
+          "pageid": 109456679,
+          "size": 1163,
+          "wordcount": 41,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 27-07-1820 Dutch",
+          "timestamp": "2026-06-19T15:51:29Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Lange Groenendaal 78, 80, Gouda.jpg",
+          "pageid": 57015936,
+          "size": 506,
+          "wordcount": 164,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2025-10-16T22:21:58Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Fragment aardewerk komfoor of parfumbrander, liggend worstoor, objectnr 14005-38.JPG",
+          "pageid": 87735721,
+          "size": 1267,
+          "wordcount": 129,
+          "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit",
+          "timestamp": "2026-08-10T21:16:21Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 09-12-1856 (IA ddd 010544963 mpeg21).pdf",
+          "pageid": 109488724,
+          "size": 1127,
+          "wordcount": 47,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 09-12-1856 Dutch",
+          "timestamp": "2025-09-25T06:36:14Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:M 40, overzicht - Gouda - 20082346 - RCE.jpg",
+          "pageid": 23529760,
+          "size": 615,
+          "wordcount": 129,
+          "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Attribution: Rijksdienst voor het Cultureel Erfgoed",
+          "timestamp": "2024-12-19T17:22:48Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Therkelsen–Van de Groenendaal - 2018 UEC European BMX Championships (Men's BMX, eighth-finals - heat 1).jpg",
+          "pageid": 137712068,
+          "size": 550,
+          "wordcount": 155,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2026-02-04T02:39:58Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The chronicle of the canons regular of Mount St. Agnes (IA chronicleofcanon00thomrich).pdf",
+          "pageid": 94938561,
+          "size": 871,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2025-07-29T00:15:51Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Stolpersteine Gouda Lange Groenendaal 38 (detail3).jpg",
+          "pageid": 37978206,
+          "size": 853,
+          "wordcount": 49,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: English Dutch Stolpersteine Gouda - Lange Groenendaal 38 - Isaak Schenkolewski",
+          "timestamp": "2024-09-10T18:58:56Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Stolpersteine in Gouda. Lange Groenendaal 38.jpg",
+          "pageid": 140987885,
+          "size": 556,
+          "wordcount": 139,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 4.0 International",
+          "timestamp": "2023-12-09T15:34:09Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Koninklĳke courant 13-10-1809 (IA ddd 010239892 mpeg21).pdf",
+          "pageid": 109190321,
+          "size": 1148,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Koninklĳke courant 13-10-1809 Dutch Koninklĳke",
+          "timestamp": "2025-09-20T18:10:16Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Genetic variation in ponderosa pine - a 15-year test of provenances in the Great Plains (IA CAT92273477).pdf",
+          "pageid": 91700734,
+          "size": 1306,
+          "wordcount": 39,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English applies to jurisdiction: United States determination",
+          "timestamp": "2026-09-01T07:08:03Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Lange Groenendaal 68, Gouda (Gevelversiering).jpg",
+          "pageid": 57015813,
+          "size": 583,
+          "wordcount": 164,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2025-10-16T22:21:38Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 08-11-1850 (IA ddd 010517845 mpeg21).pdf",
+          "pageid": 109447425,
+          "size": 1127,
+          "wordcount": 41,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 08-11-1850 Dutch",
+          "timestamp": "2025-09-24T18:06:53Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Catalogue of the pictures, drawings, etchings and objects of art (IA catalogueofpictu00muse 0).pdf",
+          "pageid": 94897686,
+          "size": 1064,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2024-02-13T11:43:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 19-05-1860 (IA ddd 010545880 mpeg21).pdf",
+          "pageid": 109494321,
+          "size": 1127,
+          "wordcount": 47,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 19-05-1860 Dutch",
+          "timestamp": "2025-09-25T07:18:39Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bredasche courant 03-09-1840 (IA ddd 010244431 mpeg21).pdf",
+          "pageid": 109231102,
+          "size": 1097,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Bredasche courant 03-09-1840 Dutch Bredasche",
+          "timestamp": "2025-10-08T22:22:22Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Catalogue of the exhibition of a selection of works by early and modern painters of the Dutch school - with descriptive and biographical notes (IA catalogueofexhib00guil 5).pdf",
+          "pageid": 94892295,
+          "size": 1275,
+          "wordcount": 7,
+          "snippet": "English determination method or standard: SHA-1",
+          "timestamp": "2025-11-19T00:25:14Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 15-09-1818 (IA ddd 010519237 mpeg21).pdf",
+          "pageid": 109460395,
+          "size": 1127,
+          "wordcount": 41,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 15-09-1818 Dutch",
+          "timestamp": "2025-09-24T20:09:00Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bredasche courant 12-11-1814 (IA ddd 010242000 mpeg21).pdf",
+          "pageid": 109215588,
+          "size": 1096,
+          "wordcount": 45,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Bredasche courant 12-11-1814 Dutch Bredasche",
+          "timestamp": "2025-10-08T22:57:57Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Heerlijkheid Heemstede-28.JPG",
+          "pageid": 38373408,
+          "size": 544,
+          "wordcount": 182,
+          "snippet": "Hollands duinrandbos, oorspronkelijk bos met invoeging van parkaanleg ca. 1740 - 1767, met diverse latere inplanningen en centraal gelegen landhuis thans",
+          "timestamp": "2026-02-26T00:21:17Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Opregte Haarlemsche Courant 23-07-1818 (IA ddd 010519214 mpeg21).pdf",
+          "pageid": 109460215,
+          "size": 1126,
+          "wordcount": 41,
+          "snippet": "https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse English Opregte Haarlemsche Courant 23-07-1818 Dutch",
+          "timestamp": "2025-09-24T20:06:54Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Lange Groenendaal 82, 84, Gouda.jpg",
+          "pageid": 57015935,
+          "size": 594,
+          "wordcount": 171,
+          "snippet": "I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share",
+          "timestamp": "2023-12-09T16:16:51Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Heerlijkheid Heemstede-27.JPG",
+          "pageid": 38373407,
+          "size": 544,
+          "wordcount": 182,
+          "snippet": "Hollands duinrandbos, oorspronkelijk bos met invoeging van parkaanleg ca. 1740 - 1767, met diverse latere inplanningen en centraal gelegen landhuis thans",
+          "timestamp": "2025-06-17T00:48:47Z"
+        }
+      ]
+    }
+  }
+}

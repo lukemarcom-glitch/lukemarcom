@@ -1,0 +1,183 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "128930435": {
+        "pageid": 128930435,
+        "ns": 6,
+        "title": "File:Lidmatenhuis van de Evangelisch Lutherse Gemeente aan de Nieuwehaven 59 1903.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lidmatenhuis_van_de_Evangelisch_Lutherse_Gemeente_aan_de_Nieuwehaven_59_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lidmatenhuis_van_de_Evangelisch_Lutherse_Gemeente_aan_de_Nieuwehaven_59_1903.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128930435",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-21 15:19:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lidmatenhuis van de Evangelisch Lutherse Gemeente aan de Nieuwehaven 59 1903",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|Houses at Nieuwe Haven (Rotterdam)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Members House of the Evangelical Lutheran Congregation at Nieuwehaven 59 in Rotterdam. Year: 1903.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1903",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/6D60E1C4D0EC4E6D85217A15363C5236\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Hendrik Jan (H.J.) van Dorp",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128938634": {
+        "pageid": 128938634,
+        "ns": 6,
+        "title": "File:Zicht op panden en het Lidmatenhuis van de Evangelisch Lutherse Gemeente aan de Nieuwehaven 1903.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Zicht_op_panden_en_het_Lidmatenhuis_van_de_Evangelisch_Lutherse_Gemeente_aan_de_Nieuwehaven_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zicht_op_panden_en_het_Lidmatenhuis_van_de_Evangelisch_Lutherse_Gemeente_aan_de_Nieuwehaven_1903.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128938634",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-21 20:36:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Zicht op panden en het Lidmatenhuis van de Evangelisch Lutherse Gemeente aan de Nieuwehaven 1903",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Media from Stadsarchief Rotterdam|Houses at Nieuwe Haven (Rotterdam)|Johanna (ship, 1897)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Nieuwehaven with the Lidmatenhuis of the Lutheran Congregation in the middle. In the water of the harbor lies a ship named 'Johanna'. Year: 1903.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1903",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/1F116CC8A6B84CB2A9D1E9FC95E2681E\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Hendrik Jan (H.J.) van Dorp",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
