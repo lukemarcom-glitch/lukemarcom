@@ -121,9 +121,16 @@ export function buildCity32(meta,{material,box,merge}){
   const g=part(root,a.x||0,a.z||0,a.angle||0),r=a.radius;
   const disk=new T.Mesh(new T.CircleGeometry(r,24),mats.glass);disk.position.set(0,a.y,.1);g.add(disk);
   const rim=new T.Mesh(new T.TorusGeometry(r,.10,4,24),mats.trim);rim.position.set(0,a.y,.13);g.add(rim);
-  for(let i=0;i<4;i++){const mull=b(g,0,a.y,.18,.07,r*1.95,.07,'trim');mull.rotation.z=i*Math.PI/4;}
+  for(let i=0;i<(a.crossOnly?2:4);i++){const mull=b(g,0,a.y,.18,.07,r*1.95,.07,'trim');mull.rotation.z=i*(a.crossOnly?Math.PI/2:Math.PI/4);}
  }
  for(const a of spec.accents||[])b(root,a.x||0,a.y,a.z||0,a.w,a.h,a.d,a.material||'trim');
+ if(spec.vertexDeform){
+  root.updateMatrixWorld(true); const v=new T.Vector3(),df=spec.vertexDeform;
+  root.traverse(o=>{if(!o.isMesh)return;let geo=o.geometry.clone();geo.applyMatrix4(o.matrixWorld);const a=geo.attributes.position;
+   for(let i=0;i<a.count;i++){v.fromBufferAttribute(a,i);if(v.y<=df.cornerHeight+.001){const sum=(v.x-df.leftX)+(df.frontZ-v.z);if(sum<df.cornerCut){const shift=(df.cornerCut-sum)/2;v.x+=shift;v.z-=shift;}}v.x+=df.shearXPerDepth*(df.frontZ-v.z);a.setXYZ(i,v.x,v.y,v.z);}geo.computeVertexNormals();o.geometry=geo;o.position.set(0,0,0);o.rotation.set(0,0,0);o.scale.set(1,1,1); // Flatten child transforms below.
+  });
+  const meshes=[];root.traverse(o=>{if(o.isMesh)meshes.push(o)});root.clear();for(const m of meshes)root.add(m);
+ }
  root.rotation.y=meta.angle||0;root.position.set(meta.center[0],.35,-meta.center[1]);
  const result=merge(root);result.name=meta.name;result.userData.landmark=meta.id;return result;
 }

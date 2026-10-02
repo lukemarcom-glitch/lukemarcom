@@ -1,0 +1,12 @@
+{
+  "selected": "foto-1-ai.png",
+  "tool": "built-in image_gen",
+  "original": "PBK4861.jpg",
+  "colorReference": "kleur1937.jpg",
+  "prompts": [
+    "PROMPT-AI-01.txt",
+    "PROMPT-AI-02.txt"
+  ],
+  "review": "Hoofdagent visueel vergeleken met origineel: drie raamassen, oculus, gevelornamenten, winkelpui, boot, voertuigen en compositie behouden. Eerste proef afgekeurd wegens extra bladeren en pseudotekst. Tweede versie kale takken en tekst gecorrigeerd; AUTO DIENST / ROTTERDAM. DEN HAAG leesbaar, overige kleine opschriften vervaagd.",
+  "uncertainty": "AI-detail en kleuren zijn interpretatie, aquarel1937 ondersteunt alleen hoofdmateriaal/kleur; foto1930 blijft geometriebron. Geen historisch bewijs."
+}

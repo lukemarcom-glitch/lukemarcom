@@ -1,0 +1,12 @@
+{
+  "selected": true,
+  "tool": "builtin image_gen",
+  "prompts": [
+    "PROMPT-AI-01.txt",
+    "PROMPT-AI-02.txt"
+  ],
+  "original": "wijnstraat20192640.jpg",
+  "check": "Compositie, 2 bovenlagen, halsgevel, oculus, hoekentree en zijgevel behouden. H.OLMAN., De Scheepvaart en telefoon1317gecontroleerd na lokale correctie. WIJNSTRAATherstel. Kleine onbekende achtergrondopschriften/ornamenten en exacte kleuren blijven interpretatie; geen volledig tekstgetrouw bewijs.",
+  "originalSha256": "1bb5a39fec95c7ef1ae74c1a159240c018ce80b541ba7a4e9016ffe785c56e72",
+  "license": "CC BY-SA4.0"
+}

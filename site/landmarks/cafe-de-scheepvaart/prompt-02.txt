@@ -1,0 +1,5 @@
+Use case: precise-object-edit / text correction. Image1 is the edit target, a colour-restored historic photo. Image2 is the original archival source for exact lettering only. Keep EVERYTHING in image1 identical (architecture, composition, colour, lighting, objects, all other words).
+Correct ONLY these two small text areas to their exact source spelling:
+1. On the main cafe window below "Café de Scheepvaart": small line must read "Telef. Interc. 1317". The digits are ONE THREE ONE SEVEN (1 3 1 7), NOT1517. Keep the original small cream/gold italic signwriting style.
+2. Blue street plaque above the cafe window: white capitals "WIJNSTRAAT" (W I J N S T R A A T), spelled exactly.
+Do not change H.OLMAN., De Scheepvaart or any other signs, borders, windows, reliefs, people, light or camera. Do not enlarge lettering beyond its plaque or add labels. Return the whole same photograph with only these local corrections.

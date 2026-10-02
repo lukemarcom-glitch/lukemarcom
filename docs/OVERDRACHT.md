@@ -418,3 +418,21 @@ Hoofdagent Meuwsen: nieuwe ronde venster/boog, livefront naastZumpolle en mobiel
 ### Ronde 7 — Rusthuis Haringvliet 50 lokaal
 
 140e locatie rusthuis-haringvliet. Hoofdagent heeft jubileum-PDF pagina7, vrije SAR-foto, historische perceel503kaart, modelrender en livekaart bekeken; individueel verlies14mei/brand bevestigd. Origineelbytegelijk. AI behoudt onleesbare plaquette zonder fantasietekst. Foto heeft expliciet maker/dateringconflict, kleurinterpretatie niet als feit gepresenteerd. Agent heeft export/clip/overlap en10tests plusdesktop/mobiel/NU3D gecontroleerd. Nog geen volledige ronde7/publicatie: drie van vijf lokaal. CaféDeScheepvaart modeldraft en AItekstcorrectie lopen; HuisLonden is vijfde onderzoekskandidaat.
+
+### 3 oktober 2026 — Huis Londen, Nieuwehaven 137 (lokaal)
+- Catalogus142: laat-zeventiende-eeuws Huis Londen toegevoegd met gevel1930, Verheul1937kleurreferentie en ongewijzigdPBK4861/AI-paar. Rechtenorigineel: eigen PD-anon-70-beoordeling anonieme publicatie1930, geenCC0claim. Beideprompts enbeeldcontrole bijassets.
+- Verlies14mei1940 expliciet als synthese van individueelWOII-verlies (VanElburg2022p419), Z17adreskaart en primaireSAR2001-1579ruïnefoto; caption noemt137nietapart. Bouwjaar1697/1699conflict daarom late17e eeuw. Plaatsing±10m, hoogte/diepte/achterkap benaderd.
+- GLB/Blend geëxporteerd,3910triangles. Mesh85.17m²,0overlapanderecatalogmodellen/achtergrond,0buitenwerkgrens. Achtergrond975polygonen.
+- npmcheck10/10; generieke en gerichtebrowserchecks142gebouwen/18verhalen,0errors/failed/overflow. Livevoorzijde enmobilegalerie bekeken. Noggeencommit/push/publicatiestatus door subagent.
+
+
+### Ronde 7 — café lokaal gecontroleerd, vijfde item in afronding
+
+Café De Scheepvaart (141) toegevoegd met ongewijzigd RCE20192640 en één gecontroleerd AI-paar; datumconflict Olman/circa1910–1920, interpretatieve kleuren en directe verliesbron Puntkomma expliciet. Hoofdagent heeft gecorrigeerde modelpreview, straatvrije kaartcontour, livebeeld en mobiele galerie bekeken. Meshcontrole nul overlap; optionele vertexDeform/crossOnly ondersteunen schuine ingang en vierdelige oculus zonder bestaande modellen te wijzigen. Export en 10tests plusbrowsercontrole geslaagd.
+
+Huis Londen (142) wordt afgerond; hoofdagent heeft UvA bijlage p419/PDF111 met individueel WOII-verlies en kaart/ruïnevergelijking onafhankelijk bekeken. Verlies14mei is een ruimtelijke synthese, niet een caption met137. Geselecteerde tweede AI-proef corrigeert extra bladeren en fictieve kleine tekst; kleurreferentie Verheul1937, geometrie foto1930. Twee prompts en beeldcontrole bewaard. Publicatie pas na vijfde modelcontrole.
+
+
+### Ronde 7 — vijf toevoegingen gecontroleerd, 3 oktober 2026
+
+Huis met de Beelden, Meuwsen Mosseltrap3, Rusthuis Haringvliet50, Café De Scheepvaart en Huis Londen vormen de volledige zevende ronde. Hoofdagent heeft laatste café/livebeeld en Londenmodel plus mobiele galerie visueel gecontroleerd; 142locaties/18verhalen/295foto’s/275paren, npmcheck nul fouten en10tests geslaagd. Cachequeries vernieuwd, inclusief gedeelde modelbouwer. Verlies-, kleur- en plaatsingsonzekerheden blijven bij de items. Publicatiecontrole volgt. Volgende versiebackup bij40toevoegingen; checkpoint30 blijft geldig.
