@@ -1,5 +1,5 @@
 {
-  "status": "beeldonderzoek en eerste kleurproef; nog geen model of runtime",
+  "status": "lokaal toegevoegd met1910fotopaar;1938kleurproef nog niet geselecteerd",
   "photos": [
     {
       "file": "142632085.jpg",
@@ -41,7 +41,7 @@
     "observed": "Hoofdcompositie, torenopeningen, bomen en voorwerpen behouden. Ornamenten en steentextuur verfijnd; geen historisch bewijs. Geen vastgestelde geveltekst: prompt verbiedt verzonnen opschriften.",
     "colors": "Licht grijsbeige steen, donkergrijs dak en koepel, donkere kozijnen zijn interpretaties, geen vastgesteld kleurenbestek."
   },
-  "next": "Tweede beeld1938 inkleuren; oudere versus modernere vleugel goed onderscheiden. Primaire tekstbron bedrijf en bomschade aanvullen, historische footprint bepalen en model bouwen.",
+  "next": "Tweede kleurproef verbeteren en historische eindcontrole voor ronde2publicatie; vijfde gebouw nog toevoegen.",
   "AI02": {
     "prompt": "PROMPT-02.txt",
     "file": "ai-proef02.png",

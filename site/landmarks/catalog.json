@@ -30739,5 +30739,489 @@
         "checkedAt": "2026-10-02"
       }
     ]
+  },
+  {
+    "id": "internatio-wolfshoek",
+    "name": "Internatio · Wolfshoek",
+    "modelFamily": "city33",
+    "kind": "building",
+    "center": [
+      -79.23957826867922,
+      -181.15248520867635
+    ],
+    "angle": 0,
+    "height": 27,
+    "modelWidth": 24,
+    "modelDepth": 38,
+    "cameraDistance": 120,
+    "backgroundClearance": 1,
+    "uncertaintyMeters": 15,
+    "polygon": [
+      [
+        -91.23957826867922,
+        -162.15248520867635
+      ],
+      [
+        -91.23957826867922,
+        -198.15248520867635
+      ],
+      [
+        -90.48130858343116,
+        -198.9922257327509
+      ],
+      [
+        -90.29018793412021,
+        -199.20309487411734
+      ],
+      [
+        -90.0793187927538,
+        -199.3942155234283
+      ],
+      [
+        -89.85073194443606,
+        -199.56374708435374
+      ],
+      [
+        -89.60662880547461,
+        -199.71005687528657
+      ],
+      [
+        -89.34936022253798,
+        -199.83173585295907
+      ],
+      [
+        -89.08140383271717,
+        -199.92761218229975
+      ],
+      [
+        -88.805340202526,
+        -199.9967625218457
+      ],
+      [
+        -79.51752427174392,
+        -201.9453701619737
+      ],
+      [
+        -67.11457826867922,
+        -199.65248520867635
+      ],
+      [
+        -66.10211001456616,
+        -197.942039010506
+      ],
+      [
+        -68.96163226561453,
+        -188.359600255379
+      ],
+      [
+        -81.23957826867922,
+        -162.15248520867635
+      ],
+      [
+        -91.23957826867922,
+        -162.15248520867635
+      ]
+    ],
+    "modelSpec": {
+      "colors": {
+        "brick": "#aaa28e",
+        "stone": "#bfb8a7",
+        "trim": "#c9c5b6",
+        "roof": "#53564e",
+        "glass": "#4e595a",
+        "dark": "#3b3d37"
+      },
+      "parts": [
+        {
+          "x": -7,
+          "z": -1,
+          "w": 10,
+          "d": 36,
+          "h": 18.5,
+          "wall": "stone",
+          "roof": "flat",
+          "floors": 4,
+          "bays": 3,
+          "sideBays": 8,
+          "groundHeight": 3,
+          "windowWidth": 1.8,
+          "windowHeight": 2.8,
+          "bands": true,
+          "back": false
+        },
+        {
+          "x": 5,
+          "z": 14,
+          "w": 14,
+          "d": 10,
+          "h": 16.8,
+          "wall": "stone",
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 3.4,
+          "windows": false,
+          "angle": 0.29
+        },
+        {
+          "x": -7,
+          "z": -1,
+          "w": 8,
+          "d": 33,
+          "h": 1.8,
+          "base": 18.5,
+          "wall": "stone",
+          "roof": "flat",
+          "windows": false
+        },
+        {
+          "x": -0.3436542305565147,
+          "z": 19.873275020314942,
+          "w": 0.65,
+          "d": 0.8,
+          "h": 19.2,
+          "roof": "none",
+          "wall": "stone",
+          "windows": false,
+          "angle": 0.29
+        },
+        {
+          "x": 12.688462476416168,
+          "z": 15.984324758889178,
+          "w": 0.65,
+          "d": 0.8,
+          "h": 19.2,
+          "roof": "none",
+          "wall": "stone",
+          "windows": false,
+          "angle": 0.29
+        },
+        {
+          "x": 6.464075392536758,
+          "z": 18.90620864262501,
+          "w": 14.4,
+          "d": 0.3,
+          "h": 0.28,
+          "base": 4.36,
+          "angle": 0.29,
+          "roof": "none",
+          "windows": false,
+          "wall": "trim"
+        },
+        {
+          "x": 6.464075392536758,
+          "z": 18.90620864262501,
+          "w": 14.4,
+          "d": 0.3,
+          "h": 0.28,
+          "base": 9.16,
+          "angle": 0.29,
+          "roof": "none",
+          "windows": false,
+          "wall": "trim"
+        },
+        {
+          "x": 6.464075392536758,
+          "z": 18.90620864262501,
+          "w": 14.4,
+          "d": 0.3,
+          "h": 0.28,
+          "base": 16.56,
+          "angle": 0.29,
+          "roof": "none",
+          "windows": false,
+          "wall": "trim"
+        }
+      ],
+      "towers": [
+        {
+          "x": -9,
+          "z": 16,
+          "radius": 2.6,
+          "h": 22,
+          "wall": "stone",
+          "storey": 4.5,
+          "windowWidth": 1.6,
+          "windowHeight": 2.8,
+          "sides": 12,
+          "roofProfile": [
+            [
+              2.8,
+              0
+            ],
+            [
+              2.7,
+              0.5
+            ],
+            [
+              2.45,
+              1.8
+            ],
+            [
+              1.9,
+              3
+            ],
+            [
+              1.1,
+              3.9
+            ],
+            [
+              0.5,
+              4.2
+            ],
+            [
+              0.5,
+              4.6
+            ],
+            [
+              0,
+              4.6
+            ]
+          ]
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": 1.6556988814669813,
+          "z": 20.27847513561842,
+          "y": 2,
+          "w": 1.9,
+          "h": 2.5,
+          "arched": true,
+          "angle": 0.29
+        },
+        {
+          "x": 1.6556988814669813,
+          "z": 20.27847513561842,
+          "y": 7,
+          "w": 1.9,
+          "h": 3.8,
+          "arched": false,
+          "angle": 0.29
+        },
+        {
+          "x": 1.6556988814669813,
+          "z": 20.27847513561842,
+          "y": 12.8,
+          "w": 1.9,
+          "h": 3.8,
+          "arched": true,
+          "angle": 0.29
+        },
+        {
+          "x": 5.68032315862031,
+          "z": 19.077475790178113,
+          "y": 2,
+          "w": 1.9,
+          "h": 2.5,
+          "arched": true,
+          "angle": 0.29
+        },
+        {
+          "x": 5.68032315862031,
+          "z": 19.077475790178113,
+          "y": 7,
+          "w": 1.9,
+          "h": 3.8,
+          "arched": false,
+          "angle": 0.29
+        },
+        {
+          "x": 5.68032315862031,
+          "z": 19.077475790178113,
+          "y": 12.8,
+          "w": 1.9,
+          "h": 3.8,
+          "arched": true,
+          "angle": 0.29
+        },
+        {
+          "x": 9.70494743577364,
+          "z": 17.876476444737804,
+          "y": 2,
+          "w": 1.9,
+          "h": 2.5,
+          "arched": true,
+          "angle": 0.29
+        },
+        {
+          "x": 9.70494743577364,
+          "z": 17.876476444737804,
+          "y": 7,
+          "w": 1.9,
+          "h": 3.8,
+          "arched": false,
+          "angle": 0.29
+        },
+        {
+          "x": 9.70494743577364,
+          "z": 17.876476444737804,
+          "y": 12.8,
+          "w": 1.9,
+          "h": 3.8,
+          "arched": true,
+          "angle": 0.29
+        },
+        {
+          "x": -9.0,
+          "z": 18.61,
+          "angle": 0.0,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -7.154451301103111,
+          "z": 17.845548698896888,
+          "angle": 0.7853981633974483,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -6.390000000000001,
+          "z": 16.0,
+          "angle": 1.5707963267948966,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -7.154451301103111,
+          "z": 14.154451301103112,
+          "angle": 2.356194490192345,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -9.0,
+          "z": 13.39,
+          "angle": 3.141592653589793,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -10.845548698896888,
+          "z": 14.15445130110311,
+          "angle": 3.9269908169872414,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -11.61,
+          "z": 16.0,
+          "angle": 4.71238898038469,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        },
+        {
+          "x": -10.84554869889689,
+          "z": 17.845548698896888,
+          "angle": 5.497787143782138,
+          "y": 19.7,
+          "w": 1.2,
+          "h": 3.2,
+          "arched": true
+        }
+      ]
+    },
+    "modelDownload": "landmarks/internatio-wolfshoek/model.glb",
+    "description": "Kantoor van de Internationale Crediet- en Handelsvereeniging aan de Wolfshoek, met een ronde koepeltoren op de hoek van de Wijnhaven.",
+    "periodNote": "Bouwmassa benaderd naar beelden uit 1935 en 1938–1939. De galerijfoto uit 1910 toont een oudere bouwfase.",
+    "colorNote": "Licht grijsbeige steen, donkere daken en gedempte kozijnen zijn materiaalinterpretaties. Geen oorspronkelijke verfkleuren of steenmonsters vastgesteld.",
+    "placementNote": "Benaderde hoekpositie op historische kaart, centrum bij kaartpixel2799,2727; circa15m onzeker. Gevel langs Wijnhaven en modernere vleugel langs Wolfshoek afzonderlijk weergegeven. Hoogten, koepelprofiel, vensters en binnenterrein vereenvoudigd.",
+    "story": "Op de hoek van Wolfshoek en Wijnhaven stond het kantoor van de Internationale Crediet- en Handelsvereeniging. De ronde hoektoren met koepel maakte het gebouw herkenbaar vanaf het water. De foto van P.F. van den Ende uit 1910 laat de hoge vensters, versierde gevelband en oudere linkerzijgevel zien. Op de opname uit 1938–1939 is die linkerzijde veranderd: naast de toren staat dan een grotere kantoorvleugel met brede raamstroken en een terugliggende bovenverdieping. Het model volgt die latere bouwmassa; de oudere foto blijft beschikbaar om de verandering te zien. Een foto van G.J. de Groot uit juni1940 toont de uitgebrande resten, met de koepel verdwenen. Het model is geen ingemeten reconstructie: vooral de vensters, de achterzijde en de precieze hoogten blijven benaderingen. Ook de kleuren zijn interpretaties.",
+    "wikipediaNote": "Geen specifieke Wikipedia-pagina over dit verdwenen kantoor vastgesteld; de directe archiefbronnen onderbouwen dit item.",
+    "photos": [
+      {
+        "src": "landmarks/internatio-wolfshoek/foto-1-origineel.jpg",
+        "ai": "landmarks/internatio-wolfshoek/foto-1-ai.webp",
+        "title": "Internatio aan de Wolfshoek · oudere bouwfase, 1910",
+        "shortTitle": "Koepeltoren in 1910",
+        "date": "1910 volgens archiefregistratie",
+        "author": "P.F. van den Ende",
+        "license": "CC0 volgens Commons / Stadsarchief Rotterdam",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_kantoorgebouw_van_de_Internationale_Crediet-_en_Handelsvereniging_op_de_hoek_van_de_Wolfshoek_en_Wijnhaven_1910.jpg",
+        "archiveUrl": "https://hdl.handle.net/21.12133/BDFD9511DF2E4BCFA819556A521B205B",
+        "identifier": "Stadsarchief Rotterdam · BDFD9511DF2E4BCFA819556A521B205B",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Interpretatieve inkleuring van de oudere bouwfase uit 1910. Geen leesbare geveltekst vastgesteld; prompt verbiedt verzonnen opschriften. Fijne ornamenten, steenstructuur en scheepsdetails kunnen afwijken. Exacte kleuren onbekend."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stadsarchief · kantoor in 1910",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_kantoorgebouw_van_de_Internationale_Crediet-_en_Handelsvereniging_op_de_hoek_van_de_Wolfshoek_en_Wijnhaven_1910.jpg",
+        "supports": "Identiteit van het kantoor, oudere gevelvorm, fotograaf en datering.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · kantoor in 1938–1939",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_kantoorgebouw_van_de_Internationale_Crediet-_en_Handelsvereniging_op_de_hoek_van_de_Wolfshoek_en_Wijnhaven_met_op_de_achtergrond_de_Sint-Laurenskerk_in_de_steigers_1938_-_1939.jpg",
+        "supports": "Latere bouwfase met modernere linker kantoorvleugel, hoekpositie en koepeltoren.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · luchtfoto1935",
+        "url": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_omgeving_van_de_Blaak_en_Leuvehaven_bij_de_Keizersbrug,_Lutherse_Kerk_en_Zeevischmarkt_1935.jpg",
+        "supports": "Relatie tot Lutherse kerk, Wolfshoek, Wijnhaven en bouwblok.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · verwoest kantoor juni1940",
+        "url": "https://commons.wikimedia.org/wiki/File:De_Leuvehaven_met_het_verwoeste_kantoorgebouw_van_de_Internationale_Crediet-_en_Handelsvereniging_op_de_hoek_van_de_Wolfshoek_en_Wijnhaven_1940.jpg",
+        "supports": "Uitgebrande restanten, verdwenen koepel; opname3–4juni1940 door G.J. de Groot.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Vooroorlogse straten en perceelsindeling voor benaderde plaatsing; kaart uitgegeven1955.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "exclusionPolygon": [
+      [
+        -86.54482870604147,
+        -159.67179500861903
+      ],
+      [
+        -76.3640808200546,
+        -156.5675472182486
+      ],
+      [
+        -69.07987499522687,
+        -173.85633422158298
+      ],
+      [
+        -63.09738936009785,
+        -170.79739340468177
+      ],
+      [
+        -56.397903419296654,
+        -191.086869401885
+      ],
+      [
+        -87.54290520059885,
+        -199.80724188396016
+      ]
+    ]
   }
 ]
