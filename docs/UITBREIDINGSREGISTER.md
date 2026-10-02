@@ -199,3 +199,10 @@ Primaire SARregistratie XXIII-83-01/HDL24B8A0EB4E044F1BB1B5C127EC2EDAFE noemt Sp
 
 ### Asta lokaal gecontroleerd
 Model, fotopaar en bronnen geïntegreerd alslocatie124. Parentbeeldreview en origineel/prompt-bytecontrole geslaagd, technischeenbrowserchecks geslaagd. Ronde4nu2modellen: Kaiserlive,Astaalleenlokaal. Publiekteller16,volledigebackupbij20blijftopen.
+
+
+### Ronde4 — Cineac en Nieuwehaven59 lokaal gecontroleerd
+
+Cineac en Koopmanshuis Nieuwehaven59 toegevoegd als locaties125 en126, in commitcc7e31c. Cineac2fotoparen (entree enluchtfoto), Nieuwehaven59 ééngevelpaar. Primairehuisnummerkaarten1938 ondersteunenplaatsing, oorspronkelijkeplaatsingsonzekerheden10mblijvenzichtbaar. Modellenexport/enoverlapvrij, 10checks engerichtebrowsercontrolesgoed. Algemene browsercontrole126/18 eveneens foutloos. Noggeenpush/publicatie; publieketellerblijft16.
+
+Heck'sCityLunchroomNoordblaak71 vervangtvoorlopigVanRossem alsvijfdeinronde4. Tweeoud/AIparen voorbereid, herkenbareopschriftengecontroleerd. PlaatsinghoekZijlwatersteeg opkaart1938+foto, circa6monzeker; modelintegratieinuitvoering. Backupcheckpoint20pasna afgerondepublicatieenpubliekeverificatie.

@@ -3,7 +3,7 @@ import * as THREE from './vendor/three.module.js';
 // Hand-traced historical shorelines, in source-map pixels. Never use current OSM
 // water geometry here: several Rotterdam harbours have since been filled in.
 export async function createHistoricWater(scene, model) {
-  const response = await fetch('./data/historic-water.json?v=1');
+  const response = await fetch('./data/historic-water.json?v=2');
   if (!response.ok) throw new Error('Historische watercontouren konden niet laden');
   const data = await response.json();
   const matrix = model.fit.centrum.matrix_pixel_naar_lokale_meter;

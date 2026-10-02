@@ -255,3 +255,20 @@ Naast de entreefoto staat nu de volledige KLM-luchtfoto uit 1939 met afzonderlij
 
 
 Parentcontrole: Cineac-kaartscreenshot en mobiele tweede-fotopaarlichtbak bekeken; Nieuwehaven59-kaartscreenshot vergeleken met originele gevelbeeld, dichte dakkapellen behouden. De RJB1944-link voor59 geeft actuele DNS-fout en is daarom met unavailable/accessNote gemarkeerd. De drie nieuwe lokale locaties sinds Kaiser (Asta, Cineac, Nieuwehaven59) zijn nog niet gepubliceerd. Heck Noordblaak is de kandidaat voor de vijfde van ronde4; VanRossem blijft geparkeerd wegens onzekere achtergevelplaatsing.
+
+
+## Ronde4 — Heck in afwerking
+
+Heck's City Lunchroom Noordblaak71 is als vervangende kandidaat bevestigd met voorgevelkaart PBK2007424 en primaire ruïnerecord XXXIII5692527 die14mei1940 expliciet noemt. Parent heeft bronkaartZ9, doelkaartoverlay, wholephotoPBK578, detailfoto en beideAIproeven bekeken. Modelconcept14.63×23.26m, circa6mplaatsingsonzekerheid; vlakdak enkleinedakopbouw, geenmansarde vanbuurMeyer&Blessing. Tweeorigineel/AIparen enexacteprompts voorbereidonderheck-city-noordblaak. Publicatie wacht nogop definitieveintegratie/export/browsertest.
+
+Algemene browsercontrole lokale126locaties/18verhalen: geenpageerrors ofmislukteruntimeverzoeken, geenmobieleoverflow, fotopaar/lichtbak/Nu3Dgoed. Cacheversiesvoorcatalogus/achtergrond/app voorbereidvoorronde4. Publicatietellerblijft16; next20backupnietvoortijdigaangemaakt.
+
+## 2 oktober 2026 — Heck’s City Lunchroom Noordblaak (lokaal)
+
+Locatie127 toegevoegd onder heck-city-noordblaak: drie gevelniveaus, restaurantvensters, schuine hoektravee en vlak dak met kleine opbouw; geen hoge kap van buurgebouw. Historische plaatsing naast Zijlwatersteeg op basis van adres71 en kaart1938, percelen1440/505 als onderbouwde interpretatie; circa6m onzekerheid. Model14,63×23,26m; hoogten/kleuren benaderd.3552driehoeken, GLB/Blend geëxporteerd en achtergrond vrijgemaakt. Binnen werkgrens, geen overlap met catalogusmodellen, steeg zichtbaar vrij.
+
+Twee originele/AI-prentbriefkaartparen met directe bronregistraties en expliciete PD-anon70beoordeling, geen verzonnen primairePDM-claim.149woorden achtergrond en zes directe bronnen. Beide originelen bytegelijk behouden. Gerichte desktop/mobiel/tweepaar/lichtbak/Nu3D-tests geslaagd, screenshot model en mobiele lichtbak bekeken; npmcheck10/10. Bewijs research/expansion-20261002/heck-noordblaak/INTEGRATIE.md. Nog geen commit/push door subagent; hoofdagent verzorgt gezamenlijke release.
+
+## 2 oktober 2026 — uitbreiding historisch water
+
+26 deelgebieden / 34 niet-overlappende watervlakken langs historische havens, grachten en singels. Kades gecontroleerd tegen de oorspronkelijke kaart; gedempte waterlopen blijven droog. Zie HISTORISCH-WATER.md en traceerbestanden. Watercheck: alle34meshes zichtbaar in Toen, verborgen bij Nu en brandkaart; geen browserfouten. Algemene desktop/mobielcontrole127locaties geslaagd. Gezamenlijke publicatie met afgeronde ronde4 wordt hierna extern gecontroleerd.
