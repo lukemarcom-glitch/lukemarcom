@@ -64,3 +64,10 @@ Twee nieuwe bronbeelden van het naburige Lidmatenhuis Nieuwehaven59 uit1903 opge
 HisGIS beschrijft expliciet Rotterdam1903-adressenlaag met STRAATNAAM/BLOK/VANNR/TOTNR: https://www.hisgis.nl/hisgis/gewesten/rotterdam/kaartlagen . Projectpagina https://hisgis.nl/projecten/rotterdam/ geeft in browser legepagina; oude viewer https://www.hisgis.nl/hisgis/gewesten/rotterdam/rotterdam geeft404. Dit is een kansrijke gegevensbron, geen opgehaalde adreslocatie. Gemeentelijke1940MapServermetadata heeft lege layers enNaNextent, dus ook geen plaatsingsbewijs.
 
 SorteerderijfotoSFA022808163 uit1915 nu AI-bewerkt. Zakvoorgrondletters exactMR/M/F. Gevouwen zakachtergrond slechtsSUMA zichtbaar, niet totSUMATRA aangevuld. PROMPT-sorteerderij-01 en02 bewaard. Proef01 afgekeurd wegens extra gedeeltelijk gezicht helemaal rechtsboven achter tabakszak. Proef02 verwijdert dat;10personen zoalsorigineel, grotelettersbehouden. Kleine etiketten engezichten blijven te gedetailleerd geïnterpreteerd, natuurkleur tabak/hout/kleding nietbewezen. Proef02 kandidaat voor aanvullend fotopaar, nog geenruntime.
+
+
+## Heropende huisnummerlezing — primaire kaart1938, 2 oktober2026
+
+De eerdere stellige correctie naar38 is ingetrokken als zekerheid. Onafhankelijke review leest mogelijk58; parent ziet op originele crop een dubbelzinnig gestileerd eerste cijfer. Op huisnummerkaart1938 Z17 liggen Groenendaal38 en58 op verschillende plekken. Dat bewijst nog niet welk nummer de foto1915 toont: vernummering tussen beide datums is eveneens mogelijk. Gebruik geen van beide nummers als zelfstandig plaatsingsbewijs. AI-proef02 met38 voorlopig niet integreren totdat kaart/fotomatch en/of contemporaine adresbron de lezing ondersteunt.
+
+Wel onafhankelijk bevestigd: Nieuwehaven59 = perceel971, Nieuwehaven67 =1042 op Z17. Primaire kaartbron https://hdl.handle.net/21.12133/465C6A184A41416CB5DD1EE39CF9C54B . Welke achtergevel bij welk voorperceel hoort moet nog apart worden bewezen.

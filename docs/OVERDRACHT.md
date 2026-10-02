@@ -233,3 +233,25 @@ Release262f64baddac537d66a01f284783d89c30ac25f8, GitHubPages37021549194 geslaagd
 Catalog124; publieke teller blijft16 totdat resterende ronde wordt gepubliceerd. AstaHoogstraat160 is een9×10mvoorbouwstudie,18.4mhoog,20mplaatsingsonzekerheid. Achterzaal onbekend en niet ingevuld. Parent heeft modelpreview, kaartscreenshot, foto/AI en brontekst gecontroleerd; oorspronkelijkeSpaarnestad1930foto byte-identiek bewaard en prompt exact overgenomen. PrimaireSARlicentiePublicDomainMark1.0 zelfgelezen.
 
 De oudere1938foto/AI's niet publiceren wegens conflicterende rechten. Huidig geselecteerd1930paar bewaart hoofdtitelMASKED EMOTIONS en prijsreeks60/60/50/40/30/25; kleineletter-/portretdetails expliciet interpretatief. PassendeWikipediaAsta(Rotterdam) rechtstreeksgeverifieerd. Exports606triangles,94KBGLB; achtergrondgeclipt en geenoverlap. Agentbewijs round4-b/asta-integration-check.md:10checks en algemene/gerichte browserdesktopmobiel geslaagd. Noggeenpublicatieofcheckpoint20.
+
+
+## Cineac — fotopakket voorbereid, plaatsing in controle
+
+Originele entreefoto (SAR4100/2007-73-TM-76 deel75/beeld03) ongewijzigd en geselecteerde AI-proef02 als PNG/WebP (155KB) klaargezet onder cineac-coolsingel-vooroorlogs. Twee exacte prompts en rechten-/kleurtoelichting bewaard. Commons vermeldt publiek domein; primaire registratie noemt anoniem/downloadbaar zonder expliciete PDM, dus dit onderscheid behouden. Groen/cyaan lichtopschrift steunt op echte Boske-kleurenopname van een andere datum. Kleine tekst en gezichten blijven interpretatief. Nog niet in catalogus of gepubliceerd.
+
+Nieuwe primaire huisnummerkaarten 1938 bieden betere plaatsingsankers: Cineac Coolsingel35 perceel2155 (Z4), Nieuwehaven59 perceel971 en Nieuwehaven67 perceel1042 (Z17). Dit zijn onderzoeksresultaten; kaarttransformatie en onafhankelijke visuele controle moeten vóór runtime-integratie worden afgerond. De lezing38 op de foto1915 is opnieuw onzeker (mogelijk58); kaart1938 kan bovendien een andere nummering hebben. Gebruik dit opschrift niet als zelfstandig anker en integreer de AI met38 voorlopig niet. Behandel de voor- en achteradressen niet als één footprint zonder aanvullend bewijs. Publieke uitbreidingsteller blijft16, Asta lokaal afgerond; backup bij20.
+
+## 2 oktober 2026 — Cineac NRC oude Coolsingel (lokaal)
+
+Cineac als locatie125 toegevoegd, na Asta. Plaatsing volgt primaire huisnummerkaart1938, perceel2155/Coolsingel35, naast Heck31, gekoppeld aan de bestaande centrumkaart en KLM-luchtfoto1939. Eye/CinemaContext noemen17; de vernummeringsoorzaak is niet bewezen en dit verschil staat expliciet in de plaatsingsnotitie. Geen naoorlogs adres gebruikt; circa10m plaatsingsonzekerheid.
+
+Voorbouw met twee bovenlagen, drie raamassen, luifel en eenvoudige geometrische neonletters. Begane grond is een donkere ingang met affichevlakken, geen woonhuisramen. Lange achterzaal opgenomen als geschat dakvolume op basis van luchtfoto en kavel; smalle achterste verbinding en interne indeling niet gereconstrueerd. Tinten blijven interpretatie, neon gebaseerd op Boskes echte nachtkleurenfoto.3240driehoeken, GLB/Blend geëxporteerd, gehele modelomtrek incl.luifel/achterzaal vrijgemaakt. Binnen werkgrens, geen overlap met catalogusfootprints.
+
+Eén entree-origineel/AI-paar, origineel ongewijzigd, tweedeAI-proef met originele prompts bewaard. CommonsPD-beoordeling apart benoemd: primaire archiefregistratie noemt anoniem/downloadbaar maar zelf geenPDM. Negen directe bronnen met supports en tekst onder400woorden. Npmcheck10/10 en gerichte desktop/mobiel/lichtbak/Nu3D-browsercontrole geslaagd, geen fouten/overflow. Niet gepubliceerd of gecommit door subagent; gezamenlijke release bij hoofdagent.
+
+### Cineac: tweede fotopaar (2 oktober 2026, lokaal)
+
+Naast de entreefoto staat nu de volledige KLM-luchtfoto uit 1939 met afzonderlijke AI-kleurinterpretatie. Primaire SAR Public Domain Mark 1.0 en directe recordlink zijn opgenomen; AI-contextbeeld is expliciet geen historische meetbron. Beide paren en mobiele lichtbak getest en screenshot bekeken; npm run check 10/10, geen fouten. Controle in research/expansion-20261002/round4-cineac/TWEE-FOTOPAREN-CONTROLE.md. Nog geen commit/publicatie door deze agent.
+
+
+Parentcontrole: Cineac-kaartscreenshot en mobiele tweede-fotopaarlichtbak bekeken; Nieuwehaven59-kaartscreenshot vergeleken met originele gevelbeeld, dichte dakkapellen behouden. De RJB1944-link voor59 geeft actuele DNS-fout en is daarom met unavailable/accessNote gemarkeerd. De drie nieuwe lokale locaties sinds Kaiser (Asta, Cineac, Nieuwehaven59) zijn nog niet gepubliceerd. Heck Noordblaak is de kandidaat voor de vijfde van ronde4; VanRossem blijft geparkeerd wegens onzekere achtergevelplaatsing.
