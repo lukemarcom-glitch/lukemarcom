@@ -1,0 +1,192 @@
+{
+  "releaseCommit": "33d642184492292c80cd92e1a012a84af6a3532b",
+  "pagesRun": 37016416141,
+  "files": [
+    {
+      "path": "data/model-landmarks.json",
+      "status": 200,
+      "sha256": "45e7fcb9a553315f49b72c8b7ff5753b0ec17ee1d87aa52f790d8d345ae7c6e8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/amicitia-zuidblaak/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "f4df5cf2450379031da6e22eeb7a86a097d73b1e9ff564b0f88b72322875bbbe",
+      "identical": true
+    },
+    {
+      "path": "landmarks/amicitia-zuidblaak/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "5c51b43207fa7ad7223b4f6923988adb7a85aa15e86dacf018c24abe5d818af4",
+      "identical": true
+    },
+    {
+      "path": "landmarks/amicitia-zuidblaak/model.glb",
+      "status": 200,
+      "sha256": "f2de74f43a364f4f96ac8d52091eba8527238f65b423195b56856cf6615e8e50",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "status": 200,
+      "sha256": "6b3a0c4fab577782753ef12687511d3e998539ae2123769fba4adb2f007aca81",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hema-korte-hoogstraat/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "ef277ff013bcdf4c08caa3e0022c88ee36d6479dd85a2e28644ac9e2fc33ae7d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hema-korte-hoogstraat/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "8b0da0cfecfca67e04c2907e8e70ed21bdb905769715ef3dac535e8c7c583858",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hema-korte-hoogstraat/model.glb",
+      "status": 200,
+      "sha256": "e7385a552b0cbf4380bfd34723442865bdeafc4d53dd4cde71c14bb916b1b7b9",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-model.js",
+      "status": 200,
+      "sha256": "29750e17bee58c65f41e533475940a4900e61f0ae7bcc40bc9b2fdcdaac4f1dd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat/model.glb",
+      "status": 200,
+      "sha256": "cb7eebc2448e19a22109082712512aec41a48bc4d1e8975282749ef72f976249",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwe-westerkerk-ammanstraat/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "2253421b5d4d5dbf3a27f525f10f5cb050a5c4843d5e31fd677f2eb86cd86fe6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwe-westerkerk-ammanstraat/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "015fcf8a7e7612fe73e1fa2ca7f8cbfbbcdb8cb7e7e3e52e2333e24466df1950",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwe-westerkerk-ammanstraat/model.glb",
+      "status": 200,
+      "sha256": "25eeb59833d78a1addffa0098b4a99bc787789312e324229d7c94426a29a6d32",
+      "identical": true
+    },
+    {
+      "path": "landmarks/voorwaarts-slaak/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "e2c55b1894103e67b460d149c36f77debdd19e05f5d62b84b3f029a18753186d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/voorwaarts-slaak/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "a61ee8a46c9df411b3ec03bc7c8c9fc6f5cb33f26f0ba3b515ae972f5c0f0823",
+      "identical": true
+    },
+    {
+      "path": "landmarks/voorwaarts-slaak/model.glb",
+      "status": 200,
+      "sha256": "a2057200fe5162e094cf0391b883ca6c29bba4c156db3c504a9610c58eed8758",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zumpolle-hoofdsteeg/foto-1-ai.webp",
+      "status": 200,
+      "sha256": "6054ff4e5215dab1916a11f6aeef534a612d4a3a1813dbd120cac046bbc0b264",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zumpolle-hoofdsteeg/foto-1-origineel.jpg",
+      "status": 200,
+      "sha256": "1225357f05e4f74401b24c475fab4e2c7c0534b01fff016bf23db82ba7031736",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zumpolle-hoofdsteeg/model.glb",
+      "status": 200,
+      "sha256": "b691ba8281070218f6d886c8049f8e3a74217f03c972fe678a89c391f54ef277",
+      "identical": true
+    }
+  ],
+  "anonymousBrowserChecks": {
+    "nieuwe-westerkerk-ammanstraat": {
+      "base": "https://rdam39.nl/",
+      "buildings": 122,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    "hema-korte-hoogstraat": {
+      "base": "https://rdam39.nl/",
+      "buildings": 122,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    "zumpolle-hoofdsteeg": {
+      "base": "https://rdam39.nl/",
+      "buildings": 122,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    "voorwaarts-slaak": {
+      "base": "https://rdam39.nl/",
+      "buildings": 122,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    "amicitia-zuidblaak": {
+      "base": "https://rdam39.nl/",
+      "buildings": 122,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    }
+  }
+}
