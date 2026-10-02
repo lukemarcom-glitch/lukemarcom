@@ -1,0 +1,51 @@
+{
+  "status": "beeldonderzoek en eerste kleurproef; nog geen model of runtime",
+  "photos": [
+    {
+      "file": "142632085.jpg",
+      "date": "1910",
+      "author": "P.F. van den Ende",
+      "rights": "CC0 volgens Commons",
+      "archive": "https://hdl.handle.net/21.12133/BDFD9511DF2E4BCFA819556A521B205B",
+      "observed": "Ronde hoektoren, drie hoge bouwlagen en licht steenwerk, schuindak en decoratief fries; oudere linkerzijgevel achter bomen."
+    },
+    {
+      "file": "145894836.jpg",
+      "date": "1938–1939",
+      "author": "anoniem",
+      "rights": "PD-anon-70-EU volgens Commons",
+      "archive": "https://hdl.handle.net/21.12133/6192608863EA4052A83269F9E0297577",
+      "observed": "Koepel en rechter gevel nog herkenbaar, maar links modernere uitgebreide gevel en opbouw. Niet blind1910 als1939model presenteren. Commons source/author velden omgewisseld: Stadsarchief is instelling, geen fotograaf."
+    },
+    {
+      "file": "146115595.jpg",
+      "date": "3–4 juni1940",
+      "author": "G.J. de Groot",
+      "rights": "CC0 volgens Commons",
+      "archive": "https://hdl.handle.net/21.12133/B6D5160C39FD44CEA408CF34254647E7",
+      "observed": "Grotendeels uitgebrande modernere vleugel en torenrest zonder koepel."
+    },
+    {
+      "file": "126999406.jpg",
+      "date": "1935",
+      "author": "KLM Aerocarto",
+      "rights": "CC0 volgens Commons",
+      "archive": "https://hdl.handle.net/21.12133/7F19EFB2F90243FF9C94EFA8FE766AFD",
+      "observed": "Nog apart in detail beoordelen voor footprint."
+    }
+  ],
+  "AI01": {
+    "prompt": "PROMPT-01.txt",
+    "file": "ai-proef01.png",
+    "status": "voorlopig geselecteerd, eindcontrole later",
+    "observed": "Hoofdcompositie, torenopeningen, bomen en voorwerpen behouden. Ornamenten en steentextuur verfijnd; geen historisch bewijs. Geen vastgestelde geveltekst: prompt verbiedt verzonnen opschriften.",
+    "colors": "Licht grijsbeige steen, donkergrijs dak en koepel, donkere kozijnen zijn interpretaties, geen vastgesteld kleurenbestek."
+  },
+  "next": "Tweede beeld1938 inkleuren; oudere versus modernere vleugel goed onderscheiden. Primaire tekstbron bedrijf en bomschade aanvullen, historische footprint bepalen en model bouwen.",
+  "AI02": {
+    "prompt": "PROMPT-02.txt",
+    "file": "ai-proef02.png",
+    "status": "nog niet geselecteerd",
+    "observed": "Modernere vleugel behouden, maar veel scherpere dak-/scheepsdetails en meer groen aan bomen dan lage-resolutiebron rechtvaardigt. Vergelijk nader of maak zachtere proef. Geen definitieve goedkeuring."
+  }
+}

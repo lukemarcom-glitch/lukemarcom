@@ -1,4 +1,4 @@
-# Ronde 2 — voorlopige kandidaten, nog geen toevoegingen
+# Ronde 2 — werkregister (chronologische onderzoeksnotities)
 
 - Waalse School, Lange Torenstraat: eigen geschiedenis bevestigt verhuizing 1915 en volledige verwoesting bij bombardement 1940. https://www.waalseschool.nl/waalse-school/geschiedenis/ . Niet huidige Goudseweg gebruiken. Vrij herbruikbare vooroorlogse foto's en footprint nog zoeken.
 - Loge De Drie Kolommen, Oppert: eigen geschiedenis beschrijft pand van D. Verheul (1882) en verwoesting mei 1940. https://dedriekolommen.nl/vrijmetselaarsloge-rotterdam/geschiedenis-en-huisvesting-van-loge-de-drie-kolommen/ . Adresnummering verschilt per bron (OZ47/72/75): eerst historische locatie uitzoeken. Voorgevelbeeld aanwezig op website, rechten nog niet vastgesteld.
@@ -12,3 +12,7 @@ Geen van deze kandidaten telt als toegevoegd of als backupcheckpoint. Vorige ron
 Drie vooroorlogse foto's plus gevel-/kleurenschets via Commons API gevonden en gedownload in ../nederlanden-1845/. Rechtstreekse CommonsAPI werkt, ook waar webpagina-opening faalt; dit is een bruikbare vervolgingang voor andere kandidaten. Metadata incl. oorspronkelijke hdl-links en rechten opgeslagen. Eerste AI-paar gegenereerd en visueel beoordeeld, grote opschriften behouden. Kleuren gebaseerd op ontwerp1909–1913, expliciet interpretatief. Nog geen model/catalogusplaatsing; niet meetellen. Zie research-review.json en PROMPT-01.txt.
 
 Let op: bronlinks van Berlage-tekeningen op Commons verwijzen foutief naar DUDO; correct archiefnummer is BERL_128-2 resp.BERL_128-4, objectBERL.110318262. Voor publicatie correcte rechtstreekse archiefbron zoeken. De foto uit1935 en het straatbeeld1918–1922 zijn twee aanvullende mogelijke AI-paren. Het 1900-pand is mogelijk een oudere bouwfase: niet mengen met Berlage1911.
+
+## Actuele stand
+
+Lokaal toegevoegd, nog niet gepubliceerd: Nederlanden1845, Marxbank, Station Beurs. Volgende prioriteit: Internatio Wolfshoek (foto’s en twee kleurproeven verzameld; bouwfaseverschil nader verwerken). De Drie Kolommen en Waalse School blijven reserve wegens ontbrekende geverifieerde fotobron. De bovenstaande vroege notities zijn geen actuele voltooiingsstatus.
