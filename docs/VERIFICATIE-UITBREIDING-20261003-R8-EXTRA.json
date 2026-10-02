@@ -1,0 +1,26 @@
+{
+  "release": "f966862bf1d7de8ff5a8b858817f69f8d42b4020",
+  "checkedAt": "2026-10-02T23:24:18.608Z",
+  "files": [
+    {
+      "path": "landmarks/models.js",
+      "identical": true,
+      "sha256": "aadf31b11add18d0cbe05b8cfb6e345a3c3f9836816cabab7c5d54067b2b7cff"
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "identical": true,
+      "sha256": "382531f5db87d3f76ffa1e4f5938c8d37634b11a747249067e2867eba6d688c7"
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven89/model.glb",
+      "identical": true,
+      "sha256": "a35b28bfa851bd8765c78a166c163f8258481d3660b95d00a3a69a8ad9cfa269"
+    },
+    {
+      "path": "landmarks/olv-wijnhaven/model.glb",
+      "identical": true,
+      "sha256": "1fdd3156b698f436ed990949ff6d1b9a50ad9a3c539f9285da97ca3b6d901ae5"
+    }
+  ]
+}

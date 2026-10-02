@@ -1,0 +1,131 @@
+{
+  "checkedAt": "2026-10-02T23:24:01.275Z",
+  "releaseCommit": "f966862bf1d7de8ff5a8b858817f69f8d42b4020",
+  "pagesRun": "37077246775",
+  "buildings": 147,
+  "ids": [
+    "hbs-alkemade",
+    "wijnhaven145-moll",
+    "koopmanshuis-nieuwehaven87",
+    "wijnhaven62-pinto",
+    "huis-keulen"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "75ca7652ed5e65471b969eace2b90d145ce231d9f5932fedf726a049f9f676e1",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "5a49880a84267a9c22e7d34d9493da820952de2d300bb7ddedeb277d1d431720",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "ed7ea52be446526e0d74b84c66435dbbac31fc9dcbb346101de337b9d35280fa",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "0cd93f382db9f25f600f3c405009b72c683e220291e65e281c19b5a756409457",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hbs-alkemade/model.glb",
+      "sha256": "425c2dc07e578a5904bde1548183d296fe94a491f2cf52b31cfad859e3d909cd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hbs-alkemade/foto-1-origineel.jpg",
+      "sha256": "7e0abb852bab411fe011e1a6b94f534fb88bddabf156d9d72759b0f3bd446c44",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hbs-alkemade/foto-1-ai.webp",
+      "sha256": "4f7df1b499749abf65e1e308509a14ecda001c22786ca6749118b721d40ee7f4",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hbs-alkemade/foto-2-origineel.jpg",
+      "sha256": "bd3a7077e8f71c1daa3dd5aab64e736b08e1206bd6f9f8a4cbf936eaae9461c6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hbs-alkemade/foto-2-ai.webp",
+      "sha256": "fe4878ffadcd4851dadb2cd8db1a3d7d40de0cb47bc9ddec22f292a2a1bd77e7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven145-moll/model.glb",
+      "sha256": "0faa12a19da909421f835fa0d2381b06ed1d7d74514ee173a3cf8007f4d31152",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven145-moll/foto-1-origineel.jpg",
+      "sha256": "5a51a231c71892144bfbe764abf232ef006c5b949e28af9ad4c677ca238b1bdb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven145-moll/foto-1-ai.webp",
+      "sha256": "512e7ff8e8650b30e9c044ad24c79643551872e37dc6f82fa30c524e89ea0032",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven145-moll/foto-2-origineel.jpg",
+      "sha256": "edb28b163aec3e7ecdf7aa7db7e284116f08dfcfaa9eeee9473c9374700e11bc",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven145-moll/foto-2-ai.webp",
+      "sha256": "cadaab070f2cf587d4cd636bae8a665893897c42f677b2501c2d3c25c8dc4c1d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven87/model.glb",
+      "sha256": "f3a0bfb9811683618f1f901ac2260bb49120795099b99884eadbe09ae3d13b04",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven87/foto-1-origineel.jpg",
+      "sha256": "22986d7ea0bb84ece47347509e73c5766a0b1d23ef1e53cc497c52254a9c40fa",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven87/foto-1-ai.webp",
+      "sha256": "f9d748801436165e8d733f684853622850498ce674d94de4c1a7d5f9c2c77a60",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven62-pinto/model.glb",
+      "sha256": "4fffd257b1029240c344e7de4f87664cdc601adc6a075cdeeea779efe659ba0c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven62-pinto/foto-1-origineel.jpg",
+      "sha256": "22a1d17f9b1694c178eab4176100de43880efedd6ea9fbb562f544f4b29305e3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven62-pinto/foto-1-ai.webp",
+      "sha256": "b4dc4c61cc8e2679c700d9ed3e98824b989adf5618d2b2eac831176995c3ba7a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-keulen/model.glb",
+      "sha256": "1c888fdd0b32dba4ab519f97f0337fee9a2db532f47219923bb74eafcad8ed69",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-keulen/foto-1-origineel.jpg",
+      "sha256": "2f26fd4b841e4c252aa044b35085b4fadc9cd3b4380d575b0f52c4b4ddfa342b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-keulen/foto-1-ai.webp",
+      "sha256": "76071a328e1a233976f267398a4becef7dd5cad7f912d62a17c18213936f7477",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

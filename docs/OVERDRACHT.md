@@ -484,3 +484,14 @@ Huis Keulen is toegevoegd met expliciete geveltijdlaag1890–1893, één ongewij
 ### Ronde acht — vijf toevoegingen lokaal gereed
 
 HBS Van Alkemadeplein, Wijnhaven145, Nieuwehaven87, Wijnhaven62 en Huis Keulen vormen ronde8. Hoofdagent heeft laatste Wijnhaven62- en Keulenmodellen en mobiele galerijen bekeken; originele foto's bytegelijk gecontroleerd. Nieuwehaven89 en OLV kregen aansluitings-/schaalcorrecties met vernieuwde exports. Optionele grensbeperking in de gedeelde modelbouwer is tegen97 overige city32/33modellen gecontroleerd; positiearrays gelijk. Cachequeries vernieuwd voor ronde8 inclusief modelbouwer. Nu40toevoegingen sindsstart; publicatie en checkpointbackup40 volgen pas na geslaagde controles. Keulen toont expliciet een oudere Bell-gevel1890–1893; latereverbouwing en AI-personen/detailafwijkingen zichtbaar benoemd.
+
+
+### Ronde acht — openbaar en checkpoint40 bevestigd
+
+Release f966862bf1d7de8ff5a8b858817f69f8d42b4020; Pages37077246775 en Check37077246767 beide succesvol. VERIFICATIE-UITBREIDING-20261003-R8.json bevestigt23openbare bestanden bytegelijk. R8-EXTRA.json bevestigt ook models.js,city32-models.js en gewijzigde GLB's van Nieuwehaven89/OLV: totaal27bestanden. Alle runtimewijzigingen gecommit; verifier negeerde alleen bestaande ongetrackte research/Hoogstraatblend via procesconfig.
+
+Anonieme browsercontrole https://rdam39.nl/ metHuisKeulen:147locaties/18verhalen, geenJavaScript-/HTTP-fouten of horizontaleoverflow, fotopaar/fullscreen/Nu3D/mobieleviewer goed. Openbare mobiele galerie en Nu3D screenshot doorroot bekeken. Volledigecheck lokaal302foto's/282AIparen,10tests geslaagd. Lokale modelplaatsing/overlap apart visueel en geometrisch gecontroleerd.
+
+Checkpoint40: tag rdam39-20261003-40-buildings op releasef966862 naarGitHub gepusht. Lokale volledige Gitgeschiedenisbackup rotterdam_1939/backups/rdam39-20261003-40-buildings.bundle; gitbundleverify geslaagd, completehistory. SHA256 13fc9f063880c99b93712b701dfa1b09d4f4b62e47536d7863b47bb4484f9657. Bundle omvat gecommitteerde projectgeschiedenis tot release, geen ongetrackte onderzoeksbestanden en niet dit latere verificatieverslag.
+
+Nu40toevoegingen inacht rondes openbaar. Volgendecheckpoint50. Nieuwe ronde9kandidaten inonderzoek, ondermeerOostMolenstraat7b (noggeenverliesbewijs, nietbouwklaar). Machinistenschool/geparkeerdeleads niet meetellen. Geen menuverandering uitgevoerd. Doorlopendegebruikersopdracht actief; nietvoltooid verklaren terwijlkandidatenonderzoekloopt.
