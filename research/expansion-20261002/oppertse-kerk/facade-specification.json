@@ -1,0 +1,65 @@
+{
+  "status": "Façade specification only; no model and no runtime. Await explicit parsonage destruction evidence.",
+  "identity": "Pastorie van de Oud-Katholieke St.-Laurenskerk, Oppert107 with narrow entrance109; not churchfront LangeTorenstraat and not Paradijskerk.",
+  "sources": {
+    "photo": "RCE20192355 C.Hoogendijk;CCBYSA4.0;dateunknown",
+    "historicIdentity": "Monumentenlijst1915p340–341:Oppert107pastorie,front1791",
+    "formColour": "SAR4080XVIII-410-02,RaoulHermans1940;restrictiveimageonlyviewedbyparent;notredistributable",
+    "map": "SAR4001/40110-Z8/sectieK1938"
+  },
+  "axisCount": {
+    "count": 7,
+    "method": "Counted vertically aligned upper windows on RCEphoto: one above the left109door plus six across107. Do not count the neighbour window cut by left image edge or decorated narrow neighbouring gable at right. Perspective makes rightmost bays narrower visually.",
+    "groundFloor": [
+      "door109",
+      "window",
+      "window",
+      "window",
+      "door107",
+      "window",
+      "window"
+    ],
+    "upperFloors": "Seven windows each, first upper row tall with small panes; second upper row shorter.",
+    "uncertainty": "Door107alignment and exact bay spacing need final side-by-side photo check during modelling; no eight/nine-axis repetition."
+  },
+  "dimensionsEstimatedMeters": {
+    "totalPhotoFacadeWidth": 15.54,
+    "main107Width": 11.94,
+    "entry109Width": 3.6,
+    "mainDepth": 13.42,
+    "entry109ModelDepth": 8.79,
+    "corniceHeight": 12.2,
+    "pedimentPeak": 14.5,
+    "roofRidge": 15.0,
+    "heightUncertainty": 3.0
+  },
+  "frontConvention": {
+    "localZ": "positive towardOppert; anglefromplacement-draft",
+    "photoLeft": "109entry belongsSEside ofmain107; localnegativeX",
+    "registration": "Main107centre is reference;109append separatelytoSEside, notmain107widened equallybothsides."
+  },
+  "facade": {
+    "wall": "Dark brown brick; palette supported by Hermans watercolour, exact colour/ageing interpretive.",
+    "windowFrames": "Pale off-white, many smallpanes; broad horizontal rows; restrained raised sills.",
+    "doors": "Two, dark blue-green, shallowpanelled; no invented unreadable names.",
+    "cornice": "Continuous pale projecting cornice with regularly spaced brackets; notflatroof.",
+    "pediment": "Broad triangular central fronton above1791mainbuilding. Carved central relief approximated, no invented coat-of-armsdetail.",
+    "fence": "Dark wrought railing before main107 with lowposts; no baroque fence at109door.",
+    "roof": "Long hipped roof with2dormers and2chimneys visible in Hermansreference; roofshapeisreferenceinterpretation, not fullsurvey."
+  },
+  "paletteSuggested": {
+    "brick": "#665047",
+    "trim": "#d8d1bf",
+    "roof": "#746956",
+    "darkDoor": "#29423f",
+    "fence": "#292d2a",
+    "glass": "#62706b"
+  },
+  "scopeLimits": [
+    "Nochurch2099facadeorinteriorinvented.",
+    "Onlyfront8.8mof771entryprovisionallymodelled; noentire771rearor2041.",
+    "Primarymap103and105areseparateproperties,not included.",
+    "Measurementsareworkingmapestimates,position±5m.",
+    "Do notpublishwatercolouror use it asphotopair."
+  ]
+}

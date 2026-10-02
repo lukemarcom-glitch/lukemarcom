@@ -1,0 +1,91 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "101306069": {
+        "pageid": 101306069,
+        "ns": 6,
+        "title": "File:De Oude Haven met de verwoeste Oudehavenkade, Plan C, Hoofdsteeg, Mosseltrap en Roobrug 1940.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De_Oude_Haven_met_de_verwoeste_Oudehavenkade%2C_Plan_C%2C_Hoofdsteeg%2C_Mosseltrap_en_Roobrug_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_Oude_Haven_met_de_verwoeste_Oudehavenkade,_Plan_C,_Hoofdsteeg,_Mosseltrap_en_Roobrug_1940.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101306069",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-11 10:31:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "De Oude Haven met de verwoeste Oudehavenkade, Plan C, Hoofdsteeg, Mosseltrap en Roobrug 1940",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Plan C (Rotterdam)|Oudehavenkade (Rotterdam)|Roobrug (Rotterdam)|Media from Stadsarchief Rotterdam|PD-anon-70-EU|Mosseltrap (Rotterdam)|1940 in Rotterdam|Photographs by anonymous photographers in Stadsarchief Rotterdam|Buildings destroyed by the 1940 bombing of Rotterdam|Hoofdsteeg (Rotterdam)|History of Oude Haven (Rotterdam)|Mosseltrap (Rotterdam) in the 1940s",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View of the Oudehaven and surroundings hit by the German bombing of 14 May 1940, with the Hoofdsteeg further on, from the south. As a result of this bombing, the center of the city was largely destroyed.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "14-05-1940 - 31-05-1940",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/21.12133/C5E006E5C8AC44C6862263A1488ABD8D\">Stadsarchief Rotterdam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "status": "Research content; await model/render/spatial verification before runtime",
+  "name": "Pastorie aan de Oppert",
+  "story": "Achter deze statige gevel aan de Oppert lag een kerkelijk complex dat vanaf de straat nauwelijks als kerk herkenbaar was. Het voorhuis was de pastorie van de oud-katholieke Sint-Laurenskerk. De monumentenlijst van 1915 noemt de gevel uit 1791, met een brede middenpartij en een driehoekig fronton. Achter de pastorie lag de kerk aan de Lange Torenstraat.\n\nDe foto van C. Hoogendijk toont de vensters, twee deuren en het ijzeren hek. De opnamedatum is onbekend. Een aquarel van Raoul Hermans ondersteunt de gekozen kleuren en dakvorm, maar is geen exacte kleurmeting.\n\nBij het bombardement van 14 mei 1940 en de daaropvolgende verwoesting ging het complex verloren. Het Vaderland beschreef op 12 juni 1940 ook de pastorie: behalve historische portretten bevond zich daar een bibliotheek met kostbare boeken over de oud-katholieke kerk. De krant meldde dat alles verloren was gegaan.\n\nDe reconstructie betreft het gefotografeerde voorhuis en de aangrenzende entree. De kerk erachter wordt niet als volledig model weergegeven. Hoogten en niet-zichtbare details zijn benaderd. Dit is niet de huidige Paradijskerk aan de Nieuwe Binnenweg.",
+  "sources": [
+    {
+      "title": "Monumentenlijst1915 · Oppert107, pastorie",
+      "url": "https://www.dbnl.org/tekst/_voo016voor12_01/_voo016voor12_01_0134.php",
+      "supports": "p340–341, onderdeel gB70: pastorie Oud-Katholieke St.-Laurenskerk, gevel1791, brede middentravee en fronton.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "De Nederlander · 11 juni 1940, Oude schuilkerk verwoest",
+      "url": "https://resolver.kb.nl/resolve?urn=MMKB15:000703032:mpeg21:a00009",
+      "supports": "Noemt de kerk aan de Lange Torenstraat met pastorie aan de Oppert expliciet onder de door het bombardement verwoeste gebouwen. Rechtstreekse OCR gelezen; oorspronkelijke krantenpagina bewaard.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Het Vaderland · 12 juni 1940, Verlies voor de Oud-Katholieke kerk te Rotterdam",
+      "url": "https://resolver.kb.nl/resolve?urn=ddd:010019090:mpeg21:a0168",
+      "supports": "Noemt de kerk aan de Lange Torenstraat en de aangebouwde pastorie met ingang aan de Oppert; beschrijft historische portretten en bibliotheek en meldt dat alles verloren ging. OCR en originele krantenuitsnede door hoofdagent gelezen.",
+      "role": "historie",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief · XXXIII-568-01-23, ruïne1940",
+      "url": "https://hdl.handle.net/21.12133/122472088D464CBCAB9C5323AEC1702D",
+      "supports": "Ruïne van de oud-katholieke Sint-Laurentiuskerk aan de Lange Torenstraat; archief verbindt de verwoesting aan het bombardement van14mei1940. Kerkcomplex, niet afzonderlijk bijschrift pastorie.",
+      "role": "beeld",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief · Hermans, XVIII-410-02",
+      "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=247&miadt=184&miview=ldt&micode=4080&minr=39806204&miaet=14",
+      "supports": "Aquarel1940, pastorieOppert107–109. Ondersteunt kap met dakkapellen, bruin metselwerk, lichte lijsten en donkere groenblauwe deuren. Alleen bekeken als referentie; auteursrecht beperkt, niet hergepubliceerd. Kunstenaarsinterpretatie, geen verfmeting.",
+      "role": "beeld",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief · huisnummerkaart Z8/sectieK,1938",
+      "url": "https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB",
+      "supports": "Oppert107 op perceel776, smalle109-entree op771, kerk2099 erachter. Handmatige plaatsingsbasis, geen moderne adresgeocode.",
+      "role": "kaart",
+      "checkedAt": "2026-10-02"
+    }
+  ],
+  "periodNote": "Vooroorlogse gevel uit1791; historische foto ongedateerd. Niet aangeduid als exacte opname uit1939.",
+  "colorNote": "Kleurondersteuning: aquarelRaoulHermans1940, donkere bruine gevel, lichte kozijnen/lijsten en donkere groenblauwe deuren. Exacte tinten blijven interpretatief.",
+  "photoOriginal": "rce20192355.jpg",
+  "photoAI": "pastorie-ai.webp",
+  "photoLicense": "C.Hoogendijk/RCE, CC BY-SA4.0; AI-afgeleide onder dezelfde licentie",
+  "photoUrl": "https://commons.wikimedia.org/w/index.php?curid=23743096",
+  "wordCount": 173
+}
