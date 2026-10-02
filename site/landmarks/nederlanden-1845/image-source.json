@@ -44,10 +44,10 @@
   },
   "secondPair": {
     "original": "original-2.jpg",
-    "ai": "ai-proef-02.png",
+    "ai": "ai-foto-2.png",
     "prompt": "PROMPT-02.txt",
-    "status": "needs-small-text-correction-before-publication",
-    "review": "Hoofdgeveltekst en boven-/ondercaption goed leesbaar; kleine raambordjes overmatig ingevuld door AI. Niet als afgerond beeld behandelen."
+    "status": "accepted-as-labelled-interpretation",
+    "review": "Gerichte correctie uitgevoerd; raambordjes onleesbaar, hoofdtekst behouden. Geen garantie voor fijne ornamenten of reflecties."
   },
   "aerial": {
     "file": "omgeving-1924.jpg",

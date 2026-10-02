@@ -29835,6 +29835,22 @@
         "sourceChecked": "2026-10-02",
         "aiLabel": "AI in kleur",
         "aiNote": "Kleurinterpretatie naar foto en Berlage-kleurontwerp; uitvoeringskleuren niet bewezen. Grote opschriften FATUM, LABOR en DE NEDERLANDEN VAN 1845 gecontroleerd. Kleine raambordjes, reflecties en ornamenten blijven AI-interpretaties."
+      },
+      {
+        "src": "landmarks/nederlanden-1845/foto-2-origineel.jpg",
+        "ai": "landmarks/nederlanden-1845/foto-2-ai.webp",
+        "title": "Schuin zicht op het verzekeringskantoor · prentbriefkaart 1935",
+        "shortTitle": "De gevel vanuit een andere hoek",
+        "date": "1935 volgens archiefbeschrijving",
+        "author": "Anonieme fotograaf",
+        "license": "Publiek domein (PD-anon-70-EU, volgens Commons)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Prentbriefkaart_kantoorgebouw_De_Nederlanden_van_1845_aan_de_Zuidblaak_1935.jpg",
+        "archiveUrl": "https://hdl.handle.net/21.12133/C010A2A9787248B499832DB40F381278",
+        "identifier": "Stadsarchief Rotterdam · C010A2A9787248B499832DB40F381278",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie. Grote geveltekst en gedrukte boven- en ondertitels gecontroleerd. Kleine raambordjes na een eerste foutieve proef teruggebracht tot onleesbare tekens; geen betrouwbare transcriptie. Kleuren, reflecties en fijne ornamenten blijven interpretatief."
       }
     ],
     "sources": [
