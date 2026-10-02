@@ -1,0 +1,21 @@
+{
+  "proef01": {
+    "status": "afgekeurd",
+    "reason": [
+      "Extra aangesneden persoon rechtsonder zonder bronbasis",
+      "Onzekere reclameletters veranderd/verscherpt",
+      "Sterker gereconstrueerde personen en hemel dan gevraagd"
+    ],
+    "publiceren": false
+  },
+  "proef02": {
+    "status": "voorlopige selectie, nog niet gepubliceerd",
+    "reason": [
+      "Extra persoon rechtsonder verdwenen; hoofdvorm, palen, rails en zichtbare personen behouden",
+      "Kleine letters niet betrouwbaar leesbaar: als AI-interpretatie benoemen, geen transcriptie afleiden",
+      "Kleur van metaal, steen, kleding en hemel is interpretatie; geen bewezen kleurstelling",
+      "Voor definitieve selectie nog detailvergelijking naast origineel"
+    ],
+    "publiceren": false
+  }
+}
