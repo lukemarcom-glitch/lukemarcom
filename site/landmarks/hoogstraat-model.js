@@ -33,7 +33,8 @@ export function buildHoogstraat(meta,{material,box,merge}){
  for(let i=0;i<8;i++){const a=i*Math.PI/4;const face=new T.Group();face.position.set(tx+Math.sin(a)*4.37,0,tz+Math.cos(a)*4.37);face.rotation.y=a;ca.add(face);for(const y of [6.5,10.7,14.9,19])window(face,0,y,0,1.7,2.5);const pole=new T.Mesh(new T.CylinderGeometry(.16,.16,2.6,6),stone);pole.position.set(tx+Math.sin(a)*1.8,29.5,tz+Math.cos(a)*1.8);ca.add(pole);}
  const cap=new T.Mesh(new T.CylinderGeometry(.65,2.2,3.1,8),roof);cap.position.set(tx,32.05,tz);ca.add(cap);b(ca,tx,34.1,tz,.12,1.8,.12,granite);
  // HEMA circa 1938: horizontal pale bands and dark window ribbons, not its 1930 facade.
- const hema=new T.Group();hema.position.set(-31,0,12);g.add(hema);b(hema,0,10.3,0,27,20.6,23,brick);hip(hema,0,0,27.6,23.6,20.6,3.4,tiles);
+ const hemaOccupied=contextOccupied(meta,-31,12,27,23);
+ const hema=new T.Group();hema.position.set(-31,0,12);if(!hemaOccupied)g.add(hema);b(hema,0,10.3,0,27,20.6,23,brick);hip(hema,0,0,27.6,23.6,20.6,3.4,tiles);
  function hemaElevation(group,width){
   b(group,0,3.25,0,width,6.5,.35,granite);
   for(let x=-width/2+1.35;x<width/2;x+=2.7)b(group,x,2.5,.24,2.45,4.65,.16,glass);

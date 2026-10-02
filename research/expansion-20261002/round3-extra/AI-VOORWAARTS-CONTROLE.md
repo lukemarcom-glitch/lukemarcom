@@ -1,0 +1,2 @@
+# Voorwaarts1935 kleurproef01
+Builtin imagegen, oorspronkelijk93732789.jpg, promptnaastbestand. VOORWAARTS verticaal, BIEREN, VERGUNNING enkaartbijschrift expliciet gecontroleerd. Hoofdcompositie ennaambord behouden. Voertuigen/personen/etalages en kleinegeveldetails zijn generatief verduidelijkt en daarom geenexactbewijs. Kleureninterpretatie. Voorlopigbruikbaar contextbeeldmetduidelijkecaveat, selectievolgt metmodelintegratie. Origineel blijftongewijzigd naastAI.

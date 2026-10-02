@@ -1,0 +1,3 @@
+# Zumpolle1920 proef01
+Builtinimagegen, inputhoofdsteeg-1920-1280.jpg, exactpromptnaastbestand.
+HoofdnaamZUMPOLLE enSINCO-BENZINE behouden. AFGEKEURDvoorpublicatie: kleinebordenapotheek enburen totfantasielettersverscherpt; figuren/etalages deelsingevuld. Correctieuitorigineelvereist metnadrukopbehoudonleesbareteksten. Oorspronkelijkebronnaastbewaren, kleureninterpretatief.

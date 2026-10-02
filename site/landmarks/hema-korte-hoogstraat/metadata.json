@@ -1,0 +1,57 @@
+{
+  "photos": [
+    {
+      "src": "landmarks/hema-korte-hoogstraat/foto-1-origineel.jpg",
+      "ai": "landmarks/hema-korte-hoogstraat/foto-1-ai.webp",
+      "title": "HEMA aan de Korte Hoogstraat · 1938",
+      "shortTitle": "Warenhuis in 1938",
+      "date": "1938",
+      "author": "Onbekend",
+      "identifier": "Stadsarchief Rotterdam · 7D074CCA1C6C499BB1D0EADC240E937F",
+      "license": "Publiek domein · anoniem werk ouder dan 70 jaar (PD-anon-70-EU)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=104552005",
+      "archiveUrl": "https://hdl.handle.net/21.12133/7D074CCA1C6C499BB1D0EADC240E937F",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie van de archiefprentbriefkaart, geen authentieke kleurenfoto. Etalage-inhoud, kleine letters, personen en raamdetails zijn plaatselijk generatief geïnterpreteerd. Kleuren en materialen zijn niet bewezen; het originele beeld staat ernaast."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Stadsarchief Rotterdam · HEMA Korte Hoogstraat 1a, 1938",
+      "url": "https://hdl.handle.net/21.12133/7D074CCA1C6C499BB1D0EADC240E937F",
+      "role": "beeld",
+      "supports": "Historisch adres 1a, datering 1938 en zicht vanuit het noordoosten/Sint-Laurensstraat; gevelindeling en winkelreclame.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Wikimedia Commons · prentbriefkaart en rechten",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=104552005",
+      "role": "beeld",
+      "supports": "Bronregistratie van de prentbriefkaart en PD-anon-70-EU-vermelding; onbekende maker.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · verwoeste HEMA, 1940",
+      "url": "https://hdl.handle.net/21.12133/2EBC4ED898944FD39B13AE390B147628",
+      "role": "historie",
+      "supports": "Registratie van de ruïne, 17 mei–31 augustus 1940, expliciet na het Duitse bombardement van 14 mei 1940; nieuwe Beurs rechts.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · HEMA, 1930",
+      "url": "https://hdl.handle.net/21.12133/483909E0791842E69E6411C4866EFBB8",
+      "role": "beeld",
+      "supports": "Oudere rijk geprofileerde gevel als vergelijking; niet gebruikt om details van de 1938-versie aan te vullen.",
+      "checkedAt": "2026-10-02"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · centrumkaart vóór mei 1940",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "role": "kaart",
+      "supports": "Historische kruising Sint-Laurensstraat/Korte Hoogstraat en hoekperceel ten noorden van Passage; basis voor benaderde plaatsing.",
+      "checkedAt": "2026-10-02"
+    }
+  ]
+}

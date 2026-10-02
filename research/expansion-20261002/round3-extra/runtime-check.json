@@ -1,0 +1,12 @@
+{
+  "catalogCount": 119,
+  "originalByteIdentical": true,
+  "glbBytes": 268236,
+  "glbHeader": "glTF",
+  "tests": "npm run check: 9 passed; general and HEMA-specific browser checks passed desktop/mobile/lightbox/Nu3D; zero errors/failed responses/overflow",
+  "modelPreview": "Real createLandmark renderer; five metre hipped roof, three ribbon-window rows, four side awnings, geometric HEMA wordmark. Hidden sides and colours approximate.",
+  "positionUncertaintyMeters": 10,
+  "withinWorkBoundary": true,
+  "overlap": "No separate landmark polygons overlap. Hoogstraat context polygon overlaps; its embedded old HEMA now omitted via contextOccupied.",
+  "published": false
+}
