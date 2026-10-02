@@ -1,0 +1,43 @@
+{
+  "photos": [
+    {
+      "src": "landmarks/koopmanshuis-nieuwehaven89/foto-1-origineel.jpg",
+      "ai": "landmarks/koopmanshuis-nieuwehaven89/foto-1-ai.webp",
+      "aiMaster": "landmarks/koopmanshuis-nieuwehaven89/foto-1-ai.png",
+      "title": "Gevel aan de haven · april 1933",
+      "shortTitle": "Hoge koopmansgevel",
+      "date": "April 1933",
+      "author": "Maker onbekend · Rijksdienst voor het Cultureel Erfgoed",
+      "identifier": "RCE 20192314 · Wikimedia Commons 23743022",
+      "license": "CC BY-SA 4.0; ook de AI-afgeleide wordt onder CC BY-SA 4.0 aangeboden",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=23743022",
+      "archiveUrl": "https://commons.wikimedia.org/wiki/File:Gevel_-_Rotterdam_-_20192314_-_RCE.jpg",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie, mede gebaseerd op Verheuls aquarel uit 1935: roodbruine gevel, licht warm natuursteen en donkerblauwgrijze deuren. Geen exacte historische kleurmeting. Hoofdopschrift P. DOLK & ZOON / GLASVERZILVERING in de prompt vastgelegd; kleine letters, reflecties en ornamentdetails kunnen afwijken. Het origineel blijft maatgevend."
+    },
+    {
+      "src": "landmarks/koopmanshuis-nieuwehaven89/foto-2-origineel.jpg",
+      "ai": "landmarks/koopmanshuis-nieuwehaven89/foto-2-ai.webp",
+      "aiMaster": "landmarks/koopmanshuis-nieuwehaven89/foto-2-ai.png",
+      "title": "Voorgevel en ingang · juli 1928",
+      "shortTitle": "Rijk versierde ingang",
+      "date": "Juli 1928",
+      "author": "Maker onbekend · Rijksdienst voor het Cultureel Erfgoed",
+      "identifier": "RCE 20192313 · Wikimedia Commons 23743021",
+      "license": "CC BY-SA 4.0; ook de AI-afgeleide wordt onder CC BY-SA 4.0 aangeboden",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=23743021",
+      "archiveUrl": "https://commons.wikimedia.org/wiki/File:Voorgevel_-_Rotterdam_-_20192313_-_RCE.jpg",
+      "sourceChecked": "2026-10-02",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie, mede gebaseerd op Verheuls aquarel uit 1935: roodbruine gevel, licht warm natuursteen en donkerblauwgrijze deuren. Geen exacte historische kleurmeting. Hoofdopschrift P. DOLK & ZOON / GLASVERZILVERING in de prompt vastgelegd; kleine letters, reflecties en ornamentdetails kunnen afwijken. Het origineel blijft maatgevend."
+    }
+  ],
+  "selectedPrompts": [
+    "PROMPT-AI-03.txt",
+    "PROMPT-AI-04.txt"
+  ],
+  "colourReference": "https://hdl.handle.net/21.12133/B9DF7FB62EF1461FB47D81711D9ACC02"
+}

@@ -274,3 +274,7 @@ Twee originele/AI-prentbriefkaartparen met directe bronregistraties en expliciet
 26 deelgebieden / 34 niet-overlappende watervlakken langs historische havens, grachten en singels. Kades gecontroleerd tegen de oorspronkelijke kaart; gedempte waterlopen blijven droog. Zie HISTORISCH-WATER.md en traceerbestanden. Watercheck: alle34meshes zichtbaar in Toen, verborgen bij Nu en brandkaart; geen browserfouten. Algemene desktop/mobielcontrole127locaties geslaagd. Gezamenlijke publicatie met afgeronde ronde4 wordt hierna extern gecontroleerd.
 
 Publicatie bevestigd: fe864836018a42eabcd3c5486904d65b0eba7603, Pages37044501604 geslaagd.25openbare runtimebestanden bytegelijk; openbare watercheck34meshes zonder fouten, Toen/Nu/brandkaart correct.127gebouwen/18verhalen;20toevoegingen sinds start. Backupversie rdam39-20261002-20-buildings markeert deze gecontroleerde release.
+
+## Ronde5 voortgang — nog lokaal
+
+Nieuwehaven89 geïntegreerd als128e locatie; tweeorigineel/AIparen, geselecteerde kleurproeven02 met prompts03/04 na inspectieVerheul1935. Verliesmei1940 bevestigd inBoijmansjaarverslagp2–4. Parentplaatsing/kaartscreenshot bekeken, geenlosmodeloverlap. Agentnpmcheck/browsertests geslaagd; nieuwebeeldassets noglaatstecontrole. Publieke teller blijft20 toevoegingen (127locaties); NH89 nog niet gepubliceerd. Meyer&Blessing modeldraft enSpinolahuis bronpakket gereed inresearch. Meuwsenreserve, individueelverliesbewijsnogtezwak. Geenoverlevendepanden nieuwtoevoegen.

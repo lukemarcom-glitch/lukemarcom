@@ -53976,5 +53976,975 @@
         "supports": "Geschiedenis van de lunchroomketen en de splitsing in 1932 waarbij de Rotterdamse vestigingen aan Dirk Reese kwamen."
       }
     ]
+  },
+  {
+    "id": "koopmanshuis-nieuwehaven89",
+    "name": "Koopmanshuis · Nieuwehaven 89",
+    "modelFamily": "city32",
+    "modelWidth": 12,
+    "modelDepth": 16,
+    "height": 23.45,
+    "center": [
+      595.9336324615819,
+      243.2025853481985
+    ],
+    "angle": 0.47805575810531986,
+    "polygon": [
+      [
+        594.2867162937773,
+        233.33913427181434
+      ],
+      [
+        604.9414089679253,
+        238.85977952571855
+      ],
+      [
+        597.5805486293864,
+        253.06603642458268
+      ],
+      [
+        586.9258559552384,
+        247.54539117067847
+      ]
+    ],
+    "modelSpec": {
+      "colors": {
+        "brick": "#985e4d",
+        "trim": "#c9c2b2",
+        "stone": "#b5a48d",
+        "glass": "#4b5757",
+        "dark": "#303b45",
+        "roof": "#66685e"
+      },
+      "parts": [
+        {
+          "w": 12,
+          "d": 16,
+          "h": 19.2,
+          "windows": false,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 2.2
+        }
+      ],
+      "facadeWindows": [],
+      "accents": [
+        {
+          "x": 0,
+          "y": 18.1,
+          "z": 8.1,
+          "w": 12.6,
+          "h": 1,
+          "d": 0.5,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 18.9,
+          "z": 8.1,
+          "w": 12.6,
+          "h": 0.25,
+          "d": 0.5,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 19.2,
+          "z": 8.1,
+          "w": 12.6,
+          "h": 0.27,
+          "d": 0.5,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 9.33,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 13.105,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 16.555,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 9.33,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 13.105,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 16.555,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 9.6,
+          "z": 8.22,
+          "w": 2.5,
+          "h": 0.55,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 9.6,
+          "z": 8.34,
+          "w": 1.9,
+          "h": 0.32,
+          "d": 0.1,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 13.5,
+          "z": 8.22,
+          "w": 2.5,
+          "h": 0.55,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 13.5,
+          "z": 8.34,
+          "w": 1.9,
+          "h": 0.32,
+          "d": 0.1,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 16.8,
+          "z": 8.22,
+          "w": 2.5,
+          "h": 0.55,
+          "d": 0.2,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 16.8,
+          "z": 8.34,
+          "w": 1.9,
+          "h": 0.32,
+          "d": 0.1,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 9.33,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": 3.8,
+          "y": 13.105,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": 3.8,
+          "y": 16.555,
+          "z": 8.18,
+          "w": 2.7,
+          "h": 0.16,
+          "d": 0.24,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 2.2,
+          "z": 8.13,
+          "w": 2.15,
+          "h": 4.35,
+          "d": 0.12,
+          "material": "dark"
+        },
+        {
+          "x": -3.8,
+          "y": 3,
+          "z": 8.24,
+          "w": 2.05,
+          "h": 0.1,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 1.25,
+          "z": 8.24,
+          "w": 0.08,
+          "h": 2.5,
+          "d": 0.15,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 2.2,
+          "z": 8.13,
+          "w": 1.95,
+          "h": 4.4,
+          "d": 0.12,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": 8.34,
+          "w": 0.06,
+          "h": 3.8,
+          "d": 0.1,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 4.6,
+          "z": 8.19,
+          "w": 3.3,
+          "h": 0.35,
+          "d": 0.5,
+          "material": "stone"
+        },
+        {
+          "x": -1.55,
+          "y": 0.3,
+          "z": 8.3,
+          "w": 0.65,
+          "h": 0.6,
+          "d": 0.7,
+          "material": "stone"
+        },
+        {
+          "x": -1.55,
+          "y": 4.18,
+          "z": 8.3,
+          "w": 0.7,
+          "h": 0.3,
+          "d": 0.7,
+          "material": "stone"
+        },
+        {
+          "x": 1.55,
+          "y": 0.3,
+          "z": 8.3,
+          "w": 0.65,
+          "h": 0.6,
+          "d": 0.7,
+          "material": "stone"
+        },
+        {
+          "x": 1.55,
+          "y": 4.18,
+          "z": 8.3,
+          "w": 0.7,
+          "h": 0.3,
+          "d": 0.7,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 20.05,
+          "z": 5.6,
+          "w": 1.1,
+          "h": 1.4,
+          "d": 0.45,
+          "material": "roof"
+        },
+        {
+          "x": -3.8,
+          "y": 20.05,
+          "z": 5.86,
+          "w": 0.8,
+          "h": 1.1,
+          "d": 0.07,
+          "material": "roof"
+        },
+        {
+          "x": 3.8,
+          "y": 20.05,
+          "z": 5.6,
+          "w": 1.1,
+          "h": 1.4,
+          "d": 0.45,
+          "material": "roof"
+        },
+        {
+          "x": 3.8,
+          "y": 20.05,
+          "z": 5.86,
+          "w": 0.8,
+          "h": 1.1,
+          "d": 0.07,
+          "material": "roof"
+        },
+        {
+          "x": -5.5,
+          "y": 21.6,
+          "z": 0,
+          "w": 0.6,
+          "h": 3.8,
+          "d": 0.65,
+          "material": "stone"
+        },
+        {
+          "x": -5.5,
+          "y": 23.3,
+          "z": 0,
+          "w": 0.8,
+          "h": 0.22,
+          "d": 0.85,
+          "material": "stone"
+        },
+        {
+          "x": 5.5,
+          "y": 21.6,
+          "z": 0,
+          "w": 0.6,
+          "h": 3.8,
+          "d": 0.65,
+          "material": "stone"
+        },
+        {
+          "x": 5.5,
+          "y": 23.3,
+          "z": 0,
+          "w": 0.8,
+          "h": 0.22,
+          "d": 0.85,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 7.3,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 3.98,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 7.3,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 3.8,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -3.8,
+          "y": 6.8999999999999995,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 8.1,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 11.65,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 2.83,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 11.65,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 2.65,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -4.166666666666666,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.05,
+          "h": 2.65,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -3.433333333333333,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.05,
+          "h": 2.65,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 11.35,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 12.25,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -3.8,
+          "y": 15.2,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 2.6300000000000003,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": -3.8,
+          "y": 15.2,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 2.45,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -3.8,
+          "y": 15.5,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 7.3,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 3.98,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 7.3,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 3.8,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 0,
+          "y": 6.8999999999999995,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 8.1,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -1.36,
+          "y": 7.3,
+          "z": 8.3,
+          "w": 0.2,
+          "h": 4.1,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 1.36,
+          "y": 7.3,
+          "z": 8.3,
+          "w": 0.2,
+          "h": 4.1,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 11.65,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 2.83,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 11.65,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 2.65,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": -0.3666666666666667,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.05,
+          "h": 2.65,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 0.3666666666666667,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.05,
+          "h": 2.65,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 11.35,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 12.25,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -1.36,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.2,
+          "h": 2.9499999999999997,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 1.36,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.2,
+          "h": 2.9499999999999997,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 15.2,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 2.6300000000000003,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 0,
+          "y": 15.2,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 2.45,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 0,
+          "y": 15.5,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": -1.36,
+          "y": 15.2,
+          "z": 8.3,
+          "w": 0.2,
+          "h": 2.75,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 1.36,
+          "y": 15.2,
+          "z": 8.3,
+          "w": 0.2,
+          "h": 2.75,
+          "d": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 3.8,
+          "y": 7.3,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 3.98,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 3.8,
+          "y": 7.3,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 3.8,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 3.8,
+          "y": 6.8999999999999995,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 8.1,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 11.65,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 2.83,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 3.8,
+          "y": 11.65,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 2.65,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 3.433333333333333,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.05,
+          "h": 2.65,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 4.166666666666666,
+          "y": 11.65,
+          "z": 8.3,
+          "w": 0.05,
+          "h": 2.65,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 11.35,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 12.25,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        },
+        {
+          "x": 3.8,
+          "y": 15.2,
+          "z": 8.14,
+          "w": 2.37,
+          "h": 2.6300000000000003,
+          "d": 0.12,
+          "material": "stone"
+        },
+        {
+          "x": 3.8,
+          "y": 15.2,
+          "z": 8.23,
+          "w": 2.2,
+          "h": 2.45,
+          "d": 0.1,
+          "material": "glass"
+        },
+        {
+          "x": 3.8,
+          "y": 15.5,
+          "z": 8.3,
+          "w": 2.2,
+          "h": 0.065,
+          "d": 0.07,
+          "material": "trim"
+        }
+      ],
+      "facadeReliefs": [
+        {
+          "x": 0,
+          "y": 0.08,
+          "z": 8.15,
+          "depth": 0.13,
+          "material": "dark",
+          "outline": [
+            [
+              -1.27,
+              0
+            ],
+            [
+              1.27,
+              0
+            ],
+            [
+              1.27,
+              2.8
+            ],
+            [
+              1.27,
+              2.8
+            ],
+            [
+              1.2267257993871168,
+              3.1287001872802014
+            ],
+            [
+              1.0998522628062373,
+              3.4349999999999996
+            ],
+            [
+              0.8980256121069154,
+              3.6980256121069153
+            ],
+            [
+              0.6350000000000001,
+              3.899852262806237
+            ],
+            [
+              0.32870018728020134,
+              4.026725799387116
+            ],
+            [
+              7.776507174585693e-17,
+              4.07
+            ],
+            [
+              -0.32870018728020123,
+              4.026725799387116
+            ],
+            [
+              -0.6349999999999998,
+              3.8998522628062373
+            ],
+            [
+              -0.8980256121069153,
+              3.6980256121069153
+            ],
+            [
+              -1.0998522628062373,
+              3.4349999999999996
+            ],
+            [
+              -1.2267257993871166,
+              3.1287001872802014
+            ],
+            [
+              -1.27,
+              2.8
+            ],
+            [
+              -1.27,
+              0
+            ]
+          ]
+        }
+      ],
+      "columns": [
+        {
+          "x": -1.55,
+          "y": 2.1,
+          "z": 8.32,
+          "radius": 0.24,
+          "h": 4
+        },
+        {
+          "x": 1.55,
+          "y": 2.1,
+          "z": 8.32,
+          "radius": 0.24,
+          "h": 4
+        }
+      ]
+    },
+    "kind": "building",
+    "cameraDistance": 85,
+    "backgroundClearance": 0.4,
+    "uncertaintyMeters": 8,
+    "placementStatus": "approximate-reconstruction",
+    "placementNote": "Historische noordzijde Nieuwehaven 89, perceel 737 op huisnummerkaart 40110-Z17 uit 1938. Kaartpassing circa 8 meter onzeker. Breedte circa 12 meter volgens overgeleverde Verheulbeschrijving, circa 10,8 meter in kaartpassing; hoogte en 16 meter voorbouwdiepte zijn foto-afgeleid/geschat. Achtererf niet als hoog gebouw ingevuld.",
+    "description": "Een hoog koopmanshuis met een rijk versierde middenas, verloren in mei 1940.",
+    "periodNote": "Vooroorlogs koopmanshuis, volgens Verheul omstreeks 1720. Verloren in de verwoesting van mei 1940; gevelstukken werden uit het puin gered.",
+    "colorNote": "Roodbruine baksteen, beige/warmgrijze natuursteen, crèmegrijze kozijnen en zeer donkerblauwgrijze deuren zijn mede geïnformeerd door Verheuls aquarel uit 1935. Een aquarel is geen exacte kleurmeting; dak, zijgevels en fijne ornamenten blijven interpretatie.",
+    "wikipediaNote": "Voor dit individuele pand zijn de directe archiefbronnen hieronder informatiever dan een algemene Wikipedia-pagina.",
+    "story": "Aan de noordzijde van de Nieuwehaven stond dit hoge koopmanshuis met drie vensterassen en een rijk versierde middenpartij. De boogvormige ingang, stenen zuilen en ornamenten lieten zien dat dit meer was dan een eenvoudig havenpakhuis. Volgens een overgeleverde beschrijving van architect J. Verheul dateerde de gevel van omstreeks 1720. Hij plaatste het huis op de overgang van de Lodewijk XIV-stijl naar de Régence. In de jaren dertig was het vroegere woonhuis bij verschillende firma’s als kantoorpand in gebruik. Op de foto uit 1933 zijn ook handelsactiviteiten op straatniveau te zien: achter de deftige gevel leefde de werkende havenstad voort. Het pand ging verloren in de verwoesting van mei 1940. Toch verdween niet ieder spoor. Het jaarverslag van Museum Boijmans vermeldt dat bergingsploegen gevelfragmenten van Nieuwehaven 89 uit het puin haalden. De reconstructie brengt de vroegere voorgevel terug op de historische kade. Hoogten, achterzijde, verfkleuren en vereenvoudigde ornamenten blijven benaderingen; het huidige adres Nieuwehaven 89 is geen plaatsingsbewijs.",
+    "photos": [
+      {
+        "src": "landmarks/koopmanshuis-nieuwehaven89/foto-1-origineel.jpg",
+        "ai": "landmarks/koopmanshuis-nieuwehaven89/foto-1-ai.webp",
+        "aiMaster": "landmarks/koopmanshuis-nieuwehaven89/foto-1-ai.png",
+        "title": "Gevel aan de haven · april 1933",
+        "shortTitle": "Hoge koopmansgevel",
+        "date": "April 1933",
+        "author": "Maker onbekend · Rijksdienst voor het Cultureel Erfgoed",
+        "identifier": "RCE 20192314 · Wikimedia Commons 23743022",
+        "license": "CC BY-SA 4.0; ook de AI-afgeleide wordt onder CC BY-SA 4.0 aangeboden",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/w/index.php?curid=23743022",
+        "archiveUrl": "https://commons.wikimedia.org/wiki/File:Gevel_-_Rotterdam_-_20192314_-_RCE.jpg",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie, mede gebaseerd op Verheuls aquarel uit 1935: roodbruine gevel, licht warm natuursteen en donkerblauwgrijze deuren. Geen exacte historische kleurmeting. Hoofdopschrift P. DOLK & ZOON / GLASVERZILVERING in de prompt vastgelegd; kleine letters, reflecties en ornamentdetails kunnen afwijken. Het origineel blijft maatgevend."
+      },
+      {
+        "src": "landmarks/koopmanshuis-nieuwehaven89/foto-2-origineel.jpg",
+        "ai": "landmarks/koopmanshuis-nieuwehaven89/foto-2-ai.webp",
+        "aiMaster": "landmarks/koopmanshuis-nieuwehaven89/foto-2-ai.png",
+        "title": "Voorgevel en ingang · juli 1928",
+        "shortTitle": "Rijk versierde ingang",
+        "date": "Juli 1928",
+        "author": "Maker onbekend · Rijksdienst voor het Cultureel Erfgoed",
+        "identifier": "RCE 20192313 · Wikimedia Commons 23743021",
+        "license": "CC BY-SA 4.0; ook de AI-afgeleide wordt onder CC BY-SA 4.0 aangeboden",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "https://commons.wikimedia.org/w/index.php?curid=23743021",
+        "archiveUrl": "https://commons.wikimedia.org/wiki/File:Voorgevel_-_Rotterdam_-_20192313_-_RCE.jpg",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-kleurinterpretatie, mede gebaseerd op Verheuls aquarel uit 1935: roodbruine gevel, licht warm natuursteen en donkerblauwgrijze deuren. Geen exacte historische kleurmeting. Hoofdopschrift P. DOLK & ZOON / GLASVERZILVERING in de prompt vastgelegd; kleine letters, reflecties en ornamentdetails kunnen afwijken. Het origineel blijft maatgevend."
+      }
+    ],
+    "sources": [
+      {
+        "title": "RCE / Commons · gevel 20192314, april 1933",
+        "url": "https://commons.wikimedia.org/w/index.php?curid=23743022",
+        "supports": "Gevelritme, ingang, dak, oorspronkelijke foto en CC BY-SA 4.0.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "RCE / Commons · voorgevel 20192313, juli 1928",
+        "url": "https://commons.wikimedia.org/w/index.php?curid=23743021",
+        "supports": "Detail van de ingang en gevel; oorspronkelijke foto en CC BY-SA 4.0.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · huisnummerkaart Z17, 1938",
+        "url": "https://hdl.handle.net/21.12133/465C6A184A41416CB5DD1EE39CF9C54B",
+        "supports": "Historisch nummer 89 op perceel 737 aan de noordzijde van de Nieuwehaven; basis voor benaderde plaatsing.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Museum Boijmans · jaarverslag 1940, p. 2–4",
+        "url": "https://storage.boijmans.nl/uploads/2018/12/21/qehh1lyt3OMsRfN8AkMfIWOowlc6z39BJi1vCtY2.pdf#page=4",
+        "supports": "Bergingswerkzaamheden na 14 mei en de uit het puin geredde gevelfragmenten van specifiek Nieuwehaven 89.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Engelfriet · overgenomen beschrijving van J. Verheul, 1936",
+        "url": "https://www.engelfriet.net/Alie/Hans/haringvliet.htm",
+        "supports": "Secundaire transcriptie: koopmanshuis, later kantoren, circa 1720, Lodewijk XIV/Régence en gevelbreedte 12 meter. Geen oorspronkelijke opmeting.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · Verheul, ingang Nieuwehaven 89, 1935",
+        "url": "https://hdl.handle.net/21.12133/B9DF7FB62EF1461FB47D81711D9ACC02",
+        "supports": "Aquarel als indicatie van roodbruine baksteen, warmgrijze/beige natuursteen, lichte kozijnen en donkerblauwgrijze deur; geen exacte kleurmeting.",
+        "role": "kleur",
+        "checkedAt": "2026-10-02"
+      }
+    ]
   }
 ]
