@@ -1,0 +1,21 @@
+{
+  "status": "approximate-local-placement-needs-visual-review",
+  "mapPixel": [
+    3157,
+    2521
+  ],
+  "center": [
+    134.8522353920248,
+    -55.47363449054001
+  ],
+  "insideWorkBoundary": true,
+  "landmarkOverlaps": [],
+  "uncertaintyMeters": 15,
+  "visualReview": "Lokale standaardcamera toont volledige gevel, twee erkers en bogen zonder doorsnijding. Modeldetails sterk vereenvoudigd. Positie blijft circa15m onzeker; geen landmeetkundige claim.",
+  "validation": {
+    "npmCheck": "113 locaties,260 foto’s,240 paren,0 fouten;9 tests geslaagd",
+    "generalBrowser": "geslaagd",
+    "targetBrowser": "desktop/mobile/fullscreen/Nu3D,geenJS/HTTP/overflow",
+    "screenshot": "artifacts/expansion-20261002/nederlanden-1845-model.png"
+  }
+}

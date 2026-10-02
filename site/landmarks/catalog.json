@@ -29372,5 +29372,508 @@
     "sourceRegister": "landmarks/doopsgezinde-kerk/BRONNEN.md",
     "wikipediaNote": "Geen afzonderlijke passende Wikipedia-pagina over dit verdwenen gebouw; gebruik de directe bronnen hieronder.",
     "cameraAngle": 2.3
+  },
+  {
+    "id": "nederlanden-1845",
+    "name": "De Nederlanden van 1845 · Zuidblaak",
+    "modelFamily": "city33",
+    "center": [
+      134.8522353920248,
+      -55.47363449054001
+    ],
+    "angle": 3.431592653589793,
+    "height": 24.5,
+    "modelSpec": {
+      "parts": [
+        {
+          "w": 18,
+          "d": 16,
+          "h": 20.3,
+          "windows": false,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 3.2
+        },
+        {
+          "w": 18.15,
+          "d": 16.1,
+          "h": 5.3,
+          "windows": false,
+          "wall": "stone",
+          "roof": "none"
+        },
+        {
+          "x": -7.3,
+          "z": 7.3,
+          "w": 3.2,
+          "d": 3.6,
+          "base": 5.3,
+          "h": 16.8,
+          "roof": "gable",
+          "roofHeight": 2.4,
+          "windows": false
+        },
+        {
+          "x": 7.3,
+          "z": 7.3,
+          "w": 3.2,
+          "d": 3.6,
+          "base": 5.3,
+          "h": 16.8,
+          "roof": "gable",
+          "roofHeight": 2.4,
+          "windows": false
+        },
+        {
+          "z": 4.55,
+          "base": 21,
+          "w": 6.6,
+          "d": 1.1,
+          "h": 1.05,
+          "windows": false,
+          "roof": "flat",
+          "wall": "dark"
+        }
+      ],
+      "colors": {
+        "brick": "#97644d",
+        "stone": "#bfb4a0",
+        "trim": "#d0c6b4",
+        "roof": "#505453",
+        "glass": "#4e6266",
+        "dark": "#343730"
+      },
+      "facadeWindows": [
+        {
+          "x": -7.3,
+          "z": 9.12,
+          "y": 7.5,
+          "w": 2.15,
+          "h": 2.6
+        },
+        {
+          "x": -7.3,
+          "z": 9.12,
+          "y": 11.9,
+          "w": 2.15,
+          "h": 2.6
+        },
+        {
+          "x": -7.3,
+          "z": 9.12,
+          "y": 16.5,
+          "w": 2.15,
+          "h": 2.6
+        },
+        {
+          "x": -7.3,
+          "z": 9.12,
+          "y": 20.3,
+          "w": 2.15,
+          "h": 2.3
+        },
+        {
+          "x": 7.3,
+          "z": 9.12,
+          "y": 7.5,
+          "w": 2.15,
+          "h": 2.6
+        },
+        {
+          "x": 7.3,
+          "z": 9.12,
+          "y": 11.9,
+          "w": 2.15,
+          "h": 2.6
+        },
+        {
+          "x": 7.3,
+          "z": 9.12,
+          "y": 16.5,
+          "w": 2.15,
+          "h": 2.6
+        },
+        {
+          "x": 7.3,
+          "z": 9.12,
+          "y": 20.3,
+          "w": 2.15,
+          "h": 2.3
+        },
+        {
+          "x": -4.8,
+          "z": 8.06,
+          "y": 7.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": -4.8,
+          "z": 8.06,
+          "y": 11.9,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": -4.8,
+          "z": 8.06,
+          "y": 16.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": -1.6,
+          "z": 8.06,
+          "y": 7.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": -1.6,
+          "z": 8.06,
+          "y": 11.9,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": -1.6,
+          "z": 8.06,
+          "y": 16.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": 1.6,
+          "z": 8.06,
+          "y": 7.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": 1.6,
+          "z": 8.06,
+          "y": 11.9,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": 1.6,
+          "z": 8.06,
+          "y": 16.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": 4.8,
+          "z": 8.06,
+          "y": 7.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": 4.8,
+          "z": 8.06,
+          "y": 11.9,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": 4.8,
+          "z": 8.06,
+          "y": 16.5,
+          "w": 2.1,
+          "h": 2.65
+        },
+        {
+          "x": -7.3,
+          "z": 8.09,
+          "y": 2.5,
+          "w": 2.3,
+          "h": 4.6,
+          "arched": true
+        },
+        {
+          "x": -2.65,
+          "z": 8.09,
+          "y": 2.5,
+          "w": 4.2,
+          "h": 4.6,
+          "arched": true
+        },
+        {
+          "x": 2.65,
+          "z": 8.09,
+          "y": 2.5,
+          "w": 4.2,
+          "h": 4.6,
+          "arched": true
+        },
+        {
+          "x": 7.3,
+          "z": 8.09,
+          "y": 2.5,
+          "w": 2.3,
+          "h": 4.6,
+          "arched": true
+        },
+        {
+          "x": -2.8,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        },
+        {
+          "x": -1.87,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        },
+        {
+          "x": -0.94,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        },
+        {
+          "x": 0,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        },
+        {
+          "x": 0.94,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        },
+        {
+          "x": 1.87,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        },
+        {
+          "x": 2.8,
+          "z": 5.15,
+          "y": 21.55,
+          "w": 0.73,
+          "h": 0.73
+        }
+      ],
+      "accents": [
+        {
+          "x": -7.3,
+          "z": 7.3,
+          "y": 5.55,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": -7.3,
+          "z": 7.3,
+          "y": 9.3,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": -7.3,
+          "z": 7.3,
+          "y": 13.8,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": -7.3,
+          "z": 7.3,
+          "y": 18.3,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 7.3,
+          "z": 7.3,
+          "y": 5.55,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 7.3,
+          "z": 7.3,
+          "y": 9.3,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 7.3,
+          "z": 7.3,
+          "y": 13.8,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "x": 7.3,
+          "z": 7.3,
+          "y": 18.3,
+          "w": 3.35,
+          "d": 3.75,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "y": 5.5,
+          "z": 8.09,
+          "w": 18.1,
+          "d": 0.18,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "y": 9.3,
+          "z": 8.09,
+          "w": 18.1,
+          "d": 0.18,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "y": 13.8,
+          "z": 8.09,
+          "w": 18.1,
+          "d": 0.18,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "y": 18.3,
+          "z": 8.09,
+          "w": 18.1,
+          "d": 0.18,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "y": 20.0,
+          "z": 8.09,
+          "w": 18.1,
+          "d": 0.18,
+          "h": 0.22,
+          "material": "stone"
+        },
+        {
+          "y": 19.05,
+          "z": 8.12,
+          "w": 11.8,
+          "d": 0.2,
+          "h": 0.65,
+          "material": "stone"
+        }
+      ]
+    },
+    "colorNote": "Terughoudende roodbruine baksteen, lichte steenbanden en donker dak afgeleid van kleurontwerp BERL_128-4. Ontwerpkleur is niet bewezen uitvoeringskleur.",
+    "kind": "building",
+    "modelWidth": 18,
+    "modelDepth": 18,
+    "cameraDistance": 95,
+    "backgroundClearance": 1.2,
+    "uncertaintyMeters": 15,
+    "modelDownload": "landmarks/nederlanden-1845/model.glb",
+    "polygon": [
+      [
+        128.31397081812685,
+        -66.08641435077037
+      ],
+      [
+        123.25261643377125,
+        -49.12549775419562
+      ],
+      [
+        141.07595251830742,
+        -43.806786367245685
+      ],
+      [
+        146.137306902663,
+        -60.767702963820426
+      ]
+    ],
+    "description": "Verzekeringskantoor aan de Zuidblaak, herkenbaar aan de twee gevelerkers, vier bogen en lichte steenbanden. Schematische reconstructie naar historische foto’s.",
+    "periodNote": "Berlage-ontwerpen uit 1909–1913. Het getoonde pand stond er op de luchtfoto’s van 1924 en 1939 en werd bij het bombardement van mei 1940 verwoest.",
+    "placementNote": "Benaderde plaatsing aan de Zuidblaak bij de Molsteeg, westelijk van de Korte Wijnbrugstraat. Historische centrumkaart vergeleken met tramkaart 1904 en luchtfoto’s 1924/1939. Positie circa 15 m onzeker. Breedte 18 m, diepte 16 m en hoogte 24,5 m geschat; geen kadastrale opmeting. Erkers, ornamenten en achterbouw vereenvoudigd.",
+    "story": "Aan de Zuidblaak stond dit kantoor van verzekeringsmaatschappij De Nederlanden van 1845. Het gebouw viel op door twee uitstekende erkers, hoge geveltoppen en vier grote bogen op straatniveau. Lichte steenbanden doorsneden de bakstenen gevel. In het Berlage-archief zijn gevelstudies en een kleurontwerp uit 1909–1913 bewaard. Op de frontale archieffoto staan ook de woorden FATUM en LABOR: noodlot en arbeid. De fotovermelding noemt daarnaast de Continental Petroleum Company, die hier van 1914 tot 1921 gevestigd was. De gevel veranderde dus in gebruik en opschriften; de verschillende foto’s tonen niet noodzakelijk hetzelfde moment. Na het bombardement van 14 mei 1940 bleven ruïnes over. Het model brengt de herkenbare bouwvorm terug, met benaderde maten. De AI-beelden zijn kleurinterpretaties van afzonderlijke foto’s. Het kleurontwerp helpt de materialen begrijpen, maar bewijst niet de exacte kleuren van het uitgevoerde gebouw.",
+    "photos": [
+      {
+        "src": "landmarks/nederlanden-1845/foto-1-origineel.jpg",
+        "ai": "landmarks/nederlanden-1845/foto-1-ai.webp",
+        "title": "Voorgevel Zuidblaak 26 · 1918–1922",
+        "shortTitle": "De hele gevel",
+        "date": "1918–1922 volgens archiefbeschrijving; ondertitel noemt vestigingsperiode 1914–1921",
+        "author": "Anonieme fotograaf",
+        "license": "Publiek domein (PD-anon-70-EU, volgens Commons)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_pand_van_verzekeringsmaatschappij_De_Nederlanden_van_1845_aan_de_Zuidblaak_1918_-_1922.jpg",
+        "archiveUrl": "https://hdl.handle.net/21.12133/AA9E074541F546499882808763E94052",
+        "identifier": "Stadsarchief Rotterdam · AA9E074541F546499882808763E94052",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "Kleurinterpretatie naar foto en Berlage-kleurontwerp; uitvoeringskleuren niet bewezen. Grote opschriften FATUM, LABOR en DE NEDERLANDEN VAN 1845 gecontroleerd. Kleine raambordjes, reflecties en ornamenten blijven AI-interpretaties."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stadsarchief · voorgevel en vestiging Continental Petroleum",
+        "url": "https://commons.wikimedia.org/wiki/File:Het_pand_van_verzekeringsmaatschappij_De_Nederlanden_van_1845_aan_de_Zuidblaak_1918_-_1922.jpg",
+        "supports": "Voorgevel, opschriften, foto 1918–1922 en vestigingsperiode 1914–1921; originele registratie via fotobron.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Berlage · kleurontwerp BERL_128-4",
+        "url": "https://commons.wikimedia.org/wiki/File:Gekleurde_schets_van_De_Nederlanden_van_1845_bij_de_Zuidblaak.jpg",
+        "supports": "Kleurontwerp 1909–1913, Nieuwe Instituut BERL.110318262. Ontwerp is geen bewijs van uitvoeringskleur. Commons-link naar DUDO is onjuist; registratienummer BERL behouden.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · luchtfoto 6 juni 1939",
+        "url": "https://hdl.handle.net/21.12133/80850B3468594D74A9DB6842FDD26580",
+        "supports": "Situering in gevelwand Zuidblaak, dakvorm en verhouding tot Wijnstraat, Molsteeg en Beursplein.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · ruïne in 1940",
+        "url": "https://commons.wikimedia.org/wiki/File:Restanten_van_het_gebouw_van_De_Nederlanden_van_1845_aan_de_Zuidblaak_1940.jpg",
+        "supports": "Geïdentificeerde restanten na bombardement 14 mei 1940; archiefvermelding noemt Berlage.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · centrumkaart vóór mei 1940",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Bouwblokken voor benaderde plaatsing; kaart uitgegeven 1955. Geen exacte gevelmaten.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "wikipediaNote": "Geen passende zelfstandige pagina over dit verdwenen pand gebruikt; zie de directe beeld- en archiefbronnen."
   }
 ]
