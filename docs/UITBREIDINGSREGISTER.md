@@ -168,4 +168,4 @@ Marx & Co’s Bank · Zuidblaak (`marx-bank-zuidblaak`) lokaal geplaatst met bro
 
 ## Ronde2 — vijf lokaal gecontroleerde toevoegingen
 
-De Nederlanden van1845, Marx & Co’s Bank, StationBeurs ontvangstgebouw, InternatioWolfshoek en NHMZuidblaak. Samen8origineel/AI-paren. NHMplaatstVoorgebouwalleen; VanRossemblijftonderzoek wegens onbewezenperceel. Zie research/expansion-20261002/round2/spatial-final.json. Publicatie enbackup bijtien nogteverifiëren.
+De Nederlanden van1845, Marx & Co’s Bank, StationBeurs ontvangstgebouw, InternatioWolfshoek en NHMZuidblaak. Samen 7 origineel/AI-paren. NHMplaatstVoorgebouwalleen; VanRossemblijftonderzoek wegens onbewezenperceel. Zie research/expansion-20261002/round2/spatial-final.json. Publicatie enbackup bijtien nogteverifiëren.
