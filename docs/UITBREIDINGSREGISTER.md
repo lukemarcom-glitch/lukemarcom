@@ -165,3 +165,7 @@ Vijf toevoegingen gezamenlijk gecontroleerd. Schotse randligging beoordeeld als 
 
 ### Ronde2 — tweede lokale toevoeging
 Marx & Co’s Bank · Zuidblaak (`marx-bank-zuidblaak`) lokaal geplaatst met bronfoto1908–1912, gelabelde AI-proef03, gebogen koepel en GLB. Directe bronnen/beeldrechten opgenomen. Geen modeloverlap en binnen werkgrens; plaatsing circa20m onzeker. Achterbouw niet uitgewerkt en bedrijfsopvolging onduidelijk. Desktop/mobiel/lichtbak/Nu3D en9 checks geslaagd. Nog niet gepubliceerd; teller afgerond5, checkpoint10 blijft open.
+
+## Ronde2 — vijf lokaal gecontroleerde toevoegingen
+
+De Nederlanden van1845, Marx & Co’s Bank, StationBeurs ontvangstgebouw, InternatioWolfshoek en NHMZuidblaak. Samen8origineel/AI-paren. NHMplaatstVoorgebouwalleen; VanRossemblijftonderzoek wegens onbewezenperceel. Zie research/expansion-20261002/round2/spatial-final.json. Publicatie enbackup bijtien nogteverifiëren.

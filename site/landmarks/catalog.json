@@ -31249,5 +31249,674 @@
         -199.80724188396016
       ]
     ]
+  },
+  {
+    "id": "nhm-zuidblaak",
+    "name": "Nederlandsche Handel-Maatschappij · Zuidblaak",
+    "kind": "building",
+    "modelFamily": "city33",
+    "center": [
+      25.53733734935804,
+      -84.50106610564899
+    ],
+    "angle": 3.431592653589793,
+    "height": 24.2,
+    "modelWidth": 18.7,
+    "modelDepth": 9.6,
+    "cameraDistance": 95,
+    "backgroundClearance": 0.8,
+    "uncertaintyMeters": 12,
+    "polygon": [
+      [
+        35.86948826590497,
+        -86.42698340337972
+      ],
+      [
+        17.95032779381753,
+        -91.77429001284014
+      ],
+      [
+        15.205186432811109,
+        -82.57514880791825
+      ],
+      [
+        33.12434690489855,
+        -77.22784219845784
+      ]
+    ],
+    "modelSpec": {
+      "parts": [
+        {
+          "w": 18.0,
+          "d": 9.0,
+          "h": 17.25,
+          "wall": "stone",
+          "windows": false,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 5.25,
+          "gableWall": "stone"
+        },
+        {
+          "w": 18.075000000000003,
+          "d": 9.075,
+          "h": 3.2249999999999996,
+          "wall": "base",
+          "windows": false,
+          "roof": "none"
+        },
+        {
+          "x": -7.5,
+          "z": 3.3000000000000003,
+          "w": 1.4249999999999998,
+          "d": 1.9500000000000002,
+          "base": 17.5875,
+          "h": 1.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.375
+        },
+        {
+          "x": -4.6875,
+          "z": 3.3000000000000003,
+          "w": 1.4249999999999998,
+          "d": 1.9500000000000002,
+          "base": 17.5875,
+          "h": 1.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.375
+        },
+        {
+          "x": 4.6875,
+          "z": 3.3000000000000003,
+          "w": 1.4249999999999998,
+          "d": 1.9500000000000002,
+          "base": 17.5875,
+          "h": 1.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.375
+        },
+        {
+          "x": 7.5,
+          "z": 3.3000000000000003,
+          "w": 1.4249999999999998,
+          "d": 1.9500000000000002,
+          "base": 17.5875,
+          "h": 1.35,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.375
+        },
+        {
+          "x": -8.625,
+          "w": 0.7875000000000001,
+          "d": 0.9750000000000001,
+          "base": 21.450000000000003,
+          "h": 2.25,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.44999999999999996
+        },
+        {
+          "x": 8.625,
+          "w": 0.7875000000000001,
+          "d": 0.9750000000000001,
+          "base": 21.450000000000003,
+          "h": 2.25,
+          "wall": "stone",
+          "windows": false,
+          "roof": "hip",
+          "roofHeight": 0.44999999999999996
+        }
+      ],
+      "colors": {
+        "brick": "#978775",
+        "stone": "#b9ac94",
+        "base": "#a3a29a",
+        "trim": "#c8bca7",
+        "roof": "#555957",
+        "glass": "#536362",
+        "dark": "#383c38"
+      },
+      "facadeWindows": [
+        {
+          "x": -7.5,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": -7.5,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": -7.5,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 1.5750000000000002,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": -7.5,
+          "z": 4.612500000000001,
+          "y": 1.6875,
+          "w": 1.35,
+          "h": 1.6500000000000001
+        },
+        {
+          "x": -4.6875,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": -4.6875,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": -4.6875,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 1.5750000000000002,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": -4.6875,
+          "z": 4.612500000000001,
+          "y": 1.6875,
+          "w": 1.35,
+          "h": 1.6500000000000001
+        },
+        {
+          "x": -2.1375,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 0.6375,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": -2.1375,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 0.6375,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": -2.1375,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 0.6375,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": -2.1375,
+          "z": 4.612500000000001,
+          "y": 1.6875,
+          "w": 0.6000000000000001,
+          "h": 1.6500000000000001
+        },
+        {
+          "x": 0.0,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 0.0,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 0.0,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 1.5750000000000002,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": 2.1375,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 0.6375,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 2.1375,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 0.6375,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 2.1375,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 0.6375,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": 2.1375,
+          "z": 4.612500000000001,
+          "y": 1.6875,
+          "w": 0.6000000000000001,
+          "h": 1.6500000000000001
+        },
+        {
+          "x": 4.6875,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 4.6875,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 4.6875,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 1.5750000000000002,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": 4.6875,
+          "z": 4.612500000000001,
+          "y": 1.6875,
+          "w": 1.35,
+          "h": 1.6500000000000001
+        },
+        {
+          "x": 7.5,
+          "z": 4.5600000000000005,
+          "y": 5.625,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 7.5,
+          "z": 4.5600000000000005,
+          "y": 9.975000000000001,
+          "w": 1.5750000000000002,
+          "h": 3.1500000000000004
+        },
+        {
+          "x": 7.5,
+          "z": 4.5600000000000005,
+          "y": 14.399999999999999,
+          "w": 1.5750000000000002,
+          "h": 2.0999999999999996
+        },
+        {
+          "x": 7.5,
+          "z": 4.612500000000001,
+          "y": 1.6875,
+          "w": 1.35,
+          "h": 1.6500000000000001
+        },
+        {
+          "x": -7.5,
+          "z": 4.2975,
+          "y": 18.299999999999997,
+          "w": 0.9750000000000001,
+          "h": 1.2000000000000002
+        },
+        {
+          "x": -4.6875,
+          "z": 4.2975,
+          "y": 18.299999999999997,
+          "w": 0.9750000000000001,
+          "h": 1.2000000000000002
+        },
+        {
+          "x": 4.6875,
+          "z": 4.2975,
+          "y": 18.299999999999997,
+          "w": 0.9750000000000001,
+          "h": 1.2000000000000002
+        },
+        {
+          "x": 7.5,
+          "z": 4.2975,
+          "y": 18.299999999999997,
+          "w": 0.9750000000000001,
+          "h": 1.2000000000000002
+        },
+        {
+          "z": 4.800000000000001,
+          "y": 18.487499999999997,
+          "w": 1.5374999999999999,
+          "h": 1.7999999999999998
+        }
+      ],
+      "accents": [
+        {
+          "y": 3.2249999999999996,
+          "z": 4.59,
+          "w": 18.15,
+          "d": 0.26249999999999996,
+          "h": 0.17250000000000001,
+          "material": "trim"
+        },
+        {
+          "y": 7.574999999999999,
+          "z": 4.59,
+          "w": 18.15,
+          "d": 0.26249999999999996,
+          "h": 0.17250000000000001,
+          "material": "trim"
+        },
+        {
+          "y": 12.149999999999999,
+          "z": 4.59,
+          "w": 18.15,
+          "d": 0.26249999999999996,
+          "h": 0.17250000000000001,
+          "material": "trim"
+        },
+        {
+          "y": 16.424999999999997,
+          "z": 4.59,
+          "w": 18.15,
+          "d": 0.26249999999999996,
+          "h": 0.17250000000000001,
+          "material": "trim"
+        },
+        {
+          "y": 17.25,
+          "z": 4.59,
+          "w": 18.15,
+          "d": 0.26249999999999996,
+          "h": 0.17250000000000001,
+          "material": "trim"
+        },
+        {
+          "x": -8.7375,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": -6.1499999999999995,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": -3.3375000000000004,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": -1.35,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": 1.35,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": 3.3375000000000004,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": 6.1499999999999995,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "x": 8.7375,
+          "y": 10.05,
+          "z": 4.574999999999999,
+          "w": 0.26249999999999996,
+          "h": 13.5,
+          "d": 0.1875,
+          "material": "stone"
+        },
+        {
+          "y": 1.5750000000000002,
+          "z": 4.65,
+          "w": 1.6875,
+          "d": 0.15000000000000002,
+          "h": 2.9625000000000004,
+          "material": "dark"
+        },
+        {
+          "x": -8.625,
+          "y": 23.625,
+          "w": 1.0125000000000002,
+          "d": 1.2000000000000002,
+          "h": 0.22499999999999998,
+          "material": "trim"
+        },
+        {
+          "x": 8.625,
+          "y": 23.625,
+          "w": 1.0125000000000002,
+          "d": 1.2000000000000002,
+          "h": 0.22499999999999998,
+          "material": "trim"
+        }
+      ],
+      "facadeReliefs": [
+        {
+          "y": 17.25,
+          "z": 4.53,
+          "depth": 0.22499999999999998,
+          "outline": [
+            [
+              -2.8499999999999996,
+              0.0
+            ],
+            [
+              -2.8499999999999996,
+              0.375
+            ],
+            [
+              -2.4000000000000004,
+              0.48750000000000004
+            ],
+            [
+              -2.0999999999999996,
+              0.75
+            ],
+            [
+              -1.7999999999999998,
+              1.2374999999999998
+            ],
+            [
+              -1.5750000000000002,
+              1.7999999999999998
+            ],
+            [
+              -1.275,
+              2.3625
+            ],
+            [
+              -0.8999999999999999,
+              2.7750000000000004
+            ],
+            [
+              -0.44999999999999996,
+              3.0374999999999996
+            ],
+            [
+              0.0,
+              3.1125000000000003
+            ],
+            [
+              0.44999999999999996,
+              3.0374999999999996
+            ],
+            [
+              0.8999999999999999,
+              2.7750000000000004
+            ],
+            [
+              1.275,
+              2.3625
+            ],
+            [
+              1.5750000000000002,
+              1.7999999999999998
+            ],
+            [
+              1.7999999999999998,
+              1.2374999999999998
+            ],
+            [
+              2.0999999999999996,
+              0.75
+            ],
+            [
+              2.4000000000000004,
+              0.48750000000000004
+            ],
+            [
+              2.8499999999999996,
+              0.375
+            ],
+            [
+              2.8499999999999996,
+              0.0
+            ]
+          ],
+          "material": "stone"
+        }
+      ]
+    },
+    "modelDownload": "landmarks/nhm-zuidblaak/model.glb",
+    "description": "Bankgebouw met een hoge dwarskap, vier dakkapellen en een gebogen middentop aan de vroegere Zuidblaak.",
+    "periodNote": "Voorgevel naar foto gepubliceerd in het architectenalbum van 1916; de inleiding noemt het agentschap bij 1915. Het pand werd bij het bombardement van 1940 grotendeels verwoest.",
+    "colorNote": "Gedempte natuursteentinten en grijze dakbedekking zijn een interpretatie van zwart-witbeeld. Het album documenteert marmer in het interieur en betonconstructies; exacte gevelkleuren zijn niet vastgesteld.",
+    "placementNote": "Voorgebouw ongeveer 18 × 9 m, hoogte circa 24 m. Benaderde plaatsing naar historische kaart en luchtfoto’s 1924/1939, circa 12 m onzeker. Achterbouw met binnenhof niet gereconstrueerd. Gevelreliëf, kozijnen en gebogen middentop vereenvoudigd; geen ingemeten reconstructie.",
+    "story": "Aan de Zuidblaak keek dit bankgebouw uit over een haven vol schepen. Achter de monumentale gevel lagen niet alleen kantoren, maar ook een hal voor het publiek, een directiekamer, een vergaderzaal en een hoofdtrap. Die ruimtes zijn afzonderlijk gefotografeerd voor het architectenalbum van J. Verheul Dzn. uit 1916. Verheul werkte aan het agentschap met Van der Heyden en Van Nieuwenhuyzen. De inleiding noemt het bij het jaar 1915. De gevel heeft een hoge dwarskap met vier kleine dakkapellen en een gebogen middentop. Boven de centrale ingang stond de naam Nederlandsche Handel-Maatschappij. Het album bevat ook leveranciersadvertenties die marmerwerk bij de hoofdtrap en betonconstructies voor het gebouw documenteren. Bij het bombardement werd het bankgebouw grotendeels verwoest. De oude kluizen bleven bruikbaar; bij de wederopbouw werd daarmee rekening gehouden. Het latere bankgebouw kreeg een andere rooilijn. Daarom toont dit model de vooroorlogse positie en voorgevel, niet de contour van het huidige pand aan de Blaak. De volledige oorspronkelijke fotopagina blijft beschikbaar naast de AI-bewerking. Kleuren en kleine details in die bewerking zijn interpretaties.",
+    "photos": [
+      {
+        "src": "landmarks/nhm-zuidblaak/foto-1-origineel.jpg",
+        "ai": "landmarks/nhm-zuidblaak/foto-1-ai.webp",
+        "title": "NHM aan de Zuidblaak · gepubliceerd 1916",
+        "shortTitle": "Bank aan het water",
+        "date": "Uiterlijk 1916; exacte opnamedatum onbekend",
+        "author": "Fotograaf niet vermeld in album",
+        "license": "Publiek domein — eigen beoordeling anonieme publicatie 1916; geen expliciete IA-licentie",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-anon-70-EU",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n70/mode/1up",
+        "archiveUrl": "https://archive.org/details/jverheuldznarchi00unse/page/n70/mode/1up",
+        "identifier": "Getty Research Institute / Internet Archive · jverheuldznarchi00unse · plaat71",
+        "sourceChecked": "2026-10-02",
+        "aiLabel": "AI in kleur",
+        "aiNote": "AI-interpretatie met verwijderde albummarge. De twee tekstregels NEDERLANDSCHE / HANDEL-MAATSCHAPPIJ zijn in het origineel gecontroleerd en in de correctieprompt opgenomen. Kleine letters blijven geen betrouwbare transcriptie. Ornamenten, kozijnen, scheepsdetails en kleuren kunnen afwijken; het origineel is leidend. Fotograaf niet vermeld; rechtenbeoordeling toegelicht bij de bronmetadata."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Verheul · architectenalbum 1916, plaat 71",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n70/mode/1up",
+        "supports": "Voorgevel, banknaam boven ingang en kapvorm. Geen bewijs van exacte uitvoeringskleuren.",
+        "role": "beeld",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Verheul · inleiding, mei 1916",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n17/mode/1up",
+        "supports": "Agentschap genoemd bij 1915; samenwerking met Van der Heyden en Van Nieuwenhuyzen.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Verheul · platencatalogus",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n13/mode/1up",
+        "supports": "Functies afgebeelde interieurs: vergaderzaal, hoofdtrap, publiekshal en directiekamer.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Verheul · leverancier marmerwerk",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n78/mode/1up",
+        "supports": "Gebrs Boer verwijst naar de hoofdtrap op plaat 73 als geleverd marmerwerk; geen bewijs voor exact soort marmer.",
+        "role": "materiaal",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Verheul · betonconstructies",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n83/mode/1up",
+        "supports": "Leveranciersadvertentie noemt muren, pijlers, vloeren, balken, trappen en kluizen in beton/betonijzer.",
+        "role": "materiaal",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Platform Wederopbouw · bankgebouwen Blaak",
+        "url": "https://wederopbouwrotterdam.nl/artikelen/bankgebouwen-blaak",
+        "supports": "Verwoesting bij bombardement, behouden kluizen en andere rooilijn bij herbouw. Het genoemde bouwjaar 1917 wijkt af van het album 1916 en is niet overgenomen.",
+        "role": "historie",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · luchtfoto 1939",
+        "url": "https://hdl.handle.net/21.12133/80850B3468594D74A9DB6842FDD26580",
+        "supports": "Identificatie kap en ligging ten westen van Brouwerijsteeg; lagere achterbouw.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      },
+      {
+        "title": "Stadsarchief · historische centrumkaart",
+        "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+        "supports": "Perceelvorm en ligging; kaart uitgegeven 1955 met vooroorlogse toestand, niet exact kadastraal ingemeten.",
+        "role": "kaart",
+        "checkedAt": "2026-10-02"
+      }
+    ],
+    "wikipediaNote": "Voor dit specifieke vooroorlogse bankgebouw is geen passende zelfstandige Wikipedia-pagina vastgesteld; gebruik de directe bronnen."
   }
 ]

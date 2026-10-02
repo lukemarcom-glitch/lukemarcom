@@ -1,0 +1,143 @@
+{
+  "status": "source-matched-approximate-placement",
+  "date": "2026-10-02",
+  "mapSource": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+  "mapImage": "site/onderzoek/centrum-voor-mei-1940.jpg",
+  "frontBlockPixelPolygon": [
+    [
+      2958,
+      2564
+    ],
+    [
+      2987,
+      2556
+    ],
+    [
+      2991,
+      2571
+    ],
+    [
+      2962,
+      2579
+    ]
+  ],
+  "frontBlockLocalPolygon": [
+    [
+      15.630911166069154,
+      -82.51190951617923
+    ],
+    [
+      32.99966093386843,
+      -77.5334626869801
+    ],
+    [
+      35.443763532646926,
+      -86.49022269511875
+    ],
+    [
+      18.075013764847654,
+      -91.46866952431765
+    ]
+  ],
+  "wholeParcelPixelPolygon": [
+    [
+      2958,
+      2564
+    ],
+    [
+      2987,
+      2556
+    ],
+    [
+      3002,
+      2608
+    ],
+    [
+      2971,
+      2617
+    ]
+  ],
+  "wholeParcelLocalPolygon": [
+    [
+      15.630911166069154,
+      -82.51190951617923
+    ],
+    [
+      32.99966093386843,
+      -77.5334626869801
+    ],
+    [
+      42.15226859310587,
+      -108.57622863377492
+    ],
+    [
+      23.587021698280523,
+      -114.16646362635424
+    ]
+  ],
+  "frontBlockCenterPixel": [
+    2974.5,
+    2567.5
+  ],
+  "frontBlockCenterLocal": [
+    25.53733734935804,
+    -84.50106610564899
+  ],
+  "suggestedAngle": 3.431592653589793,
+  "approximateFrontWidthMeters": 18,
+  "approximateFrontDepthMeters": 9,
+  "approximateWholeParcelDepthMeters": 33,
+  "uncertaintyMeters": 12,
+  "placementReason": "NHM herkenbaar door vier dakkapellen, gebogen middentop, twee nokeindschoorstenen en hoge dwarse kap; in1939vijf kleine voorpercelen tussen Brouwerijsteeg/Marx enNHM. Kaartlegenda33=Brouwerijsteeg. Onverdeeld breder perceel na deze vijf komt overeen metNHM. Exacte grens nietkadastraalingemeten.",
+  "rearMass": "Lagere achterbouw met vlakke dakdelen/lichtkappen en binnenhof zichtbaar. Voorbouwdiepte9m past uniforme0.75schaal; exacte overgangvoor/achter is onzeker. Achterzonecirca23m diep is geen bewijs van massieve volledigevolumebebouwing. Optie: laagachterdeel in vereenvoudigdevorm, geenverzonnen geslotenhoogvolume.",
+  "sources": [
+    {
+      "url": "https://archive.org/details/jverheuldznarchi00unse/page/n70/mode/1up",
+      "supports": "Identificeerbare hoofdgevel en kap; nietexacteplattegrond."
+    },
+    {
+      "url": "https://hdl.handle.net/21.12133/80850B3468594D74A9DB6842FDD26580",
+      "supports": "1939positieZuidblaakgevelwand, vijf kleinevoorpercelentenwestenvanBrouwerijsteeg totNHM, lagereachterbouw."
+    },
+    {
+      "url": "https://hdl.handle.net/21.12133/140045BC33654037855FC19681122913",
+      "supports": "1924dezelfdegevel/kap uiterst rechts inbeeld, achterbouw."
+    }
+  ],
+  "rearZonePixelPolygon": [
+    [
+      2962,
+      2579
+    ],
+    [
+      2991,
+      2571
+    ],
+    [
+      3002,
+      2608
+    ],
+    [
+      2971,
+      2617
+    ]
+  ],
+  "rearZoneLocalPolygon": [
+    [
+      18.075013764847654,
+      -91.46866952431765
+    ],
+    [
+      35.443763532646926,
+      -86.49022269511875
+    ],
+    [
+      42.15226859310587,
+      -108.57622863377492
+    ],
+    [
+      23.587021698280523,
+      -114.16646362635424
+    ]
+  ]
+}
