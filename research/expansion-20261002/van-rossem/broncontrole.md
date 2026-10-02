@@ -20,3 +20,12 @@ https://tind.wipo.int/record/37010/files/HJC_ip_1920_12_fr.pdf — geïndexeerde
 De Maasbode 23-09-1940, "Oude zaken in nieuwe omgeving" — verwijzing gevonden, origineel nog zoeken.
 Algemeen Handelsblad 01-03-1949, "Van Rossem krijgt een nieuwe fabriek" — verwijzing gevonden, origineel nog zoeken.
 https://laventana.nl/uploads/kalf_in_het_kozijn/Deel1DeepHistory7.pdf — tekst p33 noemt Leuvehaven; locatieconflict niet opgelost.
+
+## Vervolg: kleurproef en directe bronverwijzingen
+AI-proef01 gemaakt met ingebouwde imagegen; origineel1915 als referentie, prompt volledig in PROMPT-01.txt. Uitvoer ai-proef-01.png. Visueel: bordtekst V.ROSSEM’S / Poorters-Toeback / DE BESTE VARINAS. en huisnummer58 herkenbaar behouden. Architectuur en hoofdcompositie behouden; vatmarkeringen, gezichten en kleine bouwdetails echter sterker geïnterpreteerd. Kleuren niet als bewezen historische kleuren presenteren. Nog geen selectie voor runtime: eerst locatie/oorlogsverlies toetsen.
+
+De Maasbode 23september1940 is nu exact gelokaliseerd via verwijzing: https://resolver.kb.nl/resolve?urn=ddd:110531092:mpeg21:a0051 — artikel "Oude zaken in nieuwe omgeving". Delpher gaf403, resolver via webtool onbereikbaar. Nog niet inhoudelijk gelezen, dus geen primaire bevestiging claimen.
+
+Stadsarchief inventaris940 (K.F.vanDijk,1999), blijvende verwijzing https://proxy.archieven.nl/0/F45F54475D0045EC9700A0847058C7DF . Via Archieven.nl bereikbaar met 33stukken,3gedigitaliseerd; sectie Geschiedenis van de archiefvormer ingeklapt. Volgende stap die sectie/gedigitaliseerde inventaris lezen. Stadsarchief eigen website vraagt menselijke verificatie; niet omzeild.
+
+Aanvullende bedrijfsgeschiedenis: https://plaatjesalbums.info/images/pdf/Rossem.pdf p1, ANPA. Vier reclamealbums eersteperiode en beeldmerk Posthoorn. Geen bewijs voor gebouwpositie of verwoesting. Geen afbeeldingen uit deze PDF overnemen zonder rechtencontrole.
