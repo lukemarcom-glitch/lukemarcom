@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gerzee-goudsesingel",
+    "catalogCount": 197,
+    "otherMeshesChecked": 196,
+    "finiteVertices": 28566,
+    "meshArea": 154.34072395050677,
+    "meshOverlaps": [],
+    "backgroundCount": 989,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "chevalier-delftsevaart",
+    "catalogCount": 197,
+    "otherMeshesChecked": 196,
+    "finiteVertices": 15804,
+    "meshArea": 58.590510950067,
+    "meshOverlaps": [],
+    "backgroundCount": 989,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "cafe-piso-galerij",
+    "catalogCount": 197,
+    "otherMeshesChecked": 196,
+    "finiteVertices": 26622,
+    "meshArea": 44.2770326013645,
+    "meshOverlaps": [],
+    "backgroundCount": 989,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "nieuwehaven25",
+    "catalogCount": 197,
+    "otherMeshesChecked": 196,
+    "finiteVertices": 10194,
+    "meshArea": 119.22157014260661,
+    "meshOverlaps": [],
+    "backgroundCount": 989,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "nieuwehaven29",
+    "catalogCount": 197,
+    "otherMeshesChecked": 196,
+    "finiteVertices": 26838,
+    "meshArea": 45.20630411739183,
+    "meshOverlaps": [],
+    "backgroundCount": 989,
+    "backgroundOverlaps": []
+  }
+]

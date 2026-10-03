@@ -1,0 +1,40 @@
+{
+  "sourceFront": [
+    [
+      4494,
+      2368
+    ],
+    [
+      4525.2,
+      2358.8
+    ]
+  ],
+  "workFront": [
+    [
+      4204.482844662327,
+      1911.9123665050593
+    ],
+    [
+      4212.114343825218,
+      1907.4597057611547
+    ]
+  ],
+  "worldFront": [
+    [
+      761.250759952077,
+      316.05417627868474
+    ],
+    [
+      765.8143785710656,
+      318.77001669817037
+    ]
+  ],
+  "parcel": "N836",
+  "width": 5.310593571691507,
+  "depth": 9,
+  "heightUncertainty": 3,
+  "positionUncertainty": 8,
+  "modelState": 1910,
+  "facade1939Verified": false,
+  "note": "Alleen geschatte voorbouw; diepere achterbouw onbekend. Ruwe Z17-affine zonder lokale verschuiving; visueel op werkkaartrooilijn gecontroleerd."
+}

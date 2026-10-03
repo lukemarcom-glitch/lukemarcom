@@ -1,0 +1,28 @@
+{
+  "base": "http://127.0.0.1:8765/",
+  "landmarkId": "cafe-piso-galerij",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/cafe-piso-galerij/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/cafe-piso-galerij/foto-1-ai.webp"
+    }
+  ],
+  "buildings": 195,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true
+}

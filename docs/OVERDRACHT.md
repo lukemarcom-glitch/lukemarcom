@@ -853,3 +853,17 @@ Volgende ronde blijft brononderzoek. Kandidaat Gerzee/café Wilhelmina, Goudsche
 Gerzee en café Wilhelmina (gerzee-goudsesingel), historisch Goudschesingel187, als193e locatie toegevoegd. Zes gevelassen en twee dakkapellen gekoppeld aan breed perceel9671 op huisnummerkaart1938; apart van rijwielstalling183. Adresboek1939 noemt Gerzee als vertegenwoordiger, dus geen theaterzaal geclaimd. Verlies bij bombardement/brand volgt primaire schadekaart op blokniveau. Ongewijzigd geheel Heymans-panorama1939 (PDM1.0) plus door hoofdtaak gecontroleerde AI-uitsnede, prompt en directe bronlinks opgenomen.
 
 Model met voorbreedte11,96m, sobere diepte12m, beperkte zijwandtapsheid; onzichtbare achterbouw en kleuren onzeker. GLB/Blend geëxporteerd. Exacte meshcontrole nul overlap met192 andere modellen en989 achtergrondpolygonen. npmcheck14 tests groen; standaard en gerichte browsercontrole met origineel/AI, fullscreen, mobiel en Nu3D geslaagd. Modelrender en mobiele/fullscreenbeelden bekeken. Exporttussenbestanden buiten site in research/export-intermediates-20261003/round18-gerzee. Geen commit/push/publicatie door deze agent.
+
+
+### 3 oktober 2026 — Chevalier, Delftsevaart 28 (round18)
+
+Drukkerij C. Chevalier toegevoegd met de hele primaire PDM-foto IX-700 (1933–1937), apart AI-kleurbeeld en lichte hoge voorbouw. Origineel adresboek1939 p.622 gelezen; nummer28 op Z8 en verwoeste rij op schadekaart I-210-01A gekoppeld. De sloop op de fotovoorgrond is expliciet vóór de oorlog. Geen claim dat dit bombardementsschade is. Plaatsmarge circa8m, hoofdvolume circa6,2×9,1m; hoogte, achterdak en kleuren benaderd, achterbouw niet ingevuld.
+
+Exacte meshcontrole: nul overlap met193 andere modellen en nul overlap met989 achtergrondpolygonen. GLB/Blend bijgewerkt. Catalogus194/18 verhalen, npm check +14tests groen. Gerichte browsercontrole van origineel/AI, broninformatie, fullscreen, mobiel, camerastand en Nu3D geslaagd; screenshots en live3D persoonlijk bekeken. Geometrytussenbestanden bewaard buiten site in research/export-intermediates-20261003/round18-chevalier. Geen commit/push door subagent; hoofdtaak verzorgt release.
+
+
+### Ronde 18 — Café A. Piso lokaal geïntegreerd
+
+Café A.Piso aan de Galerij toegevoegd als195e locatie (cafe-piso-galerij). Primair1930adresboek noemt koffiehuis11a; suikerwerkwinkel11b in1939 en secundaire vermelding8 worden niet met cafébewijs verward. HuisnummerkaartZ8/perceel1486 en foto1934–1938 ondersteunen smalle voorgevel;1939bouwfoto toont het pand intact,1940schadekaart kleurt geheleblok verwoest. Hoofdtaak heeft AI02 gecontroleerd na buurtekstcorrectie, beide prompts en ongewijzigd origineel beschikbaar.
+
+Licht model: vier bovenlagen met twee assen, bronopschriften, één dakkapel; benaderde voorbreedte3,78m/diepte11,5m/goot17,25m. Was historisch onderdeel van huizenrij; nuzichtbare eenvoudige zij/achterwanden expliciet als modelinterpretatie beschreven. GLB/Blend geëxporteerd. Nul overlap met194 andere exacte modellen en989 achtergrondpolygonen. npmcheck14tests groen; gerichte desktop/mobiel/fullscreen/Nu3D-camera/fotopaarcontrole geslaagd, screenshots en live3D bekeken. Unieke lokale beelden in research/expansion-20261003/round18-candidates/browser-piso en piso-live-model.png. Exporttussenbestanden buiten site in research/export-intermediates-20261003/round18-piso. Geen commit/push door deze agent.

@@ -1,0 +1,88 @@
+{
+  "researchOnly": true,
+  "historicAddress": "Delftschevaart 28",
+  "mapReading": "left front section of parcel2554, source labels28\u201330; no claim to complete original cadastral extent",
+  "sourceUrl": "https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB",
+  "sourcePixels": [
+    [
+      2654,
+      3705
+    ],
+    [
+      2694,
+      3708
+    ],
+    [
+      2702,
+      3650
+    ],
+    [
+      2662,
+      3647
+    ]
+  ],
+  "workingMapPixels": [
+    [
+      2498.7193084279797,
+      1530.642848926683
+    ],
+    [
+      2504.985076635424,
+      1538.9489402907539
+    ],
+    [
+      2517.653989199544,
+      1530.5746262204643
+    ],
+    [
+      2511.3882209920994,
+      1522.2685348563937
+    ]
+  ],
+  "localPolygon": [
+    [
+      -262.93014466660657,
+      533.334451459956
+    ],
+    [
+      -259.14726800769654,
+      528.400958896044
+    ],
+    [
+      -251.5742418387665,
+      533.4978594684778
+    ],
+    [
+      -255.35711849767677,
+      538.4313520323897
+    ]
+  ],
+  "widthMeters": 6.216872581507589,
+  "depthMeters": 9.128478558915232,
+  "uncertaintyMeters": 8,
+  "method": "Reuses independent two-street-corner fit from round12-candidates/oppert55-place.py, not existing models. Front28 read on native Z8. Rear depth is conservative hypothesis, requires working-map visual QA before runtime.",
+  "anchors": [
+    {
+      "source": [
+        2137,
+        3285
+      ],
+      "working": [
+        2492,
+        1358
+      ],
+      "name": "Oppert/Stokviswater"
+    },
+    {
+      "source": [
+        3289,
+        3230
+      ],
+      "working": [
+        2700,
+        1573
+      ],
+      "name": "Oppert/SintJacob"
+    }
+  ]
+}

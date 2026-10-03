@@ -1,0 +1,88 @@
+{
+  "status": "research draft root review required",
+  "sourceMap": "40110-Z8 1938",
+  "sourceUrl": "https://proxy.archieven.nl/0/2D641F4B5AE14C008740B00DF7B61BCB",
+  "sourceFile": "research/expansion-20261003/round18-west/Z8-original.jpg",
+  "sourceControls": [
+    [
+      1871.5,
+      3644.0
+    ],
+    [
+      2011.0,
+      3308.0
+    ]
+  ],
+  "workmapControls": [
+    [
+      2374.0,
+      1361.25
+    ],
+    [
+      2456.25,
+      1332.5
+    ]
+  ],
+  "sourcePixelPolygon": [
+    [
+      1902.0,
+      3561.5
+    ],
+    [
+      1910.0,
+      3536.5
+    ],
+    [
+      1998.5,
+      3554.0
+    ],
+    [
+      1988.5,
+      3577.0
+    ]
+  ],
+  "workmapPixelPolygon": [
+    [
+      2393.596177928885,
+      1353.5210808896445
+    ],
+    [
+      2399.336030599235,
+      1350.9572134863297
+    ],
+    [
+      2410.3434735798273,
+      1369.5486173678992
+    ],
+    [
+      2404.641269301601,
+      1371.4361396798413
+    ]
+  ],
+  "worldPolygon": [
+    [
+      -326.5104203017638,
+      638.7222364255541
+    ],
+    [
+      -323.07564155957493,
+      640.2947420422088
+    ],
+    [
+      -316.41801566885374,
+      629.232648979975
+    ],
+    [
+      -319.83224806774683,
+      628.0654117755084
+    ]
+  ],
+  "center": [
+    -321.45908139948483,
+    634.0787598058116
+  ],
+  "frontWidthMeters": 3.7776287432995734,
+  "depthSideMeters": 12.910998622040113,
+  "uncertaintyMeters": 5,
+  "note": "Two manual end-of-block frontage anchors, Z8 streetfront Galerij1 and Galerij14 mapped to1955prewarworkmap. Small parcel1486/11. Source widths and rotation approximate, not surveyed."
+}
