@@ -1,0 +1,21 @@
+{
+  "frontWorkingPixels": [
+    [
+      2778,
+      3176
+    ],
+    [
+      2778,
+      3187.52
+    ]
+  ],
+  "width": 6.898761909712612,
+  "depth": 11.0,
+  "source": "1938 Z11 number52 parcel384; front width ratio64/200 against brewery992",
+  "heightUncertainty": 3,
+  "widthUncertainty": 1,
+  "positionUncertainty": 8,
+  "depthUncertainty": 5,
+  "identification": "Inferred from independent parcel map and facade sequence; no individually numbered photo caption",
+  "roof": "Conservative low gable behind photographed front, rear uncertain; no full rear plot extruded"
+}

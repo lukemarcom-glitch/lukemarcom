@@ -580,3 +580,35 @@ Tag `rdam39-20261003-50-buildings` staat lokaal en op GitHub, wijst naar release
 
 ### Ronde tien — openbaar geverifieerd
 Release18bcfaa60fe754a9187cbaa724727854ce2c6f8e: Pages37085663868 en check37085663852 success. Anonieme openbare bytecontrole22bestanden geslaagd, plus kerkmodelGLB afzonderlijk bytegelijk. Browser op https://rdam39.nl/:157gebouwen/18verhalen, nulJS/HTTP-fouten/overflow; fotopaar, fullscreen, mobiel en Nu3D geslaagd. Publieke mobiele galerie en Nu-screenshot visueel bekeken. Bewijs: VERIFICATIE-RONDE10-20261003.json. Checkpoint50 hierboven voltooid. Onderzoek ronde11 loopt, nog geen volgende locaties geïntegreerd. Het voorstel Gebieden→Ga naar een plek is niet geïmplementeerd.
+
+
+### Ronde elf — toevoeging 51 lokaal: Pakhuis Houttuin 12
+
+Locatie `houttuin12` toegevoegd met één ongewijzigd RCE-origineel/AI-paar, bronvermelding en CC BY-SA 4.0. Identiteit onafhankelijk gecontroleerd via Schallers foto uit 1925 (alleen externe bronlink, geen publicatie van dat beeld), huisnummerkaart N504 en RJB 1935. Verlies blijft expliciete combinatie van adreskaart en gemeentelijke schadekaart. Geen exacte 1939- of kleurzekerheid. Houttuin 14 is het buurhuis, ondanks de adresmetadata van de vrije opname.
+
+GLB en Blender-export gereed; exacte meshprojectie 52,5331 m², nul model- en achtergrondoverlap. 157 bestaande catalogusentries ongewijzigd. Check: 158 gebouwen/18 verhalen/318 foto's/294 AI-paren, nul fouten, tien tests. Browser desktop/mobiel/fullscreen/Nu geslaagd en screenshots bekeken. Bewijs in `site/landmarks/houttuin12/CONTROLE.md`, mesh-qa.json en browser-report.json. Alleen lokaal; geen commit of publicatie door subagent. Boompjes 42–43 blijft research totdat plaatsingscontrole is afgerond.
+
+### 3 oktober 2026 — Bekking, Boerenvismarkt 10 (ronde 11)
+
+- Nieuw pand `bekking-boerenvismarkt10`: complete RCE20191889-foto van C. Hoogendijk, opnamedatum onbekend, CC BY-SA 4.0, met afzonderlijk gecontroleerd AI-paar. Oprichtingsjaar 1847 niet als bouwjaar gepresenteerd.
+- Nummer 10/perceel 2338 via SAR Z8. Luchtfoto 1938 bevestigt de bebouwde rij; individuele geveldetaillering blijft de ongedateerde fotolaag. Verlies onderbouwd als synthese nummerkaart/schadekaart en ruïnefoto, niet als aparte bominslagclaim.
+- Bestaand Binnenrotte-deelmodel ligt aan andere kant Laurenskerk: geen duplicaat. Breedte circa 7,78 m kaartafgeleid; diepte 18 m/hoogte 20,2 m en achterkap benaderd. Middenopening met glazen bovendeel en dichte verticale borstwering; gevelopschrift letterlijk weergegeven.
+- Exacte meshvoetprint 149,6631 m²; 0 m² overlap achtergrond en nabij Luchtspoor, tolerantie 0,03 m². Achtergrond opnieuw uitgesneden. GLB + Blender geëxporteerd. Portable bron-, prompt-, review-, integriteits-, plaatsings- en meshbestanden bij het item.
+- `npm run check` 160 gebouwen, 320 foto's, 296 AI-paren, nul fouten/10 tests geslaagd. Algemene browsercheck via lokaal Chrome en gerichte desktop/mobiele galerie/fullscreenchecks geslaagd. Screenshots lokaal in `artifacts/bekking-browser/` (niet bedoeld voor commit). Publicatie door coördinerende agent; deze notitie is geen liveverklaring.
+
+
+## Lokale toevoegingen 54–55 · Boompjes 42–43 en Mercurius 40 · 3 oktober 2026
+
+Catalogus lokaal 162 locaties. Twee items toegevoegd met historische percelen Z12 (785/784 en 1529), hele gevelbeelden RCE/CC BY-SA 4.0, AI-varianten en traceerbare bronpassages. Mercurius heeft daarnaast het volledige gedeelde overzicht uit februari 1938 als tweede oud/AI-paar. Verlies mei 1940 is expliciet een kaartketen, geen individuele bominslagclaim. Kleur pui 42 volgt Verheul 1936; overige kleuren en achtervolumes zijn interpretatie.
+
+GLB/Blender geëxporteerd, achtergrond geclipt; nul achtergrondoverlap en nul onderlinge nieuwe mesh-overlap. 42–43 heeft nog 6,789 m² overlap met de bestaande synagogemesh: blokkade voor definitieve ruimtelijke vrijgave, onderzoek Boompjes 87 loopt bij hoofdonderzoeker. Geen verplaatsing van die synagoge uitgevoerd. ModelSpec en originele fotobytes gecontroleerd; npm check nul fouten/tien tests. Desktop/mobiel/fullscreen/Nu en beide Mercurius-paren geladen en screenshots bekeken. Publieke folders bevatten alleen vrij verklaarde gevelbeelden, geen ongetoetste kaartcrops. Nog niet gecommit of gepubliceerd door subagent.
+
+
+## Lokale correctie Rotterdamsche Bank · Boompjes 77–81
+
+Bestaand item naar historisch Z11 H1827 verplaatst op primaire kaart en luchtfoto 1924; geen generieke offset. Frontbreedte circa 31 m in plaats van 37 m, voorbouwdiepte 33 m en hoogte blijven schematisch. GLB/Blend en achtergrond vernieuwd. Catalogusaantal blijft 162. Npm check nul fouten, twaalf tests geslaagd; desktop/mobiel/fullscreen/Nu gecontroleerd. **Open punt:** exacte nieuwe bankmesh heeft 94,608 m² overlap met bestaande Bijbank; andere locatie niet gewijzigd, onafhankelijke controle nodig. Geen commit/publicatie door uitvoerder.
+
+### Ronde elf — definitieve lokale controle
+Vijf toevoegingen 51–55 afgerond: Houttuin 12, Leuvehaven 52, Bekking Boerenvismarkt 10, Boompjes 42–43 en Boompjes 40 Mercurius. Originele foto's, AI-paren, prompts, rechten en bronketens staan bij ieder item. Bij Mercurius staat het hele overzicht uit 1938 vooraan, gevolgd door de detailfoto.
+
+De hierboven beschreven tijdelijke overlapproblemen zijn opgelost: synagoge 87, Oost-Indisch Huis 90, Rotterdamsche Bank 77 en Bijbank 72 zijn op hun afzonderlijk onderzochte historische percelen gezet. Twee Leeuwen kreeg alleen een begrenzing van het overstek bij Leuvehaven 52. Het synagogeverhaal is met dezelfde plaatsingsbron gesynchroniseerd. Exacte meshcontroles tonen geen model- of achtergrondoverlap. Twaalf tests slagen bij 162 locaties/18 verhalen/323 foto's/299 paren. Hoogten, niet zichtbare achtergevels en niet bewezen kleuren blijven expliciete benaderingen. Publicatiecontrole volgt apart. Backup 50 is voltooid; volgende backup bij 60. Menuvoorstel niet uitgevoerd.

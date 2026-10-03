@@ -720,8 +720,8 @@
     "periodNote": "14 mei 1940",
     "place": "Boompjes · historische synagoge",
     "center": [
-      259.88624428755793,
-      -349.96891201147696
+      68.15393617417834,
+      -559.3227480015893
     ],
     "height": 25.5,
     "cameraDistance": 380,
@@ -729,7 +729,7 @@
     "story": "Aan de Boompjes, naast het Oost-Indisch Huis, stond sinds 1725 een synagoge van de Rotterdamse Joodse gemeente. Het terrein liep door tot aan de Scheepmakershaven. Achter het hek lagen het voorplein en de gebedsruimte; de historische foto toont de gevel met klok en torentje. De gemeente veranderde met de stad. Toen veel leden elders gingen wonen, verschoof het zwaartepunt naar andere synagogen, waaronder die aan de Botersloot. Op 14 mei 1940 gingen beide gebouwen bij het bombardement en de brand verloren. Daarmee verdwenen plaatsen van gebed en gemeenschapsleven. Die verwoesting moet worden onderscheiden van de latere vervolging en deportaties tijdens de bezetting. Een gedenkplaat herinnert aan de Boompjes-synagoge. Na de oorlog bouwde de overlevende Rotterdamse Joodse gemeenschap haar religieuze leven opnieuw op.",
     "evidenceLabel": "Gedocumenteerd",
     "evidenceNote": "De Joodse instellingen NIK en Joods Cultureel Kwartier documenteren de geschiedenis en verwoesting. Er is geen onderbouwd verhaal over aanwezigen of slachtoffers in het gebouw toegevoegd.",
-    "locationNote": "Het NIK beschrijft het historische terrein naast het Oost-Indisch Huis, doorlopend naar de Scheepmakershaven. De marker is in die zone op de oude kaart geplaatst; geen exact ingemeten perceel, huidige huisnummerpositie of bewezen plek van de gedenkplaat. Het verhaalanker en het 3D-model delen dezelfde historische gebouwpositie; binnenruimtes en exacte gebeurtenisplekken zijn niet ingemeten.",
+    "locationNote": "Historisch Boompjes 87, perceel H1705 tussen de expliciete nummers 88 en 86 op huisnummerkaart Z11. Het voorplein, de zijgang en de ligging naast Oost-Indisch Huis 90 zijn ook op de luchtfoto uit 1924 herkenbaar. Het verhaal gebruikt hetzelfde gebouwanker als het 3D-model; plaats circa 5 meter onzeker. Geen claim over een exact ingemeten binnenruimte of de huidige plek van de gedenkplaat.",
     "sources": [
       {
         "title": "Nederlands-Israëlitisch Kerkgenootschap — Rotterdamse Joodse gemeenschap",
@@ -744,6 +744,13 @@
         "supports": "Onderwerp van deze verwijzing: Joods Cultureel Kwartier — Rotterdam.",
         "role": "historie",
         "checkedAt": "2026-09-28"
+      },
+      {
+        "title": "Gemeentelijke huisnummerkaart Z11 · historisch synagogeperceel",
+        "url": "https://proxy.archieven.nl/0/8C75724BFB804EDB929C93BE12706702",
+        "supports": "Plaatsingscontrole: perceel H1705 tussen de expliciete nummers 88 en 86, met voorplein en zijgang. Nummer 87 wordt door de bestaande archiefregistratie van de synagoge ondersteund. Geen bewijs voor een specifieke gebeurtenis binnen het gebouw.",
+        "role": "kaart",
+        "checkedAt": "2026-10-03"
       }
     ],
     "anchor": {
@@ -756,7 +763,7 @@
       "then": "Synagoge naast het Oost-Indisch Huis, tussen Boompjes en Scheepmakershaven.",
       "now": "De Boompjes is herbouwd. De huidige Rotterdamse synagoge aan het A.B.N. Davidsplein ligt elders."
     },
-    "locationChecked": "2026-09-25",
+    "locationChecked": "2026-10-03",
     "photos": [
       {
         "src": "stories/photos/synagoge-boompjes-voorgevel.webp",

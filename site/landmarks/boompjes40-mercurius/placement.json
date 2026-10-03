@@ -1,0 +1,27 @@
+{
+  "sourceFront": [
+    [
+      2961,
+      3788
+    ],
+    [
+      3040,
+      3788
+    ]
+  ],
+  "workFront": [
+    [
+      3412.12,
+      3018.74
+    ],
+    [
+      3428.3415122140827,
+      3001.7236448823974
+    ]
+  ],
+  "width": 14.129680703646823,
+  "depth": 11,
+  "uncertaintyMeters": 8,
+  "heightUncertaintyMeters": 3,
+  "note": "Z12 perceel 1529, oostelijk van 42/784. Werkkaartfront volgens onafhankelijke herlezing round11-nh, aansluitend op 42\u201343; circa 8 m plaatsingsonzekerheid. Vijfassige gevel, voorbouwdiepte11m/hoogte20m geschat; geen volledige diepeperceelbebouwing."
+}

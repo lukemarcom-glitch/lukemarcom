@@ -1,0 +1,27 @@
+{
+  "sourceFront": [
+    [
+      2882,
+      3788
+    ],
+    [
+      2961,
+      3788
+    ]
+  ],
+  "workFront": [
+    [
+      3397.63,
+      3033.94
+    ],
+    [
+      3412.12,
+      3018.74
+    ]
+  ],
+  "width": 12.621454195750072,
+  "depth": 10.5,
+  "uncertaintyMeters": 8,
+  "heightUncertaintyMeters": 3,
+  "note": "Z12 percelen 785 en 784, gezamenlijk voorbouwvolume. Werkkaartafstemming na onafhankelijke herlezing van perceelreeks en beide grote binnenhoven (round11-nh); circa 8 m onzeker. Voorlopige maat en hoogte uit fotoverhouding. Dakdiepte slechts bescheiden voorbouw, geen volle langgerekte percelen."
+}

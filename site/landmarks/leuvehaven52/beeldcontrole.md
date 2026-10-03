@@ -1,0 +1,1 @@
+Geselecteerd: leuve52-ai-v1.png. Parent bekeek origineel en AI; architectuur voldoende trouw. Schepen zachter, fijne details en kleine letters interpretatief. Nummer52 is een historische kaartidentificatie, niet een leesbaar opschrift. Geen bewezen kleurbron. Origineel ongewijzigd bewaard.

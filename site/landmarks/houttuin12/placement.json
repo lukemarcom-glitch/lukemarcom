@@ -1,0 +1,27 @@
+{
+  "sourceFront": [
+    [
+      2944,
+      2317
+    ],
+    [
+      2914,
+      2317
+    ]
+  ],
+  "workFront": [
+    [
+      3791.140378176886,
+      2004.8515866631974
+    ],
+    [
+      3783.206675083795,
+      2006.847384817395
+    ]
+  ],
+  "width": 4.913014836020668,
+  "depth": 9,
+  "uncertaintyMeters": 8,
+  "heightUncertaintyMeters": 3,
+  "note": "N504 op Z17, tussen 14/N998 en 10/N502. Bestaande lokale Z17-affine, circa 8 m onzeker. Alleen voorbouw, achterplaats open. Foto ongedateerd, uiterlijk bevestigd met opname 1925; kleuren interpretatie, geen gedocumenteerde luikschilderkleur."
+}

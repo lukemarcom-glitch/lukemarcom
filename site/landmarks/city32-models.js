@@ -127,7 +127,7 @@ export function buildCity32(meta,{material,box,merge}){
  if(spec.vertexDeform){
   root.updateMatrixWorld(true); const v=new T.Vector3(),df=spec.vertexDeform;
   root.traverse(o=>{if(!o.isMesh)return;let geo=o.geometry.clone();geo.applyMatrix4(o.matrixWorld);const a=geo.attributes.position;
-   for(let i=0;i<a.count;i++){v.fromBufferAttribute(a,i);if(v.y<=df.cornerHeight+.001){const sum=(v.x-df.leftX)+(df.frontZ-v.z);if(sum<df.cornerCut){const shift=(df.cornerCut-sum)/2;v.x+=shift;v.z-=shift;}}v.x+=(df.shearXPerDepth||0)*(df.frontZ-v.z);if(Number.isFinite(df.maxX))v.x=Math.min(v.x,df.maxX+(df.maxXSlope||0)*(df.frontZ-v.z));if(Number.isFinite(df.minX)&&v.z>=(df.minXFromZ??-Infinity))v.x=Math.max(v.x,df.minX);a.setXYZ(i,v.x,v.y,v.z);}geo.computeVertexNormals();o.geometry=geo;o.position.set(0,0,0);o.rotation.set(0,0,0);o.scale.set(1,1,1); // Flatten child transforms below.
+   for(let i=0;i<a.count;i++){v.fromBufferAttribute(a,i);if(v.y<=df.cornerHeight+.001){const sum=(v.x-df.leftX)+(df.frontZ-v.z);if(sum<df.cornerCut){const shift=(df.cornerCut-sum)/2;v.x+=shift;v.z-=shift;}}if(df.shearXPerDepth)v.x+=df.shearXPerDepth*((df.frontZ??0)-v.z);if(Number.isFinite(df.maxX))v.x=Math.min(v.x,df.maxX+(df.maxXSlope ? df.maxXSlope*((df.frontZ??0)-v.z) : 0));if(Number.isFinite(df.minX)&&v.z>=(df.minXFromZ??-Infinity))v.x=Math.max(v.x,df.minX+(df.minXSlope ? df.minXSlope*((df.frontZ??0)-v.z) : 0));a.setXYZ(i,v.x,v.y,v.z);}geo.computeVertexNormals();o.geometry=geo;o.position.set(0,0,0);o.rotation.set(0,0,0);o.scale.set(1,1,1); // Flatten child transforms below.
   });
   const meshes=[];root.traverse(o=>{if(o.isMesh)meshes.push(o)});root.clear();for(const m of meshes)root.add(m);
  }
