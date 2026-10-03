@@ -1,0 +1,36 @@
+{
+  "base": "https://rdam39.nl/",
+  "landmarkId": "weinthal-goudsesingel",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/cafetaria-ruttens/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/weinthal-goudsesingel/foto-1-ai.webp"
+    }
+  ],
+  "buildings": 192,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true,
+  "releaseCommit": "aacd684a53fade5ce2be52424fda2ba346ea7c62",
+  "pagesRun": 37117560632,
+  "checkRun": 37117560594,
+  "screenshotsVisuallyReviewed": [
+    "desktop-image-viewer.png",
+    "mobile-gallery.png"
+  ],
+  "localScreenshots": "artifacts/round17-public"
+}

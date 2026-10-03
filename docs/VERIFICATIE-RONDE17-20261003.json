@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-03T10:49:41.406Z",
+  "releaseCommit": "aacd684a53fade5ce2be52424fda2ba346ea7c62",
+  "pagesRun": "37117560632",
+  "buildings": 192,
+  "ids": [
+    "torenpand-kalverstraat",
+    "nieuwehaven163",
+    "nieuwehaven161-drijver",
+    "restaurant-wolff",
+    "weinthal-goudsesingel"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "05183a5e2c202689f2d72cc734107d4b33fef8d6d4f4ad5be166a6901a602f55",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "0a1370f3be53db9bd79efce77e8083af5914e72ac4331933241231239eed211c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "9169284ad9a6441f933bcc74d4c6ab559b131b4631ff3097e682520a204ccd60",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "c398c982890fd68fc6ab09b83f36a16d325bfeb4015297cf8d6aa27c7d8273f4",
+      "identical": true
+    },
+    {
+      "path": "landmarks/torenpand-kalverstraat/model.glb",
+      "sha256": "c590eb42dd627eb7d49ca01a4649e7163e24ae5b954d3498367680c8a7fffc4a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/torenpand-kalverstraat/foto-1-origineel.jpg",
+      "sha256": "2ad79d227bad7771f9e121fab2e31f4df79a58f1bedff3d2223959eb10e814aa",
+      "identical": true
+    },
+    {
+      "path": "landmarks/torenpand-kalverstraat/foto-1-ai.webp",
+      "sha256": "ab30e2542090922d19c23d0230dc83c6b598df3b05b9cc93020b228ac0bb2385",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven163/model.glb",
+      "sha256": "dc6f711c1897493d77ff045ff1ebed96f0ef2c554d012026e20dd9b3ba9d9d39",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven163/foto-1-origineel.jpg",
+      "sha256": "3a418ac8e86c640ec24b0c7fbf1b83c5cee8877905281399dc32eb37aff80e5a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven163/foto-1-ai.webp",
+      "sha256": "dc41844d8259658a1989d1c02c5b740bbcacad53ee17bc1be6802f8603152956",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven161-drijver/model.glb",
+      "sha256": "09b429d8a892b886f2c41390e33083a254194e7e109c8f8500b753b17152f31a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/restaurant-wolff/model.glb",
+      "sha256": "e34ec29376c38f6c699444066cb11af73a2a4a1a4de75f487930b72119be8488",
+      "identical": true
+    },
+    {
+      "path": "landmarks/restaurant-wolff/foto-1-origineel.jpg",
+      "sha256": "cdf77871f1fc00429a7eea76d403cdb3361d7a342967649ff284729eca7590ca",
+      "identical": true
+    },
+    {
+      "path": "landmarks/restaurant-wolff/foto-1-ai.webp",
+      "sha256": "5b6f9b5d7972200368317c7803d4a052da50b0f6292bb81b08e1faf05076ad86",
+      "identical": true
+    },
+    {
+      "path": "landmarks/weinthal-goudsesingel/model.glb",
+      "sha256": "9adf13177938c6a21dd8d414cbfc57d2da45de256a28774a4b43ad0c353d9dcb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafetaria-ruttens/foto-1-origineel.jpg",
+      "sha256": "68abe391a83f8399686a17c77515d5d42302741f1349217a77997fbddc7268fb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/weinthal-goudsesingel/foto-1-ai.webp",
+      "sha256": "7123bcd1b7c3cc7384d7e5f8e782b55e6c38bc7fdcbde7863ef45eb6dccf9364",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
