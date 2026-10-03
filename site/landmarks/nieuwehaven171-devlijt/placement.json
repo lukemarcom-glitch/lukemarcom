@@ -1,0 +1,35 @@
+{
+  "status": "research-only; independent front identified; no runtime model",
+  "parcel": 1081,
+  "address": "Nieuwehaven 171",
+  "sourceMap": "40110-Z17 / 1938",
+  "sourceFront": [
+    [
+      2007,
+      2728
+    ],
+    [
+      2048,
+      2724
+    ]
+  ],
+  "workFront": [
+    [
+      3571.0221994855397,
+      2178.378276843924
+    ],
+    [
+      3581.5955565878703,
+      2174.617194440344
+    ]
+  ],
+  "center": [
+    383.06036264870596,
+    159.64597652068903
+  ],
+  "width": 6.742087844930972,
+  "depth": 13,
+  "angle": 0.3514035972258362,
+  "uncertaintyMeters": 8,
+  "note": "13 m is conservative approximate front-building depth, not full parcel. Local +8 work-map pixels follows independently reviewed adjacent 169 alignment. Shared right front point equals existing 169 left point; no overlapping architecture assumed."
+}

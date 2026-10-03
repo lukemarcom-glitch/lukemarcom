@@ -651,3 +651,41 @@ Volle bronfront van 48 behouden; bestaande 46/50 zijdelings op eigen bronperceel
 
 ### Ronde12 — openbaar geverifieerd en backup60
 Release8d003c57308b5569bca730f2ef3c351c4b7e0588, Pages37093869422/check37093869429 geslaagd. Vijf nieuwe locaties:Oppert55, Westewagenstraat2–4, Westewagenstraat23, Kipstraat33–37, Haringvliet48. 167locaties/18verhalen. 24openbare bestanden bytegelijk; anonieme browsercheck desktop/mobiel/fullscreen/Nu geslaagd zonder fouten of overflow. Backup60-tag op GitHub en lokaal geldig volledig Git-bundle gemaakt; hash en detail in RONDE12-20261003.md. Volgende backupbij70. Ronde13 is uitsluitend onderzoek; menuvoorstel niet uitgevoerd.
+
+### Wijnhaven 61–65 en gedeelde grens met 67 — 3 oktober 2026
+
+Eén nieuwe gevelgroep, gefotografeerd februari 1938 (RCE 20192619, maker onbekend, CC BY-SA 4.0). De monumentenlijst van 1915 beschrijft 61/63/65 als oorspronkelijk één bergstenen gevel uit 1701; Grieks fries herkenbaar in foto en model. Eén origineel/AI-paar, origineel byte-identiek; beide prompts en review bewaard, alleen geselecteerde proef02 gepubliceerd als lokaal bestand. Kleine teksten en raamlijnen zijn interpretatief. Primaire huisnummer- en schadekaart onderbouwen het verlies als expliciete bronnenvergelijking.
+
+De gezamenlijke grens met 67 is opnieuw op Z12 gelezen. Voorlijn67 circa6,75m breed; alle horizontale onderdelen proportioneel geschaald, hoogten behouden. Beide modellen volgen dezelfde licht scheve perceelsgrens; alleen onbewezen randuitsteeksels aan die grens begrensd. Geen andere buurmodellen aangepast. Bij65 is alleen het zichtbare verhoogde platform gemodelleerd; geen eigen trap (grote bronnentrap hoort bij67). Dakvorm/achterbouw61–65 onbekend, vlakke modelafsluiting is geen historisch platdakbewijs.
+
+Beide GLB/Blend opnieuw geëxporteerd, achtergrond uitgesneden. Exacte mesh-overlap met andere modellen en achtergrond voor beide nul. npmcheck12/12; gerichte desktop/mobielbrowser168locaties, geen errors/overflow. Bewijs in `research/expansion-20261003/round13-wijnhaven/`. Publicatie volgt apart door hoofdtaak.
+
+
+## De Kroon — lokaal toegevoegd, 3 oktober 2026
+
+Hotel-restaurant De Kroon, Hofplein 12, toegevoegd als 169e locatie. Eén volledig oorspronkelijk panorama/AI-paar (IX-1313) plus tweede oorspronkelijke foto (VIII-89-09), beide De Maasbode 1939/PDM. Verlies expliciet afgeleid uit adreskaart, late foto’s en gemeentelijke schadekaart; geen individuele bominslagclaim. Negen raamassen, drie bovenlagen; achterbouw en dakvorm onbekend, alleen conservatieve voorbouw. De kavel is onafhankelijk geplaatst met vier kaartankers. Exacte modelcontrole zonder conflicten en 0 m² achtergrondoverlap, GLB en Blender geëxporteerd. Npm check en gerichte desktop/mobiele galerie/lichtbakcontrole geslaagd. Runtimebronpakket, integriteit en plaatsings-/meshcontrole staan bij het item. Deze toevoeging is lokaal; commit/push/publicatie zijn aan de hoofdtaak.
+
+## 3 oktober 2026 — ronde 13, De Vlijt lokaal toegevoegd
+
+De Vlijt aan de historische Nieuwehaven 171 is als 170e locatie geïntegreerd, met een geheel origineel/AI-paar (RCE 20192336, C. Hoogendijk, CC BY-SA 4.0), rechtstreekse bronnen en expliciete tijdlaag-/kleurbeperkingen. Nummer 171 ligt op Z17-perceel 1081 naast 169/905. Een strook van de pui op Verheul mei 1937 en de kaart uit 1938 ondersteunen late continuïteit; niet alle opschriften of dakdetails zijn voor exact 1939 bewezen. Verlies is een gedocumenteerde ruimtelijke vergelijking met de gemeentelijke schadekaart, geen individuele inslagclaim.
+
+Het lichte model heeft vier bovenste vensterrijen, hoge bel-etage, onderpui, leesbare hoofdopschriften en een benaderde kap. Alleen 13 m voorbouw is gebruikt; hoogte circa 21,45 m en plaats circa 8 m onzeker. Uitsluitend zijdelingse overstekken van bestaand 169 zijn op de bronkavelgrens begrensd; centrum, gevelbreedte, hoogte, pui en bordes zijn behouden. Aan 171 is 2 mm numerieke marge op de gedeelde zijgrens gebruikt om float32-exportcontact te vermijden, geen zichtbare versmalling. GLB en Blender van beide panden zijn vernieuwd.
+
+Exacte runtime-meshcontrole: 171 circa 92,7405 m², 169 circa 100,3279 m²; beide nul overlap met andere losse modellen en de uitgesneden achtergrond. `npm run check`: 170 gebouwen, 18 verhalen, 333 fotovermeldingen, 308 AI-paren, 12 tests geslaagd. Gerichte browsercontrole: desktop, mobiele galerie/lichtbak, beeldbron, Nu standaard 3D en geen overflow/JS-/HTTP-fouten; screenshots van de nieuwe plek en beide gevels visueel bekeken. Portable bewijs staat in `site/landmarks/nieuwehaven171-devlijt/CONTROLE.md`, `mesh-qa.json`, `placement.json` en `asset-hashes.json`. Dit is lokale integratie; commit en openbare publicatie worden door de hoofdtaak verzorgd.
+
+
+### Ronde 13 — Old Dutch en Atlanta, lokaal afgerond 3 oktober 2026
+
+Old Dutch (Coolsingel103) toegevoegd als171e item, met ongewijzigd CC0-origineel1976-7721 uit1931 en afzonderlijke AI02. Fotoperiode ligt expliciet vóór de bedrijfsnaam uit1932. Bouwpolitiefoto3maart1939 bevestigt continuïteit, maar blijft research-only wegens ontbrekende vrije rechtenvermelding. Eigen bedrijfsgeschiedenis onderbouwt brand14mei1940. Gevelbron onderscheidt erkerfronton, lage zolderstrook en dakkapel. Plaatsmarge±5m; hoogte/achterbouw/kleuren benaderd.
+
+Atlanta-envelop onafhankelijk gecorrigeerd op Z4hoek Coolsingel/Aert van Nesstraat:26m-as langsAert, circa17,10m langsCoolsingel, hoogte behouden. `modelScaleZ` in city22-builder maakt live/export consistent. Vorige luifelprojectie overlapte OldDutch9,1195m² en oude envelop nam een deel van101 in. Portablebronoverlay/proposal/plaatsingsnotitie staan bijAtlanta. BeideGLB/Blend opnieuw geëxporteerd.
+
+Exacte geprojecteerde meshtriangles tegen alle171modellen: geenconflicten, achtergrond voorbeide0m² (tolerantie1e-8m²); QA bijbeideitems. npmcheck:171gebouwen,18verhalen,334foto's,309AIparen,0fouten,12tests geslaagd. Gerichtebrowsercheck OldDutch: desktop/mobiel, viewer, Nu3D, geen404/JSfouten/overflow. Screenshots `artifacts/olddutch-browser/`. Geencommit/push door integratieagent; rootreview/publicatie volgt.
+
+### 3 oktober 2026 — Nieuwehaven 53–55 (ronde 13, lokaal)
+
+- Nieuw afzonderlijk kantoor-/pakhuis naast het bestaande nummer59; geen dubbel model van het rococopand. RCE20192285 toont de dubbele deuradressen, een tweede foto bevestigt55 in juli1928. Adresboeken1934–1935 en1939 zijn gecontroleerd, inclusief originele1939scans: Oostenrijks consulaat eerder, Dominicaanse vertegenwoordiging op55a in1939.
+- Plaatsing op Z17/perceel830 met onafhankelijke straatankers. De volledige noordrij is verwoest ingekleurd op het gemeentelijke schadeplan1940. Breedte circa8,61m; voorbouw12m benaderd, positie±10m en hoogte±3m. Het model vertegenwoordigt de oudere fotofase, geen bewezen exacte1939gevel. Verborgen kap/achterzijde onbekend; naam en jaartal niet ingevuld.
+- Het gehele oorspronkelijke beeld en de geselecteerde AI-correctie van het beeld bij59 zijn als zelfstandig gecrediteerd paar gekopieerd. Originele SHA256 gelijk; prompts01–03 en correctienotitie bewaard. AI blijft interpretatie, vooral kleine opschriften en fijne details.
+- GLB en Blender opnieuw gemaakt; achtergrond uitgesneden. Alle171 reeds aanwezige modellen met de live modelbouwer gecontroleerd via mesh-boundingboxes, nabije nr59 vervolgens met werkelijke driehoekprojecties: overlap0,0m². Achtergrondoverlap0,0m². Runtime- en researchgeometrie gelijk.
+- npmcheck:12tests geslaagd. Gerichte browsercontrole:172locaties als momentopname, geen console-/requestfouten, desktop Toen/Nu3D, mobiele galerie en fullscreen goed. Screenshots/bronketen in research/expansion-20261003/round13-second. Geen publicatieclaim; hoofdtaak verzorgt commit/deployment.

@@ -1,0 +1,10 @@
+{
+  "exactModelConflicts": [],
+  "meshArea": 198.2711043737287,
+  "backgroundOverlapSquareMeters": 0.0,
+  "toleranceSquareMeters": 1e-08,
+  "exportFiles": {
+    "model.glb": 1460180,
+    "model.blend": 492137
+  }
+}

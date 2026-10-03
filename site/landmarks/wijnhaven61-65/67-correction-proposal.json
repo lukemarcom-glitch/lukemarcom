@@ -1,0 +1,53 @@
+{
+  "sourceFront": [
+    [
+      3884,
+      2484
+    ],
+    [
+      3923,
+      2505
+    ]
+  ],
+  "width": 6.74788329683987,
+  "oldWidth": 7.360990516900022,
+  "center": [
+    232.58635511870253,
+    -94.67938671486036
+  ],
+  "angle": 0.3473968820039159,
+  "polygon": [
+    [
+      231.45529271493797,
+      -101.46580861524285
+    ],
+    [
+      237.80007185412592,
+      -99.16848263430415
+    ],
+    [
+      234.1367125753568,
+      -87.74114590990276
+    ],
+    [
+      227.79193343616885,
+      -90.03847189084145
+    ]
+  ],
+  "notes": "Researchvoorstel; oude67voorlijn lag tot7Z12pixels naar kade. Nieuwe gedeelde grens begint op3923,2505. Breedte opnieuw uit bron gemeten; proportionele x-schaling zou nodig zijn. Geen runtime gewijzigd. Achtergrens moet kaartschuinte volgen alvorens integratie.",
+  "depth": 11.991887611924676,
+  "vertexDeform": {
+    "frontZ": 5.995943805962338,
+    "shearXPerDepth": 0.037186323465554616
+  },
+  "sharedSourceLine": [
+    [
+      3923,
+      2505
+    ],
+    [
+      4000,
+      2360
+    ]
+  ]
+}

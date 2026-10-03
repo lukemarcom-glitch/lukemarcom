@@ -1,0 +1,1 @@
+De volledige foto toont nummer59 in het midden en53–55 rechts. Dit zelfstandige item gebruikt hetzelfde gehele beeld, met eigen onderwerptekst. Prompt03 herstelt de derde persoon bij deur53 die een eerdere AI-versie wegliet. Origineel ongewijzigd. Kleine letters en jaartal niet geverifieerd, geen feitelijke transcriptie. Beeld opnieuw door hoofdtaak gecontroleerd op3oktober2026.

@@ -1,0 +1,76 @@
+{
+  "status": "Researchdraft ter review; geen runtime",
+  "sourceMap": "research/expansion-20261002/round4-a/house-map-Z17.jpg",
+  "parcel": "830",
+  "photoDoors": [
+    "53",
+    "55"
+  ],
+  "sourcePolygon": [
+    [
+      4013.0,
+      2496.0
+    ],
+    [
+      4065.0,
+      2488.0
+    ],
+    [
+      4062.0,
+      2300.0
+    ],
+    [
+      4012.0,
+      2308.0
+    ]
+  ],
+  "workPolygon": [
+    [
+      4085.898993066376,
+      1976.983394548339
+    ],
+    [
+      4099.112004177946,
+      1971.457027895377
+    ],
+    [
+      4085.6582223319483,
+      1923.082502847177
+    ],
+    [
+      4072.9741247599177,
+      1928.4758162898593
+    ]
+  ],
+  "worldPolygon": [
+    [
+      690.325515217193,
+      276.31930115199543
+    ],
+    [
+      698.2334274350399,
+      279.71424909238067
+    ],
+    [
+      690.0190663505389,
+      308.5959313855742
+    ],
+    [
+      682.4279709460859,
+      305.2840848236476
+    ]
+  ],
+  "frontWidthM": 8.605855399848252,
+  "modelDepthM": 12,
+  "center": [
+    692.6695787170229,
+    283.7967617819638
+  ],
+  "sourceAnchorFile": "research/expansion-20261002/round4-a/house-map-alignment-draft.json",
+  "notes": [
+    "Herlezen op oorspronkelijke kaart; uitsnede begint3050,2050 en is bytegelijk aanbron.",
+    "Zelfstandige zes straatankers uit eerdere kaartpassing, nietbestaand model. Maxrestfout circa6m; plaatsingonzekerheid10m.",
+    "Alleenvoorbouw12m als benadering, nietgeheleachterperceelbebouwen.",
+    "1939adresboek bevestigt55/55a. Fotofaseongedateerdvooroorlogs."
+  ]
+}

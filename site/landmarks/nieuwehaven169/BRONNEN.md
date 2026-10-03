@@ -25,3 +25,5 @@ Model volgt de onderpui van Verheuls aquarel uit mei 1937 en de hoofdgevel van d
 Nieuwehaven 169, perceel 905 op huisnummerkaart Z17 uit 1938, direct west van de Zevenhuizensteeg (perceel 1001). Circa 6,9 m breed, alleen 13 m diepe voorbouw; kroonlijst circa 21 m, hoogte circa 24 m geschat. Plaats circa 8 m en hoogte circa 3 m onzeker. Bestaande kaarttransformatie lokaal 4,8 m zuidwaarts gecorrigeerd naar zichtbare gevellijn; geen moderne geocode.
 
 Verheuls aquarel uit 1937 ondersteunt roodbruine baksteen, licht natuursteenwerk/kozijnen en groene deuren. Een geschilderde kleurindruk is geen exacte verfmeting. Kapkleur en niet zichtbare zijden zijn interpretatief.
+
+3 oktober 2026: uitsluitend linker zijoverstek begrensd op eigen kavelgrens 905 naast 1081/171. Historische centrumpositie, gevelbreedte, hoogte, onderpui en bordes blijven gelijk. Exacte meshcontrole met 171: geen overlap.

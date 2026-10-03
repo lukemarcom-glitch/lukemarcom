@@ -1,0 +1,13 @@
+{
+  "meshAreaM2": 114.14572023462499,
+  "catalogLiveBuilderCount": 171,
+  "nearbyModels": [
+    {
+      "id": "koopmanshuis-nieuwehaven59",
+      "overlapM2": 0.0
+    }
+  ],
+  "method": "Alle catalogusitems opnieuw met live createLandmark gebouwd; exacte bbox broadphase, daarna projectie werkelijke driehoeken; nr59 altijd meegenomen.",
+  "backgroundOverlapM2": 0.0,
+  "runtimeVsDraftSymmetricDifferenceM2": 0.0
+}

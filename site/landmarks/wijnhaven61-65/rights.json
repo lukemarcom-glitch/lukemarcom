@@ -1,0 +1,103 @@
+{
+  "continue": {
+    "iistart": "2013-01-10T12:07:41Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": {
+      "23743534": {
+        "pageid": 23743534,
+        "ns": 6,
+        "title": "File:En andere - Rotterdam - 20192619 - RCE.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/En_andere_-_Rotterdam_-_20192619_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:En_andere_-_Rotterdam_-_20192619_-_RCE.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23743534",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-02 06:42:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "En andere - Rotterdam - 20192619 - RCE",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the Rijksdienst voor het Cultureel Erfgoed|Wijnhaven (Rotterdam)|Template Unknown (author)|Buildings with addresses|1938 in Rotterdam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "en andere",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1938-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/?mode=gallery&amp;view=horizontal&amp;q=20192619\">Rijksdienst voor het Cultureel Erfgoed</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.cultureelerfgoed.nl/\">Rijksdienst voor het Cultureel Erfgoed</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

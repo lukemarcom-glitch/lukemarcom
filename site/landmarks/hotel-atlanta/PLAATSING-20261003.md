@@ -1,0 +1,3 @@
+Herplaatst op de onafhankelijke huisnummerkaart Z4 (1938), perceel 2300: noordoosthoek aan Coolsingel/Aert van Nesstraat vastgezet; lange as 26 m langs Aert, Coolsingelbreedte circa 17,10 m kaart-afgeleid. Hoogten behouden. Voorheen nam de gedraaide envelop een deel van buurpand 101 in. Model blijft een benadering, plaatsmarge ±5 m.
+
+Blauw in de vergelijking: historisch perceel 2300; groen: eerdere globale envelop; rood: nummer 103. De diepe kadastrale strook is niet geheel als hoogbouw gemodelleerd. Bron: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=247&miadt=184&miview=ldt&milang=nl&micode=4001&minr=39548287&miaet=14

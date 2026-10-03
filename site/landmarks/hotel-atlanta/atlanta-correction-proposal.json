@@ -1,0 +1,13 @@
+{
+  "id": "hotel-atlanta",
+  "center": [
+    -414.58579457650103,
+    224.44984394666088
+  ],
+  "angle": -2.829364114499544,
+  "localScaleZ": 0.826157927686575,
+  "modelWidth": 26,
+  "modelDepth": 17.101469103112102,
+  "heightUnchanged": true,
+  "note": "Researchproposal:26m Aert van Nesstraat axis retained, Coolsingel axis17.10m from Z4. Fixed source NEcorner. Old model26m front axis misoriented; depthadjustment to sourceparcel. Entireheight/detailsscaleY1."
+}

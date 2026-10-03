@@ -177,6 +177,7 @@ export function buildCity22(meta,{material,box,merge}) {
   shed(-17,-36,220,24);shed(-24,-11,158,22);
  }
 
+ g.scale.z=meta.modelScaleZ||1;
  g.rotation.y=meta.angle||0;g.position.set(meta.center[0],.35,-meta.center[1]);
  const out=merge(g);out.name=meta.name;out.userData.landmark=meta.id;return out;
 }

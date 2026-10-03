@@ -1,0 +1,14 @@
+[
+  {
+    "file": "foto-1-origineel.jpg",
+    "sourceSha256": "0ed0643519a03d177f0e6c3313ccf378eb06cb05fa07a8ddaa862b49e42e7d9e",
+    "runtimeSha256": "0ed0643519a03d177f0e6c3313ccf378eb06cb05fa07a8ddaa862b49e42e7d9e",
+    "byteIdentical": true
+  },
+  {
+    "file": "foto-2-origineel.jpg",
+    "sourceSha256": "2222d85e33463099d3c9ba6d688a845223f614ce3d165c7ef901813d1b0d1ab8",
+    "runtimeSha256": "2222d85e33463099d3c9ba6d688a845223f614ce3d165c7ef901813d1b0d1ab8",
+    "byteIdentical": true
+  }
+]
