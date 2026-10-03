@@ -846,3 +846,10 @@ Torenpand tegenover Kalverstraat, Nieuwehaven 163, Nieuwehaven 161, Restaurant W
 Weinthal: definitieve hoekvorm op verfijnde Z13-fit, adres189b bevestigd met adresboek1939 p133–134. Het eerste te brede hoekontwerp is vervangen. Nieuwe roofPolygon-optie verandert bestaande modellen niet. Ruttens IX-943-rechten gecorrigeerd naar actuele primaire PDM, oude Commons-metadata herkenbaar bewaard. De publieke verifier eist nu ook gelijkheid met de releasecommit.
 
 Volgende ronde blijft brononderzoek. Kandidaat Gerzee/café Wilhelmina, Goudschesingel187: vrij panorama, adresboek en Z13 gevonden; modelomvang en toewijzing van zes gevelassen nog controleren. Dossier research/expansion-20261003/round18-candidates/STATUS.md. Nog geen nieuwe runtime of AI voor deze kandidaat. Het voorstel voor buurtnavigatie is niet uitgevoerd.
+
+
+### Ronde 18 — Gerzee lokaal geïntegreerd
+
+Gerzee en café Wilhelmina (gerzee-goudsesingel), historisch Goudschesingel187, als193e locatie toegevoegd. Zes gevelassen en twee dakkapellen gekoppeld aan breed perceel9671 op huisnummerkaart1938; apart van rijwielstalling183. Adresboek1939 noemt Gerzee als vertegenwoordiger, dus geen theaterzaal geclaimd. Verlies bij bombardement/brand volgt primaire schadekaart op blokniveau. Ongewijzigd geheel Heymans-panorama1939 (PDM1.0) plus door hoofdtaak gecontroleerde AI-uitsnede, prompt en directe bronlinks opgenomen.
+
+Model met voorbreedte11,96m, sobere diepte12m, beperkte zijwandtapsheid; onzichtbare achterbouw en kleuren onzeker. GLB/Blend geëxporteerd. Exacte meshcontrole nul overlap met192 andere modellen en989 achtergrondpolygonen. npmcheck14 tests groen; standaard en gerichte browsercontrole met origineel/AI, fullscreen, mobiel en Nu3D geslaagd. Modelrender en mobiele/fullscreenbeelden bekeken. Exporttussenbestanden buiten site in research/export-intermediates-20261003/round18-gerzee. Geen commit/push/publicatie door deze agent.
