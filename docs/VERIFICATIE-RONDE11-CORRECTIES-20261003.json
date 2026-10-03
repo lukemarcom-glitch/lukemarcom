@@ -1,0 +1,46 @@
+{
+  "releaseCommit": "c66be296d72879d91a10e58a6d16f5a00d0201ac",
+  "checkedAt": "2026-10-03T02:34:23.817Z",
+  "files": [
+    {
+      "path": "landmarks/city32-models.js",
+      "identical": true,
+      "sha256": "7f58c4b6e51d8b62a256c88a1ae60f14d4eff4116ef272d476973b3fe796147f"
+    },
+    {
+      "path": "landmarks/models.js",
+      "identical": true,
+      "sha256": "5643af1b38d1fed673d9a2abc30b9a98d908487f5b4caa7631e21f0add4d3d1b"
+    },
+    {
+      "path": "stories/catalog.json",
+      "identical": true,
+      "sha256": "75cd9dad175f7423da2812681dcb9b1f661dfc65bdcf8fca0e8f607a32e416b6"
+    },
+    {
+      "path": "landmarks/twee-leeuwen/model.glb",
+      "identical": true,
+      "sha256": "ec6df7f9bede10b1fff73021fa82422cad98e9c6c039743775e479537de8b237"
+    },
+    {
+      "path": "landmarks/synagoge-boompjes/model.glb",
+      "identical": true,
+      "sha256": "3cecc3f3bc749c80c11efb365490cb54f78d31aff6e99fe16072430d28f6f4f7"
+    },
+    {
+      "path": "landmarks/oostindisch-huis/model.glb",
+      "identical": true,
+      "sha256": "833681dee4157491d2aa3abc3e24f2b95bcdacc088f26a43fabec71e3377c3c6"
+    },
+    {
+      "path": "landmarks/rotterdamsche-bank-boompjes/model.glb",
+      "identical": true,
+      "sha256": "98ce26df9f7608dbb8c646ea26fd0e414b28cf886cfbdb46f3edb6339e85f327"
+    },
+    {
+      "path": "landmarks/bijbank-boompjes/model.glb",
+      "identical": true,
+      "sha256": "f4a64c278c3cb2828d3e8e6f5297efcc3890ec5874c0f240d5e388259cbd513d"
+    }
+  ]
+}

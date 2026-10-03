@@ -1,0 +1,111 @@
+{
+  "checkedAt": "2026-10-03T02:34:00.884Z",
+  "releaseCommit": "c66be296d72879d91a10e58a6d16f5a00d0201ac",
+  "pagesRun": "37090145927",
+  "buildings": 162,
+  "ids": [
+    "houttuin12",
+    "leuvehaven52",
+    "bekking-boerenvismarkt10",
+    "boompjes42-43",
+    "boompjes40-mercurius"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "9ce4912669928306e6a59f0751baddbd4a629a83f2c38bd443811eefc309381d",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "d185d3985fe91afff0ee37a95f49415ba3bbd9fc233889e618e8187b2b245b34",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "fdf071325b0190c6a3603f2bfea66900cb4fc7645c096f1c58503c579f9ef308",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "b9505ec50e369cac53401a0e3916700e87adfe0dbb7896b11d792c8cb4e50177",
+      "identical": true
+    },
+    {
+      "path": "landmarks/houttuin12/model.glb",
+      "sha256": "7cb6b899556bf16aba4682976411337e202636625fde3ad95e41d407d5318df6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/houttuin12/foto-1-origineel.jpg",
+      "sha256": "d98fcdb30e1b2576e72d984bc6952a008f350477ca7911191a0b55f265e60518",
+      "identical": true
+    },
+    {
+      "path": "landmarks/houttuin12/foto-1-ai.webp",
+      "sha256": "26afe72ef3a3ac9cac793a89d24d709b33de622d18e8104c8e6a181f451a4f22",
+      "identical": true
+    },
+    {
+      "path": "landmarks/leuvehaven52/model.glb",
+      "sha256": "285bf26150351b6dc1cb6e43393751d1065c6d1f09a7aae7b6c2956b665d19e8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/leuvehaven52/foto-1-origineel.jpg",
+      "sha256": "086199bbb7cd0a39bf536d40427cb6d924e4ea11e27da2b02d64cef0a1009447",
+      "identical": true
+    },
+    {
+      "path": "landmarks/leuvehaven52/foto-1-ai.webp",
+      "sha256": "2895e7556dca41a784bc433b74c9e25986b4f1274930c49d7a848a82ab6ec323",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bekking-boerenvismarkt10/model.glb",
+      "sha256": "096897cc8bf81552b4373da7c0b5ac2756f26d75866907b8e999f6dfbc4e58d3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bekking-boerenvismarkt10/foto-1-origineel.jpg",
+      "sha256": "64a13f381a69a8b15bcf854d13dbf074a08a6fcb1911d2775db517f4107f95e2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bekking-boerenvismarkt10/foto-1-ai.webp",
+      "sha256": "e4e374fa058f8d1567fbe219ca83b6a22cb431f48e23885ce3d97417fb231881",
+      "identical": true
+    },
+    {
+      "path": "landmarks/boompjes42-43/model.glb",
+      "sha256": "93eff872c21793bf0616e578b7bb04a3cf91e4b7d1092e90e48e264c6843e34b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/boompjes42-43/foto-1-origineel.jpg",
+      "sha256": "d6f7d9eb706b5e632872e93763c71421166905df51080ee3223fd5fba05481fd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/boompjes42-43/foto-1-ai.webp",
+      "sha256": "419cbff28976c9d1fbc7b8b1c4a9d7e86f262f982849eaa5c52733311343ae9a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/boompjes40-mercurius/model.glb",
+      "sha256": "26c2d3d096f3e76dadd6ac43a0ff6227d0f87e4393a206c058f263aa9f7238f1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/boompjes40-mercurius/foto-1-origineel.jpg",
+      "sha256": "8ccb6a6553475ca38db8e45540592cde5ae3ed78c2b476e257a730fc971d15dd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/boompjes40-mercurius/foto-1-ai.webp",
+      "sha256": "748df4bacdeb67defb32aee63ea377887df112a9dd00a8c7959d4d7293a78cfb",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
