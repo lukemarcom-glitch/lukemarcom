@@ -915,3 +915,5 @@ Beide modellen: nul overlap met 203 andere exacte modelprojecties en nul overlap
 
 ## Ronde20 openbaar gecontroleerd — 3 oktober 2026
 207 locaties; vijf nieuwe modellen met zeven fotopaarvermeldingen uit vijf unieke bronfoto’s. Runtime a0f08a8d9fa9090acc122d1f02a38c45551af692, Pages37122441146 succesvol. 20 runtimebestanden plus gewijzigd Haringvliet-west GLB byte-identiek openbaar. Alle vijf lokaal browsergetest; Heniger ook openbaar desktop/mobiel/fullscreen. Mesh/backgroundcontrole zonder overlap. Heniger-getuigenis gecorrigeerd: petten tegen vonken, niet de vallende ramen van Van Reeuwijk. Zie RONDE20 en VERIFICATIE-RONDE20 rapporten. Volledige Git-back-up100 volgt als aparte receipt; losse research niet inbegrepen.
+
+Back-up100 afgerond: tag rdam39-20261003-100-buildings op 1d9c501; lokale volledige bundle geverifieerd en remote tag gecontroleerd. Receipt docs/BACKUP-100-20261003.json. Volgende volledige back-up bij110 toevoegingen (catalog217). Actieve vervolgrondes alleen bewezen bombardements-/brandverliezen; Monnickendam is een nog te onderzoeken kandidaat, geen reeds goedgekeurde toevoeging.

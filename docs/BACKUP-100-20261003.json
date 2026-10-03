@@ -1,0 +1,9 @@
+{
+  "tag": "rdam39-20261003-100-buildings",
+  "commit": "1d9c5012c3447386ee6d0a35fa28cd8cc09aecd0",
+  "bundle": "rotterdam_1939/backups/rdam39-20261003-100-buildings.bundle",
+  "bytes": 889578377,
+  "sha256": "511b8014b7ebc97a00e060bd0e21716e873b216361c91918546936e77cc65a31",
+  "verified": "git bundle verify geslaagd; remote tag gelijk aan lokale snapshotcommit",
+  "scope": "Alle Git-tracked bestanden en volledige Git-historie. Losse ongecommitteerde research en genegeerde exporttussenbestanden vallen hierbuiten. Dit bewijsbestand is na de snapshot aangemaakt."
+}
