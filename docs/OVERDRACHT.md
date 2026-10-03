@@ -692,3 +692,6 @@ Exacte geprojecteerde meshtriangles tegen alle171modellen: geenconflicten, achte
 
 ### Ronde 13 — publicatievoorbereiding
 Vijf toevoegingen lokaal gereed, catalogus172/18verhalen,335fotovermeldingen/310AIparen. Technische en visuele controles geslaagd. Adresboekscans van Nieuwehaven53–55 zijn uitsluitend onderzoek gebleven: CC0-open-dataregistratie specificeert XML, geen expliciete beeldlicentie. Directe archiefrecords staan in de bronlijst. Volgende backup bij70toevoegingen, huidige ronde bereikt65. Openbare verificatie volgt op de release.
+
+### Ronde 13 — openbaar geverifieerd
+Release9fc58fe487d5be24d1098882c052257a3961cb10, Pages37099415958 encheck37099415993 geslaagd. Vijf nieuwe locaties, totaal172locaties/18verhalen en65toevoegingen. 27openbare bestanden bytegelijk gecontroleerd, inclusief gecorrigeerde buurmodellen en AI59. Anonieme browsercheck desktop/mobiel/lichtbak/Nu3D zonder fouten of overflow; screenshots door hoofdtaak bekeken. Rapporten VERIFICATIE-RONDE13*.json. Volgende volledige backupbij70. Ronde14pastorie55–57 is onderzoek met kleurproef, nog geen nieuwe runtime.

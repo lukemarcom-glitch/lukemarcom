@@ -1,0 +1,41 @@
+{
+  "release": "9fc58fe487d5be24d1098882c052257a3961cb10",
+  "checkedAt": "2026-10-03T05:20:55.520Z",
+  "files": [
+    {
+      "path": "landmarks/models.js",
+      "sha256": "86ce5f026e4a50ade4da34cd7b0ea7d45e9ddc1683a23f3b16803f867441c3de",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city22-models.js",
+      "sha256": "8153d9962702648e207900eca35b87aa85f72e31903a7b1aac9510a9abda4e97",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/model.glb",
+      "sha256": "4a9551aaa91dc417b30619acb37f3317d95594aaacda9bc80d6d32d7c5822afb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven169/model.glb",
+      "sha256": "41c6fcd364f8e75f0a7cadcd6dbf8c500bb11ad1f28fc311300d5e624c009739",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hotel-atlanta/model.glb",
+      "sha256": "4c2850d7bf3b8ecd27b5b235ea7c2e10f41e27611e475f460591595b6508ebfd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven59/foto-1-ai.png",
+      "sha256": "29d5ef1871c4dc8c853bd0a9cbd4e345e8bda643344cef09a127c711884cc3bd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/koopmanshuis-nieuwehaven59/foto-1-ai.webp",
+      "sha256": "35dae7cb137e5edeb4a6e21b282ba1987dd5552d0a57539ef8567b7e978cb2f0",
+      "identical": true
+    }
+  ]
+}

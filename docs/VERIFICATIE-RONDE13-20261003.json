@@ -1,0 +1,116 @@
+{
+  "checkedAt": "2026-10-03T05:20:41.636Z",
+  "releaseCommit": "9fc58fe487d5be24d1098882c052257a3961cb10",
+  "pagesRun": "37099415958",
+  "buildings": 172,
+  "ids": [
+    "wijnhaven61-65",
+    "de-kroon-hofplein12",
+    "nieuwehaven171-devlijt",
+    "old-dutch-coolsingel103",
+    "nieuwehaven53-55"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "c9c48f66b11517d8d5a3e6f90a5beca0461a02339ac6787dfc2d71b2b37adce6",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "475a41a123f946c6bbbd32851db3328671044b6d6ff0a2b743361726f5ea3965",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "d42ce56606d0fcab572e198bbc88972b1dfaa512a594d24d47462720f6fb36cf",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "baee000677b555e2c40dac580ac62ced7e77dda726fbc3edd18a79a908446487",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven61-65/model.glb",
+      "sha256": "a999e7249c7d83bf2c994cc6336ddc1fd65752882d457d74467c1c86a2dddc90",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven61-65/foto-1-origineel.jpg",
+      "sha256": "b8c836b3e9ba45394a3cbb548bdd8e282a6eb191733de725b5f01449b702eefc",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven61-65/foto-1-ai.webp",
+      "sha256": "699e71ca9340e161f40e87bb0c5f576aee444f5e11b98ec64375a2dc1f07eea1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-kroon-hofplein12/model.glb",
+      "sha256": "2da8858c31f018b3efacf497de9ca1656d8e86ca328fc20b5d370ddff3593260",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-kroon-hofplein12/foto-1-origineel.jpg",
+      "sha256": "0ed0643519a03d177f0e6c3313ccf378eb06cb05fa07a8ddaa862b49e42e7d9e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-kroon-hofplein12/foto-1-ai.webp",
+      "sha256": "faccc5616bf05fe88fed596abc8db8b32948a698a74e409c981f76cf903c604b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-kroon-hofplein12/foto-2-origineel.jpg",
+      "sha256": "2222d85e33463099d3c9ba6d688a845223f614ce3d165c7ef901813d1b0d1ab8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven171-devlijt/model.glb",
+      "sha256": "0a34cef273188925acaecbcb5cc2841d8931b34136af1ed661c53fc7d1f983fb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven171-devlijt/foto-1-origineel.jpg",
+      "sha256": "a10009c522930b1f71114fb8975f72ce1944925d527105f9baa0a9ec0be43911",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven171-devlijt/foto-1-ai.webp",
+      "sha256": "73bfdf4981e44f1755d5397c6d9bef14a8dd4f9f8571addac39490c3c8a9848c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/old-dutch-coolsingel103/model.glb",
+      "sha256": "acc238cf074373fbef051b0698bcbd8b2f7f1ef507a0470ee8ebc5bc056d404d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/old-dutch-coolsingel103/foto-1-origineel.jpg",
+      "sha256": "5ff986d43bb3045bbe330b46bad341b8a28607a56a16886671eb9ddc08cc4dc6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/old-dutch-coolsingel103/foto-1-ai.webp",
+      "sha256": "772214b0c2a894f56d7f32d66fed10b3f2c9998990ad132f63a1fded7e0070ef",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven53-55/model.glb",
+      "sha256": "9a5d65d2927ad94d826a036e3d28e7eab034ec204411e5ad7647f6d77584e61f",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven53-55/foto-1-origineel.jpg",
+      "sha256": "544b032e50d0eae21bc5f31f656d2eab9dfdeb8b2db16efeb52da77a6d9f3131",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven53-55/foto-1-ai.webp",
+      "sha256": "35dae7cb137e5edeb4a6e21b282ba1987dd5552d0a57539ef8567b7e978cb2f0",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
