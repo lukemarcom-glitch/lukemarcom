@@ -1,0 +1,10 @@
+{
+  "slagerij-verzijden-sint-laurens47": {
+    "meshArea": 55.53923376376047,
+    "footprintParts": 1,
+    "otherOverlaps": []
+  },
+  "toleranceSquareMeters": 0.03,
+  "backgroundOverlapSquareMeters": 0.0,
+  "backgroundPolygons": 977
+}

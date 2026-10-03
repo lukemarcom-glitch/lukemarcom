@@ -1,0 +1,20 @@
+{
+  "frontageWorkingPixels": [
+    [
+      2723.8,
+      1597.2
+    ],
+    [
+      2731.7,
+      1604.8
+    ]
+  ],
+  "width": 6.5510869933705544,
+  "depth": 10.0,
+  "depthStatus": "Only conservative frontvolume; unseen rearparcel not modelled",
+  "parcelReading": "2345, finaldigit pale; address93 certain",
+  "height": 16.05,
+  "heightUncertainty": 2.5,
+  "positionUncertainty": 7,
+  "roof": "Unknown, flattechnicalcap nothistoricflatclaim"
+}

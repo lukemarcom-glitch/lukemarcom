@@ -1,4 +1,4 @@
-import {buildCity32} from './city32-models.js?v=round8-20261003';
+import {buildCity32} from './city32-models.js?v=round9-20261003';
 import {buildCity28} from './city28-models.js?v=28';
 import {buildBeursCoolsingel} from './beurs-coolsingel-model.js?v=26';
 import {buildCity22} from './city22-models.js?v=22';

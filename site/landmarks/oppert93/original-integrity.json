@@ -1,0 +1,16 @@
+[
+  {
+    "photo": 1,
+    "sourceFile": "origineel.jpg",
+    "sourceSha256": "a1e1654b43ecfedfaf4b1aff6943d976cffdb95ffaf615c0f810cbc739b5c936",
+    "runtimeSha256": "a1e1654b43ecfedfaf4b1aff6943d976cffdb95ffaf615c0f810cbc739b5c936",
+    "byteIdentical": true
+  },
+  {
+    "photo": 2,
+    "sourceFile": "23743092.jpg",
+    "sourceSha256": "af1047b37f60d7e6f1e47b90313b33318e22d746d7961d92beb0283389b552ca",
+    "runtimeSha256": "af1047b37f60d7e6f1e47b90313b33318e22d746d7961d92beb0283389b552ca",
+    "byteIdentical": true
+  }
+]

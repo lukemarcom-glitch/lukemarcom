@@ -21,11 +21,14 @@ const paths = new Set(['index.html','app.js','landmarks/catalog.json','data/mode
 for (const id of ids) {
   const item = catalog.find(x => x.id === id);
   assert(item, `Missing location ${id}`);
-  assert(item.photos?.length, `No photo pair for ${id}`);
+  assert(item.photos?.some(photo => photo.src && photo.ai), `No photo pair for ${id}`);
   paths.add(`landmarks/${id}/model.glb`);
   for (const photo of item.photos) {
-    assert(photo.src && photo.ai, `Incomplete pair for ${id}`);
-    paths.add(photo.src); paths.add(photo.ai);
+    assert(photo.src, `Missing original for ${id}`);
+    paths.add(photo.src);
+    // Supplementary archive material (e.g. a historical colour study) can
+    // remain an original. Every location must still have at least one pair.
+    if (photo.ai) paths.add(photo.ai);
   }
 }
 const files = [];
