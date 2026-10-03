@@ -722,3 +722,9 @@ Hotel Elim · Leger des Heils is toegevoegd als 177e locatie. De volledige origi
 Plaatsing: Schiedamsedijk 43–47, perceel 2172 op Z10 (1938), met vier onafhankelijke blokankers en ±5 m marge. Organisatiebereik 43–51 is geen modelmaat. Verlies is een expliciete synthese van de individuele oorlogsverliesbron en primaire adres-/schadekaarten; geen individuele bominslagclaim. Hoogte, kaphoogte, voorbouwdiepte en kleuren zijn benaderingen. GLB en Blender zijn geëxporteerd. Het draagbare bronpakket en `mesh-qa.json` staan bij het item.
 
 Controle: exact geprojecteerde modelgeometrie tegen alle 176 andere modellen: geen overlap; opgeschoonde achtergrond 986 polygonen: 0 m² overlap. `npm run check`: 177 locaties, 18 verhalen, 12 tests geslaagd. Gerichte desktop-/mobiele browsercontrole van Elim inclusief AI-viewer, Nu 3D en bronvelden slaagt zonder console-/netwerkfouten of overflow. Live model visueel bekeken. Cachekeys van ronde 14 behouden. Geen commit/push door deze subagent; publicatie nog door hoofdagent te verifiëren.
+
+## Ronde 14 — openbaar geverifieerd, back-up bij 70
+
+Vijf nieuwe locaties gepubliceerd: Pastorie Sint-Rosalia, Nieuwehaven 139, Zuidblaak/Beursplein 18, Leuvehaven 209 en Hotel Elim. Catalogus 177 locaties / 18 verhalen, 340 fotovermeldingen en 315 AI-paren. Release `112a60b529cd425d216ecd7151c2aba06a9a6894`; Pages 37103077442 en check 37103077433 geslaagd. 26 openbare bestanden bytegelijk, anonieme desktop/mobiele browsercontrole zonder fouten of overflow; hoofdtaak bekeek publieke mobiele galerie en Nu 3D. Bronnen, beeldbeperkingen en buurcorrecties: RONDE14-20261003.md en VERIFICATIE-RONDE14*.json.
+
+70 toevoegingen bereikt: volledige Git-bundel geverifieerd, tag `rdam39-20261003-70-buildings` gepusht. SHA256 en omvang in BACKUP-70-20261003.json. Backup betreft Git-bestanden en volledige historie, niet losse ongecommitteerde research. Volgende backup bij 80. Ronde 15 is uitsluitend brononderzoek; geen nieuwe runtime.

@@ -1,0 +1,40 @@
+{
+  "release": "112a60b529cd425d216ecd7151c2aba06a9a6894",
+  "files": [
+    {
+      "path": "landmarks/models.js",
+      "identical": true,
+      "sha256": "28ca852d36d8598ce9b2da25eb56bf569ee89099f7af7d01eea5587e9338371a"
+    },
+    {
+      "path": "landmarks/amicitia-zuidblaak/model.glb",
+      "identical": true,
+      "sha256": "a486af78af89ebf1281443ed4f2e7b8d38cf86e68f85052899cd8aae9cfd2e51"
+    },
+    {
+      "path": "landmarks/amicitia-zuidblaak/model.blend",
+      "identical": true,
+      "sha256": "60161eab00e8f63ac2018cdea05dfbc7716d69c8f30ed90a027f3c27d0add090"
+    },
+    {
+      "path": "landmarks/bank-mees-beursplein/model.glb",
+      "identical": true,
+      "sha256": "5237b49ec026f4586e60f677617d58095e577d5bd3fdea6cacbfd3a16b5e38d1"
+    },
+    {
+      "path": "landmarks/bank-mees-beursplein/model.blend",
+      "identical": true,
+      "sha256": "13917668b1f576764f069c2f0e43b646b93e35ff9dd57675b676f056e6b88f4b"
+    },
+    {
+      "path": "landmarks/huis-londen-nieuwehaven137/model.glb",
+      "identical": true,
+      "sha256": "5f02485aea1698956bb8470a8ecf626ad9942169e395536825fc84d2db607b2d"
+    },
+    {
+      "path": "landmarks/huis-londen-nieuwehaven137/model.blend",
+      "identical": true,
+      "sha256": "f757a8a843ceaa37ea6b67c9d48ffc03058745b1ee3118fef01bd9ffe3618aa9"
+    }
+  ]
+}
