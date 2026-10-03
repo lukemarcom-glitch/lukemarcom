@@ -7,7 +7,7 @@ const browser=await chromium.launch({headless:true,...(process.env.CHROME_PATH?{
 const report={base,checkedAt:new Date().toISOString(),cases:[]};
 function equal(a,b,label){assert.equal(a.length,b.length);const error=Math.max(...a.map((v,i)=>Math.abs(v-b[i])));assert(error<1e-6,`${label}: camera moved ${error}`);return error;}
 async function camera(p){return p.evaluate(()=>{const r=window.__rotterdam;return [...r.camera.position.toArray(),...r.controls.target.toArray(),...r.camera.quaternion.toArray(),r.camera.zoom,...r.camera.projectionMatrix.elements];});}
-async function settle(p){await p.waitForFunction(()=>{const r=window.__rotterdam,v=[...r.camera.position.toArray(),...r.controls.target.toArray()];const old=window.__eraCameraSample;window.__eraCameraSample=v;const stable=old&&v.every((x,i)=>Math.abs(x-old[i])<1e-7);window.__eraCameraStable=stable?(window.__eraCameraStable||0)+1:0;return window.__eraCameraStable>=8;},null,{timeout:30000});}
+async function settle(p){await p.evaluate(()=>{window.__eraCameraSample=null;window.__eraCameraStable=0;});await p.waitForFunction(()=>{const r=window.__rotterdam,v=[...r.camera.position.toArray(),...r.controls.target.toArray()];const old=window.__eraCameraSample;window.__eraCameraSample=v;const stable=old&&v.every((x,i)=>Math.abs(x-old[i])<1e-7);window.__eraCameraStable=stable?(window.__eraCameraStable||0)+1:0;return window.__eraCameraStable>=8;},null,{timeout:30000});}
 try{
  for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844]]){
   const p=await browser.newPage({viewport:{width,height},deviceScaleFactor:1});const errors=[],failed=[];
@@ -18,7 +18,7 @@ try{
    // An off-centre, zoomed and (for 3D) rotated camera rules out a coincidental default view.
    await p.evaluate(view=>{const r=window.__rotterdam;r.controls.enableDamping=false;r.controls.target.set(560,12,-130);r.camera.position.set(560+(view==='2d'?0:-260),12+(view==='2d'?840:510),-130+(view==='2d'?.1:420));r.controls.update();},view);await settle(p);
    for(const era of ['now','old']){
-    const before=await camera(p);await p.screenshot({path:`${output}/${name}-${view}-before-${era}.png`});await p.locator(`#era-${era}`).click();await p.waitForFunction(era=>document.getElementById(`era-${era}`).getAttribute('aria-pressed')==='true',era,{timeout:120000});await settle(p);
+    const before=await camera(p);equal(before.slice(3,6),[560,12,-130],`${name}/${view}/custom target`);await p.screenshot({path:`${output}/${name}-${view}-before-${era}.png`});await p.locator(`#era-${era}`).click();await p.waitForFunction(era=>document.getElementById(`era-${era}`).getAttribute('aria-pressed')==='true',era,{timeout:120000});await settle(p);
     const after=await camera(p);const error=equal(before,after,`${name}/${view}/${era}`);assert.equal(await p.locator(`#view${view}`).getAttribute('aria-pressed'),'true');await p.screenshot({path:`${output}/${name}-${view}-${era}.png`});report.cases.push({name,view,era,maxCameraComponentError:error});
    }
   }

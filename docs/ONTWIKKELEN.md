@@ -93,3 +93,5 @@ De algemene browsercontrole kan ook een specifieke nieuwe locatie volledig doorl
 ## Zelfde camera bij tijdperkwissel
 
 `node scripts/era-camera-browser-check.mjs` controleert de werkelijke camera (positie, doel, quaternion, zoom en projectiematrix) bij wisselen tussen Toen/Nu op desktop en mobiel. Test bovenaanzicht, afwijkende 3D-hoek, beide richtingen en wisselen tijdens een cameravlucht. `BASE_URL`, `CHROME_PATH` en `OUTPUT_DIR` zijn optioneel zoals bij de gewone browsercontrole. De tijdperkwissel verandert alleen de laag, niet `view` of camera; een lopende vlucht stopt op zijn actuele positie. Alleen expliciete knoppen voor bovenaanzicht/3D/navigatie zetten de camera opnieuw.
+
+De cameratest wacht per stap opnieuw op acht stabiele frames en controleert expliciet het afwijkende doel [560,12,-130] vóór de tijdperkwissel; een oude stabiliteitssample kan zo geen lopende animatie overslaan.
