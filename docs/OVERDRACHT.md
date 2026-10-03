@@ -807,3 +807,7 @@ Film Havens te Rotterdam (Beeld en Geluid, PGM25555) als alternatieve bron onder
 ### Broncorrectie Boske openbaar geverifieerd
 
 Release4e70d01477626bb19de18973679e3bbdee6f4991: Pages37114083581 succesvol; catalogus en portable broncontrole op rdam39.nl anoniem opgehaald en bytegelijk. Zie VERIFICATIE-BOSKE-20261003.json. Geen nieuw gebouw, beeld of model toegevoegd.
+
+### Ronde17 — beeldonderzoek voortgezet
+
+Wolff: vooroorlogse1938KLMluchtfoto gevonden en visueel gematcht met ruïne73497. Gehele kap/hoektorentje zichtbaar naastBijenkorf; primairebeeldrechten/kavel nog verifiëren. Uitman Baan (XXV-30-00-01) en Nieuwehaven XXV-477 hebben nieuwe volledige gevelleads, exact adres/verlies nog onderzoek. VanDam buurpui VLOED gekoppeld aan Botersloot10b in1930/1939; hypothese32 ingetrokken,12/14 nog te toetsen. Geen nieuwe runtime/AI/model in deze stap. Onderzoekdossiers round17-wolff,round17-extra,round17-vandam. Gemeenteapotheek gereserveerd wegens conflict SAR-sloop1939 versus MuseumRotterdam/RJB-verlies1940; geen bouwvrijgave.
