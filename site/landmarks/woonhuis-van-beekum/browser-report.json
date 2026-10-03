@@ -1,0 +1,28 @@
+{
+  "base": "http://127.0.0.1:8765/",
+  "landmarkId": "woonhuis-van-beekum",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/woonhuis-van-beekum/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/woonhuis-van-beekum/foto-1-ai.webp"
+    }
+  ],
+  "buildings": 185,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true
+}

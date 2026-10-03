@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "tool": "built-in imagegen",
+  "selected": "vanbeekum-ai-proef04.png",
+  "published": false,
+  "trials": [
+    {
+      "file": "vanbeekum-ai-proef01.png",
+      "prompt": "ai-prompt-01.txt",
+      "status": "rejected",
+      "reason": "Full house retained, but sign lettering and line structure changed. Fine sculptural detail and colors interpretive."
+    },
+    {
+      "file": "vanbeekum-ai-proef02.png",
+      "prompt": "ai-prompt-02.txt",
+      "status": "not-approved",
+      "reason": "Sign still synthetic glyphs despite original reference. Do not claim exact transcription or publish as verified."
+    },
+    {
+      "file": "vanbeekum-ai-proef03.png",
+      "prompt": "ai-prompt-03.txt",
+      "status": "rejected",
+      "reason": "Changes central curved window pediments into triangular ones; architectural drift."
+    },
+    {
+      "file": "vanbeekum-ai-proef04.png",
+      "prompt": "ai-prompt-04.txt",
+      "base": "vanbeekum-ai-proef01.png",
+      "status": "selected-as-interpretation",
+      "reason": "Four upper windows, outer triangular/inner curved pediments, two central lower windows, arched outer doorways, mansard and spire retained. Three faint lines visible on sign; exact source lettering not recovered and must not be claimed. Surface relief, person, small fixtures and colors remain generative interpretation."
+    }
+  ],
+  "next": "Integrate only with original beside it, requiredPublicNote visible and model/source/placement QA.",
+  "requiredPublicNote": "AI-kleurinterpretatie van de foto vóór1916. Kleuren en fijn gevelreliëf zijn niet historisch vastgesteld. Het opschrift boven de linkerdoorgang is in het origineel onvoldoende leesbaar; de AI-lettervormen zijn geen betrouwbare transcriptie. Raadpleeg het ongewijzigde origineel voor onderzoek."
+}
