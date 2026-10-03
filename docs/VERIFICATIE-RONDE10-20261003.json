@@ -1,0 +1,145 @@
+{
+  "checkedAt": "2026-10-03T01:21:51.625Z",
+  "releaseCommit": "18bcfaa60fe754a9187cbaa724727854ce2c6f8e",
+  "pagesRun": "37085663868",
+  "buildings": 157,
+  "ids": [
+    "herenhuis-boompjes58",
+    "leuvehaven22-bloch-stibbe",
+    "wijnhaven67",
+    "nieuwehaven71-73",
+    "pakhuis-houttuin46"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "6a520a42b9a90a4b682dda5bcb8d01f8c2fd11d4c4bfed1e292ccc861040c104",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "3a5e439a0df601cc5750f89222a9791e029c85b6f7f141ee5381c2b9a20869c2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "24b5692bcbaa2d5a1e27b48acc4054342e0873703d7251f4cc17961afffdcf28",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "28177b53fd1d6d7dc4de7d1c7a621e3fede0f950bfeee1234cba2b4acd08d6da",
+      "identical": true
+    },
+    {
+      "path": "landmarks/herenhuis-boompjes58/model.glb",
+      "sha256": "75f93e069444dc283551f8564b1582e0ea6fdbfb19b7ae3b0216e91d3e7dd89c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/herenhuis-boompjes58/foto-1-origineel.jpg",
+      "sha256": "bec8efddfe261daf4fe7e496eaf4d1e72a2041c43443f71272f9a5f8a3ee4ddf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/herenhuis-boompjes58/foto-1-ai.webp",
+      "sha256": "f1375b94fda1fd964bc87aa086849417071f0095e29854be56e7edd909707881",
+      "identical": true
+    },
+    {
+      "path": "landmarks/leuvehaven22-bloch-stibbe/model.glb",
+      "sha256": "f3bf623fb9f1efe0c1813e30ce37fdfd504ac21ac764560eb85235dc0d92c6ce",
+      "identical": true
+    },
+    {
+      "path": "landmarks/leuvehaven22-bloch-stibbe/foto-1-origineel.jpg",
+      "sha256": "c30321e210884177e932fde3e2af36405036b3f95518e7c258166560df47fd7b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/leuvehaven22-bloch-stibbe/foto-1-ai.webp",
+      "sha256": "b16f804cc197ebc846ab6caf50a67b52f21fe43a40bd242aeb7692fc3ed46781",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/model.glb",
+      "sha256": "9cca2ccaf1ee21111236a8691deff28262b813943b7fa51c89ed75749628697c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/foto-1-origineel.jpg",
+      "sha256": "ff379696453d2de4ec33f8126a52d026cbd638af57f3ef1b03cac8a468a51410",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/foto-1-ai.webp",
+      "sha256": "602265e8dd6833c89f78bdb97acfc0981fa1c87277b78d0255ce31adc6cb4caa",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/foto-2-origineel.jpg",
+      "sha256": "d258db62d912400e14030b471314861a9ca3f87c1565d4e8086c007e5c48b6ad",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven71-73/model.glb",
+      "sha256": "fb7d856aa576e45a371bf79182cd6e1cd80213e9a7704ddaf23299798bddec04",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven71-73/foto-1-origineel.jpg",
+      "sha256": "254aa3074fa79a689376089955f1d248eb3173fdaabddf05b48074a6160ad571",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven71-73/foto-1-ai.webp",
+      "sha256": "c6a22006f683574096f4941541dde547aabee2085a60c7d63c604c84ff2a44ef",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven71-73/foto-2-origineel.jpg",
+      "sha256": "8bf51b794415dcced4764b5851b335f718805e5c88f5d5d60a4a7e63b375ea3f",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven71-73/foto-3-origineel.jpg",
+      "sha256": "4da3e1274a26fc74e7b3558d5847dffdda8bcede0ebbca93c7253f535bde4279",
+      "identical": true
+    },
+    {
+      "path": "landmarks/pakhuis-houttuin46/model.glb",
+      "sha256": "9802b7e2aa297e5e2750abe5ef6d28b9dc02bff83e78ef5e8780c1391c5b3452",
+      "identical": true
+    },
+    {
+      "path": "landmarks/pakhuis-houttuin46/foto-1-origineel.jpg",
+      "sha256": "fd619c6cf4d68b87a90068c0781f57fb68b1b708cde49dfaa0df3506d7e1ee0d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/pakhuis-houttuin46/foto-1-ai.webp",
+      "sha256": "911478412a5f2ec83e29a74b836744e407540437dc974edd64b115430284e226",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately.",
+  "additionalChurchModel": {
+    "path": "landmarks/laurentius-houttuin/model.glb",
+    "byteIdentical": true,
+    "sha256": "04db82245286ba686f6878a694beb71d31edc418fc4048a02bdab433d77529f1"
+  },
+  "publicBrowser": {
+    "base": "https://rdam39.nl/",
+    "buildings": 157,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  }
+}
