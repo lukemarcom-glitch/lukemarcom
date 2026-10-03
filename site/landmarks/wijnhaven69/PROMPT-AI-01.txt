@@ -1,0 +1,7 @@
+Use case: historical-scene / precise-object-edit
+Asset type: separate labelled AI colour interpretation for RDAM39, derived from RCE 20192617.
+Input image: edit target, complete historical photograph, retain its complete framing.
+Change ONLY colour. Preserve the precise camera, facade divisions, all window and door positions, window blinds, roof lines, chimneys, dormers, architectural relief, boats, masts, ropes, people, reflections and street scene. No modernization, no removal or invented additions. Retain original photographic softness and partial cropping of the leftmost building. Do not reconstruct anything outside the image.
+Use restrained, plausible warm brown brick, pale grey/cream painted trim, muted dark green-brown timber and slate/grey-brown roof tiles. These colours are explicitly uncertain interpretations, not documented paint colours.
+Confirmed sign text in the LEFT building: "Overijsselsche". Preserve this spelling exactly where it exists. Remaining sign letters are partly occluded and unconfirmed: retain their original soft visual marks and occlusions, do not complete, redraw, sharpen or invent text. Do not introduce new letters, boat names or numbers. Preserve the original small lettering and blur as far as possible.
+No added caption, label, watermark or contemporary objects. Return a conservative coloured version of the SAME historical image, not a recreation, illustration or present-day photo.

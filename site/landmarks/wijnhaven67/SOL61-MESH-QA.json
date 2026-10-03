@@ -1,0 +1,15 @@
+{
+  "id": "wijnhaven67",
+  "catalogCount": 213,
+  "method": "World transformed exact runtime triangle projections, compared to all models and background polygons; independently parsed GLB node transforms and unordered triangle multisets rounded to 1 mm",
+  "projectedAreaM2": 88.23252995453473,
+  "outsideWorkBoundaryM2": 0.0,
+  "modelOverlaps": [],
+  "backgroundOverlaps": [],
+  "runtimeTriangles": 1258,
+  "glbTriangles": 1258,
+  "glbGeometryParity": true,
+  "runtimeOnlyTriangles": 0,
+  "glbOnlyTriangles": 0,
+  "passed": true
+}

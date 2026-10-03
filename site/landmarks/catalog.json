@@ -158715,7 +158715,9 @@
         "frontZ": 5.995943805962338,
         "shearXPerDepth": 0.037186323465554616,
         "maxX": 3.371941648419935,
-        "maxXSlope": 0.037186323465554616
+        "maxXSlope": 0.037186323465554616,
+        "minX": -3.371941648419935,
+        "minXSlope": 0.037186323465554616
       }
     },
     "center": [
@@ -369503,5 +369505,586 @@
         "note": "Eén gezamenlijke opname, ook getoond bij het andere pand in dit paar locaties. Nummer 14 is de drieassige rechterhelft van het brede gevelpaar; nummer 16 is de smalle gevel met glazen uitbouw. Het origineel is ongewijzigd."
       }
     ]
+  },
+  {
+    "id": "wijnhaven69",
+    "name": "Gevelhuis · Wijnhaven 69",
+    "modelFamily": "city33",
+    "modelSpec": {
+      "colors": {
+        "brick": "#825648",
+        "trim": "#d8d2c2",
+        "stone": "#aaa28e",
+        "roof": "#675c4c",
+        "dark": "#314b3b",
+        "glass": "#60726e"
+      },
+      "parts": [
+        {
+          "w": 9.413152899231864,
+          "d": 12,
+          "h": 17,
+          "roof": "gable",
+          "roofAlongFront": true,
+          "roofHeight": 2.1,
+          "windows": false
+        },
+        {
+          "x": 0.9413152899231865,
+          "y": 0,
+          "z": 4.8,
+          "w": 1.6,
+          "d": 1.1,
+          "h": 1.9,
+          "base": 17.4,
+          "roof": "gable",
+          "roofHeight": 0.3,
+          "windows": false
+        }
+      ],
+      "facadeWindows": [
+        {
+          "x": -3.529932337211949,
+          "y": 5.65,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 5.65,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 5.65,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 5.65,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 10.2,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 10.2,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 10.2,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 10.2,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 3
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 14.15,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 2.1
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 14.15,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 2.1
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 14.15,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 2.1
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 14.15,
+          "z": 6.03,
+          "w": 1.45,
+          "h": 2.1
+        },
+        {
+          "x": 0.9413152899231865,
+          "y": 18.3,
+          "z": 5.39,
+          "w": 0.95,
+          "h": 1.25
+        }
+      ],
+      "accents": [
+        {
+          "x": 0,
+          "y": 16.8,
+          "z": 6.1,
+          "w": 9.613152899231864,
+          "h": 0.65,
+          "d": 0.3,
+          "material": "trim"
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 2.42,
+          "z": 6.1,
+          "w": 1.45,
+          "h": 0.64,
+          "d": 0.17,
+          "material": "trim"
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 2.42,
+          "z": 6.2,
+          "w": 1.28,
+          "h": 0.48,
+          "d": 0.08,
+          "material": "glass"
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 1.01,
+          "z": 6.15,
+          "w": 1.65,
+          "h": 1.85,
+          "d": 0.2,
+          "material": "dark"
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 1.72,
+          "z": 6.1,
+          "w": 1.95,
+          "h": 3.25,
+          "d": 0.18,
+          "material": "stone"
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 1.72,
+          "z": 6.21,
+          "w": 1.75,
+          "h": 3.05,
+          "d": 0.08,
+          "material": "dark"
+        },
+        {
+          "x": -1.756644112403983,
+          "y": 1.72,
+          "z": 6.28,
+          "w": 0.035,
+          "h": 3.05,
+          "d": 0.04,
+          "material": "trim"
+        },
+        {
+          "x": -1.466644112403983,
+          "y": 1.72,
+          "z": 6.28,
+          "w": 0.035,
+          "h": 3.05,
+          "d": 0.04,
+          "material": "trim"
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 1.72,
+          "z": 6.28,
+          "w": 0.035,
+          "h": 3.05,
+          "d": 0.04,
+          "material": "trim"
+        },
+        {
+          "x": -0.886644112403983,
+          "y": 1.72,
+          "z": 6.28,
+          "w": 0.035,
+          "h": 3.05,
+          "d": 0.04,
+          "material": "trim"
+        },
+        {
+          "x": -0.5966441124039831,
+          "y": 1.72,
+          "z": 6.28,
+          "w": 0.035,
+          "h": 3.05,
+          "d": 0.04,
+          "material": "trim"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 1.68,
+          "z": 6.1,
+          "w": 1.55,
+          "h": 3.18,
+          "d": 0.16,
+          "material": "stone"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 1.68,
+          "z": 6.21,
+          "w": 1.35,
+          "h": 2.98,
+          "d": 0.07,
+          "material": "dark"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 2.75,
+          "z": 6.28,
+          "w": 1.25,
+          "h": 0.34,
+          "d": 0.06,
+          "material": "glass"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 0.24,
+          "z": 6.45,
+          "w": 1.7,
+          "h": 0.36,
+          "d": 0.85,
+          "material": "stone"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 1.68,
+          "z": 6.1,
+          "w": 1.55,
+          "h": 3.18,
+          "d": 0.16,
+          "material": "stone"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 1.68,
+          "z": 6.21,
+          "w": 1.35,
+          "h": 2.98,
+          "d": 0.07,
+          "material": "dark"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 2.75,
+          "z": 6.28,
+          "w": 1.25,
+          "h": 0.34,
+          "d": 0.06,
+          "material": "glass"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 0.24,
+          "z": 6.45,
+          "w": 1.7,
+          "h": 0.36,
+          "d": 0.85,
+          "material": "stone"
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 7.180000000000001,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 7.180000000000001,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 7.180000000000001,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 7.180000000000001,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 11.729999999999999,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 11.729999999999999,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 11.729999999999999,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 11.729999999999999,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": -3.529932337211949,
+          "y": 15.23,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": -1.176644112403983,
+          "y": 15.23,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 1.176644112403983,
+          "y": 15.23,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 3.529932337211949,
+          "y": 15.23,
+          "z": 6.28,
+          "w": 1.5699999999999998,
+          "h": 0.2,
+          "d": 0.15,
+          "material": "dark"
+        },
+        {
+          "x": 0,
+          "y": 3.72,
+          "z": 6.12,
+          "w": 9.633152899231865,
+          "h": 0.23,
+          "d": 0.4,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 16.54,
+          "z": 6.12,
+          "w": 9.633152899231865,
+          "h": 0.24,
+          "d": 0.4,
+          "material": "trim"
+        },
+        {
+          "x": 0,
+          "y": 17.03,
+          "z": 6.12,
+          "w": 9.633152899231865,
+          "h": 0.2,
+          "d": 0.4,
+          "material": "trim"
+        },
+        {
+          "x": -1.6943675218617356,
+          "y": 18.86,
+          "z": -0.9,
+          "w": 0.52,
+          "h": 3.15,
+          "d": 0.66,
+          "material": "brick"
+        }
+      ],
+      "vertexDeform": {
+        "frontZ": 6,
+        "shearXPerDepth": -0.021272004632623204,
+        "minX": -4.704576449615932,
+        "minXSlope": -0.021272004632623204,
+        "maxX": 4.704576449615932,
+        "maxXSlope": -0.021272004632623204
+      }
+    },
+    "center": [
+      225.23411932827426,
+      -97.05572204362701
+    ],
+    "angle": 0.288958888038707,
+    "polygon": [
+      [
+        222.43239911541798,
+        -104.14812824497729
+      ],
+      [
+        231.45529271493797,
+        -101.46580861524289
+      ],
+      [
+        227.76646623607334,
+        -90.04339495391781
+      ],
+      [
+        218.74357263655335,
+        -92.7257145836522
+      ]
+    ],
+    "height": 20.44,
+    "modelWidth": 9.413152899231864,
+    "modelDepth": 12,
+    "uncertaintyMeters": 8,
+    "kind": "building",
+    "cameraDistance": 48,
+    "backgroundClearance": 0.15,
+    "placementStatus": "approximate-reconstruction",
+    "modelDownload": "landmarks/wijnhaven69/model.glb",
+    "story": "Wijnhaven 69 stond aan de noordzijde van de haven, direct naast het smallere koopmanshuis op nummer 67. De vooroorlogse foto laat een lagere, brede gevel zien met vier zichtbare raamassen, hoge vensters, een lichte kroonlijst en een kap met dakkapel. Beneden zijn deuren en een brede poort te herkennen. De precieze gebruikers en functie van dit pand zijn hier niet vastgesteld.\n\nHet opschrift boven de pui begint met Overijsselsche. De rest wordt deels afgedekt door een boom en paal en is onvoldoende leesbaar; daarom wordt geen volledige bedrijfsnaam ingevuld. De foto is geregistreerd onder nummer 67. Het linker buurpand wordt met de historische huisnummerkaart geïdentificeerd als nummer 69, perceel 223.\n\nDe gemeentelijke schadekaart van 1940 markeert dit hele gevelblok als verwoest. Samen met de huisnummerkaart onderbouwt dat het verlies bij het bombardement van 14 mei en de daaropvolgende brand. Een afzonderlijke bominslag of precieze brandtijd voor dit pand is niet vastgesteld.\n\nDe linkerrand en delen van het dak vallen buiten de foto. Het model toont alleen een benaderde voorbouw; hoogte, achterzijde en niet-zichtbare dakdelen zijn onzeker. De kleurversie is een AI-interpretatie en levert geen nieuw historisch bewijs.",
+    "periodNote": "Gevel naar een ongedateerde vooroorlogse foto. Niet alle details zijn voor precies 1939 bevestigd. Nummer 69 is kaart-/buurliggingidentificatie; de foto noemt 67. Westelijke dakrand deels buiten beeld.",
+    "placementNote": "Historisch Wijnhaven 69, perceel 223 op Z12/1938. Kaartafgeleid circa 9,41 m breed; alleen 12 m benaderde voorbouw, achtererf vrij. Positie circa 8 m en hoogte circa 3 m onzeker. Geen modern adres als anker gebruikt. Maximale hoogte inclusief schoorsteen circa 20,4 m; niet ingemeten.",
+    "colorNote": "Geen specifieke historische kleurbron voor nummer 69 gevonden. Terughoudende baksteen-, hout-, steen- en daktinten zijn interpretaties; kleuren van buur 67 zijn niet als bewijs voor dit pand overgenomen.",
+    "photos": [
+      {
+        "src": "landmarks/wijnhaven69/foto-1-origineel.jpg",
+        "ai": "landmarks/wijnhaven69/foto-1-ai.webp",
+        "aiMaster": "landmarks/wijnhaven69/foto-1-ai.png",
+        "title": "Wijnhaven 69 links naast nummer 67 · vooroorlogse opname",
+        "date": "Vooroorlogs; precieze opnamedatum niet vermeld",
+        "author": "C. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed",
+        "identifier": "RCE 20192617",
+        "url": "https://commons.wikimedia.org/wiki/File:Noord-zijde_67_-_Rotterdam_-_20192617_-_RCE.jpg",
+        "archiveUrl": "https://commons.wikimedia.org/wiki/File:Noord-zijde_67_-_Rotterdam_-_20192617_-_RCE.jpg",
+        "license": "CC BY-SA 4.0; Rijksdienst voor het Cultureel Erfgoed.",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceChecked": "2026-10-03",
+        "note": "Nummer 69 is de brede, lagere gevel links van het hoge nummer 67. Vier vensterassen zijn zichtbaar; de westelijke rand en een deel van de kap liggen buiten het kader. De archiefcaption noemt alleen 67; nummer 69 volgt uit de buurligging op huisnummerkaart Z12. Paal en boom bedekken delen van de gevel. Het gehele oorspronkelijke beeld blijft ongewijzigd; dezelfde bronfoto is ook bij nummer 67 opgenomen.",
+        "aiLabel": "AI in kleur · interpretatie",
+        "aiNote": "Afzonderlijke AI-kleurinterpretatie van dezelfde historische foto, geen actuele opname of historisch bewijs. Verfkleuren zijn onzeker. De hoofdgevels en het woord Overijsselsche zijn na tekstcorrectie met het origineel vergeleken. Andere opschriften zijn deels afgedekt/onleesbaar; AI-letters zijn geen betrouwbare transcriptie. Personen, boten, glas en fijne details blijven generatieve interpretaties.",
+        "aiLicense": "CC BY-SA 4.0",
+        "aiLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "RCE · Wijnhaven 67 en westelijk buurpand",
+        "url": "https://commons.wikimedia.org/wiki/File:Noord-zijde_67_-_Rotterdam_-_20192617_-_RCE.jpg",
+        "supports": "RCE 20192617 door C. Hoogendijk toont gevelritme, pui, kroonlijst, gedeeltelijke kap en vier zichtbare assen van het lagere buurpand. Registratie noemt 67, niet afzonderlijk 69. Datum onbekend; CC BY-SA 4.0 actueel gecontroleerd."
+      },
+      {
+        "title": "Huisnummerkaart Z12 · 1938",
+        "url": "https://hdl.handle.net/21.12133/EBF9E8EEB70E4DE3B07231C1FAF06EB1",
+        "supports": "Historisch Wijnhaven 69 op perceel 223, direct west van 67 op 222; 71 ligt op 224. Ondersteunt identificatie, historische rooilijn, kaartbreedte circa 9,41 m en plaatsing. Vier onafhankelijke straatankers koppelen de kaart aan de bestaande ondergrond."
+      },
+      {
+        "title": "Gemeentelijke schadekaart Rotterdam · 1940",
+        "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+        "supports": "Het noordelijke Wijnhavenblok is geel als verwoest gemarkeerd, zonder herstelbare uitzondering bij perceel 223. Vergelijking met Z12 onderbouwt verlies door het bombardement van 14 mei 1940 en de daaropvolgende brand op blokniveau. Geen afzonderlijke inslag of brandtijd van nummer 69 vastgesteld."
+      }
+    ],
+    "exclusionPolygon": [
+      [
+        222.53268432617188,
+        -104.45215606689453
+      ],
+      [
+        222.43431091308594,
+        -104.1475601196289
+      ],
+      [
+        218.7454833984375,
+        -92.72514343261719
+      ],
+      [
+        218.66864013671875,
+        -92.48717498779297
+      ],
+      [
+        227.6876983642578,
+        -89.80599975585938
+      ],
+      [
+        231.4287872314453,
+        -101.39022827148438
+      ],
+      [
+        231.5302276611328,
+        -101.704345703125
+      ],
+      [
+        231.55174255371094,
+        -101.7709732055664
+      ],
+      [
+        231.41116333007812,
+        -102.39176940917969
+      ],
+      [
+        229.78164672851562,
+        -102.8761978149414
+      ],
+      [
+        227.5259246826172,
+        -103.5467758178711
+      ],
+      [
+        222.53268432617188,
+        -104.45215606689453
+      ]
+    ],
+    "sourceRegister": "landmarks/wijnhaven69/BRONNEN.md"
   }
 ]

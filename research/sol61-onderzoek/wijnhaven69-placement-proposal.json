@@ -1,0 +1,69 @@
+{
+  "number": 69,
+  "parcel": 223,
+  "sourceFront": [
+    [
+      3831,
+      2452
+    ],
+    [
+      3884,
+      2484
+    ]
+  ],
+  "worldFront": [
+    [
+      222.43239911541798,
+      -104.14812824497729
+    ],
+    [
+      231.45529271493797,
+      -101.46580861524289
+    ]
+  ],
+  "width": 9.413152899231864,
+  "depth": 12,
+  "angle": 0.288958888038707,
+  "center": [
+    225.23411932827426,
+    -97.05572204362701
+  ],
+  "polygon": [
+    [
+      222.43239911541798,
+      -104.14812824497729
+    ],
+    [
+      231.45529271493797,
+      -101.46580861524289
+    ],
+    [
+      227.76646623607334,
+      -90.04339495391781
+    ],
+    [
+      218.74357263655335,
+      -92.7257145836522
+    ]
+  ],
+  "vertexDeform": {
+    "frontZ": 6,
+    "shearXPerDepth": -0.023418689354911943
+  },
+  "sourceAffine": [
+    [
+      0.16843642468959577,
+      -0.21075868837071984
+    ],
+    [
+      0.19184020485649333,
+      0.21418373344860286
+    ],
+    [
+      2186.93990782984,
+      2886.0926766017183
+    ]
+  ],
+  "uncertaintyMeters": 8,
+  "notes": "Voorstel met westpunt handmatig uit Z12 gelezen; gedeeld oostpunt exact de gecorrigeerde westgrens van67. Binnenzijde/achtergrens slechts 12m voorvolume, volledige perceeldiepte niet gereconstrueerd. Root moet polygon/modeloverlay controleren."
+}

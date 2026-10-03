@@ -1,0 +1,16 @@
+{
+  "baseline": "8dc3b7cc0fd405effc6ceff42a747ae9df9104c5",
+  "baselineCount": 212,
+  "newCount": 213,
+  "newIds": [
+    "wijnhaven69"
+  ],
+  "changedExisting": [
+    "wijnhaven67"
+  ],
+  "onlyExistingChanges": [
+    "modelSpec.vertexDeform.minX",
+    "modelSpec.vertexDeform.minXSlope"
+  ],
+  "originalCheckoutTrackedDiffSha256": "567bfc2cebf030f15e152b0f0f3b6192bc22fb38c8f51050ff49afec3bf3a5ca"
+}

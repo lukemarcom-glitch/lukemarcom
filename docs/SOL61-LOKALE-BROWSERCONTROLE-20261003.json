@@ -1,0 +1,28 @@
+{
+  "base": "http://127.0.0.1:8871/lukemarcom/",
+  "landmarkId": "wijnhaven69",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/wijnhaven69/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/wijnhaven69/foto-1-ai.webp"
+    }
+  ],
+  "buildings": 213,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true
+}

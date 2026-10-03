@@ -1,0 +1,3 @@
+# Gedeelde zijgrens Wijnhaven 67/69
+
+3 oktober 2026. De toevoeging van buur 69 maakt het eerdere, onbewezen westelijke dak-/lijstoverstek van 67 zichtbaar als circa 2,94 m² overlap. Alleen het overstek wordt op de brongebonden gezamenlijke zijlijn begrensd met minX/minXSlope, aansluitend op de bestaande oostgrensbegrenzing. Centrum, gevelbreedte, hoogte, ramen, deuren en foto’s van 67 blijven behouden. De 69-zijrichting is afgeleid van deze zelfde gezamenlijke kaartlijn, geen verschuiving om overlap te maskeren. GLB/Blender opnieuw uit de live bouwer geëxporteerd; controlebewijs volgt in SOL61-PROEF-20261003.md.
