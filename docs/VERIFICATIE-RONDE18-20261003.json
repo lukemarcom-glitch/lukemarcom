@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-03T11:26:45.058Z",
+  "releaseCommit": "300180f46a7486557d54182c856e8bbd590c1e84",
+  "pagesRun": "37119389691",
+  "buildings": 197,
+  "ids": [
+    "gerzee-goudsesingel",
+    "chevalier-delftsevaart",
+    "cafe-piso-galerij",
+    "nieuwehaven25",
+    "nieuwehaven29"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "24ff8e6e7813436b369e87de775159f90b3996fdaf07c1ae7dad35501994ad5c",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "93da895dbbaab64121ec7e2a21fb18f3d2fa1dc7a492e434fbc17e43d8479d57",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "abcaf43886d39e41e2ebd671e0e5c651eb5436229d34b7164bdaa1f64336dd08",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "a20601af96627b39d619f20b6d7e98e820d2a32306f11fd5dac84f34929a9d47",
+      "identical": true
+    },
+    {
+      "path": "landmarks/gerzee-goudsesingel/model.glb",
+      "sha256": "8fcc2880bc0ba7025713cf00ca4c12aa2a49d85aaf98ae466b06a25f321324c2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafetaria-ruttens/foto-1-origineel.jpg",
+      "sha256": "68abe391a83f8399686a17c77515d5d42302741f1349217a77997fbddc7268fb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/gerzee-goudsesingel/foto-1-ai.webp",
+      "sha256": "011a9dcc26cde0330f14562833a50910eca291f1d2b1e8dda19a68458e14bebc",
+      "identical": true
+    },
+    {
+      "path": "landmarks/chevalier-delftsevaart/model.glb",
+      "sha256": "34455b4f70235297f134728c43c463b43f8570904de92f8e479fea7a58f8e963",
+      "identical": true
+    },
+    {
+      "path": "landmarks/chevalier-delftsevaart/foto-1-origineel.jpg",
+      "sha256": "e5a664617592a23711352b929c4a4dd71ea457705b762b40c2fb542a2437c849",
+      "identical": true
+    },
+    {
+      "path": "landmarks/chevalier-delftsevaart/foto-1-ai.webp",
+      "sha256": "3b0a5d5a2ed466d6a0fa7de9c3dae0420884ca8a4ec962b4806363ceace245f8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-piso-galerij/model.glb",
+      "sha256": "7a60c7a6516828c90c639eefb1dd38959944d96a833cc529ecfe8e98722ffa09",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-piso-galerij/foto-1-origineel.jpg",
+      "sha256": "983cc1c2cac768bf54903607ce6508753a9b748a6e3cce9d610e062f2f6af645",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-piso-galerij/foto-1-ai.webp",
+      "sha256": "f4985efb5892f5a51dc957087523fddec77393420204da1b57c8b93c0ede2823",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven25/model.glb",
+      "sha256": "05751a4560d0bd5848eba4bffba63706a0907cf0f7e70835d85a132fdf651a9b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven25/foto-1-origineel.jpg",
+      "sha256": "a277a504f6a8c9f62681139a0bfdeee213c52204f878f50081e9f71046ee21cb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven25/foto-1-ai.webp",
+      "sha256": "453e370eca576fbf695aba061ea9fb965654ab1c228326033e38112cd569b933",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven29/model.glb",
+      "sha256": "0751c285a2230f142e875df6c17c43f0ca29510edfdcb0b903153a8eabca0fe3",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
