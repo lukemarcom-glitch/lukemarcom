@@ -543,3 +543,34 @@ Lokale eindcontrole: 152 locaties, 18 verhalen, 309 bronbeelden en 288 AI-paren,
 Release c243eb962e1d1dc315fdcd2c161d16b9a4209cdb, geslaagde Pages-run 37081810888. R9-bytecontrole bevestigt 22 openbare runtimebestanden, aanvullend 3 bestanden (modelrouter, gedeelde bouwer en aangepaste GLB van Huis met de Beelden): totaal 25 bytegelijk. Anonieme browsercontrole op https://rdam39.nl/ met Nieuwehaven 169: 152 locaties, 18 verhalen, geen JavaScript-/HTTP-fouten of mobiele overflow, fotopaar, fullscreen en Nu 3D geslaagd. Openbare mobiele galerie en Nu-weergave door root bekeken.
 
 Nu 45 toevoegingen in negen gepubliceerde rondes. Volgende backup bij 50, bestaande checkpoint40 blijft behouden. Nieuwe onderzoeksleads Boompjes 58 en Leuvehaven 20–22 zijn nog niet als gebouw toegevoegd: fotodatum/late gevelcontinuïteit respectievelijk verliesketen nog te controleren. Doorlopende opdracht blijft actief. De menu-optie 'Ga naar een plek' is alleen een voorstel en is niet geïmplementeerd.
+
+### Ronde tien — Boompjes 58 lokaal geïntegreerd
+
+Herenhuis Boompjes 58 toegevoegd als locatie 153, met ongewijzigde RCE20191941 (C. Hoogendijk, CC BY-SA4.0) en één afzonderlijke AI-kleurinterpretatie. Exacte foto- en bouwdatum onbekend; geen identificatie van de fotograaf met de gelijknamige kunstverzamelaar en geen ongedocumenteerde stijldatering. Verlies is expliciete synthese van Z12-huisnummerkaart, gemeentelijke schadekaart en ruïnecontext, geen individuele inslagclaim. Voorbouwkaartbreedte circa12,5m; hoogte/diepte/achterkant benaderd, achterterrein niet opgevuld.
+
+GLB en Blender geëxporteerd. Exacte geprojecteerde meshoppervlakte152,956m², geen overlap met nabij Oostindisch Huis en0m² met uitgesneden achtergrond (tolerantie0,03m²). Portable `placement.json`, `mesh-qa.json`, `original-integrity.json`, bronverantwoording, prompt en AI-review bij het item. `npm run check`:10tests geslaagd. Gerichte desktop/mobiele galerie en fullscreen zonder browser/HTTP-fouten, geen mobiele overflow; livegevel en mobiel beeld bekeken. Dit is lokale integratie, publicatie door root volgt apart.
+
+Schrijnwerkerssteeg11 blijft onderzoek: scan Rotterdamsch Nieuwsblad14-03-1940 noemt nr13 bij instorting, terwijl OCR foutief33 geeft. Geen zekerheid over nevenschade11; niet toegevoegd.
+
+
+### 3 oktober 2026 — ronde 10, Wijnhaven 67 en Nieuwehaven 71–73 lokaal gereed
+
+Twee locaties toegevoegd als catalogusitems 155 en 156: koopmanshuis Wijnhaven 67 en het ensemble Nieuwehaven 71–73. RCE-foto’s met CC BY-SA 4.0 en Verheuls PDM-aquarellen onderbouwen de gevels en kleuren. Nieuwehaven-opname 20192301 blijft ongewijzigd maar krijgt expliciet het label gespiegeld; correct georiënteerde 20192302 vormt het AI-paar. Verlies is een expliciete ruimtelijke bronketen van historische huisnummerkaarten en gemeentelijke schadekaart, geen individuele inslagclaim.
+
+Alleen voorbouwen, geen blind ingevulde achterterreinen. Modelmaten zijn benaderd; plaats circa 8 meter en hoogte circa 3 meter onzeker. GLB + Blend zijn opnieuw geëxporteerd; achtergrond opnieuw uitgesneden. Exacte meshoppervlakken: Wijnhaven 67 circa 102,66 m² en Nieuwehaven 71–73 circa 168,22 m², beide zonder overlap met andere modellen of resterende achtergrond. Herleidbare rechten, prompts, bronnotities, oorspronkelijke hashes en controlebestanden staan in de eigen landmarkmappen.
+
+`npm run check`: 156 gebouwen, 18 verhalen, 316 foto’s, 292 paren, nul fouten en 10 geslaagde tests. Beide gerichte browserchecks slagen zonder console-/netwerkfouten of mobiele overflow; galerie, fullscreen en Nu 3D werken. Desktop-, mobiele en live-modelscreenshots zijn bekeken. Status: lokaal gereed; hoofdtaak verzorgt commit en publicatie. Geen zelfstandige publicatieclaim.
+
+
+Na onafhankelijke review zijn de twee centrale bovenopeningen van Nieuwehaven 71 veranderd in dichte panelen met verticale splitsing, zoals de bronfoto. Export en meshcontrole herhaald: 168,22 m², nul overlap. De monumentenlijst uit 1915 (p. 339, nr. 60) is bij Boompjes 58 toegevoegd: circa 1796, toegeschreven aan J. Giudici, met expliciete onzekerheid van de toeschrijving.
+
+### Ronde tien — Houttuin 46 en kerkpositie lokaal gereed
+
+Pakhuis Houttuin 46 toegevoegd als vijfde nieuwe locatie in ronde tien (catalogus 157). Gehele oorspronkelijke RCE20192144, C. Hoogendijk, CC BY-SA 4.0, met afzonderlijk AI-paar/prompt/review. Twee brede laadlagen plus één zolderluik, kleine vensters en één hijsbalk; de andere balk op de foto behoort aan buur 48. Modelbreedte circa 5,8m kaartafgeleid; hoogte circa14,7m en diepte15m expliciet benaderd. Geen exact fotodatum- of kleurclaim. RJB1935-passage alleen via geïndexeerde primaire tekst gelezen; directe PDF onbereikbaar en als zodanig gemarkeerd. Verlies is synthese van Z17-adres46/perceel548 en primaire schadekaart, niet een afzonderlijke inslagclaim.
+
+De bestaande Laurentiuskerk stond circa28m te westelijk; bronkaart Z17 situeert kerk42 op719 oostelijk van tussenhuis44 en pakhuis46. Kerkmaten behouden en positie/gevelankers/polygon/footprints/exclusion consistent vernieuwd. Beide GLB- en Blender-modellen geëxporteerd. Exacte mesh-oppervlakken pakhuis99,366m² en kerk696,066m²; onderlinge en achtergrondoverlap0m², tolerantie0,03m². Portable placement/integrity/meshQA bij pakhuis; plaatsingsbronnotitie+meshQA bij kerk. npm check10/10; gerichte desktop-/mobiele galerij en fullscreen voor beide locaties geslaagd zonder fouten of mobiele overflow. Publicatie volgt afzonderlijk door root.
+
+
+### Ronde tien — vijf lokaal afgerond
+Toevoegingen46–50: Boompjes58, Leuvehaven22, Wijnhaven67, Nieuwehaven71–73 (één ensemble), Houttuin46. Vijf nieuwe AI-paren, aanvullende ongewijzigde originelen bij Wijnhaven en Nieuwehaven. Rootcontrole van alle nieuwe originele bronbestanden bytegelijk; live modellen en mobiele galerijen bekeken. Laurentiuskerk als enige bestaande cataloguslocatie aangepast: positie naar Z17-perceel719, alle ruimtelijke velden en GLB herberekend. Geen andere bestaande152-locatie gewijzigd.
+Eindcontrole157locaties/18verhalen/317beelden/293AI-paren,804MiB, nul fouten,10tests. Gerichte browsercontroles en Houttuin/kerk-geometrie zonder overlap of JS/HTTP-fouten. Cachequeries round10-20261003. Zie RONDE10-20261003.md. Publicatiecontrole en backup50 volgen afzonderlijk; dit is nog geen liveclaim.

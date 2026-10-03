@@ -1,0 +1,32 @@
+{
+  "map": "Z17",
+  "parcels": {
+    "73": 979,
+    "71": 390
+  },
+  "sourceFront": [
+    [
+      3664,
+      2554
+    ],
+    [
+      3740,
+      2542
+    ]
+  ],
+  "workFront": [
+    [
+      3997.509452061047,
+      2015.1868078383964
+    ],
+    [
+      4016.800055188862,
+      2007.0303110692332
+    ]
+  ],
+  "width": 12.584971459643123,
+  "depth": 12,
+  "uncertaintyMeters": 8,
+  "heightUncertaintyMeters": 3,
+  "notes": "Correcte ori\u00ebntatie volgens foto 20192302 en Verheul 450; 73 west/links, 71 oost/rechts. Alleen voorbouw; achterterrein 918 uitgesloten."
+}

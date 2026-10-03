@@ -1,0 +1,17 @@
+{
+  "frontPixels": [
+    [
+      3626.5,
+      2044.3
+    ],
+    [
+      3617,
+      2046.0
+    ]
+  ],
+  "width": 5.793986006887209,
+  "depth": 15.0,
+  "heightApprox": 14.7,
+  "source": "SAR Z17 parcel548, front corrected manually from extrapolated affine to actual south-side Houttuin edge; pending nearby-anchor review",
+  "uncertaintyMeters": 7
+}

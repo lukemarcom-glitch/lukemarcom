@@ -1,0 +1,23 @@
+{
+  "frontPixels": [
+    [
+      3299.4,
+      3139.6
+    ],
+    [
+      3314.25,
+      3125.0
+    ]
+  ],
+  "source": "SAR Z12, Boompjes58 naast60/Groote Dwarssteeg",
+  "parcel": "1592 (handgeschreven lezing)",
+  "width": 12.516966315674646,
+  "depth": 11.0,
+  "center": [
+    222.66384878956993,
+    -416.6826417807948
+  ],
+  "angle": 0.7840879725679655,
+  "uncertaintyMeters": 5,
+  "scope": "Alleen voorbouw; langgerekt achterperceel en binnenplaatsen niet geheel volgebouwd"
+}

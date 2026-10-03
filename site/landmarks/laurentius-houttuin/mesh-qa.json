@@ -1,0 +1,14 @@
+{
+  "meshArea": 696.0663326914894,
+  "backgroundIntersectionSquareMeters": 0.0,
+  "nearbyExactMeshes": [
+    {
+      "id": "pakhuis-houttuin46",
+      "area": 0.0
+    }
+  ],
+  "overlapsAboveTolerance": [],
+  "toleranceSquareMeters": 0.03,
+  "passed": true,
+  "method": "Union of projected nondegenerate rendered mesh triangles, compared with nearby rendered model meshes and clipped background polygons. Tolerance 0.03 square metres."
+}

@@ -1,0 +1,10 @@
+Use case: style-transfer. Edit this original historical photograph of Leuvehaven22, Rotterdam, August1915. Make a faithful natural full-colour modern-quality photographic rendering of this SAME historical scene, not a modernized building. Retain original exact crop, perspective, tree foliage and every facade/window including the partly visible neighbours. Do not extend below photograph, remove foliage or invent hidden ornament. Main building has pale natural-stone/plastered finish; use conservative warm light-grey stone, off-white frames, dark muted green-brown joinery, muted green foliage. These colours are interpretations, not proven. Preserve patina, avoid saturated colours. Improve clarity gently, do not redesign elaborate gable relief, cornice, curtains, blinds, glass, sign fonts or spacing.
+All clearly readable original text must be EXACT:
+Across main facade: "EN GROS SCHOENWERK EXPORT".
+Left window: "GROSSIERS IN" then "BINNEN & BUITENLANDSCH" then "SCHOENWERK".
+Middle window: "I.G.BLOCH &" then "GEBRS STIBBE" (RS shown as historical small abbreviation) then "AMSTERDAM·ROTTERDAM".
+Right window: "LEDER &" then "SCHOENMAKERS-" then "FOURNITUREN".
+Number "22" over right shop bay; small oval number22 with original superscripts, do not invent if too small.
+Leave cropped neighbour lettering incomplete as photographed. Preserve every letter, no invented replacement company. Keep fine unreadable text soft. No new people, vehicles, trees or props. No added caption/watermark/collage. Output just edited photograph, framing unchanged.
+
+Built-in image_gen edit. Original round10-c/leuve.jpg. Output foto-ai-v1.png. Root review: major lettering retained, fine number above right lower bay appears doubled (212), retry required. Reflective glass and fine ornaments generative.

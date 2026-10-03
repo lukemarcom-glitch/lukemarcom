@@ -1,0 +1,25 @@
+{
+  "status": "Lokaal gecontroleerd, publicatie door hoofdtaak",
+  "date": "2026-10-03",
+  "catalogBuildings": 156,
+  "stories": 18,
+  "photos": 316,
+  "photoPairs": 292,
+  "npmCheckErrors": [],
+  "testsPassed": 10,
+  "browser": {
+    "buildings": 156,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "modelSpecMatchesResearch": true,
+  "originalHashesVerified": true
+}

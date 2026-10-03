@@ -1,0 +1,3 @@
+Samenvatting van de verworpen tweede correctieproef, uit de onderzoeksnotitie; geen gegarandeerd woordelijke toolprompt. De geselecteerde derde proef heeft een afzonderlijk volledig opgeslagen promptbestand.
+
+Precise local text correction only: on the narrow horizontal fascia above the lowest right shop window, replace duplicated 212 with exactly 22, two digits. Keep every other detail visually unchanged, including the small oval number plates 22.
