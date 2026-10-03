@@ -695,3 +695,30 @@ Vijf toevoegingen lokaal gereed, catalogus172/18verhalen,335fotovermeldingen/310
 
 ### Ronde 13 — openbaar geverifieerd
 Release9fc58fe487d5be24d1098882c052257a3961cb10, Pages37099415958 encheck37099415993 geslaagd. Vijf nieuwe locaties, totaal172locaties/18verhalen en65toevoegingen. 27openbare bestanden bytegelijk gecontroleerd, inclusief gecorrigeerde buurmodellen en AI59. Anonieme browsercheck desktop/mobiel/lichtbak/Nu3D zonder fouten of overflow; screenshots door hoofdtaak bekeken. Rapporten VERIFICATIE-RONDE13*.json. Volgende volledige backupbij70. Ronde14pastorie55–57 is onderzoek met kleurproef, nog geen nieuwe runtime.
+
+
+## 3 oktober 2026 — ronde 14, item 1 lokaal
+
+Pastorie Sint-Rosalia aan Weste Wagenstraat 55–57 toegevoegd als locatie 173. Vrije hele RCE-foto met geselecteerde AI-proef 02, directe Kruitwagengetuigenis, adreskaart en specifieke CC BY-SA 4.0-licentie. Eén voorhuis op voorstrook 2197 plus 561; geen dubbel kerkmodel. GLB/Blend en achtergrond bijgewerkt; exacte mesh- en achtergrondoverlap nul. Desktop/mobile/fullscreen/Nu 3D gecontroleerd. Nog niet gepubliceerd of gecommit; release volgt na complete ronde. Portable bewijs in site/landmarks/pastorie-rosalia.
+
+## Ronde 14 — lokale toevoegingen en plaatsingscorrecties (3 oktober 2026)
+
+Nieuwehaven 139 en Zuidblaak 18 zijn lokaal toegevoegd met ieder een ongewijzigd RCE-origineel en een afzonderlijke AI-interpretatie. Momentopname: 175 locaties. Nieuwehaven 139 gebruikt de opname van februari 1938; Zuidblaak 18 heeft een ongedateerde fotolaag, onafhankelijk herkend op beeld uit 1928 en 6 juni 1939. Verlies is als samenlezing van de historische adreskaart en gemeentelijke schadekaart verantwoord. Kleine AI-opschriften zijn nadrukkelijk geen transcriptie; bij Nieuwehaven zijn BRANDKASTEN en KANTOORMEUBELEN in het origineel leesbaar, maar in de AI-versie vervormd.
+
+Z12 toont Amicitia op 20/1486 en Bank Mees op Beursplein 10/1915. Hun eerdere ankers en breedtes zijn gecorrigeerd zonder hoogtewijziging. De schuine Vissteeggrens begrenst Mees; gedeelde zijgrenzen met Zuidblaak 18 en Huis Londen 137 begrenzen uitsluitend overstekken langs de bronlijn. Oude en nieuwe waarden, overlays en bronverantwoording staan bij de betreffende modelassets. Alle vijf gewijzigde modellen zijn opnieuw naar GLB en Blender geëxporteerd.
+
+Controle: volledige meshdekking van 175 modellen, nul overlap met naburige modellen en achtergrond bij alle vijf gewijzigde modellen. Npm-controle: 12 tests geslaagd. Gerichte desktop-, mobiele galerie-, fullscreen- en Nu-3D-controles staan in artifacts/round14; onderzoeksbewijs in research/expansion-20261003/round14-nh. Dit is een lokale integratiestatus, geen publicatieclaim.
+
+## Ronde 14 — Leuvehaven 209 lokaal geïntegreerd (3 oktober 2026)
+
+Locatie 176 toont het hoekpand aan de Wijde Nieuwsteeg in de gedocumenteerde geveltijdlaag van 15 juni 1919. Het hele NARA-origineel is ongewijzigd behouden naast de geselecteerde AI-interpretatie van de fotozone. Signal Corps-herkomst en NARA Use Unrestricted zijn verantwoord zonder een CC-licentie te verzinnen. Mogelijke wijzigingen bij de polikliniek vanaf 1925, onbekende achterkap, benaderde hoogte en circa 8 meter plaatsingsonzekerheid blijven expliciet. Het verlies is een samenlezing van historische adreskaart en gemeentelijke schadekaart, geen individuele inslagclaim.
+
+GLB/Blend geëxporteerd; exacte model- en achtergrondoverlap nul. npm: 176 locaties, 18 verhalen, 339 foto's, 314 paren, 12 tests geslaagd. Desktop, mobiel, lichtbak en Nu 3D gecontroleerd; live-model, mobiele galerie en desktoplichtbak visueel bekeken. Portable bron-, plaatsings-, hash- en geometriebewijs staat in site/landmarks/leuvehaven209. Nog niet door deze agent gecommit of gepubliceerd.
+
+### Hotel Elim — ronde 14, lokaal gecontroleerd (3 oktober 2026)
+
+Hotel Elim · Leger des Heils is toegevoegd als 177e locatie. De volledige originele foto SAR 2008-5160 (F.H. van Dijk, 1910–1925, CC0) is bytegelijk bewaard naast één AI-kleurinterpretatie, exacte prompt en beeldcontrole. Gevelletters zijn slechts voor de twee zekere hoofdregels gemodelleerd. Kleine AI-opschriften en gezichten zijn uitdrukkelijk interpretatief.
+
+Plaatsing: Schiedamsedijk 43–47, perceel 2172 op Z10 (1938), met vier onafhankelijke blokankers en ±5 m marge. Organisatiebereik 43–51 is geen modelmaat. Verlies is een expliciete synthese van de individuele oorlogsverliesbron en primaire adres-/schadekaarten; geen individuele bominslagclaim. Hoogte, kaphoogte, voorbouwdiepte en kleuren zijn benaderingen. GLB en Blender zijn geëxporteerd. Het draagbare bronpakket en `mesh-qa.json` staan bij het item.
+
+Controle: exact geprojecteerde modelgeometrie tegen alle 176 andere modellen: geen overlap; opgeschoonde achtergrond 986 polygonen: 0 m² overlap. `npm run check`: 177 locaties, 18 verhalen, 12 tests geslaagd. Gerichte desktop-/mobiele browsercontrole van Elim inclusief AI-viewer, Nu 3D en bronvelden slaagt zonder console-/netwerkfouten of overflow. Live model visueel bekeken. Cachekeys van ronde 14 behouden. Geen commit/push door deze subagent; publicatie nog door hoofdagent te verifiëren.

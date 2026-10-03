@@ -1,0 +1,1 @@
+Root heeft de geselecteerde gehele bron en AI-variant visueel bekeken. De architectonische hoofdvorm blijft herkenbaar; kleine opschriften en fijne details zijn niet betrouwbaar. Origineel bytegelijk. AI blijft gelabelde interpretatie. Geen claim dat de AI alle bronletters correct reproduceert.

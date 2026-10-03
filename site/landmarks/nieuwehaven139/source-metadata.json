@@ -1,0 +1,101 @@
+{
+  "pageid": 23742962,
+  "ns": 6,
+  "title": "File:Met huis \"Londen\", overzicht - Rotterdam - 20192275 - RCE.jpg",
+  "index": 28,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Met_huis_%22Londen%22%2C_overzicht_-_Rotterdam_-_20192275_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Met_huis_%22Londen%22,_overzicht_-_Rotterdam_-_20192275_-_RCE.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23742962",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-12-18 20:40:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Met huis \"Londen\", overzicht - Rotterdam - 20192275 - RCE",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from the Rijksdienst voor het Cultureel Erfgoed|Nieuwe Haven (Rotterdam)|Template Unknown (author)|Buildings with addresses|1938 in Rotterdam|Pakhuis London (Rotterdam)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "met huis \"Londen\", overzicht",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1938-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/?mode=gallery&amp;view=horizontal&amp;q=20192275\">Rijksdienst voor het Cultureel Erfgoed</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.cultureelerfgoed.nl/\">Rijksdienst voor het Cultureel Erfgoed</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ],
+  "revisions": [
+    {
+      "contentformat": "text/x-wiki",
+      "contentmodel": "wikitext",
+      "*": "== {{int:filedesc}} ==\n{{Information\n|description={{nl|1= met huis \"Londen\", overzicht }}\n{{Building address\n | Street name = Nieuwe Haven\n | House number = \n | Postal code = \n | City = Rotterdam\n | State = Zuid-Holland\n | Country = NL\n}}\n|date=1938-02\n|source={{RCE-source|20192275}}\n|author={{unknown|author}}\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n== {{int:license-header}} ==\n{{RCE-license}}\n\n[[Category:Pakhuis London (Rotterdam)]]\n[[Category:Nieuwe Haven (Rotterdam)]]\n[[Category:1938 in Rotterdam]]"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "pageid": 23743595,
+  "ns": 6,
+  "title": "File:Voorgevel - Rotterdam - 20192658 - RCE.jpg",
+  "revisions": [
+    {
+      "contentformat": "text/x-wiki",
+      "contentmodel": "wikitext",
+      "*": "== {{int:filedesc}} ==\n{{Information\n|description={{nl|1= voorgevel }}\n{{Building address\n | Street name = Zuidblaak\n | House number = 18\n | Postal code = \n | City = Rotterdam\n | State = Zuid-Holland\n | Country = NL\n}}\n|date=\n|source={{RCE-source|20192658}}\n|author=Hoogendijk, C. (Fotograaf)\n|permission=\n|other_versions= [https://hdl.handle.net/21.12133/D6DEBA9FB62845EB952E36C7A8B1F90E XXV-790-00-02 Gezicht op een pand aan de Zuidblaak 18], Stadsarchief Rotterdam\n|other_fields=\n}}\n\n== {{int:license-header}} ==\n{{RCE-license}}\n\n[[Category:Zuidblaak 18 (Rotterdam)]]\n[[Category:Photographs by C. Hoogendijk]]\n[[Category:Kunsthandel Reckers]]"
+    }
+  ],
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Voorgevel_-_Rotterdam_-_20192658_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Voorgevel_-_Rotterdam_-_20192658_-_RCE.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23743595",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-11-25 15:31:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Voorgevel - Rotterdam - 20192658 - RCE",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from the Rijksdienst voor het Cultureel Erfgoed|Zuidblaak 18 (Rotterdam)|Buildings with addresses|Photographs by C. Hoogendijk|Kunsthandel Reckers",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "voorgevel",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/?mode=gallery&amp;view=horizontal&amp;q=20192658\">Rijksdienst voor het Cultureel Erfgoed</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Hoogendijk, C. (Fotograaf)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.cultureelerfgoed.nl/\">Rijksdienst voor het Cultureel Erfgoed</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

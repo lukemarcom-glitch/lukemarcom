@@ -1,0 +1,14 @@
+{
+  "original": "leuve209-nara.jpg",
+  "ai": "leuve209-ai-proef01.png",
+  "prompt": "PROMPT-LEUVE209-01.txt",
+  "status": "proef01 bekeken; interpretatie met expliciete beperkingen",
+  "checks": "Hoekpand, gevelassen, bogen, straat, bomen en voertuiggroep herkenbaar behouden. Originele gehele fotokaart blijft bewaard; AI toont uitsluitend fotografische zone.",
+  "text": "DE ZEEUW / LIJST DRIE vooraf onafhankelijk gecontroleerd. Afgebeelde kleine letters niet als archieftranscriptie presenteren.",
+  "limitations": "AI maakt militairen/gezichten, uniformen, boomblad, baksteen en hekwerk gedetailleerder; geen betrouwbare persoonsidentificatie of telling uit AI. Vlag krijgt rood-wit-blauwe interpretatie, niet bewezen door monochrome bron. Negatiefnummer/SignalCorpsmerk zijn eveneens AI-reproducties; originele kaart is autoriteit. Gebouwfase1919, niet exacte1939toestand.",
+  "sha256": {
+    "leuve209-nara.jpg": "587db7f29b0f5255afa6780ba326b0db6cce9659eaf0c05e404f6691edf130ad",
+    "leuve209-ai-proef01.png": "ef424ae67971dbf4a2b47492c44b525b99f474c4e960b3c90c8bb2809268753d",
+    "PROMPT-LEUVE209-01.txt": "caf3f0e8a4c3b5696ab22a7467d429720d1f11355fd34ce7f9f7d95b9b2c380f"
+  }
+}

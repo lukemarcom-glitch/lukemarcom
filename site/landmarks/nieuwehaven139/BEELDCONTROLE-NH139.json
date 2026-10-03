@@ -1,0 +1,15 @@
+{
+  "selected": "nh139-ai-proef01.png",
+  "review": "Drie proeven vergeleken. AI01 behoudt broncompositie het beste; 02 en03 veranderen meer detail,03 verliest bovendien de raamtekst grotendeels. Geen van drie geeft kleine opschriften exact. AI01 mag uitsluitend als gelabelde kleurinterpretatie naast origineel met expliciete afwijkingsmelding; de bewezen opschriften staan in bijschrift en prompt.",
+  "confirmedSourceText": [
+    "BRANDKASTEN",
+    "KANTOORMEUBELEN"
+  ],
+  "aiNote": "AI-kleurinterpretatie. De kleine winkelopschriften zijn vervormd; op het origineel staat BRANDKASTEN en KANTOORMEUBELEN. Ook kleuren, boomschors en fijne geveldetails zijn interpretatief. Raadpleeg het origineel voor historisch bewijs.",
+  "sha256": {
+    "nh1938.jpg": "dc91abf4de000a6f81d14ea6d51c1254e95e1253d4abbce3ce156b87f692276a",
+    "nh139-ai-proef01.png": "c695874782b975dead19531a3fa8c3da2144be9c825b75f4507ae41c40a8015a",
+    "nh139-ai-proef02.png": "44bea87bbb111e5736d67a7266acf99a82e9496bfc9967983c5c0f5bcc4ff475",
+    "nh139-ai-proef03.png": "d81b20e1dddf65722beb809697fe0c80e307cde233a0c081779d695e40e605e4"
+  }
+}

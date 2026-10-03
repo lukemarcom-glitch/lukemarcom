@@ -1,0 +1,12 @@
+{
+  "status": "eerste helekleurproef visueel beoordeeld; plaatsing/model nog inonderzoek",
+  "original": "leger-2008-5160.jpg",
+  "selectedCandidate": "elim-ai-proef01.png",
+  "prompt": "PROMPT-ELIM-01.txt",
+  "review": "Hele gevel met acht assen, kap, stoepen, figuren en handkar behouden. Grote regels LEGER DES HEILS. / THE SALVATION ARMY correct. Onderste hotelopschrift en kleinere affiches zijn AI-lettervormen en mogen niet als transcriptie gelden. Kleuren, gezichten en kleine gevel-/raamdetails interpretatief.",
+  "sha256": {
+    "leger-2008-5160.jpg": "a8d4514f870119f980d536bff8b2fea2a81b7fe1f70b89ed24a20356a56ca354",
+    "elim-ai-proef01.png": "20caed7fd6e3e7bb1765ca4e183dd8e7667e0dd5c893a0d05047647ca63f0a9c",
+    "PROMPT-ELIM-01.txt": "615b094636c20fc81e52797b9b439d9e543df740ab71f1c067d67617f39a3bf1"
+  }
+}

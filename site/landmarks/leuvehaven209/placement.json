@@ -1,0 +1,88 @@
+{
+  "address": "Leuvehaven 209 / Wijde Nieuwsteeg 4",
+  "sourceParcel": "1730",
+  "cadastreFrontHousePolygon": [
+    [
+      5092.0,
+      2225.0
+    ],
+    [
+      5177.0,
+      2208.0
+    ],
+    [
+      5194.0,
+      2310.0
+    ],
+    [
+      5109.0,
+      2327.0
+    ]
+  ],
+  "workPixelPolygon": [
+    [
+      2650.3,
+      3568.0
+    ],
+    [
+      2654.104134082267,
+      3591.6187911652105
+    ],
+    [
+      2625.79695484366,
+      3595.2460744492514
+    ],
+    [
+      2621.992820761393,
+      3571.627283284041
+    ]
+  ],
+  "worldPolygon": [
+    [
+      -165.89430363453585,
+      -685.7421616942511
+    ],
+    [
+      -163.54176065976617,
+      -699.8614948922859
+    ],
+    [
+      -180.50813598182913,
+      -702.2168853226494
+    ],
+    [
+      -182.86067895659903,
+      -688.0975521246146
+    ]
+  ],
+  "estimatedWidthMeters": 14.313980173427195,
+  "estimatedDepthMeters": 17.129090917166696,
+  "uncertaintyMeters": 8,
+  "anchors": {
+    "cadastre": [
+      [
+        5092.0,
+        2225.0
+      ],
+      [
+        5700.0,
+        2098.0
+      ]
+    ],
+    "work": [
+      [
+        2650.3,
+        3568.0
+      ],
+      [
+        2679.0,
+        3737.0
+      ]
+    ],
+    "names": [
+      "Wijde Nieuwsteeg zuidhoek Leuvehaven",
+      "Eenhoornstraat noordhoek Leuvehaven"
+    ]
+  },
+  "status": "Lokaal geïntegreerd op 3 oktober 2026; publicatie wordt afzonderlijk door de hoofdtaak gecontroleerd."
+}

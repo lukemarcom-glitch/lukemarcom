@@ -1,0 +1,118 @@
+[
+  {
+    "id": "nieuwehaven139",
+    "sourceLine": [
+      [
+        2564,
+        2673
+      ],
+      [
+        2559,
+        2500
+      ]
+    ],
+    "worldLine": [
+      [
+        468.0780479982466,
+        188.8031972360336
+      ],
+      [
+        460.164354344852,
+        215.28744296240052
+      ]
+    ],
+    "clamp": {
+      "maxX": 2.645626571465089,
+      "maxXSlope": 0.0311009592773503,
+      "frontZ": 0
+    },
+    "note": "Gemeten gemeenschappelijke bronperceelslijn, 2mm binnen eigen zijde; geen center/hoogteverschuiving. Ongefundeerde overstekken begrensd."
+  },
+  {
+    "id": "huis-londen-nieuwehaven137",
+    "sourceLine": [
+      [
+        2564,
+        2673
+      ],
+      [
+        2559,
+        2500
+      ]
+    ],
+    "worldLine": [
+      [
+        468.0780479982466,
+        188.8031972360336
+      ],
+      [
+        460.164354344852,
+        215.28744296240052
+      ]
+    ],
+    "clamp": {
+      "minX": -2.765466704162528,
+      "minXSlope": 0.04511227269874787,
+      "frontZ": 0
+    },
+    "note": "Gemeten gemeenschappelijke bronperceelslijn, 2mm binnen eigen zijde; geen center/hoogteverschuiving. Ongefundeerde overstekken begrensd."
+  },
+  {
+    "id": "zuidblaak18",
+    "sourceLine": [
+      [
+        4080,
+        2008
+      ],
+      [
+        3900,
+        2150
+      ]
+    ],
+    "worldLine": [
+      [
+        197.50032838845596,
+        -28.47094837485247
+      ],
+      [
+        199.0063438893801,
+        -63.83544656491131
+      ]
+    ],
+    "clamp": {
+      "maxX": 6.033836464869799,
+      "maxXSlope": 0.23817874630679592,
+      "frontZ": 0
+    },
+    "note": "Gemeten gemeenschappelijke bronperceelslijn, 2mm binnen eigen zijde; geen center/hoogteverschuiving. Ongefundeerde overstekken begrensd."
+  },
+  {
+    "id": "amicitia-zuidblaak",
+    "sourceLine": [
+      [
+        4080,
+        2008
+      ],
+      [
+        3900,
+        2150
+      ]
+    ],
+    "worldLine": [
+      [
+        197.50032838845596,
+        -28.47094837485247
+      ],
+      [
+        199.0063438893801,
+        -63.83544656491131
+      ]
+    ],
+    "clamp": {
+      "minX": -5.8589804425282255,
+      "minXSlope": 0.2068476895406629,
+      "frontZ": 0
+    },
+    "note": "Gemeten gemeenschappelijke bronperceelslijn, 2mm binnen eigen zijde; geen center/hoogteverschuiving. Ongefundeerde overstekken begrensd."
+  }
+]

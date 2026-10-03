@@ -1,0 +1,10 @@
+{
+  "status": "visueel beoordeelde eerste kleurproef, nog niet geïntegreerd",
+  "source": "zuidblaak18.jpg",
+  "ai": "zuid18-ai-proef01.png",
+  "prompt": "PROMPT-ZUID18-01.txt",
+  "geometry": "Gehele uitsnede, drie gevelassen, drie bovenlagen, gesloten dakkapel, kroonlijst, voordeur18, stoephek en draden behouden.",
+  "text": "Nummer18 behouden. Kleine advertenties bevatten gewijzigde/verzonnen lettervormen; niet geschikt als transcriptie. Hoofdgebouw heeft geen nieuw bedrijfsopschrift.",
+  "uncertainty": "Grijsbeige gevel, raamkleuren en dak zijn interpretatie. AI voegt duidelijke boomreflecties en detail aan plakkaten toe. Voor definitieve selectie kleine advertenties zachter maken.",
+  "sha256": "e8adec8e89f50ec8e18f58f6c7ee5a2f77dff93654f37db19e4f178ce21ed41f"
+}

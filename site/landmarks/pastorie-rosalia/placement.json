@@ -1,0 +1,106 @@
+{
+  "address": "Weste Wagenstraat 55\u201357",
+  "sourceParcels": [
+    "voorstrook 2197 (55)",
+    "561 (57)"
+  ],
+  "cadastreFront": [
+    [
+      3967.0,
+      1513.0
+    ],
+    [
+      4034.0,
+      1530.0
+    ]
+  ],
+  "cadastreFrontHousePolygon": [
+    [
+      3967.0,
+      1513.0
+    ],
+    [
+      4034.0,
+      1530.0
+    ],
+    [
+      4010.0,
+      1600.0
+    ],
+    [
+      3944.0,
+      1583.0
+    ]
+  ],
+  "workPixelPolygon": [
+    [
+      2647.9535917968547,
+      1919.5183424027373
+    ],
+    [
+      2655.6808284509225,
+      1936.4238026126836
+    ],
+    [
+      2636.967136305316,
+      1943.1895979443457
+    ],
+    [
+      2629.408404816462,
+      1926.4937029941202
+    ]
+  ],
+  "worldPolygon": [
+    [
+      -172.2575171686467,
+      301.4248699582047
+    ],
+    [
+      -167.57226933892503,
+      291.35116210248
+    ],
+    [
+      -178.77549844861437,
+      287.1783878406627
+    ],
+    [
+      -183.35905497921044,
+      297.12768957880235
+    ]
+  ],
+  "worldCenter": [
+    -175.49108498384913,
+    294.2705273700374
+  ],
+  "estimatedWidthMeters": 11.109956669060475,
+  "estimatedDepthMeters": 11.904196779812436,
+  "uncertaintyMeters": 8,
+  "anchors": {
+    "cadastre": [
+      [
+        3130.0,
+        1180.0
+      ],
+      [
+        4326.0,
+        1267.0
+      ]
+    ],
+    "work": [
+      [
+        2576.7,
+        1688.0
+      ],
+      [
+        2760.0,
+        1953.3
+      ]
+    ],
+    "names": [
+      "Raambrug",
+      "Krattenbrug"
+    ]
+  },
+  "existingChurchPolygonIntersectionSqm": 0.0,
+  "status": "research-only; front house depth conservative, no terrain behind it filled; existing church comparison uses catalog footprint not exact mesh"
+}
