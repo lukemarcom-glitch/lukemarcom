@@ -177,6 +177,14 @@ export function buildCity22(meta,{material,box,merge}) {
   shed(-17,-36,220,24);shed(-24,-11,158,22);
  }
 
+ // Source-bound shared party wall: enabled only for explicit source-map limits.
+ if(meta.sharedWallBounds){
+  const df=meta.sharedWallBounds;g.updateMatrixWorld(true);const meshes=[];
+  g.traverse(o=>{if(!o.isMesh)return;const geo=o.geometry.clone();geo.applyMatrix4(o.matrixWorld);const a=geo.attributes.position;
+   for(let i=0;i<a.count;i++){const x=a.getX(i),y=a.getY(i),z=a.getZ(i);if(y<=(df.height??Infinity))a.setX(i,Math.min(x,df.maxX+(df.maxXSlope||0)*(df.frontZ-z)));}
+   geo.computeVertexNormals();o.geometry=geo;o.position.set(0,0,0);o.rotation.set(0,0,0);o.scale.set(1,1,1);meshes.push(o);
+  });g.clear();for(const o of meshes)g.add(o);
+ }
  g.scale.z=meta.modelScaleZ||1;
  g.rotation.y=meta.angle||0;g.position.set(meta.center[0],.35,-meta.center[1]);
  const out=merge(g);out.name=meta.name;out.userData.landmark=meta.id;return out;

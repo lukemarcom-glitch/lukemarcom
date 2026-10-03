@@ -1,0 +1,3 @@
+# Onderzoeksmodel Dagblad
+
+Zes assen en drie bovenlagen rechtstreeks uit RCE 20191611, niet vijf. Foto toont een balustrade boven kroonlijst. Bomen verbergen middenlaag en pui; onderpui daarom vereenvoudigd met gefotografeerde eindopeningen. Centrale pui-indeling is benaderd, niet bewezen. Dakafsluiting achter borstwering bewust laag; onzichtbare kapvorm niet ingevuld. Hoogte circa 16,8 m is geschat uit fotoproportie, marge circa 2 m. Alleen 13 m diepe voorbouw, geen volledige achterbebouwing. Kleuren interpretatief uit materiaalindruk, niet uit zwart-wit bewezen. De grote dakletters/reclameconstructie zijn nog niet uitgewerkt omdat vrije bovenafbeelding ontbreekt; leesbare naam op de ondergevel wel opgenomen.

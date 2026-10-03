@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-03",
+  "tool": "built-in imagegen",
+  "published": false,
+  "photos": [
+    {
+      "original": "rce-photo1-original.jpg",
+      "output": "utrecht-ai-proef01.png",
+      "prompt": "ai-prompt-01.txt",
+      "status": "needs-correction",
+      "reason": "Building silhouette and context retained but small people at church portal removed, newspaper lettering partially malformed and new bridge sign not grounded. Do not silently substitute for original."
+    },
+    {
+      "original": "photo-23743581.jpg",
+      "output": "utrecht-detail-ai01.png",
+      "prompt": "ai-prompt-detail01.txt",
+      "status": "selected-as-interpretation",
+      "reason": "Neighbor doorway and De Utrecht round iron rosette retained; HANDELS-/DRUKKERIJ and KANTOOR/BOVEN retain visible forms and clipping. Plaque remains small; exact historic color and fine relief not proven. Added tiny white plate/reflections should be disclosed as fine-detail interpretation, not evidence."
+    },
+    {
+      "original": "rce-photo1-original.jpg",
+      "output": "utrecht-ai-proef02.png",
+      "prompt": "ai-prompt-02.txt",
+      "base": "utrecht-ai-proef01.png",
+      "status": "selected-as-interpretation",
+      "reason": "Two small entrance figures restored in source positions; invented bridge advertisement removed. Building arrangement, tree/bridge occlusions and full scene retained. CENTRALE/MUZIEKSCHOOL readable, newspaper lettering partially crossed by real foreground poles. Fine relief, boat detail, people and exact colors interpretive, not evidence."
+    }
+  ],
+  "next": "Integrate full original plus street AI02 and detail original plus AI01, CC BY-SA4 and direct source attribution; model QA still required."
+}

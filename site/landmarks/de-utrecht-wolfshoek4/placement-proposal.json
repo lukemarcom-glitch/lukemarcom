@@ -1,0 +1,87 @@
+{
+  "status": "research-only proposal; no model approval",
+  "sourceMap": "Z11-north-flat.jpg",
+  "sourceAnchors": [
+    [
+      622.0,
+      339.0
+    ],
+    [
+      970.0,
+      330.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      2791.0,
+      2610.0
+    ],
+    [
+      2885.0,
+      2585.0
+    ]
+  ],
+  "anchorIdentity": [
+    "northwest outside building corner of Wolfshoek / Korte Wijnstraat island",
+    "northeast church building corner at Posthoornsteeg"
+  ],
+  "sourcePolygon": [
+    [
+      768,
+      335
+    ],
+    [
+      805,
+      334
+    ],
+    [
+      809,
+      432
+    ],
+    [
+      773,
+      435
+    ]
+  ],
+  "workPolygon": [
+    [
+      2830.422255229608,
+      2599.450575566283
+    ],
+    [
+      2840.4137145686345,
+      2596.780814457235
+    ],
+    [
+      2847.8522589429385,
+      2623.157098650823
+    ],
+    [
+      2838.262210669637,
+      2626.3056318851345
+    ]
+  ],
+  "localMeterPolygon": [
+    [
+      -60.77748687566964,
+      -104.56698702183007
+    ],
+    [
+      -54.79311794911041,
+      -102.90354946315892
+    ],
+    [
+      -50.252540987835346,
+      -118.65066547689639
+    ],
+    [
+      -55.99472355751186,
+      -120.5982144186944
+    ]
+  ],
+  "width": 6.21125558649501,
+  "depth": 16.388669924413296,
+  "uncertaintyMeters": 8,
+  "parcel": "G11, supported by facade sequence and comparative widths, address 4 not printed clearly",
+  "designWidth": 6.51
+}

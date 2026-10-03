@@ -1,0 +1,16 @@
+[
+  {
+    "photo": 1,
+    "original": "rce-photo1-original.jpg",
+    "publicOriginal": "foto-1-origineel.jpg",
+    "byteIdentical": true,
+    "sha256": "051f178f32578ae1da9d033e68bd98379e8935b20bd60e25cabba9acb29db363"
+  },
+  {
+    "photo": 2,
+    "original": "photo-23743581.jpg",
+    "publicOriginal": "foto-2-origineel.jpg",
+    "byteIdentical": true,
+    "sha256": "e8525c6659aab6f600074ac3db0c63f556b889dd7a1faf71bd5f29ef9ca85539"
+  }
+]

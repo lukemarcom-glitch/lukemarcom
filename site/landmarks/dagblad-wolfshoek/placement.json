@@ -1,0 +1,86 @@
+{
+  "status": "research-only proposal; no model approval",
+  "sourceMap": "Z11-north-flat.jpg",
+  "sourceAnchors": [
+    [
+      622.0,
+      339.0
+    ],
+    [
+      970.0,
+      330.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      2791.0,
+      2610.0
+    ],
+    [
+      2885.0,
+      2585.0
+    ]
+  ],
+  "anchorIdentity": [
+    "northwest outside building corner of Wolfshoek / Korte Wijnstraat island",
+    "northeast church building corner at Posthoornsteeg"
+  ],
+  "sourcePolygon": [
+    [
+      805,
+      334
+    ],
+    [
+      873,
+      332
+    ],
+    [
+      880,
+      429
+    ],
+    [
+      809,
+      432
+    ]
+  ],
+  "workPolygon": [
+    [
+      2840.4137145686345,
+      2596.780814457235
+    ],
+    [
+      2858.7658868671865,
+      2591.8301522465654
+    ],
+    [
+      2866.954994430004,
+      2617.7402153731896
+    ],
+    [
+      2847.8522589429385,
+      2623.157098650823
+    ]
+  ],
+  "localMeterPolygon": [
+    [
+      -54.79311794911041,
+      -102.90354946315892
+    ],
+    [
+      -43.80125403279112,
+      -99.82009544455377
+    ],
+    [
+      -38.81192712015786,
+      -115.28316012579785
+    ],
+    [
+      -50.252540987835346,
+      -118.65066547689639
+    ]
+  ],
+  "width": 11.416162272836448,
+  "depth": 16.24806918921336,
+  "uncertaintyMeters": 8,
+  "parcel": "G1864, Wolfshoek 2\u20133; six-axis Dagblad facade east of De Utrecht G11"
+}

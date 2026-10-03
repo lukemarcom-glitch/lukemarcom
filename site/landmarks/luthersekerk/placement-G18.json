@@ -1,0 +1,80 @@
+{
+  "sourcePolygon": [
+    [
+      873,
+      332
+    ],
+    [
+      970,
+      330
+    ],
+    [
+      980,
+      535
+    ],
+    [
+      883,
+      539
+    ]
+  ],
+  "workPolygon": [
+    [
+      2858.7658868671865,
+      2591.8301522465654
+    ],
+    [
+      2885.0,
+      2585.0
+    ],
+    [
+      2901.0039608862485,
+      2640.069067953955
+    ],
+    [
+      2874.8994677559103,
+      2647.4428023270207
+    ]
+  ],
+  "localMeterPolygon": [
+    [
+      -43.80125403279112,
+      -99.82009544455377
+    ],
+    [
+      -28.087832755271393,
+      -95.560106115385
+    ],
+    [
+      -18.32387103374731,
+      -128.43426482473797
+    ],
+    [
+      -33.957918277184035,
+      -133.01893572015592
+    ]
+  ],
+  "center": [
+    -31.415498232819864,
+    -114.39596295566483
+  ],
+  "angle": 3.4063342538883106,
+  "modelWidth": 16.28063626918314,
+  "modelDepth": 34.6178035759419,
+  "old": {
+    "center": [
+      -32.494,
+      -114.023
+    ],
+    "angle": 3.396592653589793,
+    "modelWidth": 17,
+    "modelDepth": 33
+  },
+  "positionDelta": [
+    1.0785017671801356,
+    -0.37296295566483195
+  ],
+  "positionUncertainty": 8,
+  "widthUncertainty": 1,
+  "depthUncertainty": 2,
+  "note": "Research-only G18 main rectangle. Scalloped east boundary projected onto main wall line, no fictitious bulges. All four source corners tied to street geometry and shared G1864 wall. Existing heights unchanged."
+}
