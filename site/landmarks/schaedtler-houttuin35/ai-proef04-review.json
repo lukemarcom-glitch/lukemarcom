@@ -1,0 +1,10 @@
+{
+  "selected": "schaedtler-ai-proef04.png",
+  "published": false,
+  "promptChain": [
+    "PROMPT-AI-02.txt",
+    "PROMPT-AI-04.txt"
+  ],
+  "review": "Geselecteerd als duidelijk gelabelde AI-interpretatie na vergelijking met origineel. Hoofdgeleding, drie boogvenstergroepen en twee bovenste vensterrijen behouden; onjuiste bloemen, extra dakkapel en dambordstroken tussen bovenste verdiepingen verwijderd. Uitsnede strakker aan onderzijde dan origineel: boten/voorgrond deels afgesneden. Gehele pakhuisgevel blijft zichtbaar. Fijn reliëf, personen/kleding, buurdetails en water niet documentair; exacte kleur en patrooninvulling generatief. Materiaaltekst ondersteunt geel/lichtgroen/hardsteen, niet de precieze tinten of ieder gekleurd element. Geen leesbare opschriften verzonnen.",
+  "sha256": "a6563534c7f146f376b42978facfd1c16674b8a6e185aca89d031feb0ddd8079"
+}

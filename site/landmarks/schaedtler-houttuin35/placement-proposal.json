@@ -1,0 +1,106 @@
+{
+  "sourceAnchors": [
+    [
+      1828.0,
+      2120.0
+    ],
+    [
+      3114.0,
+      2125.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      3494.0,
+      2031.0
+    ],
+    [
+      3822.0,
+      1945.0
+    ]
+  ],
+  "anchorIdentity": [
+    "westelijke waterhoek bebouwde rij bij Hoofdsteeg",
+    "oostelijke waterhoek bebouwde rij bij Oostmolenstraat"
+  ],
+  "sourcePolygon": [
+    [
+      2447,
+      2125
+    ],
+    [
+      2528,
+      2127
+    ],
+    [
+      2527,
+      2250
+    ],
+    [
+      2477,
+      2248
+    ],
+    [
+      2477,
+      2162
+    ],
+    [
+      2447,
+      2161
+    ]
+  ],
+  "workPolygon": [
+    [
+      3652.0546879015324,
+      1990.2657282740997
+    ],
+    [
+      3672.8284536234573,
+      1985.2782719532524
+    ],
+    [
+      3680.9210162405725,
+      2016.68537707527
+    ],
+    [
+      3668.045758277347,
+      2019.5690289336028
+    ],
+    [
+      3662.2093975103717,
+      1997.6570396675336
+    ],
+    [
+      3654.497815664452,
+      1999.4381888971056
+    ]
+  ],
+  "localMeterPolygon": [
+    [
+      430.1665655662898,
+      265.55723977644584
+    ],
+    [
+      442.61067375953485,
+      268.67840128320245
+    ],
+    [
+      447.55862383185763,
+      249.92284487734355
+    ],
+    [
+      439.84533466885455,
+      248.11265510389626
+    ],
+    [
+      436.27909146680554,
+      261.1967279622636
+    ],
+    [
+      431.65941155784526,
+      260.08018602178026
+    ]
+  ],
+  "uncertaintyMeters": 8,
+  "note": "Tweepuntsgelijkvormige registratie, zelfstandig uit hoekenbronkaarten. Geen bestaande modellen als anker. L-inspringing is onafhankelijke controle maar kaartlijn blijft benaderd."
+}

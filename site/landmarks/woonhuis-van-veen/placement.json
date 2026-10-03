@@ -1,0 +1,95 @@
+{
+  "id": "woonhuis-van-veen",
+  "sourceAnchors": [
+    [
+      1359.5,
+      3058.0
+    ],
+    [
+      1482.5,
+      3408.0
+    ],
+    [
+      1586.5,
+      3469.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      2129.2,
+      1128.0
+    ],
+    [
+      2198.4,
+      1188.8
+    ],
+    [
+      2224.0,
+      1188.4
+    ]
+  ],
+  "anchorNames": [
+    "Schiekade/Raampoortstraat westelijke spits bij 198",
+    "Schiekade/Hofplein hoek 210",
+    "Hofplein/Raampoortstraat oosthoek"
+  ],
+  "sourceParcel": "Z2 sectie X 2150, Schiekade 208",
+  "sourcePolygon": [
+    [
+      1436.5,
+      3269.5
+    ],
+    [
+      1462.0,
+      3345.0
+    ],
+    [
+      1505.5,
+      3329.5
+    ],
+    [
+      1485.5,
+      3287.0
+    ]
+  ],
+  "workPixelPolygon": [
+    [
+      2171.4548915112296,
+      1164.3845727930234
+    ],
+    [
+      2186.2129425199846,
+      1177.6375679136243
+    ],
+    [
+      2191.1751808146173,
+      1168.4257120116276
+    ],
+    [
+      2181.941834792539,
+      1161.7173685849743
+    ]
+  ],
+  "worldPolygon": [
+    [
+      -460.30866053793943,
+      750.5475769308578
+    ],
+    [
+      -451.417650167436,
+      742.7066297899019
+    ],
+    [
+      -448.46923334258804,
+      748.2552058187727
+    ],
+    [
+      -454.02711656283964,
+      752.2126902890084
+    ]
+  ],
+  "width": 11.854556823250025,
+  "depth": 6.498491917868649,
+  "uncertaintyMeters": 7,
+  "note": "Driepuntspassing op historische blokhoeken, geen statistische restfout. Nummer 242 uit RJB-index onopgelost; geveltekening en M\u00f6glefoto wijzen naar 208. Alleen voorhuis, geen bebouwing achtererf ingevuld."
+}

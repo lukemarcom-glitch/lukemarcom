@@ -1,0 +1,918 @@
+{
+  "meshArea": 192.05089118771,
+  "exactModelOverlaps": [],
+  "checkedModels": [
+    {
+      "id": "plan-c",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bijenkorf",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "passage",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oude-beurs",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "beurs-coolsingel",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "schouwburg",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "coolsingelziekenhuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "delftse-poort",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "laurenskerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "kolk-open-rijstuin",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "luchtspoor",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "minervahuis-i",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "rosaliakerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "sint-lucia",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "tivoli",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "witte-huis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "schielandshuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hang-steigers",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hofplein-loos",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "marinierskazerne",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "stadhuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hoofdpostkantoor",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "molen-de-noord",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "pschorr",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "zuiderkerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oude-diergaarde",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "willemsbrug-oud",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "willemsspoorbrug",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hulstkampgebouw",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "van-drielkantoor",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "burgemeester-hoffmanplein",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "luthersekerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "dominicuskerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "waalsekerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "erasmiaans-gymnasium",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "gemeentebibliotheek",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "luxor",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-atlanta",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-victoria",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "westerkerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "station-delftse-poort",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "cafe-de-unie",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "doelen-coolsingel",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "grand-theatre",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "lumiere-coolsingel",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "scala-kruiskade",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "ca-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "huf-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "thalia-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "handel-nijverheid",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "gerzon-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "erasmushuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "esders-hoofdsteeg",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "burgerweeshuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "politie-haagseveer",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bosjeskerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "synagoge-botersloot",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oude-raadhuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "telefoondienst-botersloot",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hermesgebouw",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "synagoge-boompjes",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-weimar",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oostindisch-huis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "rotterdamsche-bank-boompjes",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nationale-boompjes",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-smits",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "westnieuwland",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bierhaven",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "korte-wijnbrugstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "scheepmakershaven",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "wijnhaven-west",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "leuvehaven-oost",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "haringvliet-west",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "goudsesingel-markt",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "binnenrotte-straatwand",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oppert-woonhuizen",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "heerenstraat-winkels",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "slaak-straatbeeld",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "prinsenstraat-buurt",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "schiedamsedijk-noord",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "kruiskade-winkelstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "binnenweg-oost",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "schiedamsesingel-noord",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "jungerhans-coolsingel",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "cafe-caland",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "botersloot-spaarbank",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "grand-hotel-central",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "ooglijdersgesticht",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bank-mees-beursplein",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "vroom-dreesmann-binnenweg",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "leeskabinet-geldersekade",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bijbank-boompjes",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwsblad-slagveld",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "amsterdamsche-bank-oostplein",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "twentsche-noordblaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "van-nelle-leuvehaven",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "lampe-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "lucardie-grotemarkt",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-gouden-hert",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "amsterdamsche-bank-coolsingel",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-coomans",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "laurentius-houttuin",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bervoets-heerenstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hofje-gerrit-de-koker",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "sint-laurenshofje",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "cafetaria-ruttens",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "schotse-kerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "noordzee",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nijgh-van-ditmar",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "van-dooren",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "doopsgezinde-kerk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nederlanden-1845",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "marx-bank-zuidblaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "station-beurs",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "internatio-wolfshoek",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nhm-zuidblaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwe-westerkerk-ammanstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hema-korte-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "zumpolle-hoofdsteeg",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "voorwaarts-slaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "amicitia-zuidblaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "paul-kaiser-weinthal",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "asta-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "cineac-coolsingel-vooroorlogs",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "koopmanshuis-nieuwehaven59",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "heck-city-noordblaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "koopmanshuis-nieuwehaven89",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "meyer-blessing-noordblaak",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "spinolahuis",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "corso-coolsingel",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "meddens-hoogstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "galeries-modernes",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "notarishuis-geldersekade",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "groote-concertzaal-bierstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "olv-wijnhaven",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oppertse-kerk-pastorie",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "huis-met-de-beelden",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "meuwsen-mosseltrap",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "rusthuis-haringvliet",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "cafe-de-scheepvaart",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "huis-londen-nieuwehaven137",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hbs-alkemade",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "wijnhaven145-moll",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "koopmanshuis-nieuwehaven87",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "wijnhaven62-pinto",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "huis-keulen",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "haringvliet44-blauwe-ster",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "twee-leeuwen",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "slagerij-verzijden-sint-laurens47",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oppert93",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwehaven169",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "herenhuis-boompjes58",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "leuvehaven22-bloch-stibbe",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "wijnhaven67",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwehaven71-73",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "pakhuis-houttuin46",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "houttuin12",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "leuvehaven52",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bekking-boerenvismarkt10",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "boompjes42-43",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "boompjes40-mercurius",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "oppert55",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "westewagenstraat2-4",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "westewagen23",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "kipstraat33-37",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "haringvliet48-kweekschool",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "wijnhaven61-65",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "de-kroon-hofplein12",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwehaven171-devlijt",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "old-dutch-coolsingel103",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwehaven53-55",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "pastorie-rosalia",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "nieuwehaven139",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "zuidblaak18",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "leuvehaven209",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "hotel-elim-schiedamsedijk",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "gemeentelijke-vischhal-bagijnenstraat",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bats-noordblaak77",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "bank-van-lening",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "stadstimmerhuis-haringvliet4",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    },
+    {
+      "id": "ijsendijk-leuvehaven",
+      "intersectionSquareMeters": 0,
+      "boundingBoxDisjoint": true
+    }
+  ],
+  "backgroundOverlapArea": 0.0,
+  "backgroundPolygonsChecked": 987
+}

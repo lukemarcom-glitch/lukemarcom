@@ -1,0 +1,15 @@
+{
+  "widthWater": 12.829554858858012,
+  "depth": 19.39580345379615,
+  "widthHouttuin": 7.921934987544039,
+  "wingDepth": 5.67568117122636,
+  "heightApprox": 19.9,
+  "heightUncertainty": 2.5,
+  "positionUncertainty": 8,
+  "source": "BW1897p92 + Z17perceel748 + album1916photo",
+  "limitations": [
+    "Voorkant Houttuin onvolledig gedocumenteerd; geen rijke voorgevel verzonnen.",
+    "Hoogte proportioneel uit primaire gevelaanzicht, niet opgemeten; hardsteen/geel/lichtgroen brongebonden, exacte tinten en kozijnen interpretatief.",
+    "Geometrisch gevelbandmotief vereenvoudigd; geen bloemornamenten van AI overgenomen."
+  ]
+}
