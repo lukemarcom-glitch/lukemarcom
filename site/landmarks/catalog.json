@@ -15782,7 +15782,7 @@
     "modelFamily": "city33",
     "kind": "streetscape",
     "backgroundClearance": 2,
-    "story": "Aan de Scheepmakershaven, op de hoek met de Bierstraat, legde Richard Boske het kantoor en magazijn van metaalhandel Intermetaal vast. Het archief noemt ook het huis van de familie Boske en het adres Scheepmakershaven 29b. De opname is gedateerd tussen 1936 en 30 april 1940. Opvallend zijn de gepleisterde hoek, de bordestrap en de Nederlandse vlag; handkarren en een transportwagen staan aan de straat. Een tweede opname toont het bijbehorende magazijn, terwijl een derde winterbeeld dezelfde bordestrap documenteert. Het oorspronkelijke beeld bevat al kleur. De AI-versie is daarom een beeldherstel met kleurcorrectie, geen eerste inkleuring.",
+    "story": "Aan de Scheepmakershaven, op de hoek met de Bierstraat, legde Richard Boske het kantoor en magazijn van metaalhandel Intermetaal vast. Het archief noemt ook het huis van de familie Boske en het adres Scheepmakershaven 29b. De opname is gedateerd tussen 1939 en 30 april 1940. Opvallend zijn de gepleisterde hoek, de bordestrap en de Nederlandse vlag; handkarren en een transportwagen staan aan de straat. Een tweede opname toont het bijbehorende magazijn, terwijl een derde winterbeeld dezelfde bordestrap documenteert. Het oorspronkelijke beeld bevat al kleur. De AI-versie is daarom een beeldherstel met kleurcorrectie, geen eerste inkleuring.",
     "wikipedia": "https://nl.wikipedia.org/wiki/Scheepmakershaven",
     "colorNote": "AI-beeldherstel en kleurcorrectie van een oorspronkelijk kleurenbeeld; details kunnen afwijken. Origineel blijft de historische bron.",
     "periodNote": "Historische deelreconstructie van vóór mei 1940. De foto vermeldt het eigen bronjaar; eerdere bouwfasen kunnen verschillen van 1939.",
@@ -15793,15 +15793,15 @@
         "title": "Beeldregistratie · 2",
         "url": "https://hdl.handle.net/21.12133/B710BDDEB9D245FABCD25CE8E73C3792",
         "role": "beeld",
-        "supports": "Opname: Het kantoor en magazijn van N.V. Intermetaal aan de Scheepmakershaven 29b 1936 - 1940. Bron voor de zichtbare gevels en omgeving; datering: 1936–30 april 1940. Maker en rechten staan ook direct onder de foto.",
-        "checkedAt": "2026-09-28"
+        "supports": "Stadsarchief Rotterdam, collectie4210 nr2: kantoor/magazijn Intermetaal en woonhuis familie Boske op hoek Scheepmakershaven/Bierstraat. Actuele registratie: 1939–30april1940, Richard Boske, CC BY4.0. De oudere Commonsbeschrijving noemt1936 en CC0; hier wordt de primaire registratie gevolgd.",
+        "checkedAt": "2026-10-03"
       },
       {
         "title": "Bestandslicentie en metadata",
         "url": "https://commons.wikimedia.org/wiki/File:Het_kantoor_en_magazijn_van_N.V._Intermetaal_aan_de_Scheepmakershaven_29b_1936_-_1940.jpg",
-        "supports": "Specifiek archiefstuk / beeldregistratie: File:Het kantoor en magazijn van N.V. Intermetaal aan de Scheepmakershaven 29b 1936 - 1940.jpg. Onderbouwing beperkt tot wat de opname of archiefbeschrijving laat zien.",
+        "supports": "Oudere secundaire bestandsregistratie van hetzelfde archiefbeeld. Wijkt in datering en licentie af van de actuele Stadsarchiefregistratie; voor1939–30april1940 en CC BY4.0 wordt de primaire bron gevolgd.",
         "role": "beeld",
-        "checkedAt": "2026-09-28"
+        "checkedAt": "2026-10-03"
       },
       {
         "title": "Extra archiefbeeld: Het pand van het magazijn van N.V. Intermetaal bij de Scheepmakershaven en Bierstraat 1936 - 1939 · 01-01-1936 - 31-12-1939",
@@ -15835,10 +15835,10 @@
     "photos": [
       {
         "title": "Het kantoor en magazijn van N.V. Intermetaal aan de Scheepmakershaven 29b 1936 - 1940",
-        "date": "1936–30 april 1940",
+        "date": "1939–30 april 1940",
         "author": "Richard Boske; Stadsarchief Rotterdam",
-        "license": "CC0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "url": "https://hdl.handle.net/21.12133/B710BDDEB9D245FABCD25CE8E73C3792",
         "sourceColor": true,
         "src": "landmarks/scheepmakershaven/foto-1-origineel.webp",
@@ -15847,7 +15847,7 @@
         "aiLabel": "AI-beeldherstel",
         "aiNote": "AI-beeldherstel en kleurcorrectie van een oorspronkelijk kleurenbeeld; details kunnen afwijken. Origineel blijft de historische bron.",
         "identifier": "2",
-        "sourceChecked": "2026-09-28"
+        "sourceChecked": "2026-10-03"
       }
     ],
     "wikipediaNote": "Aanvullend overzicht. De specifieke herkomst van beelden en informatie staat hierboven bij de bronverwijzingen."

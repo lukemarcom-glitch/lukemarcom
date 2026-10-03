@@ -797,3 +797,9 @@ Bij deze toevoeging zijn De Utrecht-zijgrenzen op G11 begrensd en kerk G18 brong
 Alle vijf locaties staan online op rdam39.nl: Schaedtler, Van Veen, Van Beekum, De Utrecht Wolfshoek en Dagblad Wolfshoek. Release629c55b, Pages37112776969 en Check37112776972 succesvol. 22 bestanden bytegelijk; publieke desktop/mobiele browsercontrole en visuele galeriecontrole geslaagd. 187 locaties/18 verhalen. Volledige Git-back-up en remote tag bij80 geverifieerd; volgende bij90. Zie RONDE16-20261003.md en BACKUP-80-20261003.json.
 
 Ronde17 blijft brononderzoek. Londonsche Apotheek: Leuvehaven161b/kavel1732 primair bevestigd, vrije herkenbare gevel nog ontbrekend. Kratz: aangeboden GrooteMarktfoto toont229 en is daarom afgewezen voor die locatie. Geen nieuwe runtime. Het voorstel voor buurtnavigatie is niet geïmplementeerd.
+
+### Ronde17 vervolgonderzoek en bestaande broncorrectie
+
+Geen nieuwe locatie deze stap. Intermetaal is al opgenomen onder scheepmakershaven; duplicaat verhinderd. Actuele primaire registratie4210/2 noemt1939–30april1940 enCCBY4.0 (Commonsouder1936/CC0). Catalogus lokaal gecorrigeerd, portable broncontrole bijitem; npmcheck187/18,13tests geslaagd. Deze correctie nog niet openbaar geverifieerd.
+
+Film Havens te Rotterdam (Beeld en Geluid, PGM25555) als alternatieve bron onderzocht; frames195sLangeTorenstraat en298sLeuvehaven geven geen voldoende geïdentificeerde hele WaalseSchool/apotheekgevel. Bewijs in research/expansion-20261003/round17-waalse-film/CONTROLE.md. PromptvoorbereidingIntermetaal niet uitgevoerd; geen overbodigeAIgegenereerd. Actief nieuw onderzoek: AcademieCoolvest en H.vanDamGedempteBotersloot; geen bouwvrijgave.
