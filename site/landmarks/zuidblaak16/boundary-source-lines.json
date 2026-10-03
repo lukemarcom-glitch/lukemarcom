@@ -1,0 +1,184 @@
+[
+  {
+    "id": "zuidblaak14",
+    "sourceLine": [
+      [
+        4204,
+        2086
+      ],
+      [
+        4024,
+        2228
+      ]
+    ],
+    "worldLine": [
+      [
+        219.87155812008768,
+        -22.062742883114197
+      ],
+      [
+        221.37757362101183,
+        -57.42724107317326
+      ]
+    ],
+    "clamp": {
+      "minX": -2.397675135155426,
+      "minXSlope": 0.231883835009366,
+      "frontZ": 0
+    },
+    "note": "Evenwijdige historische perceelswand volgens Z12, voorgrens onafhankelijk gemeten; 1cm vrijstand. Geen gebouw verschoven."
+  },
+  {
+    "id": "bank-mees-beursplein",
+    "sourceLine": [
+      [
+        4204,
+        2086
+      ],
+      [
+        4024,
+        2228
+      ]
+    ],
+    "worldLine": [
+      [
+        219.87155812008768,
+        -22.062742883114197
+      ],
+      [
+        221.37757362101183,
+        -57.42724107317326
+      ]
+    ],
+    "clamp": {
+      "minX": -20.112900747267183,
+      "minXSlope": 0.11722295568933673,
+      "frontZ": 0,
+      "maxX": 23.695479875283024,
+      "maxXSlope": 0.20465006736308236
+    },
+    "note": "Evenwijdige historische perceelswand volgens Z12, voorgrens onafhankelijk gemeten; 1cm vrijstand. Geen gebouw verschoven."
+  },
+  {
+    "id": "zuidblaak14",
+    "sourceLine": [
+      [
+        4165,
+        2061
+      ],
+      [
+        3985,
+        2203
+      ]
+    ],
+    "worldLine": [
+      [
+        212.77317108314446,
+        -24.0304636184228
+      ],
+      [
+        214.27918658406907,
+        -59.39496180848187
+      ]
+    ],
+    "clamp": {
+      "minX": -2.397675135155426,
+      "minXSlope": 0.231883835009366,
+      "frontZ": 0,
+      "maxX": 4.948397320258376,
+      "maxXSlope": 0.23188383500935247
+    },
+    "note": "Evenwijdige historische perceelswand volgens Z12, voorgrens onafhankelijk gemeten; 1cm vrijstand. Geen gebouw verschoven."
+  },
+  {
+    "id": "zuidblaak16",
+    "sourceLine": [
+      [
+        4165,
+        2061
+      ],
+      [
+        3985,
+        2203
+      ]
+    ],
+    "worldLine": [
+      [
+        212.77317108314446,
+        -24.0304636184228
+      ],
+      [
+        214.27918658406907,
+        -59.39496180848187
+      ]
+    ],
+    "clamp": {
+      "minX": -1.9351408754711459,
+      "minXSlope": 0.25472110290498506,
+      "frontZ": 0
+    },
+    "note": "Evenwijdige historische perceelswand volgens Z12, voorgrens onafhankelijk gemeten; 1cm vrijstand. Geen gebouw verschoven."
+  },
+  {
+    "id": "zuidblaak16",
+    "sourceLine": [
+      [
+        4129,
+        2039
+      ],
+      [
+        3949,
+        2181
+      ]
+    ],
+    "worldLine": [
+      [
+        206.3641937422292,
+        -25.95679071891118
+      ],
+      [
+        207.8702092431538,
+        -61.32128890897002
+      ]
+    ],
+    "clamp": {
+      "minX": -1.9351408754711459,
+      "minXSlope": 0.25472110290498506,
+      "frontZ": 0,
+      "maxX": 4.737073007426003,
+      "maxXSlope": 0.25472110290498473
+    },
+    "note": "Evenwijdige historische perceelswand volgens Z12, voorgrens onafhankelijk gemeten; 1cm vrijstand. Geen gebouw verschoven."
+  },
+  {
+    "id": "zuidblaak18",
+    "sourceLine": [
+      [
+        4129,
+        2039
+      ],
+      [
+        3949,
+        2181
+      ]
+    ],
+    "worldLine": [
+      [
+        206.3641937422292,
+        -25.95679071891118
+      ],
+      [
+        207.8702092431538,
+        -61.32128890897002
+      ]
+    ],
+    "clamp": {
+      "maxX": 6.033836464869799,
+      "maxXSlope": 0.23817874630679592,
+      "frontZ": 0,
+      "minX": -3.167691509188304,
+      "minXSlope": 0.23817874630678237
+    },
+    "note": "Evenwijdige historische perceelswand volgens Z12, voorgrens onafhankelijk gemeten; 1cm vrijstand. Geen gebouw verschoven."
+  }
+]

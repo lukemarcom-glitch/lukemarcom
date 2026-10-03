@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nieuwehaven23",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 2502,
+    "meshArea": 32.110189681120765,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "monnickendam-hoogstraat",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 18771,
+    "meshArea": 87.5623976772854,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "kaplaars-hoogstraat",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 6912,
+    "meshArea": 34.73693968676873,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "zuidblaak14",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 2754,
+    "meshArea": 72.0294273695026,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "zuidblaak16",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 4662,
+    "meshArea": 65.61908331993932,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "lampe-hoogstraat",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 8394,
+    "meshArea": 277.69951589413034,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "bank-mees-beursplein",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 5634,
+    "meshArea": 1288.0343661143188,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "zuidblaak18",
+    "catalogCount": 212,
+    "otherMeshesChecked": 211,
+    "finiteVertices": 6552,
+    "meshArea": 102.58962209155622,
+    "meshOverlaps": [],
+    "backgroundCount": 994,
+    "backgroundOverlaps": []
+  }
+]

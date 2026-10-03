@@ -1,0 +1,342 @@
+{
+  "method": "GLB v2 decoded: node TRS/matrices composed, POSITION and triangle indices expanded. Runtime x-centerX, y, z+centerY compared to GLB Y-up local scene. Counts, bounds and symmetric nearest vertex positions checked; 0.5mm tolerance. No files changed outside research.",
+  "items": [
+    {
+      "id": "nieuwehaven23",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/nieuwehaven23/geometry.json",
+      "geometrySha256": "1136853a5b491b467a7b2a29bc6df9915eccc9d2a0c11545d59415eb2c5a7390",
+      "glbSha256": "8809734bf8f98f66fbfb715a4c4c5fb255421a2d70afb4529aa3e1dc8e474bee",
+      "runtimeMeshes": 7,
+      "glbPrimitives": 7,
+      "runtimeExpandedVertices": 2502,
+      "glbExpandedVertices": 2502,
+      "glbAccessorVertices": 2502,
+      "runtimeTriangles": 834,
+      "glbTriangles": 834,
+      "runtimeBoundsLocal": [
+        [
+          -3.557216601175128,
+          0.34999990463256836,
+          -5.013311605569243
+        ],
+        [
+          4.349033398824872,
+          15.314000129699707,
+          4.967859048727632
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -3.5572166442871094,
+          0.34999990463256836,
+          -5.013311386108398
+        ],
+        [
+          4.349033355712891,
+          15.314000129699707,
+          4.967859268188477
+        ]
+      ],
+      "maxBoundsErrorMeters": 2.1946084416413214e-07,
+      "maxSymmetricVertexDistanceMeters": 2.2365532650389253e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "monnickendam-hoogstraat",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/monnickendam-hoogstraat/geometry.json",
+      "geometrySha256": "dd514e196881b6fabc7cfe2579f362d8718e31fa334ed0e6437be5cd7187fe32",
+      "glbSha256": "c63ad3b31ea2f7eedfe66eb7ccc4bd9c4f3addfb5377fb2cec29d02784e2b367",
+      "runtimeMeshes": 7,
+      "glbPrimitives": 7,
+      "runtimeExpandedVertices": 18771,
+      "glbExpandedVertices": 18771,
+      "glbAccessorVertices": 18771,
+      "runtimeTriangles": 6257,
+      "glbTriangles": 6257,
+      "runtimeBoundsLocal": [
+        [
+          -4.270270460656853,
+          0.3499999940395355,
+          -7.2127198280498135
+        ],
+        [
+          4.40061653275135,
+          17.2549991607666,
+          7.383090108473624
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -4.270270347595215,
+          0.3499999940395355,
+          -7.212719917297363
+        ],
+        [
+          4.400616645812988,
+          17.2549991607666,
+          7.383090019226074
+        ]
+      ],
+      "maxBoundsErrorMeters": 1.1306163827384808e-07,
+      "maxSymmetricVertexDistanceMeters": 1.44041866113842e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "kaplaars-hoogstraat",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/kaplaars-hoogstraat/geometry.json",
+      "geometrySha256": "755d6cecd0d7601e2bf9d76e1d9142eb1ba189e1effe7f3b6752af7b7663181a",
+      "glbSha256": "6217007f231bba07ef5ea46986ed13325e156b0e04c15c6b70ebf10e0d6a578d",
+      "runtimeMeshes": 7,
+      "glbPrimitives": 7,
+      "runtimeExpandedVertices": 6912,
+      "glbExpandedVertices": 6912,
+      "glbAccessorVertices": 6912,
+      "runtimeTriangles": 2304,
+      "glbTriangles": 2304,
+      "runtimeBoundsLocal": [
+        [
+          -3.2724981162851208,
+          0.3499998152256012,
+          -4.121954643319668
+        ],
+        [
+          3.4080820228750355,
+          12.09000015258789,
+          4.335351264883457
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -3.27249813079834,
+          0.3499998152256012,
+          -4.121954441070557
+        ],
+        [
+          3.4080820083618164,
+          12.09000015258789,
+          4.335351467132568
+        ]
+      ],
+      "maxBoundsErrorMeters": 2.0224911168043036e-07,
+      "maxSymmetricVertexDistanceMeters": 2.0276917098840586e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "zuidblaak14",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/zuidblaak14/geometry.json",
+      "geometrySha256": "3b510f979b36cc69ec3ed290f6ff1e2842ecd6509d8dd7c5369636df8f261061",
+      "glbSha256": "a3c5de0e60941d80fba3a016de9170b4e9d7c4e96ec4cc6c1bad55edf83e3893",
+      "runtimeMeshes": 6,
+      "glbPrimitives": 6,
+      "runtimeExpandedVertices": 2754,
+      "glbExpandedVertices": 2754,
+      "glbAccessorVertices": 2754,
+      "runtimeTriangles": 918,
+      "glbTriangles": 918,
+      "runtimeBoundsLocal": [
+        [
+          -5.028442802994704,
+          0.3499999940395355,
+          -6.690922097040374
+        ],
+        [
+          2.5616756052084213,
+          18.950000762939453,
+          6.551618262456696
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -5.028442859649658,
+          0.3499999940395355,
+          -6.690922260284424
+        ],
+        [
+          2.561675548553467,
+          18.950000762939453,
+          6.5516180992126465
+        ]
+      ],
+      "maxBoundsErrorMeters": 1.6324404938927728e-07,
+      "maxSymmetricVertexDistanceMeters": 1.727958435004661e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "zuidblaak16",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/zuidblaak16/geometry.json",
+      "geometrySha256": "e868a9a1f89d221eff663c64be7d6cd1ea5e7cd0b357231a024eefe2bd2e28a3",
+      "glbSha256": "8632e91891235f59f55885a47d5bece2a3dbe5cf38e7d70738ac60d66dbe8584",
+      "runtimeMeshes": 6,
+      "glbPrimitives": 6,
+      "runtimeExpandedVertices": 4662,
+      "glbExpandedVertices": 4662,
+      "glbAccessorVertices": 4662,
+      "runtimeTriangles": 1554,
+      "glbTriangles": 1554,
+      "runtimeBoundsLocal": [
+        [
+          -4.817805346095156,
+          0.3499999940395355,
+          -7.079813051001707
+        ],
+        [
+          2.1057023443345315,
+          19.149999618530273,
+          6.49858851455005
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -4.817805290222168,
+          0.3499999940395355,
+          -7.079813003540039
+        ],
+        [
+          2.1057024002075195,
+          19.149999618530273,
+          6.498588562011719
+        ]
+      ],
+      "maxBoundsErrorMeters": 5.58729880140163e-08,
+      "maxSymmetricVertexDistanceMeters": 7.331030455797868e-08,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "lampe-hoogstraat",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/lampe-hoogstraat/geometry.json",
+      "geometrySha256": "868344ddfd646e54e201b29bc10614f308ff17519c59cabf709eb3f41bf5c070",
+      "glbSha256": "c15255a13d561e460d102f90f27622efa33c12fad503657f4e74a1d961059a6d",
+      "runtimeMeshes": 6,
+      "glbPrimitives": 6,
+      "runtimeExpandedVertices": 8394,
+      "glbExpandedVertices": 8394,
+      "glbAccessorVertices": 8394,
+      "runtimeTriangles": 2798,
+      "glbTriangles": 2798,
+      "runtimeBoundsLocal": [
+        [
+          -10.258979132986092,
+          0.3499999940395355,
+          -10.031990750840919
+        ],
+        [
+          9.892651268625237,
+          26.850000381469727,
+          10.968543306776269
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -10.258978843688965,
+          0.3499999940395355,
+          -10.031991004943848
+        ],
+        [
+          9.892651557922363,
+          26.850000381469727,
+          10.96854305267334
+        ]
+      ],
+      "maxBoundsErrorMeters": 2.8929712669878427e-07,
+      "maxSymmetricVertexDistanceMeters": 3.651073327260202e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "bank-mees-beursplein",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/bank-mees-beursplein/geometry.json",
+      "geometrySha256": "8563eabf421d5fb2e24589dd2d6a029d92d799df98a68fac65b93f8eb3a72420",
+      "glbSha256": "1ecd0bc18a2738b883a493cbc0026a18153ea16ce6ed090de10d61a1240d8c96",
+      "runtimeMeshes": 4,
+      "glbPrimitives": 4,
+      "runtimeExpandedVertices": 5634,
+      "glbExpandedVertices": 5634,
+      "glbAccessorVertices": 5634,
+      "runtimeTriangles": 1878,
+      "glbTriangles": 1878,
+      "runtimeBoundsLocal": [
+        [
+          -23.66650590210014,
+          0.3499999940395355,
+          -20.39616914733291
+        ],
+        [
+          21.47102156372017,
+          28.350000381469727,
+          20.138749637762306
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -23.666505813598633,
+          0.3499999940395355,
+          -20.396169662475586
+        ],
+        [
+          21.47102165222168,
+          28.350000381469727,
+          20.138750076293945
+        ]
+      ],
+      "maxBoundsErrorMeters": 5.151426769600675e-07,
+      "maxSymmetricVertexDistanceMeters": 5.226896733289809e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    },
+    {
+      "id": "zuidblaak18",
+      "geometryPath": "research/export-intermediates-20261003/round21-final/zuidblaak18/geometry.json",
+      "geometrySha256": "0810c3f96ba8a63e95eaf70e9dcaab5e2bf6e9036e74a77e5bc8ebc235fad789",
+      "glbSha256": "92381ecf8b2e8c0bf281a63a9c69dc32eb5c93fcfa793fecbbaffb95308432c7",
+      "runtimeMeshes": 5,
+      "glbPrimitives": 5,
+      "runtimeExpandedVertices": 6552,
+      "glbExpandedVertices": 6552,
+      "glbAccessorVertices": 6552,
+      "runtimeTriangles": 2184,
+      "glbTriangles": 2184,
+      "runtimeBoundsLocal": [
+        [
+          -6.098971084463301,
+          0.3499999940395355,
+          -7.7636484275642985
+        ],
+        [
+          3.320828720224199,
+          20.5,
+          7.338104807298983
+        ]
+      ],
+      "glbSceneBounds": [
+        [
+          -6.098970890045166,
+          0.3499999940395355,
+          -7.763648509979248
+        ],
+        [
+          3.320828676223755,
+          20.5,
+          7.338104724884033
+        ]
+      ],
+      "maxBoundsErrorMeters": 1.9441813492449e-07,
+      "maxSymmetricVertexDistanceMeters": 2.1116494759737805e-07,
+      "unmatchedUniqueVertices": 0,
+      "toleranceMeters": 0.0005,
+      "pass_": true
+    }
+  ],
+  "passed": true
+}

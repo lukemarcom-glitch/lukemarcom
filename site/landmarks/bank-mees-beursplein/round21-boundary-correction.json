@@ -1,0 +1,16 @@
+{
+  "before": {
+    "minX": -20.112900747267183,
+    "minXSlope": 0.11722295568933673,
+    "frontZ": 0
+  },
+  "after": {
+    "minX": -20.112900747267183,
+    "minXSlope": 0.11722295568933673,
+    "frontZ": 0,
+    "maxX": 23.695479875283024,
+    "maxXSlope": 0.20465006736308236
+  },
+  "source": "https://hdl.handle.net/21.12133/EBF9E8EEB70E4DE3B07231C1FAF06EB1",
+  "note": "Alleen uitstekende zijgeometrie begrensd langs historische Z12-perceelswand. Centrum, hoogte en overige broninhoud behouden."
+}

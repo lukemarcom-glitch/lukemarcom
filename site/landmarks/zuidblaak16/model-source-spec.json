@@ -1,0 +1,1267 @@
+{
+  "id": "zuidblaak16",
+  "name": "Winkelhuis Zuidblaak 16",
+  "kind": "building",
+  "modelFamily": "city33",
+  "center": [
+    211.15183549746234,
+    -30.260849046485106
+  ],
+  "angle": -2.8496157556835504,
+  "polygon": [
+    [
+      212.6295195773858,
+      -24.07364052073486
+    ],
+    [
+      206.50784524798786,
+      -25.91361381659912
+    ],
+    [
+      209.67415141753887,
+      -36.44805757223535
+    ],
+    [
+      215.7958257469368,
+      -34.60808427637109
+    ]
+  ],
+  "modelWidth": 6.39221388289715,
+  "modelDepth": 11.0,
+  "height": 18.8,
+  "modelSpec": {
+    "colors": {
+      "brick": "#806759",
+      "stone": "#b4afa1",
+      "trim": "#c5c0ae",
+      "glass": "#637472",
+      "dark": "#373e3b",
+      "roof": "#605e58"
+    },
+    "parts": [
+      {
+        "w": 6.39221388289715,
+        "d": 11.0,
+        "h": 17.5,
+        "wall": "stone",
+        "roof": "gable",
+        "roofAlongFront": true,
+        "roofHeight": 1.3,
+        "windows": false
+      }
+    ],
+    "accents": [
+      {
+        "x": -2.045508442527088,
+        "y": 14.0,
+        "z": 5.58,
+        "w": 1.534131331895316,
+        "h": 2.85,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -2.812574108474746,
+        "y": 14.0,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 2.95,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -1.2784427765794302,
+        "y": 14.0,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 2.95,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -2.045508442527088,
+        "y": 12.575,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.045508442527088,
+        "y": 15.425,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.045508442527088,
+        "y": 14.456,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.045508442527088,
+        "y": 12.475,
+        "z": 5.74,
+        "w": 1.784131331895316,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 14.0,
+        "z": 5.58,
+        "w": 1.534131331895316,
+        "h": 2.85,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -0.767065665947658,
+        "y": 14.0,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 2.95,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 0.767065665947658,
+        "y": 14.0,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 2.95,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 12.575,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 15.425,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 14.456,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 12.475,
+        "z": 5.74,
+        "w": 1.784131331895316,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 2.045508442527088,
+        "y": 14.0,
+        "z": 5.58,
+        "w": 1.534131331895316,
+        "h": 2.85,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.2784427765794302,
+        "y": 14.0,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 2.95,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 2.812574108474746,
+        "y": 14.0,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 2.95,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 2.045508442527088,
+        "y": 12.575,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.045508442527088,
+        "y": 15.425,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.045508442527088,
+        "y": 14.456,
+        "z": 5.66,
+        "w": 1.6741313318953162,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.045508442527088,
+        "y": 12.475,
+        "z": 5.74,
+        "w": 1.784131331895316,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": -2.173352720185031,
+        "y": 16.5,
+        "z": 5.58,
+        "w": 1.022754221263544,
+        "h": 0.5,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -2.6847298308168033,
+        "y": 16.5,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 0.6,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -1.661975609553259,
+        "y": 16.5,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 0.6,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -2.173352720185031,
+        "y": 16.25,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.173352720185031,
+        "y": 16.75,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.173352720185031,
+        "y": 16.58,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.173352720185031,
+        "y": 16.15,
+        "z": 5.74,
+        "w": 1.272754221263544,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 16.5,
+        "z": 5.58,
+        "w": 1.022754221263544,
+        "h": 0.5,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -0.511377110631772,
+        "y": 16.5,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 0.6,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 0.511377110631772,
+        "y": 16.5,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 0.6,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 16.25,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 16.75,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 16.58,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 16.15,
+        "z": 5.74,
+        "w": 1.272754221263544,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 2.173352720185031,
+        "y": 16.5,
+        "z": 5.58,
+        "w": 1.022754221263544,
+        "h": 0.5,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.661975609553259,
+        "y": 16.5,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 0.6,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 2.6847298308168033,
+        "y": 16.5,
+        "z": 5.64,
+        "w": 0.065,
+        "h": 0.6,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 2.173352720185031,
+        "y": 16.25,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.173352720185031,
+        "y": 16.75,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.173352720185031,
+        "y": 16.58,
+        "z": 5.66,
+        "w": 1.162754221263544,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.173352720185031,
+        "y": 16.15,
+        "z": 5.74,
+        "w": 1.272754221263544,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 8.2,
+        "z": 5.7,
+        "w": 6.04221388289715,
+        "h": 5.5,
+        "d": 0.6,
+        "material": "stone"
+      },
+      {
+        "x": -2.5568855531588603,
+        "y": 8.78,
+        "z": 5.99,
+        "w": 0.767065665947658,
+        "h": 2.1,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -2.9404183861326896,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -2.173352720185031,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -2.5568855531588603,
+        "y": 7.7299999999999995,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.5568855531588603,
+        "y": 9.83,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.5568855531588603,
+        "y": 9.116,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -2.5568855531588603,
+        "y": 7.63,
+        "z": 6.15,
+        "w": 1.017065665947658,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": -2.5568855531588603,
+        "y": 7.15,
+        "z": 6.05,
+        "w": 0.767065665947658,
+        "h": 1.0,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": -1.5341313318953163,
+        "y": 8.78,
+        "z": 5.99,
+        "w": 0.767065665947658,
+        "h": 2.1,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -1.9176641648691453,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -1.1505984989214872,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -1.5341313318953163,
+        "y": 7.7299999999999995,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.5341313318953163,
+        "y": 9.83,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.5341313318953163,
+        "y": 9.116,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -1.5341313318953163,
+        "y": 7.63,
+        "z": 6.15,
+        "w": 1.017065665947658,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": -1.5341313318953163,
+        "y": 7.15,
+        "z": 6.05,
+        "w": 0.767065665947658,
+        "h": 1.0,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": -0.5113771106317722,
+        "y": 8.78,
+        "z": 5.99,
+        "w": 0.767065665947658,
+        "h": 2.1,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -0.8949099436056012,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -0.12784427765794315,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": -0.5113771106317722,
+        "y": 7.7299999999999995,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.5113771106317722,
+        "y": 9.83,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.5113771106317722,
+        "y": 9.116,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": -0.5113771106317722,
+        "y": 7.63,
+        "z": 6.15,
+        "w": 1.017065665947658,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": -0.5113771106317722,
+        "y": 7.15,
+        "z": 6.05,
+        "w": 0.767065665947658,
+        "h": 1.0,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 0.5113771106317722,
+        "y": 8.78,
+        "z": 5.99,
+        "w": 0.767065665947658,
+        "h": 2.1,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 0.12784427765794315,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 0.8949099436056012,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 0.5113771106317722,
+        "y": 7.7299999999999995,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.5113771106317722,
+        "y": 9.83,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.5113771106317722,
+        "y": 9.116,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 0.5113771106317722,
+        "y": 7.63,
+        "z": 6.15,
+        "w": 1.017065665947658,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 0.5113771106317722,
+        "y": 7.15,
+        "z": 6.05,
+        "w": 0.767065665947658,
+        "h": 1.0,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 8.78,
+        "z": 5.99,
+        "w": 0.767065665947658,
+        "h": 2.1,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.150598498921487,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 1.917664164869145,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 7.7299999999999995,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 9.83,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 9.116,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 7.63,
+        "z": 6.15,
+        "w": 1.017065665947658,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 7.15,
+        "z": 6.05,
+        "w": 0.767065665947658,
+        "h": 1.0,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 2.5568855531588595,
+        "y": 8.78,
+        "z": 5.99,
+        "w": 0.767065665947658,
+        "h": 2.1,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 2.1733527201850302,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 2.9404183861326887,
+        "y": 8.78,
+        "z": 6.05,
+        "w": 0.065,
+        "h": 2.2,
+        "d": 0.09,
+        "material": "trim"
+      },
+      {
+        "x": 2.5568855531588595,
+        "y": 7.7299999999999995,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.5568855531588595,
+        "y": 9.83,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.5568855531588595,
+        "y": 9.116,
+        "z": 6.07,
+        "w": 0.907065665947658,
+        "h": 0.065,
+        "d": 0.1,
+        "material": "trim"
+      },
+      {
+        "x": 2.5568855531588595,
+        "y": 7.63,
+        "z": 6.15,
+        "w": 1.017065665947658,
+        "h": 0.15,
+        "d": 0.3,
+        "material": "stone"
+      },
+      {
+        "x": 2.5568855531588595,
+        "y": 7.15,
+        "z": 6.05,
+        "w": 0.767065665947658,
+        "h": 1.0,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": -3.068262663790632,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": -2.0455084425270877,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": -1.0227542212635439,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": 0.0,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": 1.0227542212635443,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": 2.0455084425270877,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": 3.068262663790632,
+        "y": 8.45,
+        "z": 6.07,
+        "w": 0.08,
+        "h": 3.6,
+        "d": 0.12,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 6.16,
+        "z": 6.07,
+        "w": 6.09221388289715,
+        "h": 0.75,
+        "d": 0.12,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 5.65,
+        "z": 5.95,
+        "w": 6.51221388289715,
+        "h": 0.25,
+        "d": 0.85,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 11.5,
+        "z": 5.98,
+        "w": 6.57221388289715,
+        "h": 0.28,
+        "d": 0.85,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 11.78,
+        "z": 5.94,
+        "w": 6.57221388289715,
+        "h": 0.12,
+        "d": 0.9,
+        "material": "trim"
+      },
+      {
+        "x": -2.940418386132689,
+        "y": 8.3,
+        "z": 6.1,
+        "w": 0.12,
+        "h": 5.4,
+        "d": 0.18,
+        "material": "trim"
+      },
+      {
+        "x": 2.940418386132689,
+        "y": 8.3,
+        "z": 6.1,
+        "w": 0.12,
+        "h": 5.4,
+        "d": 0.18,
+        "material": "trim"
+      },
+      {
+        "x": 0.4,
+        "y": 2.6,
+        "z": 5.65,
+        "w": 4.474549718028005,
+        "h": 4.6,
+        "d": 0.13,
+        "material": "dark"
+      },
+      {
+        "x": -2.620807691987831,
+        "y": 2.6,
+        "z": 5.65,
+        "w": 0.8309878047766295,
+        "h": 4.6,
+        "d": 0.14,
+        "material": "dark"
+      },
+      {
+        "x": -1.9815863036981165,
+        "y": 2.55,
+        "z": 5.77,
+        "w": 0.17,
+        "h": 5.05,
+        "d": 0.36,
+        "material": "stone"
+      },
+      {
+        "x": 3.1321848026196033,
+        "y": 2.55,
+        "z": 5.77,
+        "w": 0.17,
+        "h": 5.05,
+        "d": 0.36,
+        "material": "stone"
+      },
+      {
+        "x": -1.534131331895316,
+        "y": 12.02,
+        "z": 6.02,
+        "w": 0.035,
+        "h": 0.7,
+        "d": 0.035,
+        "material": "dark"
+      },
+      {
+        "x": 1.534131331895316,
+        "y": 12.02,
+        "z": 6.02,
+        "w": 0.035,
+        "h": 0.7,
+        "d": 0.035,
+        "material": "dark"
+      },
+      {
+        "x": -2.812574108474746,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -2.410777807264068,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -2.00898150605339,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -1.6071852048427122,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -1.205388903632034,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -0.803592602421356,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -0.4017963012106782,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": -4.440892098500626e-16,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 0.4017963012106782,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 0.803592602421356,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 1.2053889036320342,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 1.607185204842712,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 2.0089815060533898,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 2.4107778072640684,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 2.8125741084747453,
+        "y": 12.1,
+        "z": 6.02,
+        "w": 0.025,
+        "h": 0.65,
+        "d": 0.025,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 12.4,
+        "z": 6.02,
+        "w": 5.752992494607435,
+        "h": 0.04,
+        "d": 0.04,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 16.85,
+        "z": 5.61,
+        "w": 6.53221388289715,
+        "h": 0.2,
+        "d": 0.38,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 17.5,
+        "z": 5.61,
+        "w": 6.53221388289715,
+        "h": 0.2,
+        "d": 0.38,
+        "material": "stone"
+      }
+    ],
+    "vertexDeform": {
+      "minX": -1.9351408754711459,
+      "minXSlope": 0.25472110290498506,
+      "frontZ": 0,
+      "maxX": 4.737073007426003,
+      "maxXSlope": 0.25472110290498473
+    }
+  },
+  "backgroundClearance": 0.25,
+  "uncertaintyMeters": 10,
+  "modelDownload": "landmarks/zuidblaak16/model.glb",
+  "cameraDistance": 45,
+  "placementStatus": "approximate-reconstruction",
+  "colorNote": "Baksteen, steen en hout zijn herkenbaar op de zwart-witfoto; de exacte historische kleuren zijn onbekend. Kleuren en AI zijn interpretatie.",
+  "wikipediaNote": "Geen afzonderlijke relevante Wikipedia-pagina; directe archiefbronnen onderbouwen het pand.",
+  "periodNote": "Gevel naar foto 1913–1917; hoofdvorm gecontroleerd op luchtfoto 6 juni 1939. Dakreclame uit oudere foto niet overgenomen.",
+  "placementNote": "Historisch Zuidblaak 16, later Beursplein 16, perceel 85 op huisnummerkaart Z 12. Vier vaste straatpunten koppelen deze kaart aan de werkkaart. Positie circa ±10 m, hoogte ±3 m; alleen 11 m diepe voorbouw. Onzichtbare achterzijde eenvoudig gehouden.",
+  "description": "Smalle winkelgevel met glazen uitbouw, tussen de nummers 14 en 18.",
+  "sources": [
+    {
+      "title": "Stadsarchief Rotterdam 1978-2867 — Zuidblaak 14–18",
+      "url": "https://hdl.handle.net/21.12133/1363DE93171545FD879AD2958AECFC1D",
+      "supports": "Smalle gevel van Zuidblaak 16 met drie bovenramen, kleine attiekopeningen, zes glaspanelen in de uitbouw en het opschrift ROTTERDAMSCH NIEUWSBLAD. Onbekende maker, 1913–1917; de archiefbeschrijving meldt dat de foto geretoucheerd is."
+    },
+    {
+      "title": "Kadaster — huisnummerkaart Z 12",
+      "url": "https://hdl.handle.net/21.12133/EBF9E8EEB70E4DE3B07231C1FAF06EB1",
+      "supports": "Historische nummerlaag Beursplein: 14/perceel 86, 16/perceel 85, 18/perceel 84. Nr 12 is op dit kaartblad vervallen; het bankperceel 1915 sluit aan op 14."
+    },
+    {
+      "title": "KLM Aerocarto — 6 juni 1939",
+      "url": "https://hdl.handle.net/21.12133/80850B3468594D74A9DB6842FDD26580",
+      "supports": "Late visuele continuïteit: tussen hoge Meesbank en drieassig 18 staan 14 (drie raamassen) en 16 (uitstekende glazen winkelpui). Het grote dakreclamebord ontbreekt; winkelgebruik en kleine puiteksten in 1939 niet vastgesteld."
+    },
+    {
+      "title": "Gemeentelijke schadekaart 1940",
+      "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+      "supports": "Geel gemarkeerde verwoeste bouwstrook tussen Molsteeg en Vissteeg, inclusief de via Z 12 geïdentificeerde percelen 85 en 86. Kaartsynthese onderbouwt verlies door het bombardement van 14 mei 1940 en de daaropvolgende brand, geen afzonderlijk bewezen bominslag."
+    }
+  ],
+  "story": "Dit smalle winkelhuis aan de Zuidblaak, later Beursplein 16, viel op door zijn glazen uitbouw. Op de foto uit 1913–1917 staat boven de winkelpui de naam ROTTERDAMSCH NIEUWSBLAD. Drie hoge vensters en kleine openingen onder de dakrand vormen de bovenbouw. Een ondiep hek staat voor de bovenste vensters.\n\nNummer 16 was een zelfstandig pand tussen 14 en 18: de historische huisnummerkaart geeft het perceelnummer 85. Het veel grotere Nieuwsbladgebouw aan het Slagveld is een andere locatie. Deze reconstructie neemt geen bedrijfsgebruik in 1939 aan op grond van de oudere winkelreclame.\n\nDe luchtfoto van 6 juni 1939 laat de smalle gevel en uitstekende pui opnieuw herkennen naast het drieassige nummer 18. De gemeentelijke schadekaart markeert de bijbehorende bouwstrook als verwoest. Samen met het kaartadres onderbouwt dat verlies door het bombardement van 14 mei 1940 en de daaropvolgende brand.\n\nHet lichte model benadrukt de uitbouw, vensters en kroonlijst. De achterbouw is onbekend en daarom eenvoudig weergegeven. Exacte maten en historische verfkleuren zijn niet vastgesteld. De AI-kleurversie is een interpretatie van dezelfde oude foto, geen historische opname in kleur.",
+  "photos": [
+    {
+      "src": "landmarks/zuidblaak16/foto-1-origineel.jpg",
+      "ai": "landmarks/zuidblaak16/foto-1-ai.webp",
+      "title": "Zuidblaak 16 in gezamenlijke straatopname — 1913–1917",
+      "shortTitle": "Winkelhuis Zuidblaak 16",
+      "date": "1913–1917",
+      "author": "Onbekende fotograaf · Stadsarchief Rotterdam",
+      "identifier": "1978-2867 · collectie 4202 Topografie Rotterdam",
+      "license": "Publiek domein volgens Wikimedia Commons (PD-anon-70-EU); anonieme historische foto.",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gezicht_op_enkele_panden_aan_de_Zuidblaak,_c._1915.jpg#Licensing",
+      "url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_enkele_panden_aan_de_Zuidblaak,_c._1915.jpg",
+      "archiveUrl": "https://hdl.handle.net/21.12133/1363DE93171545FD879AD2958AECFC1D",
+      "sourceChecked": "2026-10-03",
+      "aiLabel": "AI in kleur",
+      "aiNote": "AI-kleurinterpretatie van dezelfde gezamenlijke foto bij 14 en 16. Origineel volgens archief reeds geretoucheerd. Tweede proef geselecteerd na gerichte correctie van ROTTERDAMSCH NIEUWSBLAD. Architectuur, pui-indeling en hoofdopschrift behouden; kleine letters, personen en exacte kleuren blijven interpretatief. Het deels vervaagde dakbord is niet als historische transcriptie aangevuld.",
+      "note": "Eén gezamenlijke opname, ook getoond bij het andere pand in dit paar locaties. Nummer 14 is de drieassige rechterhelft van het brede gevelpaar; nummer 16 is de smalle gevel met glazen uitbouw. Het origineel is ongewijzigd."
+    }
+  ]
+}

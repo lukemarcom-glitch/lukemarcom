@@ -1,0 +1,142 @@
+{
+  "nieuwehaven23": {
+    "base": "http://127.0.0.1:8765/",
+    "landmarkId": "nieuwehaven23",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/nieuwehaven23/foto-1-origineel.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/nieuwehaven23/foto-1-ai.webp"
+      }
+    ],
+    "buildings": 212,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "monnickendam-hoogstraat": {
+    "base": "http://127.0.0.1:8765/",
+    "landmarkId": "monnickendam-hoogstraat",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/monnickendam-hoogstraat/foto-1-ai.webp"
+      }
+    ],
+    "buildings": 212,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "kaplaars-hoogstraat": {
+    "base": "http://127.0.0.1:8765/",
+    "landmarkId": "kaplaars-hoogstraat",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/monnickendam-hoogstraat/foto-1-ai.webp"
+      }
+    ],
+    "buildings": 212,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "zuidblaak14": {
+    "base": "http://127.0.0.1:8765/",
+    "landmarkId": "zuidblaak14",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/zuidblaak14/foto-1-origineel.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/zuidblaak14/foto-1-ai.webp"
+      }
+    ],
+    "buildings": 212,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "zuidblaak16": {
+    "base": "http://127.0.0.1:8765/",
+    "landmarkId": "zuidblaak16",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/zuidblaak16/foto-1-origineel.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/zuidblaak16/foto-1-ai.webp"
+      }
+    ],
+    "buildings": 212,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  }
+}

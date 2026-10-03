@@ -1,0 +1,40 @@
+{
+  "sourceFront": [
+    [
+      4586.8,
+      2339
+    ],
+    [
+      4607.6,
+      2331
+    ]
+  ],
+  "workFront": [
+    [
+      4227.071497074806,
+      1898.2458834999625
+    ],
+    [
+      4232.0334569695615,
+      1894.7951469273662
+    ]
+  ],
+  "worldFront": [
+    [
+      774.7572572208635,
+      324.3844616033398
+    ],
+    [
+      777.7228271497627,
+      326.4830280397716
+    ]
+  ],
+  "parcel": "N325",
+  "width": 3.6329858369266104,
+  "depth": 9,
+  "heightUncertainty": 3,
+  "positionUncertainty": 8,
+  "modelState": 1910,
+  "facade1939Verified": false,
+  "note": "Kaartfront N325 op Z17 visueel opnieuw afgelezen; bestaande onafhankelijke straatankerfit Z17 naar werkkaart hergebruikt. Voorbouwdiepte/hoogte en onzichtbare achterzijde zijn schattingen. Nog geen finale meshQA."
+}

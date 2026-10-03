@@ -1,0 +1,36 @@
+{
+  "photo": "XXV-464-04",
+  "imageSize": [
+    2755,
+    3543
+  ],
+  "cornicePoints": [
+    [
+      1830,
+      980
+    ],
+    [
+      2455,
+      725
+    ]
+  ],
+  "groundPoints": [
+    [
+      1830,
+      2800
+    ],
+    [
+      2455,
+      2860
+    ]
+  ],
+  "facadeBoundariesX": [
+    790,
+    1830,
+    2455
+  ],
+  "estimatedHorizontalVanishingX": -1781.1111111111109,
+  "projectiveWidthRatio23to25": 0.3647540983606559,
+  "width23UsingModel25": 3.851803278688527,
+  "note": "Schetsmatige projectieve vergelijking met afgelezen kroonlijst/rooilijn; punten onnauwkeurig door daklijstuitkraging/anderehoogtes/scanperspectief. Geen metrische fotogrammetrie. Ratio ligt nabij kaartfront0.344; schijnbaar0.60foto-ratio is perspectivisch sterk vertekend."
+}

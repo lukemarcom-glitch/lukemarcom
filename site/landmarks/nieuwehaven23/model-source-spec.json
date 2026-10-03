@@ -1,0 +1,831 @@
+{
+  "id": "nieuwehaven23",
+  "name": "Woonhuis · Nieuwehaven 23",
+  "modelFamily": "city33",
+  "modelSpec": {
+    "colors": {
+      "brick": "#88715e",
+      "trim": "#d0c5b2",
+      "stone": "#aca18c",
+      "roof": "#696b60",
+      "dark": "#3d433b",
+      "wood": "#989b8c",
+      "glass": "#6e7d78"
+    },
+    "parts": [
+      {
+        "w": 3.43298583692661,
+        "d": 9,
+        "h": 12.267,
+        "roof": "hip",
+        "roofHeight": 1.74,
+        "windows": false
+      }
+    ],
+    "accents": [
+      {
+        "x": -0.8719166008623864,
+        "y": 4.5675,
+        "z": 4.55,
+        "w": 1.246225609447249,
+        "h": 2.0706,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 4.5675,
+        "z": 4.62,
+        "w": 1.1262256094472491,
+        "h": 1.9488,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 4.918284,
+        "z": 4.69,
+        "w": 1.1262256094472491,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 5.4636000000000005,
+        "z": 4.75,
+        "w": 1.1988853261857815,
+        "h": 0.261,
+        "d": 0.19,
+        "material": "wood"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 4.5675,
+        "z": 4.55,
+        "w": 1.246225609447249,
+        "h": 2.0706,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 4.5675,
+        "z": 4.62,
+        "w": 1.1262256094472491,
+        "h": 1.9488,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 4.918284,
+        "z": 4.69,
+        "w": 1.1262256094472491,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 5.4636000000000005,
+        "z": 4.75,
+        "w": 1.1988853261857815,
+        "h": 0.261,
+        "d": 0.19,
+        "material": "wood"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 7.308,
+        "z": 4.55,
+        "w": 1.246225609447249,
+        "h": 2.0706,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 7.308,
+        "z": 4.62,
+        "w": 1.1262256094472491,
+        "h": 1.9488,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 7.658784000000001,
+        "z": 4.69,
+        "w": 1.1262256094472491,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 8.2041,
+        "z": 4.75,
+        "w": 1.1988853261857815,
+        "h": 0.261,
+        "d": 0.19,
+        "material": "wood"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 7.308,
+        "z": 4.55,
+        "w": 1.246225609447249,
+        "h": 2.0706,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 7.308,
+        "z": 4.62,
+        "w": 1.1262256094472491,
+        "h": 1.9488,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 7.658784000000001,
+        "z": 4.69,
+        "w": 1.1262256094472491,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 8.2041,
+        "z": 4.75,
+        "w": 1.1988853261857815,
+        "h": 0.261,
+        "d": 0.19,
+        "material": "wood"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 10.0485,
+        "z": 4.55,
+        "w": 1.246225609447249,
+        "h": 2.0706,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 10.0485,
+        "z": 4.62,
+        "w": 1.1262256094472491,
+        "h": 1.9488,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 10.399284,
+        "z": 4.69,
+        "w": 1.1262256094472491,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -0.8719166008623864,
+        "y": 9.3177,
+        "z": 4.72,
+        "w": 1.1262256094472491,
+        "h": 0.03915,
+        "d": 0.055,
+        "material": "dark"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 10.0485,
+        "z": 4.55,
+        "w": 1.246225609447249,
+        "h": 2.0706,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 10.0485,
+        "z": 4.62,
+        "w": 1.1262256094472491,
+        "h": 1.9488,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 10.399284,
+        "z": 4.69,
+        "w": 1.1262256094472491,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0.8719166008623864,
+        "y": 9.3177,
+        "z": 4.72,
+        "w": 1.1262256094472491,
+        "h": 0.03915,
+        "d": 0.055,
+        "material": "dark"
+      },
+      {
+        "x": -1.2352151845550476,
+        "y": 1.5486,
+        "z": 4.58,
+        "w": 0.7992568841238543,
+        "h": 2.871,
+        "d": 0.14,
+        "material": "wood"
+      },
+      {
+        "x": -1.2352151845550476,
+        "y": 1.8618000000000001,
+        "z": 4.67,
+        "w": 0.6793683515052762,
+        "h": 1.4964,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": -1.2352151845550476,
+        "y": 3.0972,
+        "z": 4.66,
+        "w": 0.735316333393946,
+        "h": 0.47850000000000004,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": -1.2352151845550476,
+        "y": 0.609,
+        "z": 4.67,
+        "w": 0.6394055072990835,
+        "h": 0.522,
+        "d": 0.08,
+        "material": "trim"
+      },
+      {
+        "x": -1.2352151845550476,
+        "y": 0.609,
+        "z": 4.72,
+        "w": 0.5355021123629824,
+        "h": 0.3915,
+        "d": 0.06,
+        "material": "wood"
+      },
+      {
+        "x": 0,
+        "y": 1.5486,
+        "z": 4.58,
+        "w": 1.2352151845550476,
+        "h": 2.871,
+        "d": 0.14,
+        "material": "wood"
+      },
+      {
+        "x": 0,
+        "y": 1.8618000000000001,
+        "z": 4.67,
+        "w": 1.0499329068717904,
+        "h": 1.4964,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 3.0972,
+        "z": 4.66,
+        "w": 1.136397969790644,
+        "h": 0.47850000000000004,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 0.609,
+        "z": 4.67,
+        "w": 0.9881721476440382,
+        "h": 0.522,
+        "d": 0.08,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 0.609,
+        "z": 4.72,
+        "w": 0.8275941736518819,
+        "h": 0.3915,
+        "d": 0.06,
+        "material": "wood"
+      },
+      {
+        "x": 1.2352151845550476,
+        "y": 1.5486,
+        "z": 4.58,
+        "w": 0.7992568841238543,
+        "h": 2.871,
+        "d": 0.14,
+        "material": "wood"
+      },
+      {
+        "x": 1.2352151845550476,
+        "y": 1.8618000000000001,
+        "z": 4.67,
+        "w": 0.6793683515052762,
+        "h": 1.4964,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": 1.2352151845550476,
+        "y": 3.0972,
+        "z": 4.66,
+        "w": 0.735316333393946,
+        "h": 0.47850000000000004,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": 1.2352151845550476,
+        "y": 0.609,
+        "z": 4.67,
+        "w": 0.6394055072990835,
+        "h": 0.522,
+        "d": 0.08,
+        "material": "trim"
+      },
+      {
+        "x": 1.2352151845550476,
+        "y": 0.609,
+        "z": 4.72,
+        "w": 0.5355021123629824,
+        "h": 0.3915,
+        "d": 0.06,
+        "material": "wood"
+      },
+      {
+        "x": -1.7256682725401398,
+        "y": 1.7226,
+        "z": 4.71,
+        "w": 0.1,
+        "h": 3.4017,
+        "d": 0.2,
+        "material": "wood"
+      },
+      {
+        "x": -0.7265971673853221,
+        "y": 1.7226,
+        "z": 4.71,
+        "w": 0.1,
+        "h": 3.4017,
+        "d": 0.2,
+        "material": "wood"
+      },
+      {
+        "x": 0.7265971673853221,
+        "y": 1.7226,
+        "z": 4.71,
+        "w": 0.1,
+        "h": 3.4017,
+        "d": 0.2,
+        "material": "wood"
+      },
+      {
+        "x": 1.7256682725401398,
+        "y": 1.7226,
+        "z": 4.71,
+        "w": 0.1,
+        "h": 3.4017,
+        "d": 0.2,
+        "material": "wood"
+      },
+      {
+        "x": 0,
+        "y": 3.4539,
+        "z": 4.64,
+        "w": 3.4929858369266102,
+        "h": 0.1566,
+        "d": 0.34,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 11.9364,
+        "z": 4.64,
+        "w": 3.4929858369266102,
+        "h": 0.17400000000000002,
+        "d": 0.28,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 12.1974,
+        "z": 4.64,
+        "w": 3.4929858369266102,
+        "h": 0.20879999999999999,
+        "d": 0.42,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.2615,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.3528499999999999,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.4442,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.53555,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.6268999999999998,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.71825,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.8096,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.9009500000000001,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 1.9923,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 2.08365,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 2.175,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 2.26635,
+        "z": 4.74,
+        "w": 1.089895751077983,
+        "h": 0.022619999999999998,
+        "d": 0.03,
+        "material": "trim"
+      },
+      {
+        "x": -1.5985137682477086,
+        "y": 11.8581,
+        "z": 4.7,
+        "w": 0.16,
+        "h": 0.3915,
+        "d": 0.23,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 11.8581,
+        "z": 4.7,
+        "w": 0.16,
+        "h": 0.3915,
+        "d": 0.23,
+        "material": "stone"
+      },
+      {
+        "x": 1.5985137682477086,
+        "y": 11.8581,
+        "z": 4.7,
+        "w": 0.16,
+        "h": 0.3915,
+        "d": 0.23,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 12.9195,
+        "z": 3.5,
+        "w": 1.4531943347706442,
+        "h": 1.2876,
+        "d": 1.2,
+        "material": "wood"
+      },
+      {
+        "x": 0,
+        "y": 12.963000000000001,
+        "z": 4.1499999999999995,
+        "w": 1.0645763176009186,
+        "h": 1.0352999999999999,
+        "d": 0.1,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 12.963000000000001,
+        "z": 4.22,
+        "w": 0.9445763176009188,
+        "h": 0.9135,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 13.12743,
+        "z": 4.29,
+        "w": 0.9445763176009188,
+        "h": 0.043500000000000004,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 13.6155,
+        "z": 3.5,
+        "w": 1.7075033433555067,
+        "h": 0.1392,
+        "d": 1.42,
+        "material": "trim"
+      },
+      {
+        "x": 1.017236034339451,
+        "y": 13.658999999999999,
+        "z": 2.5,
+        "w": 0.46,
+        "h": 2.436,
+        "d": 0.58,
+        "material": "brick"
+      },
+      {
+        "x": 1.017236034339451,
+        "y": 14.894400000000001,
+        "z": 2.5,
+        "w": 0.58,
+        "h": 0.1392,
+        "d": 0.7,
+        "material": "stone"
+      }
+    ],
+    "vertexDeform": {
+      "minX": -1.7364929184633051,
+      "frontZ": 4.5,
+      "minXSlope": 0.08
+    }
+  },
+  "center": [
+    773.6406516597689,
+    329.10704972255576
+  ],
+  "angle": 0.6158374649435301,
+  "polygon": [
+    [
+      774.7572572208635,
+      324.3844616033398
+    ],
+    [
+      777.7228271497627,
+      326.4830280397716
+    ],
+    [
+      772.5240460986743,
+      333.8296378417717
+    ],
+    [
+      769.5584761697751,
+      331.7310714053399
+    ]
+  ],
+  "height": 15.01,
+  "modelWidth": 3.6329858369266104,
+  "modelDepth": 9,
+  "uncertaintyMeters": 8,
+  "kind": "building",
+  "cameraDistance": 43,
+  "backgroundClearance": 0.12,
+  "placementStatus": "approximate-reconstruction",
+  "footprints": [
+    [
+      [
+        774.9414356447057,
+        324.1718049267151
+      ],
+      [
+        774.9414256133431,
+        324.1717978281842
+      ],
+      [
+        774.8673177470685,
+        324.2965560754482
+      ],
+      [
+        774.8531148655006,
+        324.32046158069596
+      ],
+      [
+        770.1935364196279,
+        332.1647190089973
+      ],
+      [
+        770.1857100496755,
+        332.1778283206085
+      ],
+      [
+        770.0435011117531,
+        332.4173060030107
+      ],
+      [
+        772.5092345563644,
+        334.16217937858266
+      ],
+      [
+        778.031503148428,
+        326.35844100204594
+      ],
+      [
+        777.8757424008692,
+        326.24821943914714
+      ],
+      [
+        777.9104124277443,
+        326.1992271930347
+      ],
+      [
+        777.8865809691024,
+        326.18236884056483
+      ],
+      [
+        777.9096772322991,
+        326.14973193229395
+      ],
+      [
+        775.0085175035994,
+        324.09671816131333
+      ],
+      [
+        774.9866066531143,
+        324.130250429178
+      ],
+      [
+        774.9721833314269,
+        324.1200521198814
+      ]
+    ]
+  ],
+  "exclusionPolygon": [
+    [
+      775.0085175035994,
+      324.09671816131333
+    ],
+    [
+      774.9721833314269,
+      324.1200521198814
+    ],
+    [
+      774.9414256133431,
+      324.1717978281842
+    ],
+    [
+      774.8531148655006,
+      324.32046158069596
+    ],
+    [
+      770.1857100496755,
+      332.1778283206085
+    ],
+    [
+      770.0435011117531,
+      332.4173060030107
+    ],
+    [
+      772.5092345563644,
+      334.16217937858266
+    ],
+    [
+      778.031503148428,
+      326.35844100204594
+    ],
+    [
+      777.9096772322991,
+      326.14973193229395
+    ]
+  ],
+  "periodNote": "Gevelweergave naar de archieffoto uit 1910. De geveltoestand van 1939 is niet afzonderlijk geverifieerd; het adres en perceel zijn in 1938–1939 aantoonbaar.",
+  "colorNote": "De bakstenen gevel, houten pui en luiken, lijstwerk en dakpannen hebben terughoudend gekozen materiaalkleuren. De zwart-witfoto bewijst geen precieze verftinten.",
+  "placementNote": "Historisch Nieuwehaven 23, perceel N325 op huisnummerkaart Z17 uit 1938. De voorbouw is circa 3,6 m breed en 9 m diep; diepte en hoogte zijn benaderingen. Positie circa 8 m onzeker, hoogte circa 3 m onzeker. De kaartbreedte is vergeleken met de perspectivisch gecorrigeerde fotoverhouding tot pakhuis 25; geen metrische opmeting. Achterbouw en onzichtbare dakdelen blijven sober benaderd. De onbekende linker achtergrens is licht ingesnoerd om de benaderde voorbouw van buur 25 vrij te houden.",
+  "description": "Een smal woonhuis met drie bovenverdiepingen, direct naast pakhuis 25.",
+  "story": "Dit smalle woonhuis stond direct naast het hoge pakhuis aan de Nieuwehaven 25. Op de foto uit 1910 is boven de linker deur het nummer 23 te lezen. Boven de beganegrond liggen drie verdiepingen met telkens twee vensters. Een brede kroonlijst en een dakkapel bekronen de gevel. De gedeeltelijke vensteras en de deur met ZONDAGS GESLOTEN aan de rechterrand behoren tot het aangrenzende pand.\n\nDe huisnummerkaart van 1938 verbindt nummer 23 met perceel N325. Het adresboek van 1939 vermeldt bewoning op 23a. Daarmee is het historische adres ook kort vóór de oorlog te volgen; niet ieder geveldetail uit 1910 is voor 1939 afzonderlijk bevestigd.\n\nOp de gemeentelijke schadekaart is het noordelijke Nieuwehavenblok waarin dit huis stond als verwoest gemarkeerd. Samen met de huisnummerkaart onderbouwt dit het verlies door het bombardement en de brand van mei 1940. Een afzonderlijke bominslag op het huis is niet vastgesteld.\n\nHet model volgt de foto uit 1910. Hoogte, achterzijde, dak en kleuren zijn benaderingen. De AI-versie is een interpretatie van dezelfde archieffoto, geen historische kleurenfoto.",
+  "sources": [
+    {
+      "title": "Stadsarchief · Nieuwehaven 23–29, 1910",
+      "url": "https://proxy.archieven.nl/0/CD165F697FF44191B61339458CFC39CF",
+      "supports": "XXV-464-04, 1910, fotograaf onbekend, collectie 4187, PDM 1.0. De tweeassige gevel direct rechts naast het hoge pakhuis heeft het leesbare huisnummer 23 boven de linker deur. Ondersteunt drie bovenlagen, pui met twee deuren en middenvenster, kroonlijst en dakkapel. De oorspronkelijke foto is geheel bewaard."
+    },
+    {
+      "title": "Huisnummerkaart Z 17 · Kadaster 1938",
+      "url": "https://hdl.handle.net/21.12133/465C6A184A41416CB5DD1EE39CF9C54B",
+      "supports": "Huisnummerkaart Z17 uit 1938 toont nummer 23 op perceel N325 tussen 25/N326 en 21/N341. Ondersteunt historische plaats en frontbreedte, geen ongewijzigde geveldetails sinds 1910."
+    },
+    {
+      "title": "Gemeentelijke schadekaart Rotterdam 1940",
+      "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+      "supports": "Het noordelijke Nieuwehavenblok oostelijk van de Molensteeg/Pakkenbrug is geel als verwoest gemarkeerd. Vergelijking met Z 17 ondersteunt verlies na bombardement en brand van mei 1940; geen individuele inslag vastgesteld."
+    },
+    {
+      "title": "Adresboek 1939 · p. 268, Nieuwehaven",
+      "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=342&miadt=184&miaet=14&micode=3023-77&minr=1986736&miview=ldt",
+      "supports": "Originele pagina 268: Nieuwehaven 23a C. L. Bal en P. Wiel; het afzonderlijke buuradres 21 noemt Radius Sigarenhandel/C. G. E. v. Willigen. Ondersteunt aanwezigheid van adres 23 in 1939 en onderscheid van buur21, niet een bedrijfsnaam voor 23."
+    }
+  ],
+  "photos": [
+    {
+      "id": "nieuwehaven23-1910",
+      "src": "landmarks/nieuwehaven23/foto-1-origineel.jpg",
+      "ai": "landmarks/nieuwehaven23/foto-1-ai.webp",
+      "aiMaster": "landmarks/nieuwehaven23/foto-1-ai.png",
+      "title": "Nieuwehaven 23–29 · 1910",
+      "date": "1910",
+      "author": "Fotograaf onbekend",
+      "identifier": "SAR 4187 / XXV-464-04",
+      "url": "https://proxy.archieven.nl/0/CD165F697FF44191B61339458CFC39CF",
+      "archiveUrl": "https://proxy.archieven.nl/0/CD165F697FF44191B61339458CFC39CF",
+      "license": "Public Domain Mark 1.0 volgens Stadsarchief Rotterdam.",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceChecked": "2026-10-03",
+      "note": "Nummer 23 is de tweeassige gevel direct rechts naast het hoge pakhuis 25. De deels zichtbare gevelas aan de uiterste rechterrand hoort bij de buur. De hele ongewijzigde opname is behouden; dezelfde oorspronkelijke foto staat ook bij 25 en 29, maar deze AI-bewerking is afzonderlijk gemaakt.",
+      "aiLabel": "AI in kleur · interpretatie",
+      "aiNote": "Conservatieve AI-kleurbewerking van de foto uit 1910, geen actuele opname. Twee vensterassen, drie bovenlagen, pui, dakvorm, nummer 23 en personen zijn visueel vergeleken. Kleuren, kleine letters, gezichten en ornamentdetails blijven interpretatie; geen historisch bewijs. Ook de twee bewegingsonscherpe personen links staan al op het origineel."
+    }
+  ],
+  "modelDownload": "landmarks/nieuwehaven23/model.glb",
+  "sourceRegister": "landmarks/nieuwehaven23/BRONNEN.md"
+}
