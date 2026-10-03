@@ -1,6 +1,8 @@
 # Overdracht — zelfstandig verder zonder de chat
 
-Bijgewerkt: 28 september 2026.
+Bijgewerkt: 3 oktober 2026.
+
+**Actueel openbaar geverifieerd:** 213 locaties / 18 verhalen, release `d836c2f0ffa7bb01f61435f4a137a4070dc516c2`, Pages `37133872704`. De laatste opdracht was één proefgebouw: Wijnhaven 69. Zie `SOL61-PROEF-20261003.md` en `SOL61-OPENBARE-*.json`. 106 toevoegingen uit de uitbreidingsreeks zijn openbaar gecontroleerd; volledige back-up100 opnieuw geverifieerd, volgende checkpoint110. De afzonderlijke oude lokale checkout bevat nog vijf ongepubliceerde ronde22-items; deze zijn niet deel van de openbare catalogus. Oude aantallen/statussen hieronder zijn historisch logboek, geen actuele inventaris.
 
 ## Doel en huidige staat
 
@@ -935,3 +937,9 @@ Ronde volledig afgerond: 212 locaties, toevoegingenteller 105. Geen nieuwe volle
 Op nieuw verzoek één gebouw uitgewerkt: Gevelhuis Wijnhaven69, perceel223. Start212locaties opnieuw gecontroleerd; proefcatalogus213. Bronkaart/schadekaart vóórmodelbouw bekeken, CC BY-SA4.0-fotoorigineel opnieuw bytegelijk aan liveupload gecontroleerd, aparteAIproef02 na tekstcorrectie visueel goedgekeurd. Vier zichtbare gevelassen, westelijke dakrand buitenkader, precieze functie/kleuren/datering onbekend. Licht1080driehoekenmodel, GLBpariteit en exact nul overlap met andere modellen/achtergrond. Bestaand67 alleen langs gedeelde westzijgrens begrensd, nieuweGLB/Blend; andere212inhoud behouden. Lokale algemene/gerichte browser- en creditschecks desktop/mobiel/fullscreen/Nu3D groen,14npmtests. Publicatiebewijs volgt afzonderlijk; voorbereiding niet alsliveclaim gebruiken.
 
 Uitgevoerd in aparte worktree/branch `sol61-eengebouw` vanaf8dc3b7c: de oorspronkelijke checkout heeft nog steeds de vijf ongepubliceerde ronde22-items en de open Hoogstraatbeeldcorrectie. Die zijn niet meegenomen in deze proef. Gedetailleerde bronkeuzes, beperkingen, controles en vervolg: SOL61-PROEF-20261003.md. Na openbareproefvrijgave teller106, volgende volledigeback-up110 na4voltooide toevoegingen; oude ronde22-back-upplanning met deze proef verzoenen. Bestaande100bundle/remote-tag opnieuw geldigbevonden; de bundle bevat geenlatere21/proef oflosse research.
+
+### Sol6.1-proef openbaar afgerond
+
+Release `d836c2f0ffa7bb01f61435f4a137a4070dc516c2`, Pages-run `37133872704` succesvol. Vijftien openbare bestanden bytegelijk met Gitrelease en lokaal, inclusief origineel, AI-PNG/WebP, beide GLB’s, modelSpec, bronnotities en beide prompts. Verse openbare desktop-/mobiele browsercontrole en algemene PlanC-regressie groen: geen JS/HTTPfouten of overflow; fotopaar/fullscreen, maker/datum/RCE-ID/licentie, drie supports, camera en Nu3D gecontroleerd. Publieke modelaanzichten en screenshots door controleur en integrator bekeken. Bewijs: SOL61-DEPLOYMENT, SOL61-OPENBARE-BESTANDSCONTROLE en SOL61-OPENBARE-BROWSERCONTROLE-20261003.json. Proef volledig afgerond, catalog213/18 en reeks106; geen volgende ronde gestart.
+
+Back-up100-bundle opnieuw geverifieerd inclusief SHA256 `511b8014b7ebc97a00e060bd0e21716e873b216361c91918546936e77cc65a31`; remote100tag correct. Geen nieuwe bundle op dit tussenpunt. Volgende volledige back-up bij110 publiek voltooide toevoegingen. Oude lokale main staat bewust op8dc3b7c met ongewijzigde tracked diff; nieuwe release/overdracht staat oporigin/main en in aparte proefworktree. Niet blind pull/reset/clean op die oude checkout; verzoen eerst het bestaande ronde22-werk met deze nieuwe Wijnhavenrelease. Beeldcorrectie ronde22 blijft open en maakt geen deel van deze geslaagde proef.

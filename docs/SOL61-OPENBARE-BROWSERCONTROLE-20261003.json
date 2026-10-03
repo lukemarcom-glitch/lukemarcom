@@ -1,0 +1,169 @@
+{
+  "checkedAt": "2026-10-03T15:40:03.813Z",
+  "base": "https://rdam39.nl/",
+  "releaseCommit": "d836c2f0ffa7bb01f61435f4a137a4070dc516c2",
+  "pagesRun": "37133872704",
+  "anonymousFreshBrowserContexts": true,
+  "landmarkId": "wijnhaven69",
+  "catalogCount": 213,
+  "storyCount": 18,
+  "target": {
+    "base": "https://rdam39.nl/",
+    "landmarkId": "wijnhaven69",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/wijnhaven69/foto-1-origineel.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/wijnhaven69/foto-1-ai.webp"
+      }
+    ],
+    "buildings": 213,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "general": {
+    "base": "https://rdam39.nl/",
+    "landmarkId": "plan-c",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/plan-c/overzicht.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/plan-c/overzicht-ai.webp"
+      },
+      {
+        "index": 1,
+        "variant": "original",
+        "src": "landmarks/plan-c/overzicht-1939.jpg"
+      },
+      {
+        "index": 1,
+        "variant": "ai",
+        "src": "landmarks/plan-c/overzicht-1939-ai.webp"
+      },
+      {
+        "index": 2,
+        "variant": "original",
+        "src": "landmarks/plan-c/kolkzijde.jpg"
+      },
+      {
+        "index": 2,
+        "variant": "ai",
+        "src": "landmarks/plan-c/kolkzijde-ai.webp"
+      },
+      {
+        "index": 3,
+        "variant": "original",
+        "src": "landmarks/plan-c/luchtfoto-1935.jpg"
+      },
+      {
+        "index": 3,
+        "variant": "ai",
+        "src": "landmarks/plan-c/luchtfoto-1935-ai.webp"
+      },
+      {
+        "index": 4,
+        "variant": "original",
+        "src": "assets/fotoproef-plan-c/origineel.jpg"
+      },
+      {
+        "index": 4,
+        "variant": "ai",
+        "src": "assets/fotoproef-plan-c/ai-kleur-v1.webp"
+      }
+    ],
+    "buildings": 213,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "credits": {
+    "id": "wijnhaven69",
+    "base": "https://rdam39.nl/",
+    "storyWords": 187,
+    "reports": [
+      {
+        "name": "desktop",
+        "variant": "original",
+        "caption": "Wijnhaven 69 links naast nummer 67 · vooroorlogse opname — Nummer 69 is de brede, lagere gevel links van het hoge nummer 67. Vier vensterassen zijn zichtbaar; de westelijke rand en een deel van de kap liggen buiten het kader. De archiefcaption noemt alleen 67; nummer 69 volgt uit de buurligging op huisnummerkaart Z12. Paal en boom bedekken delen van de gevel. Het gehele oorspronkelijke beeld blijft ongewijzigd; dezelfde bronfoto is ook bij nummer 67 opgenomen.\nHerkomst van deze foto\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Vooroorlogs; precieze opnamedatum niet vermeld\nCollectienummer: RCE 20192617\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0; Rijksdienst voor het Cultureel Erfgoed. ↗",
+        "fullscreenCredit": true
+      },
+      {
+        "name": "desktop",
+        "variant": "ai",
+        "caption": "Wijnhaven 69 links naast nummer 67 · vooroorlogse opname · AI-beeldbewerking — Nummer 69 is de brede, lagere gevel links van het hoge nummer 67. Vier vensterassen zijn zichtbaar; de westelijke rand en een deel van de kap liggen buiten het kader. De archiefcaption noemt alleen 67; nummer 69 volgt uit de buurligging op huisnummerkaart Z12. Paal en boom bedekken delen van de gevel. Het gehele oorspronkelijke beeld blijft ongewijzigd; dezelfde bronfoto is ook bij nummer 67 opgenomen. — Afzonderlijke AI-kleurinterpretatie van dezelfde historische foto, geen actuele opname of historisch bewijs. Verfkleuren zijn onzeker. De hoofdgevels en het woord Overijsselsche zijn na tekstcorrectie met het origineel vergeleken. Andere opschriften zijn deels afgedekt/onleesbaar; AI-letters zijn geen betrouwbare transcriptie. Personen, boten, glas en fijne details blijven generatieve interpretaties.\nBron van het oorspronkelijke beeld\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Vooroorlogs; precieze opnamedatum niet vermeld\nCollectienummer: RCE 20192617\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0; Rijksdienst voor het Cultureel Erfgoed. ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel. Licentie bewerking: CC BY-SA 4.0 ↗.",
+        "fullscreenCredit": true
+      },
+      {
+        "name": "mobile",
+        "variant": "original",
+        "caption": "Wijnhaven 69 links naast nummer 67 · vooroorlogse opname — Nummer 69 is de brede, lagere gevel links van het hoge nummer 67. Vier vensterassen zijn zichtbaar; de westelijke rand en een deel van de kap liggen buiten het kader. De archiefcaption noemt alleen 67; nummer 69 volgt uit de buurligging op huisnummerkaart Z12. Paal en boom bedekken delen van de gevel. Het gehele oorspronkelijke beeld blijft ongewijzigd; dezelfde bronfoto is ook bij nummer 67 opgenomen.\nHerkomst van deze foto\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Vooroorlogs; precieze opnamedatum niet vermeld\nCollectienummer: RCE 20192617\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0; Rijksdienst voor het Cultureel Erfgoed. ↗",
+        "fullscreenCredit": true
+      },
+      {
+        "name": "mobile",
+        "variant": "ai",
+        "caption": "Wijnhaven 69 links naast nummer 67 · vooroorlogse opname · AI-beeldbewerking — Nummer 69 is de brede, lagere gevel links van het hoge nummer 67. Vier vensterassen zijn zichtbaar; de westelijke rand en een deel van de kap liggen buiten het kader. De archiefcaption noemt alleen 67; nummer 69 volgt uit de buurligging op huisnummerkaart Z12. Paal en boom bedekken delen van de gevel. Het gehele oorspronkelijke beeld blijft ongewijzigd; dezelfde bronfoto is ook bij nummer 67 opgenomen. — Afzonderlijke AI-kleurinterpretatie van dezelfde historische foto, geen actuele opname of historisch bewijs. Verfkleuren zijn onzeker. De hoofdgevels en het woord Overijsselsche zijn na tekstcorrectie met het origineel vergeleken. Andere opschriften zijn deels afgedekt/onleesbaar; AI-letters zijn geen betrouwbare transcriptie. Personen, boten, glas en fijne details blijven generatieve interpretaties.\nBron van het oorspronkelijke beeld\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Vooroorlogs; precieze opnamedatum niet vermeld\nCollectienummer: RCE 20192617\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0; Rijksdienst voor het Cultureel Erfgoed. ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel. Licentie bewerking: CC BY-SA 4.0 ↗.",
+        "fullscreenCredit": true
+      }
+    ],
+    "sourceClaimsVisible": true,
+    "sourceCount": 3,
+    "passed": true
+  },
+  "model": {
+    "id": "wijnhaven69",
+    "base": "https://rdam39.nl/",
+    "bounds": {
+      "min": [
+        218.69384765625,
+        0.3499999940395355,
+        89.79850769042969
+      ],
+      "max": [
+        231.55108642578125,
+        20.78499984741211,
+        104.45235443115234
+      ]
+    },
+    "errors": [],
+    "checkedAt": "2026-10-03T15:39:23.158Z"
+  },
+  "personallyViewed": [
+    "model-south",
+    "model-north",
+    "model-east",
+    "model-west",
+    "mobile-ai-credit",
+    "mobile-ai-fullscreen-credit",
+    "mobile-sources"
+  ],
+  "passed": true,
+  "scope": "Anonymous public browser/visual verification. Byte equality and deployment evidence independently recorded by main agent."
+}

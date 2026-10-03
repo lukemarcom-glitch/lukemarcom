@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-03T15:39:04.375Z",
+  "releaseCommit": "d836c2f0ffa7bb01f61435f4a137a4070dc516c2",
+  "pagesRun": "37133872704",
+  "buildings": 213,
+  "id": "wijnhaven69",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "c148405f22fe0ae4f9c4b106b0be805794f9b36358b24dc34603604e7747f38f",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "406ff7d03c1b9ce7ff190650601db5e97950818260c7c6d2469566d01d4428f7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "3900cef00445679b4239400102d6f88ff1a16e9810bb5634967657d306f5e0d4",
+      "identical": true
+    },
+    {
+      "path": "landmarks/models.js",
+      "sha256": "24b17de611843c1318c6c99efbf76969f17060dbf46d8f87c7b53e585df6ddcd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "e17fb94c6db220f6dc2b5c5891348fc32e0ab9751c9e76fd085e6df5950d7e1c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/model.glb",
+      "sha256": "864e435e282f2f33d1d5f466bd71a11ec78e2df1f80783ad69d645c12ecca0f3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/model.glb",
+      "sha256": "fcec0326c95e19763ab133357e2593b52e5f2c11192a68b0bc9f7c3c922c83c8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/model-source-spec.json",
+      "sha256": "acfcd3b69bb61fc5ecf71af4061bd3eb6abea59ca092f469ece4ac1efb33395b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/BRONNEN.md",
+      "sha256": "a567766dd40e2f9c75f827fadc0c83726df32a117056947d8d51ed29ef954264",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/PROMPT-AI-01.txt",
+      "sha256": "c23f4cf1652f40d5bb1b1d4a8f3cc2fbdae703105e5749b1234355206d7c0241",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/PROMPT-AI-02.txt",
+      "sha256": "dc587a3816d1c5fcd79e0af882803ca02a45ff9f53b3904c4029f5b46186ae22",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/foto-1-origineel.jpg",
+      "sha256": "ff379696453d2de4ec33f8126a52d026cbd638af57f3ef1b03cac8a468a51410",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/foto-1-ai.webp",
+      "sha256": "c7fb33db4d758f76096a111595932a669f4a61d6cbfff0482f6b809e2a5b8cc0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/foto-1-ai.png",
+      "sha256": "55b9bcc66e301dd2ad4ef0b6a728052b4853ceee4b6764b7e484c845280cf255",
+      "identical": true
+    }
+  ],
+  "scope": "Anonymous public byte comparison with both release Git object and local files; deployment and visual browser checks are separate."
+}
