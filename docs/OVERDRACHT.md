@@ -4,6 +4,10 @@ Bijgewerkt: 3 oktober 2026.
 
 **Actueel openbaar geverifieerd:** 218 locaties / 18 verhalen, release `7a2cf06900ddba00cfa723c0d8e3a5cdf3ff440f`, Pages `37143375249`. Na Wijnhaven 69 zijn vijf gebouwen toegevoegd: Hoogstraat 353 en 357, Haringvliet 91 en twee Posthoornsteeg-panden met beschrijvende namen wegens onzekere huisnummerkoppeling. Zie `SOL61-VIJF-20261003.md` en bijbehorend bron-, model-, lokaal/openbaar browser- en bestandenbewijs. 111 toevoegingen uit de uitbreidingsreeks zijn openbaar gecontroleerd. Oude aantallen en statussen hieronder zijn historisch logboek, geen actuele inventaris.
 
+## Camera bij wisselen tussen Toen en Nu
+
+Nieuwe UI-correctie lokaal gereed, publicatiecontrole volgt: `changeEra` forceert niet meer 3D en springt een lopende cameravlucht niet meer naar het eindpunt. De actuele positie, doel, zoom en kijkhoek blijven staan, inclusief bovenaanzicht in beide tijdperken. Eerste opening blijft de bestaande 3D-startweergave. Lokale regressionstest: tien camera-scenario’s op desktop/mobiel geslaagd met camera-afwijking onder 0,000001; algemene browsercontrole en alle veertien npm-tests groen. Hoofdagent heeft desktop-/mobiele screenshots van beide tijdperken bekeken. Zie ERA-CAMERA-LOKAAL-20261003.json en scripts/era-camera-browser-check.mjs. Gebouwen en fotocatalogi ongewijzigd.
+
 ## Laatste opdracht en gecontroleerde release
 
 Alle vijf toevoegingen zijn volledig gecontroleerd: 14 tests groen, zeven relevante meshes overlapvrij en GLB-pariteit bevestigd. Vijf gerichte lokale én openbare browsercontroles, extra bronnen/credits/supports op desktop, mobiel en fullscreen en algemene PlanC-regressie geslaagd zonder JS-/HTTP-fouten of overflow. 47 openbare bestanden bytegelijk met de release. Screenshot- en fotovergelijkingen door root en onafhankelijke agents bekeken.

@@ -4,15 +4,15 @@ import {resolveStoryLocations} from './stories/locations.js?v=city-33';
 import {layoutMarkers} from './marker-layout.js?v=city-33';
 import * as THREE from './vendor/three.module.js';
 import { OrbitControls } from './vendor/OrbitControls.js';
-import {createLandmark,inside,configureLandmarkContext} from './landmarks/models.js?v=sol61-vijf-20261003';
+import {createLandmark,inside,configureLandmarkContext} from './landmarks/models.js?v=era-camera-20261003';
 import {loadModern} from './modern/view.js';
 import {createPanel} from './landmarks/panel.js?v=search-water-1';
 const $=id=>document.getElementById(id);
 const loading=$('loading');
 async function start(){
- const response=await fetch('./data/model-landmarks.json?v=sol61-vijf-20261003'); if(!response.ok)throw Error('Modelbestand ontbreekt');const model=await response.json();
- const catalog=await (await fetch('./landmarks/catalog.json?v=sol61-vijf-20261003')).json();
- const storiesResponse=await fetch('./stories/catalog.json?v=sol61-vijf-20261003');if(!storiesResponse.ok)throw Error('Verhalenbestand ontbreekt');const stories=resolveStoryLocations(await storiesResponse.json(),catalog);
+ const response=await fetch('./data/model-landmarks.json?v=era-camera-20261003'); if(!response.ok)throw Error('Modelbestand ontbreekt');const model=await response.json();
+ const catalog=await (await fetch('./landmarks/catalog.json?v=era-camera-20261003')).json();
+ const storiesResponse=await fetch('./stories/catalog.json?v=era-camera-20261003');if(!storiesResponse.ok)throw Error('Verhalenbestand ontbreekt');const stories=resolveStoryLocations(await storiesResponse.json(),catalog);
  $('landmark-count').textContent=`${catalog.length} gebouwen & plekken`;
  const scene=new THREE.Scene();scene.background=new THREE.Color('#e8e8df');
  const camera=new THREE.PerspectiveCamera(38,1,8,14000);
@@ -85,11 +85,11 @@ async function start(){
  }
  async function changeEra(next){
   const request=++eraRequest;
-  // Keep the selected destination when switching eras during camera movement.
-  if(flight?.to){camera.position.copy(flight.to);controls.target.copy(flight.target);controls.update();}flight=null;
+  // Compare eras from the current viewpoint, including during camera movement.
+  flight=null;
   if(next==='now'&&!modern){$('era-now').textContent='Nu laden…';$('era-now').disabled=true;try{modernPromise??=loadModern(scene,renderer);modern=await modernPromise;}catch(e){modernPromise=null;console.error(e);$('era-now').textContent='Nu opnieuw laden';$('era-now').disabled=false;return}finally{$('era-now').disabled=false;} }
   if(next==='now'&&$('modern-buildings').checked){$('era-now').textContent='3D laden…';$('modern-state').textContent='Gebouwvolumes opbouwen…';try{await modern.build();$('modern-state').textContent='3DBAG · metingen vooral 2023 · luchtfoto 2025';}catch(e){$('modern-buildings').checked=false;$('modern-state').textContent='3D kon niet laden. Je kunt het opnieuw inschakelen.';console.error(e)}}
-  $('era-now').textContent=$('modern-buildings').checked?'Nu · 3D':'Nu · kleur';if(request!==eraRequest)return;era=next;if(next==='now'&&view!=='3d')setView('3d');syncEra();
+  $('era-now').textContent=$('modern-buildings').checked?'Nu · 3D':'Nu · kleur';if(request!==eraRequest)return;era=next;syncEra();
  }
  $('era-old').onclick=()=>changeEra('old');$('era-now').onclick=()=>changeEra('now');
  $('modern-buildings').onchange=async e=>{if(!modern)return;if(e.target.checked){e.target.disabled=true;$('modern-state').textContent='Gebouwvolumes opbouwen…';try{await modern.build();$('modern-state').textContent='3DBAG · metingen vooral 2023 · neutrale gevels';}catch(err){e.target.checked=false;$('modern-state').textContent='Gebouwen konden niet laden. Probeer opnieuw.';console.error(err)}finally{e.target.disabled=false}}else $('modern-state').textContent='Luchtfoto 2025 · dezelfde kaartpositie';syncEra();};

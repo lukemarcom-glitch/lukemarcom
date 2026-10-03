@@ -89,3 +89,7 @@ De browsercontrole schrijft screenshots in `artifacts/`, controleert laden, foto
 Gerichte regressiecontrole: `CHROME_PATH=/pad/naar/chrome node scripts/location-browser-check.mjs`. `BASE_URL` kan naar localhost, een subpad of de openbare site wijzen. Browserposities worden gesimuleerd; dit is geen echte buitentest. Afstands- en nauwkeurigheidstests draaien automatisch mee in `npm run check`.
 
 De algemene browsercontrole kan ook een specifieke nieuwe locatie volledig doorlopen met `LANDMARK_ID=<slug> npm run test:browser`. Zonder deze variabele blijft Plan C de standaard. Een onbekende slug faalt expliciet. Dit controleert de galerie, lichtbak en mobiele fotoselectie voor die locatie; modelvorm en historische juistheid blijven visueel/bronnenonderzoek.
+
+## Zelfde camera bij tijdperkwissel
+
+`node scripts/era-camera-browser-check.mjs` controleert de werkelijke camera (positie, doel, quaternion, zoom en projectiematrix) bij wisselen tussen Toen/Nu op desktop en mobiel. Test bovenaanzicht, afwijkende 3D-hoek, beide richtingen en wisselen tijdens een cameravlucht. `BASE_URL`, `CHROME_PATH` en `OUTPUT_DIR` zijn optioneel zoals bij de gewone browsercontrole. De tijdperkwissel verandert alleen de laag, niet `view` of camera; een lopende vlucht stopt op zijn actuele positie. Alleen expliciete knoppen voor bovenaanzicht/3D/navigatie zetten de camera opnieuw.

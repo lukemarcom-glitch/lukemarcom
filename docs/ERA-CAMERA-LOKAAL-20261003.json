@@ -1,0 +1,67 @@
+{
+  "base": "http://127.0.0.1:8871/lukemarcom/",
+  "checkedAt": "2026-10-03T18:21:18.622Z",
+  "cases": [
+    {
+      "name": "desktop",
+      "view": "2d",
+      "era": "now",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "desktop",
+      "view": "2d",
+      "era": "old",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "desktop",
+      "view": "3d",
+      "era": "now",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "desktop",
+      "view": "3d",
+      "era": "old",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "desktop",
+      "view": "in-flight",
+      "era": "now",
+      "preserved": true
+    },
+    {
+      "name": "mobile",
+      "view": "2d",
+      "era": "now",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "mobile",
+      "view": "2d",
+      "era": "old",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "mobile",
+      "view": "3d",
+      "era": "now",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "mobile",
+      "view": "3d",
+      "era": "old",
+      "maxCameraComponentError": 0
+    },
+    {
+      "name": "mobile",
+      "view": "in-flight",
+      "era": "now",
+      "preserved": true
+    }
+  ],
+  "passed": true
+}
