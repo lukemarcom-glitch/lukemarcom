@@ -1,0 +1,28 @@
+{
+  "base": "https://rdam39.nl/",
+  "landmarkId": "smederij-jufferstraat",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/smederij-jufferstraat/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/smederij-jufferstraat/foto-1-ai.webp"
+    }
+  ],
+  "buildings": 202,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true
+}

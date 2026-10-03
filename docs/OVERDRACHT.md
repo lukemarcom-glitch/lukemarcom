@@ -896,3 +896,10 @@ Lichte geometrie en GLB/Blend geëxporteerd. Exacte meshcontrole: nul overlap me
 Delftsevaart 25 is lokaal toegevoegd als 202e locatie. Het model volgt de bron uit 1933–1937 met twee/twee/één ramen, lage kap en beperkte voorbouw. Geen bewoner of winkelnaam voor 1939 geclaimd. Het oorspronkelijke fotopaar en de gecontroleerde AI worden expliciet gedeeld met 26/27/Chevalier. De rechter achtergrens van het benaderde volume is ingesnoerd om het buurpand vrij te houden.
 
 Exacte finalecontrole van alle vijf toevoegingen in round19: nul overlap per nieuw model met 201 andere modellen en nul overlap met 990 achtergrondpolygonen. GLB gereed; Blenderproject en alle 202 geometriecaches buiten site in research/export-intermediates-20261003/round19-final202. Gerichte browsercontrole 202/18 voor desktop, mobiel, fullscreen, Nu 3D en camera geslaagd zonder fouten, 404 of overflow. Live context met 25/26/27/Chevalier en galeriebeelden persoonlijk bekeken. De hoofdtaak verzorgt globale eindchecks en publicatie; deze lokale status is geen deploymentclaim. Geen commit of push door de subagent.
+
+
+### Ronde 19 gepubliceerd en openbaar gecontroleerd
+
+Release `761fc3074ecc61ff1be6423bc088c00072566766`, Pages-run `37120967625` geslaagd. Vijf toevoegingen: Delftsevaart 25/26/27, Maison Versluys en de huis- en scheepssmederij Jufferstraat/Scheepmakershaven. Catalogus 202 locaties, 18 verhalen; 368 fotovermeldingen en 343 paarvermeldingen zijn inclusief gedeelde opnamen. Eén nieuwe AI-bewerking voor de smederij, vier locaties delen eerder gecontroleerde hele straatfoto’s met expliciete doelpandcaption. Exacte finale overlapcontrole en npm check (14 tests) geslaagd. Alle 16 unieke openbare controlebestanden bytegelijk; publieke desktop-/mobiele browsercontrole geslaagd en screenshots bekeken.
+
+Glashaven 29/Jodensteeg uitgesloten wegens contemporaine aanwijzingen voor sloop in 1916; zie RONDE19-20261003.md. De reeks staat op 95 toevoegingen. Laatste volledige Git-back-up is de geverifieerde back-up90; volgende volledige back-up bij100 na ronde20. Losse onderzoeksbestanden blijven buiten de Git-back-up. Het voorstel voor buurtnavigatie is niet uitgevoerd.

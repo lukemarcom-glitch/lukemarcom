@@ -1,0 +1,96 @@
+{
+  "checkedAt": "2026-10-03T11:52:52.704Z",
+  "releaseCommit": "761fc3074ecc61ff1be6423bc088c00072566766",
+  "pagesRun": "37120967625",
+  "buildings": 202,
+  "ids": [
+    "delftsevaart26",
+    "delftsevaart27",
+    "maison-versluys-galerij",
+    "smederij-jufferstraat",
+    "delftsevaart25"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "e59b031ed90fbc85d7ccc0cc03bf0ecd6f6b4f38d90a3270bb8396a1aa30e69b",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "ab091b7852a56ceb51bd179b5868a748f6a530240ad5b0b5e806c3167e642abb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "bc035a05bf4b47e1a6fdb04f989667bab38583e10abb02d2b76719b128e1a42a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "369d3819de5e26ed39d6b13992f919ab985cf076d4a9468e008a462b984e65d5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/delftsevaart26/model.glb",
+      "sha256": "ec07c4c3aad0e3a333486d0be8ed2502a434d7ba9370887ef1a7b6fd3030019a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/chevalier-delftsevaart/foto-1-origineel.jpg",
+      "sha256": "e5a664617592a23711352b929c4a4dd71ea457705b762b40c2fb542a2437c849",
+      "identical": true
+    },
+    {
+      "path": "landmarks/chevalier-delftsevaart/foto-1-ai.webp",
+      "sha256": "3b0a5d5a2ed466d6a0fa7de9c3dae0420884ca8a4ec962b4806363ceace245f8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/delftsevaart27/model.glb",
+      "sha256": "e8096f78c2a9aff438a15022bce38ed7046856e92b620d096dd9fe554620f259",
+      "identical": true
+    },
+    {
+      "path": "landmarks/maison-versluys-galerij/model.glb",
+      "sha256": "160f5cf3103458dd3ce9b298477ea96d3d560d21707460d2ebaa11bb664137b5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-piso-galerij/foto-1-origineel.jpg",
+      "sha256": "983cc1c2cac768bf54903607ce6508753a9b748a6e3cce9d610e062f2f6af645",
+      "identical": true
+    },
+    {
+      "path": "landmarks/cafe-piso-galerij/foto-1-ai.webp",
+      "sha256": "f4985efb5892f5a51dc957087523fddec77393420204da1b57c8b93c0ede2823",
+      "identical": true
+    },
+    {
+      "path": "landmarks/smederij-jufferstraat/model.glb",
+      "sha256": "a838569dbe1b5ae1386d070628aee5d242a053d5b465da865653b4efab09cbcb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/smederij-jufferstraat/foto-1-origineel.jpg",
+      "sha256": "ec343aa9ca5e478f67d29257ed9573335abb72fe5206521425640a5b17d94f54",
+      "identical": true
+    },
+    {
+      "path": "landmarks/smederij-jufferstraat/foto-1-ai.webp",
+      "sha256": "bdeab6eb6fd1a9837c74d4fe09c401f46cde08e1087f99188b7721b3124bee8a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/delftsevaart25/model.glb",
+      "sha256": "6b696de9baa56121b35c000cb905df975e11a60d79ccb74f3880520a78474f0a",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
