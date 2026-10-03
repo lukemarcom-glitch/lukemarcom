@@ -1,0 +1,96 @@
+{
+  "id": "bats-noordblaak77",
+  "address": "Noordblaak 77",
+  "parcel": "O 504",
+  "sourcePolygon": [
+    [
+      2612.7,
+      3033.0
+    ],
+    [
+      2638.0,
+      3037.0
+    ],
+    [
+      2642.0,
+      2980.0
+    ],
+    [
+      2615.0,
+      2978.0
+    ]
+  ],
+  "workPixelPolygon": [
+    [
+      2918.75475699689,
+      2411.8027889826744
+    ],
+    [
+      2925.0,
+      2410.7
+    ],
+    [
+      2919.3618391825858,
+      2397.158818302976
+    ],
+    [
+      2912.9577787649932,
+      2398.8619102621055
+    ]
+  ],
+  "worldPolygon": [
+    [
+      -8.364053628271904,
+      8.376360799868507
+    ],
+    [
+      -4.6217736024800615,
+      9.077180474273746
+    ],
+    [
+      -8.043980266206972,
+      17.14973402292958
+    ],
+    [
+      -11.879706579492677,
+      16.088398991040776
+    ]
+  ],
+  "width": 3.8073360775579106,
+  "depth": 8.475573652297935,
+  "uncertaintyMeters": 7,
+  "sourceAnchors": [
+    [
+      2338.0,
+      2997.0
+    ],
+    [
+      2638.0,
+      3037.0
+    ],
+    [
+      2646.0,
+      2888.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      2851.8,
+      2425.5
+    ],
+    [
+      2925.0,
+      2410.7
+    ],
+    [
+      2909.7,
+      2375.5
+    ]
+  ],
+  "anchorNames": [
+    "Soetensteeg oosthoek Noordblaak",
+    "Zijlwatersteeg westhoek Noordblaak",
+    "Zijlwatersteeg westhoek Vissersdijk"
+  ],
+  "note": "Onafhankelijke straatkruisingen visueel gematcht. Affiene fit met drie punten, geen onafhankelijke statistische foutmaat. Werkkaart en oudere perceelkaart verschillen; circa 7 meter marge. Alleen perceel 504-voorbouw, geen 1666/1408."
+}

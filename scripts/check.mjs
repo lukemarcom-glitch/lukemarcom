@@ -30,6 +30,7 @@ for(const item of [...buildings,...stories]){
   if(item.modelDownload)localAsset(item.modelDownload,item.id);
 }
 for(const item of buildings){
+  fail(Number.isFinite(item.height)&&item.height>0,`${item.id}: missing/invalid height; selecting this building would produce an invalid camera target`);
   fail(item.polygon?.length>=3,`${item.id}: missing footprint`);
   if(item.modelDownload===false)continue;
   const name=`landmarks/${item.id}/model.glb`;

@@ -728,3 +728,38 @@ Controle: exact geprojecteerde modelgeometrie tegen alle 176 andere modellen: ge
 Vijf nieuwe locaties gepubliceerd: Pastorie Sint-Rosalia, Nieuwehaven 139, Zuidblaak/Beursplein 18, Leuvehaven 209 en Hotel Elim. Catalogus 177 locaties / 18 verhalen, 340 fotovermeldingen en 315 AI-paren. Release `112a60b529cd425d216ecd7151c2aba06a9a6894`; Pages 37103077442 en check 37103077433 geslaagd. 26 openbare bestanden bytegelijk, anonieme desktop/mobiele browsercontrole zonder fouten of overflow; hoofdtaak bekeek publieke mobiele galerie en Nu 3D. Bronnen, beeldbeperkingen en buurcorrecties: RONDE14-20261003.md en VERIFICATIE-RONDE14*.json.
 
 70 toevoegingen bereikt: volledige Git-bundel geverifieerd, tag `rdam39-20261003-70-buildings` gepusht. SHA256 en omvang in BACKUP-70-20261003.json. Backup betreft Git-bestanden en volledige historie, niet losse ongecommitteerde research. Volgende backup bij 80. Ronde 15 is uitsluitend brononderzoek; geen nieuwe runtime.
+
+### Gemeentelijke Vischhal — ronde15, lokale toevoeging (3 oktober2026)
+
+178e locatie: Vischhal Bagijnenstraat, geopend5juli1932; vismarktfunctie gesloten1oktober1935, latere functie niet vastgesteld. Alleen het vrije interieurpaar is gepubliceerd: Gompers1934, SARXIV-88, explicietPDM1.0, origineel bytegelijk + geselecteerdeAIproef03/prompt/beeldcontrole. De Schaller-buitenfoto1932 is uitsluitend gelinkte vormreferentie, niet gepubliceerd of bewerkt. Juni1940foto1985-536 onderbouwt zichtbaar beschadigde hal na14mei.
+
+Plaatsing op expliciet benoemd Z8-perceel2679: vier historische contourhoeken, onafhankelijk gecontroleerd tegen vier GEB-hoeken. Controleafwijking3,7–6,5m; absolute marge±8m, geen landmeetkundige claim. Model55,5×12,5m,9,6mhoog±2m, schematische achterzijde/raamritme/kleuren; kopgeveldeur en rooster naar buitenfoto. GEB niet meegemodelleerd.
+
+GLB/Blender geëxporteerd. Exacte geometrie tegen177andere modellen: geen overlap;985achtergrondpolygonen:0m² intersectie. npmcheck178locaties/18verhalen/12tests geslaagd. Gerichte browserchecks desktop/mobiel, AIviewer, Nu3D en bronnen geslaagd zonder fouten/overflow. Model en mobieleviewer persoonlijk visueel bekeken. Draagbare mesh-/plaatsings-/hashrapporten bij het item. Screens en browser-check.log in research/expansion-20261003/round15-vischhal. Cachekeys behouden, geen commit/push door subagent.
+
+### Parfumerie Henry Bats — ronde15, lokaal (3 oktober2026)
+
+179e locatie, Noordblaak77/perceelO504. Het bestaande Heck-fotopaar1 wordt ongewijzigd gedeeld, met eigen Bats-aanwijzing en expliciete onzekerheid kleine winkelletters. PD-anon70 is een eigen beoordeling van de uitgegeven oude prentbriefkaart, geen SAR-licentie. Bron1939 dient alleen voor vorm/continuïteit; geen nieuwe AI. Exacte bestaande prompt is gekopieerd; hashcontrole bevestigt origineel ongewijzigd.
+
+Compact voorhuis met twee hoofdassen en drie topopeningen; achterkap verlaagd onder de gevelbekroning. Voorbouw8m, front3,81m, hoogte17,5±3m, plaats±7m blijven benaderingen. Geen verzonnen winkelopschrift. Directe bronnen en verliesketen (kaart/beeld/tekst, geen individuele voltrefferclaim) bij item.
+
+GLB/Blend gereed; exacte geometrie tegen178andere modellen:0overlap;985achtergrondpolygonen:0m². npmcheck12tests geslaagd. Gerichte desktop-/mobieleviewer/Nu3D-browserchecks zondererrors/failed/overflow. Livefront en mobieleviewer zelfbekeken. Bewijs in round15-extra2/browser-check.log en browser/; portable mesh-qa.json bijitem. Cachesbehouden, geencommitpush door subagent.
+
+### Gemeentelijke Bank van Lening — ronde 15, lokaal (3 oktober 2026)
+
+180e locatie: Lange Torenstraat 73, perceel K2405. Hoge bankvoorbouw en lage entreevleugel, gebaseerd op RCE20309941 uit 1939 en een oudere ongedateerde RCE-gevelreferentie. PBK-321 bevestigt adres en gebouwidentiteit. Het verlies is een expliciete synthese van de 1939-foto, ruïnefoto 2001-1298 en gemeentelijke schadekaart, geen afzonderlijke voltrefferclaim. Het gemeentelijke pandbedrijf en de verhoging vanaf 1843 hebben nu een eigen directe tekstbron; de Engelfriet-bron is via HTTP bereikbaar, HTTPS heeft een certificaatprobleem.
+
+Plaatsmarge ±8 m; hoofdhoogte circa21±3 m en voorbouwdiepte8 m benaderd. Achterliggende percelen2406/2407 niet ingevuld. Kleuren zijn onbekend. RCE-origineel ongewijzigd, geselecteerde AI-proef02 met exacte prompt en aanvullende oorspronkelijke letteruitsnede. Beide onder CC BY-SA4.0. Kleine letters/gezichten generatief en rechter gevelband afgesneden; geen volledige transcriptie geclaimd.
+
+GLB/Blend gereed. Exacte geometrie tegen179andere modellen: geen overlap;986achtergrondpolygonen:0m² intersectie. Desktop/mobiele foto-/AIviewer/Nu3D-browserchecks zonder fouten of overflow. npmcontrole stuitte alleen op HTTPS-only bronregex voor de aantoonbaar werkende HTTP-bron; hoofdtaak behandelt deze validatorgrens. Bewijs en screenshots: research/expansion-20261003/round15-leenbank/browser-check.log en browser/. Portable hashes, plaatsing en mesh-qa.json bij het item. Geen cachewijzigingen/commit/push door subagent.
+
+Aanvulling bankcontrole: hoofdtaak heeft de tekstbronvalidator gericht verruimd tot absolute HTTP(S)-bronnen, met regressietest; foto-URLs blijven HTTPS. Definitieve npmcheck:180locaties/18verhalen,343fotovermeldingen/318AI-paren,13tests geslaagd. Geen bron-URL omgeschreven naar een kapot HTTPS-adres. Live bankvoorzijde ook gecontroleerd met achtergrondmassa’s uitgeschakeld zodat de lage entreevleugel volledig zichtbaar is; alleen een controlescreenshot, geen wijziging van de standaardweergave.
+
+
+## Stadstimmerhuis Haringvliet 4 — lokaal gereed, 3 oktober 2026
+
+Locatie 181 toegevoegd: F593-voorbouw, volledig vrij albumorigineel en geselecteerde AI-uitsnede. 180 overige modelmeshes en achtergrond zonder overlap; GLB/Blend klaar. 13 tests en gerichte desktop/mobiele/browsercontroles geslaagd. Portable bron- en QA-bestanden in site/landmarks/stadstimmerhuis-haringvliet4. Geen zelfstandige publicatie; release door hoofdtaak. Tevens ontbrekende top-level height:21 bij Bank van Lening hersteld op verzoek van hoofdtaak.
+
+### Bronpakketcontrole ronde 15
+
+De verouderde voorlopige statussen in de beeldcontroles van Vischhal en Bank van Lening zijn bijgewerkt naar de gecontroleerde lokale integratie. De bank verwijst nu naar de werkelijk meegeleverde geselecteerde prompt 02. Het Stadstimmerhuis heeft ook op catalogusniveau de reeds onderbouwde plaatsingsmarge van 7 meter; de gedeelde fotonotitie maakt expliciet dat alleen het origineel het gehele albumblad bevat. Geen geometrie of beeldinhoud gewijzigd. Nog geen publicatie van ronde 15.

@@ -6,7 +6,7 @@ const entries=['landmarks','stories'].flatMap(kind=>JSON.parse(fs.readFileSync(n
 test('Every place has traceable photo credits and scoped text sources',()=>{
  for(const item of entries){
   assert.ok(item.sources?.length,item.id);
-  for(const s of item.sources){assert.ok(s.supports?.trim(),`${item.id}: describe which information this source supports`);assert.match(s.url,/^https:\/\//);if(s.unavailable)assert.ok(s.accessNote);}
+  for(const s of item.sources){assert.ok(s.supports?.trim(),`${item.id}: describe which information this source supports`);assert.ok(['http:','https:'].includes(new URL(s.url).protocol),`${item.id}: source must be an absolute HTTP(S) URL`);if(s.unavailable)assert.ok(s.accessNote);}
   for(const p of item.photos){assert.match(p.url,/^https:\/\//);assert.ok(p.author);assert.ok(p.license);assert.ok(photoCredit(p).includes('Herkomst van deze foto'));if(p.ai)assert.ok(photoCredit(p,true).includes('Bron van het oorspronkelijke beeld'));}
  }
 });
@@ -20,4 +20,11 @@ test('Unavailable references retain citation but are not presented as working li
  const html=sourceList({sources:[{url:'https://example.org/old.pdf',title:'Artikel, 1934, p. 12',supports:'Bouwgeschiedenis',unavailable:true,accessNote:'Reader niet bereikbaar',accessUrl:'https://example.org/status'}]});
  assert.ok(html.includes('Artikel, 1934, p. 12'));assert.ok(html.includes('https://example.org/old.pdf'));assert.ok(!html.includes('href="https://example.org/old.pdf"'));assert.ok(html.includes('href="https://example.org/status"'));
  assert.equal(wikiBackground({}),'');
+});
+
+test('Legacy HTTP references keep their working protocol',()=>{
+ const url='http://www.engelfriet.net/Alie/Aad/bankvanlening.htm';
+ const html=sourceList({sources:[{url,title:'Bank van Lening',supports:'Verhoging in 1843'}]});
+ assert.ok(html.includes(`href="${url}"`));
+ assert.ok(!html.includes('href="https://www.engelfriet.net'));
 });

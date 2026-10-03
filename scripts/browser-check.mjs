@@ -18,9 +18,27 @@ try{
   const requestedId=process.env.LANDMARK_ID||'plan-c';
   const item=meta.catalog.find(m=>m.id===requestedId);
   assert.ok(item,`Gebouw ontbreekt: ${requestedId}`);
+  const checkSelectionCamera=async()=>{
+    await p.waitForFunction(m=>{
+      const {camera,controls}=window.__rotterdam;
+      const values=[...camera.position.toArray(),...controls.target.toArray()];
+      return values.every(Number.isFinite)&&Math.abs(controls.target.x-m.center[0])<.1&&Math.abs(controls.target.z+m.center[1])<.1&&Math.abs(controls.target.y-m.height*.35)<.1;
+    },item,{timeout:10000});
+  };
   await p.locator(`[data-landmark="${item.id}"]`).click();
+  await checkSelectionCamera();
   assert.equal(await p.locator('#landmark-panel h2').textContent(),item.name);
   assert.equal(await p.locator('.photo-pair').count(),item.photos.length);
+  const checkedPhotos=[];
+  for(let index=0;index<item.photos.length;index++){
+    const photo=item.photos[index],thumbs=p.locator('.photo-pair').nth(index).locator('.photo-thumb');
+    for(const [variant,src] of [['original',photo.src],['ai',photo.ai]]){
+      if(!src)continue;
+      await (variant==='original'?thumbs.first():thumbs.last()).click();
+      await p.waitForFunction(expected=>{const im=document.querySelector('.hero-photo');return im?.getAttribute('src')===expected&&im.complete&&im.naturalWidth>0;},src);
+      checkedPhotos.push({index,variant,src});
+    }
+  }
   await p.locator('.photo-pair').first().locator('.photo-thumb').last().click();
   await p.waitForFunction(()=>{const im=document.querySelector('.hero-photo');return im?.complete&&im.naturalWidth>0;});
   assert.equal(await p.locator('.hero-photo').getAttribute('src'),item.photos[0].ai);
@@ -41,6 +59,7 @@ try{
   await p.setViewportSize({width:390,height:844});
   if(await p.locator('#places-toggle').getAttribute('aria-expanded')!=='true')await p.locator('#places-toggle').click();
   await p.locator(`[data-landmark="${item.id}"]`).click();
+  await checkSelectionCamera();
   await p.locator('.sheet-expand').click();
   await p.locator('.photo-pair').first().locator('.photo-thumb').last().click();
   await p.waitForFunction(()=>{const im=document.querySelector('.hero-photo');return im?.complete&&im.naturalWidth>0;});
@@ -51,6 +70,6 @@ try{
   await p.locator('.photo-full').click();assert.equal(await p.locator('.image-lightbox').isVisible(),true);
   await p.screenshot({path:fileURLToPath(new URL('mobile-image-viewer.png',output))});
   assert.deepEqual(errors,[]);assert.deepEqual(failed,[]);
-  const report={base,buildings:meta.catalog.length,stories:meta.stories.length,errors,failed,overflow,photoPairs:true,modern3D:true,mobileViewer:true};
+  const report={base,landmarkId:item.id,selectionCamera:true,checkedPhotos,buildings:meta.catalog.length,stories:meta.stories.length,errors,failed,overflow,photoPairs:true,modern3D:true,mobileViewer:true};
   await fs.writeFile(new URL('browser-report.json',output),JSON.stringify(report,null,2));console.log(report);
 }finally{await browser.close();}

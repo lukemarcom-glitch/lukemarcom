@@ -1,0 +1,28 @@
+{
+  "center": [
+    -189.0771933937543,
+    -220.42347224765996
+  ],
+  "angle": 1.431124840961156,
+  "width": 11.996078376841474,
+  "depth": 12.0,
+  "front": [
+    [
+      -183.97065654867924,
+      -227.1984080817267
+    ],
+    [
+      -182.30058882280196,
+      -215.31915009924705
+    ]
+  ],
+  "uncertaintyMeters": 8,
+  "heightMain": 17.4,
+  "heightUncertainty": 3,
+  "notes": [
+    "Only proven main factory at73; northern69excluded pending separate facade identification. Five paired window groups approximate.",
+    "No mast added: tall thin object in street is metal street/utility mast; exact function unverified, not a factory chimney.",
+    "Unknown rear omitted; 12m front depth is conservative model scope.",
+    "Colors interpreted; tile image is pictorial cross-check not exact material proof."
+  ]
+}

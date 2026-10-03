@@ -1,0 +1,27 @@
+{
+  "researchOnly": true,
+  "parcel": "K2405",
+  "placementFile": "placement-proposal.json",
+  "frontWidthMeters": 19.99235995598473,
+  "heightEstimateMeters": 21,
+  "heightUncertaintyMeters": 3,
+  "scope": "Alleen bankpand en lage ingangsvleugel op K2405. Niet de achterliggende panden K2406/K2407.",
+  "mainVolume": {
+    "fractionOfFront": 0.66,
+    "levels": 6,
+    "roof": "Nagenoeg vlakke lage afdekking, zichtbaar1939; geen verzonnen hoog zadeldak.",
+    "facade": "Twee verticale hoofdbanen; oude onderlagen met gesloten houten luiken, bovenlagen met meerruitsramen. Rondboogpoort beneden. Gevelankers schematisch.",
+    "rear": "Onzichtbare achterbouw alleen laag/sober en binnen broncontour; inspringing open houden."
+  },
+  "entranceWing": {
+    "fractionOfFront": 0.34,
+    "levelsBelowGable": 2,
+    "gableTopEstimateMeters": 12,
+    "facade": "Drie hoge rondboogopeningen op begane grond; twee ramen daarboven; één venster in driehoekige geveltop. Getrapte/reeks rondboogfries langs schuine gevelrand."
+  },
+  "materials": {
+    "evidence": "Zwart-witfoto toont baksteen, lichte omlijstingen, houten luiken; geen onafhankelijke kleurbron gevonden.",
+    "colors": "Alle kleuren expliciet interpretatie."
+  },
+  "inscription": "1939 deels zichtbaar: GEMEENTEBANK ... LEENIN...; geen ontbrekend einde reconstrueren."
+}

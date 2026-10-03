@@ -1,0 +1,12 @@
+[
+  {
+    "photo": 1,
+    "byteIdentical": true,
+    "sha256": "9fe5cd1eb5b87d9e86d392ab1a5d0bde6797ad1a6e6072d136d5c5426305a8f2"
+  },
+  {
+    "photo": 2,
+    "byteIdentical": true,
+    "sha256": "752f62f60e2f7b5437172ec7504e9509de5e7ba728c7116e59a685147a3a82a2"
+  }
+]

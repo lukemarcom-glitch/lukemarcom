@@ -1,0 +1,70 @@
+{
+  "method": "Independent holdout of four GEB building corners, not included in Vischhal fitting",
+  "source": [
+    [
+      4264.0,
+      3816.0
+    ],
+    [
+      4264.0,
+      3940.0
+    ],
+    [
+      4424.0,
+      3947.0
+    ],
+    [
+      4482.0,
+      3833.0
+    ]
+  ],
+  "workObserved": [
+    [
+      2772.8,
+      1884.4
+    ],
+    [
+      2744.4,
+      1903.6
+    ],
+    [
+      2771.2,
+      1940.0
+    ],
+    [
+      2804.0,
+      1928.0
+    ]
+  ],
+  "workPredicted": [
+    [
+      2777.2936479180894,
+      1875.1605115523123
+    ],
+    [
+      2752.677524577879,
+      1896.6020283819887
+    ],
+    [
+      2777.8915345220757,
+      1934.6999529362163
+    ],
+    [
+      2810.1663024313616,
+      1928.3593153650397
+    ]
+  ],
+  "residualPixels": [
+    10.27428919131166,
+    10.839235208439753,
+    8.536224759134237,
+    6.176762356329537
+  ],
+  "approxResidualMeters": [
+    6.164573514786995,
+    6.503541125063852,
+    5.121734855480542,
+    3.706057413797722
+  ],
+  "caution": "Source and work maps generalize the irregular GEB shape differently; readings approximate. Church tower outline not separately delineated on Z8, so not invented as controlpoint."
+}

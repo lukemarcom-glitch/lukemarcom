@@ -1,0 +1,10 @@
+# Kleurproef Bank van Lening, 1939
+
+Origineel RCE20309941 / Commons23954822 vooraf bekeken; oudere gevelopname RCE20191769 aanvullend voor opschriften bekeken. De geselecteerde tweede proef heeft haar exacte prompt in PROMPT-AI-02.txt. De eerste proef hieronder is een afgewezen onderzoeksstap. Origineel ongewijzigd.
+
+Proef01 visueel gecontroleerd naast de originele verticale straatfoto. Hoofdindeling, platte bankdakrand, hijsbalk, lage gevel, Laurenskerktoren zonder spits, kar en straatperspectief herkenbaar behouden. Kleuren zijn materiaalinterpretatie, geen bewezen historische verfkleuren. Kleine opschriften en gezichten zijn generatief verscherpt en mogen niet als betrouwbare transcriptie of portret gelden. Rechter gevelband heeft veranderde lettervormen; nog geen definitieve selectie voor publicatie. Leesbare tekst eerst afzonderlijk controleren tegen origineel, niet door OCR of historische organisatienaam aanvullen.
+
+Deze eerste beoordeling is inmiddels gevolgd door de schadekaarttoets, historische plaatsing en lokale integratie. De bewijsbestanden BRONNEN.md, placement.json en mesh-qa.json beschrijven de bronnen en controles. GLB/Blend zijn geëxporteerd; geen overlap met andere modellen of achtergrond vastgesteld. Desktop en mobiel zijn gecontroleerd, inclusief de herstelde selectiecamera. Publicatie van ronde 15 is nog niet afgerond.
+
+## Proef02 met oorspronkelijke letteruitsnede
+Exacte prompt02 en origineel23954822 plus letter-1939-native als aanvullende referentie gebruikt. Hoofdtaak heeft de originele nativeletteruitsnede en output bekeken. De band blijft rechts afgesneden en het leesbare GEMEENTE/BANK-gedeelte is herkenbaarder; niet alle fijne letters zijn pixelgetrouw. Geen zekere volledige transcriptie geclaimd. Hoofdarchitectuur, platte bankdakrand, lage vleugel, hijsbalk, kerktoren en straatscène blijven herkenbaar. Kleuren/gezichten/fijnmetselwerk interpretatief. Proef02 geselecteerd voor een expliciet gelabeld fotopaar, met aiNote dat kleine opschriften geen betrouwbare transcriptie zijn. Proef01 blijft onderzoeksalternatief.

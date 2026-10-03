@@ -1,0 +1,95 @@
+{
+  "id": "stadstimmerhuis-haringvliet4",
+  "parcel": "F593",
+  "sourceAnchors": [
+    [
+      4552.666666666667,
+      2526.6666666666665
+    ],
+    [
+      4990.0,
+      2422.6666666666665
+    ],
+    [
+      5056.0,
+      2702.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      4454.0,
+      2130.4
+    ],
+    [
+      4547.2,
+      2082.8
+    ],
+    [
+      4585.6,
+      2144.0
+    ]
+  ],
+  "anchorNames": [
+    "F593 westelijke straatfrontgrens naast Haringvliet 6",
+    "Haringvliet/Spoorwegstraat buitenhoek F594",
+    "Oosterkade/Spoorwegstraat buitenhoek"
+  ],
+  "sourcePolygon": [
+    [
+      4552.666666666667,
+      2526.6666666666665
+    ],
+    [
+      4862.0,
+      2453.3333333333335
+    ],
+    [
+      4871.333333333333,
+      2518.0
+    ],
+    [
+      4562.0,
+      2591.3333333333335
+    ]
+  ],
+  "workPixelPolygon": [
+    [
+      4454.0,
+      2130.3999999999996
+    ],
+    [
+      4519.940727778772,
+      2096.784471664577
+    ],
+    [
+      4527.44670763465,
+      2111.2719139672345
+    ],
+    [
+      4461.505979855878,
+      2144.8874423026577
+    ]
+  ],
+  "worldPolygon": [
+    [
+      911.5559659215098,
+      186.82929882798385
+    ],
+    [
+      951.0029719870438,
+      207.3865296126712
+    ],
+    [
+      955.5482512005444,
+      198.75940354543377
+    ],
+    [
+      916.1012451350105,
+      178.20217276074618
+    ]
+  ],
+  "width": 44.48219896845447,
+  "depth": 9.751249525506596,
+  "uncertaintyMeters": 7,
+  "note": "Alleen noordelijke voorbouw; grens F594 uitgesloten. Driepuntspassing op kaartcontouren, geen onafhankelijke statistische restfout; ca. 7 m onzekerheid. Achtervleugels en binnenplaatsen nog niet gemodelleerd."
+}
