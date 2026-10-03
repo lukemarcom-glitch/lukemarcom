@@ -1,0 +1,32 @@
+[
+  {
+    "id": "haringvliet87",
+    "catalogCount": 206,
+    "otherMeshesChecked": 205,
+    "finiteVertices": 17514,
+    "meshArea": 53.66906801210691,
+    "meshOverlaps": [],
+    "backgroundCount": 990,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "haringvliet89",
+    "catalogCount": 206,
+    "otherMeshesChecked": 205,
+    "finiteVertices": 1530,
+    "meshArea": 59.939993245683404,
+    "meshOverlaps": [],
+    "backgroundCount": 990,
+    "backgroundOverlaps": []
+  },
+  {
+    "id": "haringvliet-west",
+    "catalogCount": 206,
+    "otherMeshesChecked": 205,
+    "finiteVertices": 10818,
+    "meshArea": 549.1963888718445,
+    "meshOverlaps": [],
+    "backgroundCount": 990,
+    "backgroundOverlaps": []
+  }
+]

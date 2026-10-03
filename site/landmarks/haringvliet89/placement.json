@@ -1,0 +1,46 @@
+{
+  "source": "SAR 40110-Z18",
+  "sourceFront": [
+    [
+      2548,
+      2374
+    ],
+    [
+      2586,
+      2364
+    ]
+  ],
+  "workFront": [
+    [
+      3901.3014961462904,
+      2251.557087804141
+    ],
+    [
+      3910.5536496901923,
+      2246.0521384313133
+    ]
+  ],
+  "affine": [
+    [
+      0.2568006649539063,
+      -0.08141907208704847
+    ],
+    [
+      0.050627172434639246,
+      0.24110246335197205
+    ],
+    [
+      3134.7844944839035,
+      1876.6356354843585
+    ]
+  ],
+  "localCorrection": [
+    -8,
+    10
+  ],
+  "parcel": "F549",
+  "width": 6.471008402690462,
+  "depth": 9,
+  "positionUncertainty": 10,
+  "note": "Z18 lokale correctie op aangrenzend binnenhof F138 en historische rooilijn; circa10m totale onzekerheid. Alleen voorbouw; diepe achterpercelen niet ingevuld. Maten/kap/achterzijde benadering."
+}

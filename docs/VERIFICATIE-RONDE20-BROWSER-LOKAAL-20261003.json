@@ -1,0 +1,165 @@
+{
+  "status": "Alle vijf lokaal gecontroleerd",
+  "reports": [
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "hellebrekers-haagseveer",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/hellebrekers-haagseveer/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/hellebrekers-haagseveer/foto-1-ai.webp"
+        },
+        {
+          "index": 1,
+          "variant": "original",
+          "src": "landmarks/hellebrekers-haagseveer/foto-2-origineel.jpg"
+        },
+        {
+          "index": 1,
+          "variant": "ai",
+          "src": "landmarks/hellebrekers-haagseveer/foto-2-ai.webp"
+        }
+      ],
+      "buildings": 204,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "henri-zwaan-haagseveer",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/hellebrekers-haagseveer/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/hellebrekers-haagseveer/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 204,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "haringvliet87",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/haringvliet87/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/haringvliet87/foto-1-ai.webp"
+        },
+        {
+          "index": 1,
+          "variant": "original",
+          "src": "landmarks/haringvliet87/foto-2-origineel.jpg"
+        },
+        {
+          "index": 1,
+          "variant": "ai",
+          "src": "landmarks/haringvliet87/foto-2-ai.webp"
+        }
+      ],
+      "buildings": 206,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "haringvliet89",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/haringvliet87/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/haringvliet87/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 206,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "heniger-kipstraat",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/heniger-kipstraat/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/heniger-kipstraat/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 207,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "base": "http://127.0.0.1:8765/",
+  "landmarkId": "hellebrekers-haagseveer",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/hellebrekers-haagseveer/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/hellebrekers-haagseveer/foto-1-ai.webp"
+    },
+    {
+      "index": 1,
+      "variant": "original",
+      "src": "landmarks/hellebrekers-haagseveer/foto-2-origineel.jpg"
+    },
+    {
+      "index": 1,
+      "variant": "ai",
+      "src": "landmarks/hellebrekers-haagseveer/foto-2-ai.webp"
+    }
+  ],
+  "buildings": 204,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true
+}

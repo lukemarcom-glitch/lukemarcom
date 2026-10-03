@@ -1,0 +1,98 @@
+{
+  "sourceMap": "40110-Z7",
+  "sourceImage": "research/expansion-20261003/round9-c/Z7.jpg",
+  "sourceAnchors": [
+    [
+      1542.0,
+      1220.0
+    ],
+    [
+      2114.0,
+      1227.0
+    ]
+  ],
+  "workmapAnchors": [
+    [
+      2321.333333,
+      1374.666667
+    ],
+    [
+      2394.333333,
+      1484.0
+    ]
+  ],
+  "anchorDescriptions": [
+    "Haagseveer1 streetfront corner at northern end",
+    "End of house17 frontage, before the open20 passage north of police23"
+  ],
+  "method": "Two-point independent similarity, no current model used as fit anchor",
+  "uncertaintyMeters": 8,
+  "fronts": {
+    "hellebrekers-haagseveer": {
+      "sourcePixels": [
+        [
+          1774,
+          1209
+        ],
+        [
+          2004,
+          1221
+        ]
+      ],
+      "workmapPixels": [
+        [
+          2353.5649650909813,
+          1417.2133660058796
+        ],
+        [
+          2381.177017263036,
+          1462.3696286366412
+        ]
+      ],
+      "worldFront": [
+        [
+          -350.3277274805798,
+          600.3214383279347
+        ],
+        [
+          -333.6315942872625,
+          573.4586293052537
+        ]
+      ],
+      "widthMeters": 31.628647966646124
+    },
+    "henri-zwaan-haagseveer": {
+      "sourcePixels": [
+        [
+          2004,
+          1221
+        ],
+        [
+          2044,
+          1223
+        ]
+      ],
+      "workmapPixels": [
+        [
+          2381.177017263036,
+          1462.3696286366412
+        ],
+        [
+          2385.995596074733,
+          1470.211592392442
+        ]
+      ],
+      "worldFront": [
+        [
+          -333.6315942872625,
+          573.4586293052537
+        ],
+        [
+          -330.7180673420223,
+          568.7937096318041
+        ]
+      ],
+      "widthMeters": 5.500010438206256
+    }
+  }
+}

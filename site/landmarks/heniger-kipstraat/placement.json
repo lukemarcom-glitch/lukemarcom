@@ -1,0 +1,29 @@
+{
+  "anchorsZ15": [
+    [
+      3380,
+      3597
+    ],
+    [
+      2942,
+      3698
+    ]
+  ],
+  "anchorsWorkmap": [
+    [
+      3401,
+      1872
+    ],
+    [
+      3255,
+      1905
+    ]
+  ],
+  "description": "Hoek KortePannekoek/Kip + hoekBotersloot/Kip noordelijke gevelrand. Geen modernepandankers. Benaderde kleinevoorbouw op historischhoekstuk.",
+  "center": [
+    281.3226731800501,
+    339.26385999457375
+  ],
+  "angle": 0.23505477636546204,
+  "uncertaintyMeters": 8
+}

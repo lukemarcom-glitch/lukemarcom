@@ -1,0 +1,34 @@
+{
+  "meshes": {
+    "catalogCount": 207,
+    "otherMeshesPerItem": 206,
+    "overlaps": {
+      "hellebrekers-haagseveer": [],
+      "henri-zwaan-haagseveer": [],
+      "haringvliet87": [],
+      "haringvliet89": [],
+      "heniger-kipstraat": [],
+      "haringvliet-west": []
+    }
+  },
+  "background": {
+    "backgroundCount": 991,
+    "overlaps": {
+      "hellebrekers-haagseveer": [],
+      "henri-zwaan-haagseveer": [],
+      "haringvliet87": [],
+      "haringvliet89": [],
+      "heniger-kipstraat": [],
+      "haringvliet-west": []
+    }
+  },
+  "genericRowRegression": {
+    "removedParts": [
+      0,
+      1
+    ],
+    "remainingPartsExactlyUnchanged": true,
+    "beforePartCount": 7,
+    "afterPartCount": 5
+  }
+}

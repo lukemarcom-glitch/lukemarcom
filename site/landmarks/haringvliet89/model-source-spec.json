@@ -1,0 +1,621 @@
+{
+  "id": "haringvliet89",
+  "name": "Handelshuis · Haringvliet 89",
+  "modelFamily": "city33",
+  "center": [
+    580.8704051696202,
+    116.22344481779629
+  ],
+  "angle": 0.5453249911390726,
+  "polygon": [
+    [
+      580.4383143692401,
+      110.69788738192165
+    ],
+    [
+      585.9707597172303,
+      114.05437337462172
+    ],
+    [
+      581.3024959700003,
+      121.74900225367094
+    ],
+    [
+      575.7700506220101,
+      118.39251626097087
+    ]
+  ],
+  "height": 14.850000000000001,
+  "modelWidth": 6.471008402690462,
+  "modelDepth": 9,
+  "modelSpec": {
+    "colors": {
+      "brick": "#7e6b56",
+      "trim": "#cfc8b6",
+      "stone": "#bdb59f",
+      "roof": "#6f6d61",
+      "glass": "#62706b",
+      "dark": "#343d38",
+      "wood": "#766e59"
+    },
+    "parts": [
+      {
+        "w": 6.411008402690462,
+        "d": 9,
+        "h": 12.3,
+        "roof": "gable",
+        "roofAlongFront": true,
+        "roofHeight": 2.25,
+        "windows": false
+      }
+    ],
+    "accents": [
+      {
+        "x": -1.5206869746322584,
+        "y": 4.9,
+        "z": 4.58,
+        "w": 1.9418823527533293,
+        "h": 2.1799999999999997,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 4.9,
+        "z": 4.68,
+        "w": 1.8118823527533294,
+        "h": 2.05,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 5.064,
+        "z": 4.74,
+        "w": 1.8118823527533294,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 4.9,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 2.05,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 4.9,
+        "z": 4.58,
+        "w": 1.9418823527533293,
+        "h": 2.1799999999999997,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 4.9,
+        "z": 4.68,
+        "w": 1.8118823527533294,
+        "h": 2.05,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 5.064,
+        "z": 4.74,
+        "w": 1.8118823527533294,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 4.9,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 2.05,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 8.0,
+        "z": 4.58,
+        "w": 1.9418823527533293,
+        "h": 2.1599999999999997,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 8.0,
+        "z": 4.68,
+        "w": 1.8118823527533294,
+        "h": 2.03,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 8.1624,
+        "z": 4.74,
+        "w": 1.8118823527533294,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 8.0,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 2.03,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 8.0,
+        "z": 4.58,
+        "w": 1.9418823527533293,
+        "h": 2.1599999999999997,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 8.0,
+        "z": 4.68,
+        "w": 1.8118823527533294,
+        "h": 2.03,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 8.1624,
+        "z": 4.74,
+        "w": 1.8118823527533294,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 8.0,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 2.03,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 10.75,
+        "z": 4.58,
+        "w": 1.9418823527533293,
+        "h": 1.5299999999999998,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 10.75,
+        "z": 4.68,
+        "w": 1.8118823527533294,
+        "h": 1.4,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 10.862,
+        "z": 4.74,
+        "w": 1.8118823527533294,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 10.75,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 1.4,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 10.75,
+        "z": 4.58,
+        "w": 1.9418823527533293,
+        "h": 1.5299999999999998,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 10.75,
+        "z": 4.68,
+        "w": 1.8118823527533294,
+        "h": 1.4,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 10.862,
+        "z": 4.74,
+        "w": 1.8118823527533294,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 10.75,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 1.4,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 12.100000000000001,
+        "z": 4.65,
+        "w": 6.571008402690461,
+        "h": 0.24,
+        "d": 0.31,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 12.3,
+        "z": 4.65,
+        "w": 6.571008402690461,
+        "h": 0.18,
+        "d": 0.31,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 3.4,
+        "z": 4.65,
+        "w": 6.571008402690461,
+        "h": 0.18,
+        "d": 0.31,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 1.55,
+        "z": 4.58,
+        "w": 2.136012604834043,
+        "h": 2.83,
+        "d": 0.14,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 1.55,
+        "z": 4.68,
+        "w": 2.006012604834043,
+        "h": 2.7,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 1.766,
+        "z": 4.74,
+        "w": 2.006012604834043,
+        "h": 0.065,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": 1.5206869746322584,
+        "y": 1.55,
+        "z": 4.74,
+        "w": 0.055,
+        "h": 2.7,
+        "d": 0.05,
+        "material": "trim"
+      },
+      {
+        "x": -1.5206869746322584,
+        "y": 1.6,
+        "z": 4.63,
+        "w": 2.2648529409416613,
+        "h": 2.95,
+        "d": 0.15,
+        "material": "dark"
+      },
+      {
+        "x": -2.070722688860948,
+        "y": 1.5,
+        "z": 4.74,
+        "w": 0.9059411763766647,
+        "h": 2.67,
+        "d": 0.09,
+        "material": "wood"
+      },
+      {
+        "x": -2.070722688860948,
+        "y": 2.55,
+        "z": 4.8,
+        "w": 0.6794558822824984,
+        "h": 0.47,
+        "d": 0.04,
+        "material": "glass"
+      },
+      {
+        "x": -0.9706512604035692,
+        "y": 1.5,
+        "z": 4.74,
+        "w": 0.9059411763766647,
+        "h": 2.67,
+        "d": 0.09,
+        "material": "wood"
+      },
+      {
+        "x": -0.9706512604035692,
+        "y": 2.55,
+        "z": 4.8,
+        "w": 0.6794558822824984,
+        "h": 0.47,
+        "d": 0.04,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 0.22,
+        "z": 4.59,
+        "w": 6.471008402690462,
+        "h": 0.43,
+        "d": 0.12,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 13.0,
+        "z": 3.8,
+        "w": 1.2,
+        "h": 0.94,
+        "d": 1.1,
+        "material": "wood"
+      },
+      {
+        "x": 0,
+        "y": 13.0,
+        "z": 4.41,
+        "w": 0.96,
+        "h": 0.73,
+        "d": 0.06,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 13.0,
+        "z": 4.46,
+        "w": 0.05,
+        "h": 0.73,
+        "d": 0.04,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 13.52,
+        "z": 3.85,
+        "w": 1.34,
+        "h": 0.13,
+        "d": 1.3,
+        "material": "roof"
+      }
+    ],
+    "facadeReliefs": [],
+    "vertexDeform": {
+      "minX": -3.135504201345231,
+      "maxX": 3.135504201345231
+    }
+  },
+  "uncertaintyMeters": 10,
+  "kind": "building",
+  "cameraDistance": 50,
+  "backgroundClearance": 0.12,
+  "placementStatus": "approximate-reconstruction",
+  "footprints": [
+    [
+      [
+        580.5137175268092,
+        110.70854723960113
+      ],
+      [
+        580.513715849081,
+        110.7085462217376
+      ],
+      [
+        575.8298810331424,
+        118.42882844611104
+      ],
+      [
+        575.6846844561019,
+        118.66821651691323
+      ],
+      [
+        581.0974291874079,
+        121.952083060998
+      ],
+      [
+        585.8927771758354,
+        114.04798386352854
+      ],
+      [
+        585.8927800578005,
+        114.04798561199252
+      ],
+      [
+        585.9184116292589,
+        114.00573098360788
+      ],
+      [
+        586.0406023755795,
+        113.80432583381226
+      ],
+      [
+        586.0846574274776,
+        113.73165151079202
+      ],
+      [
+        582.8645382000072,
+        111.77803235378768
+      ],
+      [
+        582.8723264981094,
+        111.76519597864373
+      ],
+      [
+        582.2400957885785,
+        111.38164290294414
+      ],
+      [
+        582.2323145683862,
+        111.39446761254791
+      ],
+      [
+        582.0730381425483,
+        111.29783594930961
+      ],
+      [
+        581.9239796486107,
+        111.20740341911433
+      ],
+      [
+        581.9317405559923,
+        111.19457445606443
+      ],
+      [
+        581.2996057909977,
+        110.81103929091047
+      ],
+      [
+        581.2918173559761,
+        110.82387589171995
+      ],
+      [
+        580.6719172076241,
+        110.44778770376749
+      ],
+      [
+        580.5759750127199,
+        110.60595209094394
+      ]
+    ]
+  ],
+  "exclusionPolygon": [
+    [
+      580.6719172076241,
+      110.44778770376749
+    ],
+    [
+      580.513715849081,
+      110.7085462217376
+    ],
+    [
+      575.8298810331424,
+      118.42882844611104
+    ],
+    [
+      575.6846844561019,
+      118.66821651691323
+    ],
+    [
+      581.0974291874079,
+      121.952083060998
+    ],
+    [
+      585.8927800578005,
+      114.04798561199252
+    ],
+    [
+      586.0406023755795,
+      113.80432583381226
+    ],
+    [
+      586.0846574274776,
+      113.73165151079202
+    ],
+    [
+      582.8723264981094,
+      111.76519597864373
+    ],
+    [
+      581.2996057909977,
+      110.81103929091047
+    ]
+  ],
+  "periodNote": "Historische gevelreconstructie. De hoofdfoto heeft tegenstrijdige dateringsmetadata; zij wordt niet als een zekere opname uit 1939 gepresenteerd. Nummer 87 is daarnaast op een gedateerd detail uit augustus 1927 te herkennen.",
+  "colorNote": "Baksteen, kozijnen en dak zijn met terughoudende materiaalkleuren weergegeven. De zwart-witbeelden bewijzen geen precieze verftinten.",
+  "placementNote": "Historisch Haringvliet 89, perceel F549. Frontbreedte circa 6.5 meter, geschatte voorbouwdiepte 9 meter. Positie circa 10 meter onzeker; achterbouw en kap zijn benaderingen. De oudere huisnummerkaart is lokaal met de historische rooilijn vergeleken.",
+  "description": "Een sober havenhuis naast het versierde kantoor van Van Olffen.",
+  "story": "Dit sobere huis stond direct links van het rijk versierde pand op nummer 87. De foto toont twee raamassen, een zware kroonlijst en een hoge begane grond met afzonderlijke ingangen.\n\nIn het adresboek van 1939 staan bij 89a J. Lagendijk en bij 89b onder meer de Middelburgsche Maatschappij van Stoomvaart en de Zeeuwsche Stoombootmaatschappij Erven G. Vos. Het adres verbindt deze gewone gevel met vervoer en handel over het water. De verschillende ondernemingen zijn adresvermeldingen; hun afzonderlijke ruimtes in het huis zijn niet gereconstrueerd.\n\nDe historische huisnummerkaart plaatst het pand aan de noordzijde van het Haringvliet. Die hele rij staat op de gemeentelijke schadekaart als verwoest na het bombardement en de brand in mei 1940. De overgebleven oude huizen aan de zuidzijde liggen aan de andere kant van het water.\n\nKleuren, kaphoogte en onzichtbare achterbouw zijn interpretaties. De precieze datering van het volledige straatbeeld is onzeker door tegenstrijdige archiefmetadata.",
+  "sources": [
+    {
+      "title": "Stadsarchief · Haringvliet met pand 87, XXV-302-09",
+      "url": "https://proxy.archieven.nl/0/0391692180F04E4F828D3D0860EA441B",
+      "supports": "Hele gevelrij met 87 (drie assen en siertravee) en 89 direct links (twee assen). Public Domain Mark 1.0. Opgegeven datering 1938–1942 botst met toeschrijving aan C. Hoogendijk, overleden 1911; exacte opnamedatum onzeker."
+    },
+    {
+      "title": "RCE · geveldetail Haringvliet 87, augustus 1927",
+      "url": "https://commons.wikimedia.org/wiki/File:Voorgevel_-_Rotterdam_-_20192095_-_RCE.jpg",
+      "supports": "Foto 20192095 toont nummer 87, buurplaatje 89a, sieromlijsting en opschriften KANTOOR en A.v.OLFFEN. Rijksdienst voor het Cultureel Erfgoed, fotograaf onbekend, CC BY-SA 4.0."
+    },
+    {
+      "title": "Historische huisnummerkaart Z18",
+      "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=299&miadt=184&miaet=14&micode=4001&minr=39548359&miview=ldt",
+      "supports": "Nummer 87 op F141, 89 op F549 en 85 op F138, noordzijde Haringvliet. Registratiedatering 1938 met oudere kaartbasis; geen nieuwe veldopname geclaimd."
+    },
+    {
+      "title": "Adresboek Rotterdam 1939 · Haringvliet, pagina 152",
+      "url": "https://proxy.archieven.nl/0/170C9C1D4B9A4C7894929465868330FE",
+      "supports": "87: Nederlandsche Vereeniging van Fruitverwerkers, N.V. Handelmij. v/h J.A. van Olffen, Vereeniging van Nederlandsche Wijnimporteurs. 89a: J. Lagendijk; 89b: onder meer Middelburgsche Maatschappij van Stoomvaart en Zeeuwsche Stoombootmaatschappij Erven G. Vos. Originele pagina visueel gecontroleerd."
+    },
+    {
+      "title": "Adresboek 1939 · begin straatrubriek, pagina 151",
+      "url": "https://proxy.archieven.nl/0/B9E2A10BB3CC43E18F7CCE37FC55DB71",
+      "supports": "Straatkop Haringvliet; vervolg op pagina 152."
+    },
+    {
+      "title": "Gemeentelijke schadekaart Rotterdam 1940",
+      "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+      "supports": "Hele noordelijke rij westelijk van de Pauwensteeg is geel verwoest zonder witte uitzondering. Gecombineerd met Z18 ondersteunt dit verlies door bombardement/brand in mei 1940; geen individuele inslagclaim."
+    }
+  ],
+  "photos": [
+    {
+      "date": "Opnamedatum onzeker",
+      "author": "Toegeschreven aan C. Hoogendijk; datering conflicteert",
+      "identifier": "SAR 4202 / XXV-302-09",
+      "url": "https://proxy.archieven.nl/0/0391692180F04E4F828D3D0860EA441B",
+      "archiveUrl": "https://proxy.archieven.nl/0/0391692180F04E4F828D3D0860EA441B",
+      "license": "Public Domain Mark 1.0 volgens Stadsarchief Rotterdam.",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceChecked": "2026-10-03",
+      "aiLabel": "AI in kleur · interpretatie",
+      "id": "haringvliet87-89-rij",
+      "src": "landmarks/haringvliet87/foto-1-origineel.jpg",
+      "ai": "landmarks/haringvliet87/foto-1-ai.webp",
+      "aiMaster": "landmarks/haringvliet87/foto-1-ai.png",
+      "title": "Haringvliet 87 en 89 · hele gevelrij",
+      "note": "Nummer 89 is het sobere tweeassige huis direct links van het versierde nummer 87. Het hele origineel is behouden; hetzelfde foto-paar wordt bij beide afzonderlijke gebouwen getoond. Datering 1938–1942 en maker overleden 1911 zijn tegenstrijdige archiefmetadata.",
+      "aiNote": "AI-bewerking, geen actuele opname. Kleuren, kleine letters, ornamentdetails en oppervlaktes zijn interpretatie; de precieze opnamedatum blijft onzeker."
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": "henri-zwaan-haagseveer",
+  "name": "Kantoorboekhandel Henri Zwaan",
+  "modelFamily": "city33",
+  "center": [
+    -335.7795346301913,
+    568.8748120108675
+  ],
+  "angle": 2.129079902024898,
+  "height": 19,
+  "modelWidth": 4.900010438206256,
+  "modelDepth": 8.5,
+  "polygon": [
+    [
+      -330.8769866919749,
+      569.0481593129016
+    ],
+    [
+      -333.47267493730993,
+      573.204179624156
+    ],
+    [
+      -340.6820825684077,
+      568.7014647088333
+    ],
+    [
+      -338.0863943230726,
+      564.5454443975789
+    ]
+  ],
+  "modelSpec": {
+    "colors": {
+      "brick": "#756454",
+      "stone": "#b8af97",
+      "trim": "#c8c0aa",
+      "roof": "#57584d",
+      "glass": "#4d605a",
+      "dark": "#3b3d32"
+    },
+    "parts": [
+      {
+        "w": 4.900010438206256,
+        "d": 8.5,
+        "h": 14.9,
+        "windows": false,
+        "roof": "hip",
+        "roofHeight": 3.6
+      },
+      {
+        "x": 0,
+        "z": 4.61,
+        "w": 1.65,
+        "d": 0.72,
+        "h": 7.1,
+        "base": 4.15,
+        "windows": false,
+        "roof": "none"
+      },
+      {
+        "x": 0,
+        "z": 3.5,
+        "w": 1.4,
+        "d": 1.4,
+        "h": 1.7,
+        "base": 15.5,
+        "windows": false,
+        "roof": "none",
+        "wall": "stone"
+      }
+    ],
+    "accents": [
+      {
+        "x": 0,
+        "y": 4.55,
+        "z": 5.05,
+        "w": 1.9,
+        "h": 0.15,
+        "d": 1.05,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 7.75,
+        "z": 5.05,
+        "w": 1.9,
+        "h": 0.15,
+        "d": 1.05,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 3.5,
+        "z": 4.34,
+        "w": 4.900010438206256,
+        "h": 0.22,
+        "d": 0.2,
+        "material": "trim"
+      },
+      {
+        "x": -1.372002922697752,
+        "y": 1.5,
+        "z": 4.27,
+        "w": 1.65,
+        "h": 2.85,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 1.372002922697752,
+        "y": 1.5,
+        "z": 4.27,
+        "w": 1.65,
+        "h": 2.85,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 17.28,
+        "z": 3.55,
+        "w": 1.65,
+        "h": 0.16,
+        "d": 1.7,
+        "material": "stone"
+      },
+      {
+        "x": -1.3230028183156892,
+        "y": 17.65,
+        "z": -2.04,
+        "w": 0.48,
+        "h": 1.75,
+        "d": 0.62,
+        "material": "brick"
+      }
+    ],
+    "facadeWindows": [
+      {
+        "x": -1.568003340226002,
+        "y": 5.8,
+        "z": 4.26,
+        "w": 0.65,
+        "h": 2.1,
+        "arched": false
+      },
+      {
+        "x": 1.568003340226002,
+        "y": 5.8,
+        "z": 4.26,
+        "w": 0.65,
+        "h": 2.1,
+        "arched": false
+      },
+      {
+        "x": -1.568003340226002,
+        "y": 9.0,
+        "z": 4.26,
+        "w": 0.65,
+        "h": 2.1,
+        "arched": false
+      },
+      {
+        "x": 1.568003340226002,
+        "y": 9.0,
+        "z": 4.26,
+        "w": 0.65,
+        "h": 2.1,
+        "arched": false
+      },
+      {
+        "x": -1.568003340226002,
+        "y": 12.35,
+        "z": 4.26,
+        "w": 0.65,
+        "h": 2.1,
+        "arched": false
+      },
+      {
+        "x": 1.568003340226002,
+        "y": 12.35,
+        "z": 4.26,
+        "w": 0.65,
+        "h": 2.1,
+        "arched": false
+      },
+      {
+        "x": 0,
+        "y": 5.8,
+        "z": 5.02,
+        "w": 1.15,
+        "h": 2.2,
+        "arched": false
+      },
+      {
+        "x": 0,
+        "y": 9.0,
+        "z": 5.02,
+        "w": 1.15,
+        "h": 2.2,
+        "arched": false
+      },
+      {
+        "x": 0,
+        "y": 12.35,
+        "z": 4.26,
+        "w": 1.15,
+        "h": 2.2,
+        "arched": false
+      },
+      {
+        "x": 0,
+        "y": 16.4,
+        "z": 4.24,
+        "w": 0.77,
+        "h": 1.35,
+        "arched": false
+      }
+    ]
+  },
+  "uncertaintyMeters": 8,
+  "kind": "building",
+  "cameraDistance": 65,
+  "backgroundClearance": 0.25,
+  "placementStatus": "approximate-reconstruction",
+  "periodNote": "Geveltoestand naar foto uit 1939; historische huisnummers gebruikt.",
+  "colorNote": "Zwart-witfoto’s bewijzen geen exacte historische kleuren. Gevelkleuren, dakpannen en kleine details zijn interpretaties.",
+  "locationNote": "Historisch Haagseveer, aan de westzijde van de Delftsevaart. Onafhankelijke handmatige kaartfit; circa 8 m plaatsingsmarge.",
+  "placementNote": "Alleen de brongebonden voorbouw is gereconstrueerd. Hoogten, onderpui achter de schutting en onzichtbare achterbouw zijn benaderd. Gevelvolgorde gecontroleerd met de kaart en aanvullende straatfoto’s.",
+  "sources": [
+    {
+      "title": "Stadsarchief Rotterdam · overzicht van Van Ojen, 1939",
+      "url": "https://proxy.archieven.nl/0/AB67999B938E4332895CFBE1FBBB9695",
+      "supports": "Toont de drie Hellebrekers-gevels en de hoge erkergevel van Zwaan links daarvan. Bewijst aanwezigheid in 1939. Rechtenregistratie: Gemeente Rotterdam (Stadsarchief) CC-BY, zonder versienummer."
+    },
+    {
+      "title": "Adresboek 1939 · Haagseveer, p. 149",
+      "url": "https://proxy.archieven.nl/0/5D51691B30DB480D8024064750B1B252",
+      "supports": "Visueel gelezen: 13b H. Hellebrekers & Zonen; 15 fa. Henri Zwaan; 16–17 N.V. J. W. A. de Wild. Bewoners en bedrijven worden niet met elkaar vereenzelvigd."
+    },
+    {
+      "title": "Historische huisnummerkaart Z7",
+      "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=299&miadt=184&miaet=14&micode=4001&minr=39548296&miview=ldt",
+      "supports": "Huisnummerreeks aan de westzijde van de Delftsevaart: Hellebrekers 9–14 en nummer 15 op perceel 1619. Bladnetplan uit 1926 met latere mutaties, catalogusdatering 1938. Basis voor benaderde plaatsing."
+    },
+    {
+      "title": "Gemeentelijke schadekaart I-210-01A · 1940",
+      "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+      "supports": "De gevelrij tussen Hofplein en het afzonderlijk uitgezonderde politiebureau is geel als verwoest aangegeven. Met huisnummerkaart en foto uit 1939 onderbouwt dit verlies door bombardement en brand op blokniveau; geen individuele bominslag bewezen."
+    },
+    {
+      "title": "Adresboek 1930 · kantoorboekhandel, p. 386",
+      "url": "https://proxy.archieven.nl/0/09EE831516B54333B64C01266EB5DC83",
+      "supports": "Visueel gelezen oorspronkelijke scan: fa. Henri Zwaan, kantoorboekhandel, Haagscheveer 15a–b. Bewijst functie en adres."
+    },
+    {
+      "title": "Historische gevelvergelijking · Haagseveer",
+      "url": "http://www.engelfriet.net/Alie/Hans/eijgelsheim4.htm",
+      "supports": "Aanvullende straatfoto’s 12 en 13 tonen de papier-/boekhandel tussen De Wild en Hellebrekers. De erkergevel is vergeleken met de primaire foto uit 1939; de afbeeldingen van deze website worden niet herpubliceerd."
+    }
+  ],
+  "description": "Een smalle kantoorboekhandel met een erker over twee lagen aan Haagseveer 15.",
+  "story": "Tussen de ijzerhandel van De Wild en het distilleerderijcomplex van Hellebrekers stond een smal bakstenen huis met een opvallende erker. Het adresboek van 1930 noemt hier de kantoorboekhandel van de firma Henri Zwaan, aan Haagseveer 15a–b. In 1939 staat de firma nog steeds op nummer 15 vermeld.\n\nDe foto uit 1939 toont boven de winkel drie lagen, waarvan twee met een vooruitstekende erker, en een hoge smalle dakkapel. Welke waren precies in de winkel stonden, valt niet betrouwbaar uit de foto af te leiden. De schutting op de voorgrond hoort bij de toenmalige werkzaamheden aan de Delftse Poort.\n\nOp de gemeentelijke schadekaart ligt nummer 15 in de verwoeste rij ten noorden van het politiebureau. De combinatie van foto, huisnummerkaart en schadebeeld onderbouwt verlies door bombardement en brand in mei 1940. De reconstructie toont een voorbouw; onzichtbare achterzijde, hoogte en kleuren zijn benaderd.",
+  "photos": [
+    {
+      "id": "haagseveer-van-ojen1939",
+      "title": "Kantoorboekhandel Henri Zwaan naast Hellebrekers · 1939",
+      "src": "landmarks/hellebrekers-haagseveer/foto-1-origineel.jpg",
+      "ai": "landmarks/hellebrekers-haagseveer/foto-1-ai.webp",
+      "source": "Stadsarchief Rotterdam",
+      "author": "Evert Marinus (E. M.) van Ojen",
+      "date": "1939",
+      "identifier": "4202 · 1978-3753",
+      "url": "https://proxy.archieven.nl/0/AB67999B938E4332895CFBE1FBBB9695",
+      "archiveUrl": "https://proxy.archieven.nl/0/AB67999B938E4332895CFBE1FBBB9695",
+      "license": "CC BY — versie niet vermeld in archiefregistratie",
+      "sourceChecked": "2026-10-03",
+      "note": "Hele foto gedeeld met Hellebrekers. Zwaan is het hogere bakstenen huis met erker, direct links van de zesassige Hellebrekers-gevel. De lage tweeraamsgevel rechts van het complex is een ander pand.",
+      "aiLabel": "AI in kleur · interpretatie",
+      "aiNote": "Kleuren, kleine letters, winkelinhoud en fijne raamdetails zijn interpretaties. De oorspronkelijke foto blijft de bewijsbron. Geen onzichtbare pui of achterbouw afleiden uit AI."
+    }
+  ],
+  "footprints": [
+    [
+      [
+        -332.9136084002033,
+        572.9320311757002
+      ],
+      [
+        -332.5374850606004,
+        572.3297938050305
+      ],
+      [
+        -332.5799062658442,
+        572.303318700319
+      ],
+      [
+        -332.45646515332675,
+        572.1056759610367
+      ],
+      [
+        -331.54470774455297,
+        572.675188470362
+      ],
+      [
+        -330.50642316921653,
+        571.0127242681132
+      ],
+      [
+        -331.41819185874596,
+        570.4432867142165
+      ],
+      [
+        -331.29477418151197,
+        570.2456814973896
+      ],
+      [
+        -331.25238724885264,
+        570.2721852474554
+      ],
+      [
+        -330.8762639065395,
+        569.6699478724461
+      ],
+      [
+        -330.9186577682384,
+        569.6434779309085
+      ],
+      [
+        -330.4911641838583,
+        568.9590138871281
+      ],
+      [
+        -338.17556869829576,
+        564.1596518991477
+      ],
+      [
+        -341.06788717930135,
+        568.7906199324048
+      ],
+      [
+        -333.38351348346583,
+        573.5899818594447
+      ],
+      [
+        -332.9560226721903,
+        572.9055222557083
+      ]
+    ]
+  ],
+  "exclusionPolygon": [
+    [
+      -338.17556869829576,
+      564.1596518991477
+    ],
+    [
+      -341.06788717930135,
+      568.7906199324048
+    ],
+    [
+      -333.38351348346583,
+      573.5899818594447
+    ],
+    [
+      -331.54470774455297,
+      572.675188470362
+    ],
+    [
+      -330.50642316921653,
+      571.0127242681132
+    ],
+    [
+      -330.4911641838583,
+      568.9590138871281
+    ]
+  ]
+}

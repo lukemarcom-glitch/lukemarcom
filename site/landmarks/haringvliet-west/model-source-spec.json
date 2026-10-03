@@ -1,0 +1,367 @@
+{
+  "id": "haringvliet-west",
+  "center": [
+    601.6661755169387,
+    130.1096373434783
+  ],
+  "angle": 0.5593719256686264,
+  "modelWidth": 49.379321554899356,
+  "modelDepth": 14,
+  "modelSpec": {
+    "colors": {
+      "brick": "#89684f",
+      "brick2": "#78604e",
+      "brick3": "#a07c62",
+      "stone": "#c5b99e",
+      "trim": "#dcd3bb",
+      "roof": "#535750",
+      "glass": "#4c6265",
+      "dark": "#343b37",
+      "foliage": "#627151"
+    },
+    "parts": [
+      {
+        "x": -8.465026552268462,
+        "z": 0,
+        "w": 6.974188793557051,
+        "d": 14,
+        "h": 17.2,
+        "floors": 4,
+        "bays": 3,
+        "roof": "hip",
+        "roofHeight": 2.8,
+        "wall": "stone",
+        "gableWall": "stone",
+        "shop": false,
+        "sides": false,
+        "back": false,
+        "groundHeight": 3.6,
+        "cornice": true,
+        "entrance": true
+      },
+      {
+        "x": -0.35270943967785406,
+        "z": 0,
+        "w": 9.090445431624167,
+        "d": 14,
+        "h": 19.5,
+        "floors": 5,
+        "bays": 4,
+        "roof": "hip",
+        "roofHeight": 2.8,
+        "wall": "brick",
+        "gableWall": "brick",
+        "shop": false,
+        "sides": false,
+        "back": false,
+        "groundHeight": 3.6,
+        "cornice": true,
+        "entrance": true,
+        "dormers": 2
+      },
+      {
+        "x": 7.054188793557049,
+        "z": 0,
+        "w": 5.563351034845641,
+        "d": 14,
+        "h": 13.4,
+        "floors": 3,
+        "bays": 3,
+        "roof": "gable",
+        "roofHeight": 2.8,
+        "wall": "brick2",
+        "gableWall": "brick2",
+        "shop": false,
+        "sides": false,
+        "back": false,
+        "groundHeight": 3.6,
+        "cornice": true,
+        "entrance": true
+      },
+      {
+        "x": 13.402958707758398,
+        "z": 0,
+        "w": 6.974188793557051,
+        "d": 14,
+        "h": 16.8,
+        "floors": 4,
+        "bays": 3,
+        "roof": "hip",
+        "roofHeight": 2.8,
+        "wall": "stone",
+        "gableWall": "stone",
+        "shop": false,
+        "sides": false,
+        "back": false,
+        "groundHeight": 3.6,
+        "cornice": true,
+        "entrance": true
+      },
+      {
+        "x": 20.809856940993303,
+        "z": 0,
+        "w": 7.6796076729127565,
+        "d": 14,
+        "h": 18.1,
+        "floors": 4,
+        "bays": 4,
+        "roof": "gable",
+        "roofHeight": 2.8,
+        "wall": "brick",
+        "gableWall": "brick",
+        "shop": false,
+        "sides": false,
+        "back": false,
+        "groundHeight": 3.6,
+        "cornice": true,
+        "entrance": true
+      }
+    ]
+  },
+  "frontagePixels": [
+    [
+      3908,
+      2251
+    ],
+    [
+      3978,
+      2208
+    ]
+  ],
+  "frontage": [
+    [
+      584.4540789648502,
+      111.07485125098128
+    ],
+    [
+      626.307427425,
+      137.27818347982998
+    ]
+  ],
+  "placementNote": "Fragment van de noordelijke gevelwand aan het Haringvliet, oostelijk van de Spanjaardsbrug. De rooilijn volgt de historische kaart. De oorspronkelijke kleurendia uit 1939 kijkt oostwaarts langs deze kade; het Ooglijdersgesticht op de verre achtergrond is geen onderdeel van dit model. De afzonderlijke huisbreedten en achtergevels zijn interpretatief. De twee westelijke interpretatieve volumes zijn vervangen door afzonderlijke brongebonden reconstructies van Haringvliet 87 en 89. De overige vijf volumes zijn intact gebleven.",
+  "uncertaintyMeters": 7,
+  "polygon": [
+    [
+      584.3136684697181,
+      110.33804402187941
+    ],
+    [
+      576.3007937643474,
+      123.1366314031505
+    ],
+    [
+      582.2798435443688,
+      126.87996457870031
+    ],
+    [
+      593.0421331484073,
+      133.61796429468998
+    ],
+    [
+      619.0186825641592,
+      149.88123066507723
+    ],
+    [
+      627.0315572695299,
+      137.08264328380614
+    ],
+    [
+      620.4546025115064,
+      132.96497679070131
+    ],
+    [
+      591.1572585894015,
+      114.62264423050723
+    ]
+  ],
+  "exclusionPolygon": [
+    [
+      595.2571533665714,
+      117.1540942231021
+    ],
+    [
+      594.9069571396032,
+      117.71350349028543
+    ],
+    [
+      587.4352152710059,
+      129.78906432865506
+    ],
+    [
+      612.3306989800907,
+      145.37552527972042
+    ],
+    [
+      618.9330919946215,
+      149.50910538805752
+    ],
+    [
+      626.5319703036995,
+      137.5131499000793
+    ],
+    [
+      626.8821662287068,
+      136.95373272290482
+    ],
+    [
+      620.3052645303551,
+      132.83607368742756
+    ],
+    [
+      601.2616471553406,
+      120.91334645037169
+    ]
+  ],
+  "footprints": [
+    [
+      [
+        594.9069571396032,
+        117.71350349028543
+      ],
+      [
+        594.9704909841091,
+        117.75328055197878
+      ],
+      [
+        587.4352152710059,
+        129.78906432865506
+      ],
+      [
+        593.7956648444026,
+        133.77118570765808
+      ],
+      [
+        601.5684309696594,
+        138.63751872296817
+      ],
+      [
+        603.7820540069295,
+        140.02341349234536
+      ],
+      [
+        605.9702527896369,
+        141.39338310267058
+      ],
+      [
+        605.9702493731285,
+        141.3933885596678
+      ],
+      [
+        612.3306989800907,
+        145.37552527972042
+      ],
+      [
+        618.9330919946215,
+        149.50910538805752
+      ],
+      [
+        626.4684069561117,
+        137.47335439338258
+      ],
+      [
+        626.5319703036995,
+        137.5131499000793
+      ],
+      [
+        626.8821662287068,
+        136.95373272290482
+      ],
+      [
+        620.3052570508665,
+        132.83608563281734
+      ],
+      [
+        620.3052645303551,
+        132.83607368742756
+      ],
+      [
+        614.3261933678906,
+        129.09275171371567
+      ],
+      [
+        614.3261995252018,
+        129.0927418799575
+      ],
+      [
+        609.034413297575,
+        125.77967947631105
+      ],
+      [
+        601.2616471553406,
+        120.91334645037169
+      ],
+      [
+        595.2571533665714,
+        117.1540942231021
+      ]
+    ]
+  ],
+  "height": 22.3,
+  "cameraDistance": 123.44830388724839,
+  "name": "Haringvliet · noordelijke kade",
+  "modelFamily": "city33",
+  "kind": "streetscape",
+  "backgroundClearance": 2,
+  "story": "Het Haringvliet bood een lang zicht langs kadehuizen en afgemeerde binnenvaartschepen. Jaap Tiemans kleurenopname uit 1939 toont de noordzijde, met het Ooglijdersgesticht bij de oostelijke havenmond in de verte. De verschillende gevelbreedten, dakkapellen en kroonlijsten maken de kade tot een herkenbare reeks, in plaats van één groot gebouw. Een veel oudere stereofoto uit 1860–1866, gemaakt vanaf de Spanjaardsbrug, geeft een tweede blik langs het havenwater. Die oudere opname is context en bewijst geen ongewijzigde gevels in 1939. Ook hier is het origineel al in kleur: de AI-versie corrigeert ouderdomszweem en helderheid, terwijl het archiefbeeld de bron blijft.",
+  "wikipedia": "https://nl.wikipedia.org/wiki/Haringvliet_(Rotterdam)",
+  "colorNote": "AI-beeldherstel en kleurcorrectie van een oorspronkelijk kleurenbeeld; details kunnen afwijken. Origineel blijft de historische bron.",
+  "periodNote": "Historische deelreconstructie van vóór mei 1940. De foto vermeldt het eigen bronjaar; eerdere bouwfasen kunnen verschillen van 1939.",
+  "description": "Een lichte deelreconstructie op de oorspronkelijke straatlocatie, met gevelritme, hoofdvolumes en dakvormen naar de archieffoto’s. Het model toont een beperkt fragment. Hoogten, individuele perceelbreedten en niet zichtbare achtergevels zijn benaderingen; geen ingemeten reconstructie.",
+  "sourceRegister": "landmarks/city33-sources.md",
+  "sources": [
+    {
+      "title": "Beeldregistratie · 2005-573-24",
+      "url": "https://hdl.handle.net/21.12133/B53867C43C624E78BC5E3DDD5C026BE2",
+      "role": "beeld",
+      "supports": "Opname: Zicht op het Haringvliet, panden en het Ooglijdersgesticht 1939. Bron voor de zichtbare gevels en omgeving; datering: 1939. Maker en rechten staan ook direct onder de foto.",
+      "checkedAt": "2026-09-28"
+    },
+    {
+      "title": "Bestandslicentie en metadata",
+      "url": "https://commons.wikimedia.org/wiki/File:Zicht_op_het_Haringvliet,_panden_en_het_Ooglijdersgesticht_1939.jpg",
+      "supports": "Specifiek archiefstuk / beeldregistratie: File:Zicht op het Haringvliet, panden en het Ooglijdersgesticht 1939.jpg. Onderbouwing beperkt tot wat de opname of archiefbeschrijving laat zien.",
+      "role": "beeld",
+      "checkedAt": "2026-09-28"
+    },
+    {
+      "title": "Extra archiefbeeld: Gezicht op het Haringvliet, Rotterdam. Uitzicht vanaf de Spanjaardsbrug Le Haringvliet, vue prise du Spanjuarsbrug (titel op object) Rotterdam (serietitel op object) Hollande (serietitel op object), RP-F-2000-65 · between 1860 and 1866",
+      "url": "https://hdl.handle.net/10934/RM0001.COLLECT.499267",
+      "supports": "Specifiek archiefstuk / beeldregistratie; zie de titel van deze bron. Onderbouwing beperkt tot wat de opname of archiefbeschrijving laat zien.",
+      "role": "beeld",
+      "checkedAt": "2026-09-28"
+    },
+    {
+      "title": "Stadsarchief Rotterdam · kaart NL-RtSA_4001_1972-755-1",
+      "url": "https://hdl.handle.net/21.12133/0ECE918126BF4C3FA46C52852F801492",
+      "role": "kaart",
+      "supports": "Ligging van straten en bouwblokken vóór mei 1940. De kaart is later uitgegeven; zij bewijst geen exacte bouwhoogten of gevelkleuren.",
+      "checkedAt": "2026-09-28"
+    },
+    {
+      "title": "Stadsarchief Rotterdam: ontstaan van de havenstad",
+      "url": "https://stadsarchief.rotterdam.nl/rotterdam",
+      "supports": "Algemene achtergrond over het ontstaan van havenstad Rotterdam. Geen specifieke onderbouwing voor de gevels; daarvoor dienen de gekoppelde archiefopname en kaart.",
+      "role": "achtergrond",
+      "checkedAt": "2026-09-28"
+    }
+  ],
+  "photos": [
+    {
+      "title": "Zicht op het Haringvliet, panden en het Ooglijdersgesticht 1939",
+      "date": "1939",
+      "author": "Jaap Tieman; Stadsarchief Rotterdam",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://hdl.handle.net/21.12133/B53867C43C624E78BC5E3DDD5C026BE2",
+      "sourceColor": true,
+      "src": "landmarks/haringvliet-west/foto-1-origineel.webp",
+      "ai": "landmarks/haringvliet-west/foto-1-ai.webp",
+      "shortTitle": "Archiefbeeld",
+      "aiLabel": "AI-beeldherstel",
+      "aiNote": "AI-beeldherstel en kleurcorrectie van een oorspronkelijk kleurenbeeld; details kunnen afwijken. Origineel blijft de historische bron.",
+      "identifier": "2005-573-24",
+      "sourceChecked": "2026-09-28"
+    }
+  ],
+  "wikipediaNote": "Aanvullend overzicht. De specifieke herkomst van beelden en informatie staat hierboven bij de bronverwijzingen."
+}
