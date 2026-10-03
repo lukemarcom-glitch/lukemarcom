@@ -15,9 +15,9 @@ assert.equal(ids.length, 5);
 assert.match(process.env.RELEASE || '', /^[a-f0-9]{40}$/);
 assert.match(process.env.PAGES_RUN || '', /^\d+$/);
 assert.equal(execFileSync('git', ['rev-parse', 'HEAD'], {encoding:'utf8'}).trim(), process.env.RELEASE, 'Local HEAD must match release');
-assert.equal(execFileSync('git', ['status', '--porcelain', '--', 'site'], {encoding:'utf8'}).trim(), '', 'Commit runtime changes before comparison');
+assert.equal(execFileSync('git', ['status', '--porcelain', '--untracked-files=no', '--', 'site'], {encoding:'utf8'}).trim(), '', 'Commit runtime changes before comparison');
 const catalog = JSON.parse(await fs.readFile('site/landmarks/catalog.json','utf8'));
-const paths = new Set(['index.html','app.js','landmarks/catalog.json','data/model-landmarks.json']);
+const paths = new Set(['index.html','app.js','landmarks/catalog.json','landmarks/city32-models.js','data/model-landmarks.json']);
 for (const id of ids) {
   const item = catalog.find(x => x.id === id);
   assert(item, `Missing location ${id}`);
@@ -34,6 +34,10 @@ for (const id of ids) {
 const files = [];
 for (const path of paths) {
   const local = await fs.readFile(`site/${path}`);
+  // Pages publishes the commit, not unrelated local research files. Require
+  // every compared asset to exist in that commit and match its actual bytes.
+  const committed = execFileSync('git', ['show', `${process.env.RELEASE}:site/${path}`], {maxBuffer:128*1024*1024});
+  assert(local.equals(committed), `Local asset differs from release: ${path}`);
   const response = await fetch(`https://rdam39.nl/${path}?verify=${process.env.RELEASE}`, {signal:AbortSignal.timeout(30000)});
   assert.equal(response.status, 200, path);
   const remote = Buffer.from(await response.arrayBuffer());

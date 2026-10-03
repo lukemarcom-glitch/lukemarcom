@@ -1,0 +1,10 @@
+# Lokale eindcontrole — 3 oktober 2026
+
+- Bron- en adresketen: panorama IX-943 uit 1939, adresboek p.133/134 (Goudschesingel 189b), kaart Z13 (189, perceel5396), gemeentelijke schadekaart. Root heeft foto, bronrechten, verlies en verfijnde kaartfit goedgekeurd. Zie BRONNEN.md.
+- Definitieve lichte voorbouw: 4,48 m vlakke frontgevel met twee raamassen, 3,69 m hoekgevel met één raam-as, twee bovenverdiepingen, sober vijfzijdig dak. Achterzijde beperkt tot circa9m. Plaatsing ±8m en hoogten ±3m; kleuren interpretatief.
+- Eerste grove werkkaartvorm is vervangen door Z13. Geen verplaatsing om een naburig model te ontwijken. Exacte geometriecontrole tegen alle191andere modellen: nul overlap; achtergrond989polygonen: nul overlap. Zie mesh-qa.json en background-qa.json. Dezelfde eindcontrole is voor alle vijf nieuwe locaties van ronde17 herhaald.
+- GLB/Blend opnieuw geëxporteerd uit definitieve geometrie met strak convex dak en beide hoofdopschriften. Geen rechthoekige dakplaat boven afgeschuinde hoek. Beide dak- en live-preview persoonlijk bekeken.
+- Builderuitbreiding alleen opt-in roofPolygon/body:false. Alle144bestaande modelSpec-modellen behouden exact dezelfde vertices, normals en materiaalwaarden als de oude builder. Definitieve Weinthalspec:38.673eindige coördinaten; vijf dakdriehoeken volgen alle vijf dakvoetpunten, nul overschrijding van hoeklijn. Zie renderer-regression.json. Gerichte regressietest in tests/polygon-roof.test.mjs.
+- npm run check:192locaties/18verhalen,358fotovermeldingen/333AI-paren,802MiB,14tests geslaagd. Geen foutmeldingen.
+- Gerichte browsercontrole: beide fotovarianten laden, geldige camera, desktop/fullscreen, mobiel fotopaneel/fullscreen, Nu3D, nul JS-/HTTP-fouten of overflow. Mobiele galerie, desktoplichtbak en live-modelafbeelding visueel bekeken. Zie browser-qa.json; screenshots lokaal in artifacts/round17-weinthal.
+- Alle192geometry.json-exporttussenbestanden veilig bewaard buiten publicatiemap in research/export-intermediates-20261003/round17-final. Geen publicatie of push door deze integratieagent.

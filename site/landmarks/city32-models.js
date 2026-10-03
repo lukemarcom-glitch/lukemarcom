@@ -98,8 +98,14 @@ export function buildCity32(meta,{material,box,merge}){
  for(const p of spec.parts){
   const g=part(root,p.x||0,p.z||0,p.angle||0),w=p.w,d=p.d,h=p.h;g.position.y=p.base||0;
   if(![w,d,h].every(n=>Number.isFinite(n)&&n>0))throw new Error(`Invalid envelope: ${meta.id}`);
-  b(g,0,h/2,0,w,h,d,p.wall||'brick');
-  if(p.roofAlongFront)roof(part(g,0,0,Math.PI/2),d,w,h,p.roofHeight||0,p.roof||'flat',mats[p.gableWall||'brick']);
+  if(p.body!==false)b(g,0,h/2,0,w,h,d,p.wall||'brick');
+  // A source-mapped corner can use a convex polygon roof without a rectangular
+  // cap protruding across its chamfer. Hidden roof slopes remain approximate.
+  if(p.roofPolygon){
+   if(p.roofPolygon.length<3||!p.roofPolygon.every(v=>v.length===2&&v.every(Number.isFinite)))throw new Error(`Invalid roof polygon: ${meta.id}`);
+   const apex=[p.roofApex?.[0]||0,h+(p.roofHeight||0),p.roofApex?.[1]||0];
+   for(let i=0;i<p.roofPolygon.length;i++){const a=p.roofPolygon[i],b=p.roofPolygon[(i+1)%p.roofPolygon.length];triangle(g,[[a[0],h,a[1]],[b[0],h,b[1]],apex],mats.roof)}
+  }else if(p.roofAlongFront)roof(part(g,0,0,Math.PI/2),d,w,h,p.roofHeight||0,p.roof||'flat',mats[p.gableWall||'brick']);
   else roof(g,w,d,h,p.roofHeight||0,p.roof||'flat',mats[p.gableWall||'brick']);
   if(p.windows===false&&p.pediment){const y=h+.15,r=p.pediment;triangle(g,[[-w*r/2,y,d/2+.08],[w*r/2,y,d/2+.08],[0,y+w*r*.28,d/2+.08]],mats[p.wall||'stone']);}
   if(p.windows!==false){facade(part(g,0,d/2+.02),w,p);if(p.sides!==false)for(const s of [-1,1])facade(part(g,s*w/2,0,s*Math.PI/2),d,p,true);if(p.back)facade(part(g,0,-d/2,Math.PI),w,p,true)}

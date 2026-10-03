@@ -1,0 +1,86 @@
+{
+  "scope": "Local mesh and background checks. Public deployment verified separately.",
+  "catalogCount": 192,
+  "items": [
+    {
+      "id": "torenpand-kalverstraat",
+      "mesh": {
+        "id": "torenpand-kalverstraat",
+        "catalogCount": 192,
+        "exactMeshesChecked": 191,
+        "meshArea": 130.7534552695784,
+        "overlaps": []
+      },
+      "background": {
+        "item": "torenpand-kalverstraat",
+        "backgroundCount": 989,
+        "overlaps": [],
+        "meshArea": 130.7534552695784
+      }
+    },
+    {
+      "id": "nieuwehaven163",
+      "mesh": {
+        "id": "nieuwehaven163",
+        "catalogCount": 192,
+        "exactMeshesChecked": 191,
+        "meshArea": 118.17239753196239,
+        "overlaps": []
+      },
+      "background": {
+        "item": "nieuwehaven163",
+        "backgroundCount": 989,
+        "overlaps": [],
+        "meshArea": 118.17239753196239
+      }
+    },
+    {
+      "id": "nieuwehaven161-drijver",
+      "mesh": {
+        "id": "nieuwehaven161-drijver",
+        "catalogCount": 192,
+        "exactMeshesChecked": 191,
+        "meshArea": 49.81390795506352,
+        "overlaps": []
+      },
+      "background": {
+        "item": "nieuwehaven161-drijver",
+        "backgroundCount": 989,
+        "overlaps": [],
+        "meshArea": 49.81390795506352
+      }
+    },
+    {
+      "id": "restaurant-wolff",
+      "mesh": {
+        "id": "restaurant-wolff",
+        "catalogCount": 192,
+        "exactMeshesChecked": 191,
+        "meshArea": 166.8587046392352,
+        "overlaps": []
+      },
+      "background": {
+        "item": "restaurant-wolff",
+        "backgroundCount": 989,
+        "overlaps": [],
+        "meshArea": 166.8587046392352
+      }
+    },
+    {
+      "id": "weinthal-goudsesingel",
+      "mesh": {
+        "id": "weinthal-goudsesingel",
+        "catalogCount": 192,
+        "exactMeshesChecked": 191,
+        "meshArea": 69.6397472690178,
+        "overlaps": []
+      },
+      "background": {
+        "item": "weinthal-goudsesingel",
+        "backgroundCount": 989,
+        "overlaps": [],
+        "meshArea": 69.6397472690178
+      }
+    }
+  ]
+}
