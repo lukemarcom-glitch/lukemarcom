@@ -4,6 +4,12 @@ Bijgewerkt: 3 oktober 2026.
 
 **Actueel openbaar geverifieerd:** 213 locaties / 18 verhalen, release `d836c2f0ffa7bb01f61435f4a137a4070dc516c2`, Pages `37133872704`. De laatste opdracht was één proefgebouw: Wijnhaven 69. Zie `SOL61-PROEF-20261003.md` en `SOL61-OPENBARE-*.json`. 106 toevoegingen uit de uitbreidingsreeks zijn openbaar gecontroleerd; volledige back-up100 opnieuw geverifieerd, volgende checkpoint110. De afzonderlijke oude lokale checkout bevat nog vijf ongepubliceerde ronde22-items; deze zijn niet deel van de openbare catalogus. Oude aantallen/statussen hieronder zijn historisch logboek, geen actuele inventaris.
 
+## Lopende opdracht: vijf volgende gebouwen
+
+Gebruiker heeft na de ééngebouwproef nog vijf toevoegingen gevraagd. De vijf ongepubliceerde ronde22-kandidaten worden in de actuele worktree op release f3dc28b opnieuw gecontroleerd en geïntegreerd met behoud van Wijnhaven69. De oorspronkelijke vuile checkout blijft ongewijzigd; geen blind pull/reset/clean daarop uitvoeren. Huidige lokale catalogus 218 / 18 verhalen, vijf gerichte browsercontroles en PlanC geslaagd; 14 tests groen en zeven modelchecks overlapvrij/GLB-pariteit. Definitieve Hoogstraat-AI met twee originele bordjes op expliciete toestemming goedgekeurd. Openbare deployment/controle nog niet voltooid. Zie SOL61-VIJF-20261003.md.
+
+Gebruikerswijziging 3 oktober2026: **geen nieuwe GitHub-back-ups/back-uptags meer**. Reguliere commits, pushes en Pages-publicaties blijven geautoriseerd. Eerdere back-ups blijven bestaan. De eerdere instructie een nieuwe tag bij110 naar GitHub te pushen is hierdoor vervallen.
+
 ## Doel en huidige staat
 
 RDAM39 is een Nederlandstalige ruimtelijke verkenning van Rotterdam vóór mei 1940, met historische foto's, AI-interpretaties, een moderne vergelijking en een afzonderlijke WOII-verhalenlaag. De eigenaar koos op GitHub de repositorynaam **lukemarcom**, eigenaar **lukemarcom-glitch**, omschrijving **Hobbyprojecten**. De eigenaar heeft op 26 september 2026 expliciet gevraagd de repository openbaar te maken en GitHub te koppelen, zodat ook Claude aan het project kan werken.

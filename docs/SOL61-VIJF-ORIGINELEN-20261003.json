@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hoogstraat-353",
+    "source": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg",
+    "sha256": "f8aec159c365858c0f6f13d150bb8632cedf16139d41a4e85956816399c35ce1",
+    "unchangedAgainst": "release baseline",
+    "passed": true
+  },
+  {
+    "id": "hoogstraat-357",
+    "source": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg",
+    "sha256": "f8aec159c365858c0f6f13d150bb8632cedf16139d41a4e85956816399c35ce1",
+    "unchangedAgainst": "release baseline",
+    "passed": true
+  },
+  {
+    "id": "haringvliet91",
+    "source": "landmarks/haringvliet87/foto-1-origineel.jpg",
+    "sha256": "c77e1eb81a3e76969e450a5a79f92e615964d3f611fd6325308faf74e58db46c",
+    "unchangedAgainst": "release baseline",
+    "passed": true
+  },
+  {
+    "id": "posthoornsteeg3",
+    "source": "landmarks/posthoornsteeg3/foto-1-origineel.jpg",
+    "sha256": "edb28b163aec3e7ecdf7aa7db7e284116f08dfcfaa9eeee9473c9374700e11bc",
+    "unchangedAgainst": "original pending source file",
+    "passed": true
+  },
+  {
+    "id": "posthoornsteeg1",
+    "source": "landmarks/posthoornsteeg1/foto-1-origineel.jpg",
+    "sha256": "edb28b163aec3e7ecdf7aa7db7e284116f08dfcfaa9eeee9473c9374700e11bc",
+    "unchangedAgainst": "original pending source file",
+    "passed": true
+  }
+]

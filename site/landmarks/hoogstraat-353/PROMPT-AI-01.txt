@@ -1,0 +1,1 @@
+Nieuwe afgeleide gebruikt volledige prompt in ../hoogstraat-353/PROMPT-AI-20261003.md. Daarna niet-generatieve terugplaatsing van twee bronbordjes met expliciete toestemming; methode en hashes ../hoogstraat-353/BEELDCORRECTIE.md en .json. Oude gedeelde AI niet meer geselecteerd voor deze nieuwe locatie.

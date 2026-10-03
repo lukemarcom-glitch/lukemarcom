@@ -1,0 +1,27 @@
+{
+  "baseline": "f3dc28b2e8e204196fce5b49e2195f10029cd307",
+  "new": [
+    "hoogstraat-353",
+    "hoogstraat-357",
+    "haringvliet91",
+    "posthoornsteeg3",
+    "posthoornsteeg1"
+  ],
+  "changed": {
+    "haringvliet89": [
+      "center",
+      "angle",
+      "polygon",
+      "modelWidth",
+      "modelSpec",
+      "placementNote",
+      "exclusionPolygon",
+      "footprints"
+    ],
+    "kaplaars-hoogstraat": [
+      "sources"
+    ]
+  },
+  "wijnhaven69And67Unchanged": true,
+  "remainingExistingUnchanged": 211
+}

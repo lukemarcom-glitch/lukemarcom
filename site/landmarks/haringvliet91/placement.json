@@ -1,0 +1,57 @@
+{
+  "source": "SAR 40110-Z18",
+  "sourceFront": [
+    [
+      2497,
+      2380
+    ],
+    [
+      2556,
+      2368
+    ]
+  ],
+  "workFront": [
+    [
+      3888.508425268249,
+      2257.156075260692
+    ],
+    [
+      3903.052138431314,
+      2249.4591204473327
+    ]
+  ],
+  "worldFront": [
+    [
+      572.7824803666379,
+      107.2621689904372
+    ],
+    [
+      581.4819578706454,
+      111.96557200666234
+    ]
+  ],
+  "affine": [
+    [
+      0.2568006649539063,
+      -0.08141907208704847
+    ],
+    [
+      0.050627172434639246,
+      0.24110246335197205
+    ],
+    [
+      3134.7844944839035,
+      1876.6356354843585
+    ]
+  ],
+  "localCorrection": [
+    -8,
+    10
+  ],
+  "parcel": "F548",
+  "width": 9.889535316473095,
+  "depth": 10,
+  "positionUncertainty": 10,
+  "heightUncertainty": 3,
+  "note": "Historisch front onafhankelijk afgelezen. Bestaande Z18-straatankerfit met eerdere lokale rooilijncorrectie hergebruikt. Onbekende achterbouw niet ingevuld. Rechter buur89 gebruikte eerder iets westelijker bronfront; grensvoorstel apart te beoordelen."
+}

@@ -1,0 +1,59 @@
+{
+  "source": "lukemarcom/site/landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg",
+  "sourceSize": [
+    2127,
+    2950
+  ],
+  "targetSize": [
+    1065,
+    1477
+  ],
+  "polygons": [
+    [
+      [
+        254,
+        931
+      ],
+      [
+        303,
+        934
+      ],
+      [
+        303,
+        951
+      ],
+      [
+        254,
+        948
+      ]
+    ],
+    [
+      [
+        347,
+        920
+      ],
+      [
+        398,
+        922
+      ],
+      [
+        398,
+        939
+      ],
+      [
+        347,
+        938
+      ]
+    ]
+  ],
+  "interpolation": "LANCZOS",
+  "inwardFeatherRadiusPixels": 0.55,
+  "outsideMaskPixelChanges": 0,
+  "webpLosslessPixelEquality": true,
+  "sha256": {
+    "foto-1-origineel.jpg": "f8aec159c365858c0f6f13d150bb8632cedf16139d41a4e85956816399c35ce1",
+    "hoogstraat-ai-probe01-AFGEKEURD.png": "0f58c46e744d3bfb9a90904d5bd67587592c8aa13581ca604919ed371ce508fe",
+    "hoogstraat-ai-bronbordjes-v1.png": "0e0320e6a543c54b05247c3834fc617ee9ad77d9724a2a7940c24ef2369d9363",
+    "hoogstraat-ai-bronbordjes-v1.webp": "af8e2edbd28f9c516813c05949cdf3a02977ced7123cdbd0ce9a6a9ebe6472d7"
+  }
+}

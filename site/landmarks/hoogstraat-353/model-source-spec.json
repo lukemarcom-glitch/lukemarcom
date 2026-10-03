@@ -1,0 +1,1079 @@
+{
+  "id": "hoogstraat-353",
+  "name": "Winkelhuis Hoogstraat 353",
+  "modelFamily": "city33",
+  "modelSpec": {
+    "colors": {
+      "brick": "#8b7161",
+      "stone": "#b4ac98",
+      "trim": "#d0c5ac",
+      "roof": "#625f54",
+      "glass": "#465958",
+      "dark": "#383f39"
+    },
+    "parts": [
+      {
+        "w": 5.770916129841383,
+        "d": 8.2,
+        "h": 16.1,
+        "roof": "none",
+        "windows": false
+      }
+    ],
+    "accents": [
+      {
+        "x": 0,
+        "y": 1.7,
+        "z": 4.14,
+        "w": 5.520916129841383,
+        "h": 3.1,
+        "d": 0.09,
+        "material": "dark"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 1.6,
+        "z": 4.22,
+        "w": 1.5870019357063803,
+        "h": 2.7,
+        "d": 0.07,
+        "material": "glass"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 3.35,
+        "z": 4.22,
+        "w": 1.5581473550571734,
+        "h": 0.38,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 1.6,
+        "z": 4.22,
+        "w": 1.5870019357063803,
+        "h": 2.7,
+        "d": 0.07,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 3.35,
+        "z": 4.22,
+        "w": 1.5581473550571734,
+        "h": 0.38,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 1.6,
+        "z": 4.22,
+        "w": 1.5870019357063803,
+        "h": 2.7,
+        "d": 0.07,
+        "material": "glass"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 3.35,
+        "z": 4.22,
+        "w": 1.5581473550571734,
+        "h": 0.38,
+        "d": 0.08,
+        "material": "glass"
+      },
+      {
+        "x": -2.7988943229730707,
+        "y": 1.8,
+        "z": 4.29,
+        "w": 0.13,
+        "h": 3.6,
+        "d": 0.18,
+        "material": "trim"
+      },
+      {
+        "x": -0.9233465807746213,
+        "y": 1.8,
+        "z": 4.29,
+        "w": 0.13,
+        "h": 3.6,
+        "d": 0.18,
+        "material": "trim"
+      },
+      {
+        "x": 0.9233465807746213,
+        "y": 1.8,
+        "z": 4.29,
+        "w": 0.13,
+        "h": 3.6,
+        "d": 0.18,
+        "material": "trim"
+      },
+      {
+        "x": 2.7988943229730707,
+        "y": 1.8,
+        "z": 4.29,
+        "w": 0.13,
+        "h": 3.6,
+        "d": 0.18,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 3.75,
+        "z": 4.239999999999999,
+        "w": 5.770916129841383,
+        "h": 0.28,
+        "d": 0.22,
+        "material": "dark"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 5.55,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.77,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 5.55,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.55,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 5.55,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.4499999999999997,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 5.55,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.55,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 5.9325,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 4.195,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 5.55,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.77,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 5.55,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.55,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 5.55,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.4499999999999997,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 5.55,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.55,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 5.9325,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 4.195,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 5.55,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.77,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 5.55,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.55,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 5.55,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.4499999999999997,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 5.55,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.55,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 5.9325,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 4.195,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 8.65,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.77,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 8.65,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.55,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 8.65,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.4499999999999997,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 8.65,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.55,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 9.0325,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 7.295,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 8.65,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.77,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 8.65,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.55,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 8.65,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.4499999999999997,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 8.65,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.55,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 9.0325,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 7.295,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 8.65,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.77,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 8.65,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.55,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 8.65,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.4499999999999997,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 8.65,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.55,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 9.0325,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 7.295,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 11.65,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.47,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 11.65,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.25,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 11.65,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.15,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 11.65,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.25,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 11.9875,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 10.445,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 11.65,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.47,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 11.65,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.25,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 11.65,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.15,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 11.65,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.25,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 11.9875,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 10.445,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 11.65,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.47,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 11.65,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.25,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 11.65,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 2.15,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 11.65,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.25,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 11.9875,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 10.445,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 14.55,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.22,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 14.55,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.0,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 14.55,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 1.9,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 14.55,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.0,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 14.850000000000001,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": -1.8466931615492426,
+        "y": 13.47,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 14.55,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.22,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 14.55,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.0,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 14.55,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 1.9,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 0,
+        "y": 14.55,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.0,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 14.850000000000001,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 13.47,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 14.55,
+        "z": 4.21,
+        "w": 1.3830378066174833,
+        "h": 2.22,
+        "d": 0.13,
+        "material": "stone"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 14.55,
+        "z": 4.29,
+        "w": 1.1830378066174834,
+        "h": 2.0,
+        "d": 0.08,
+        "material": "dark"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 14.55,
+        "z": 4.35,
+        "w": 1.0630378066174835,
+        "h": 1.9,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 14.55,
+        "z": 4.3999999999999995,
+        "w": 0.055,
+        "h": 2.0,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 14.850000000000001,
+        "z": 4.3999999999999995,
+        "w": 1.1830378066174834,
+        "h": 0.06,
+        "d": 0.045,
+        "material": "trim"
+      },
+      {
+        "x": 1.8466931615492426,
+        "y": 13.47,
+        "z": 4.34,
+        "w": 1.4830378066174834,
+        "h": 0.12,
+        "d": 0.24,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 3.95,
+        "z": 4.21,
+        "w": 5.870916129841382,
+        "h": 0.16,
+        "d": 0.27,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 16.0,
+        "z": 4.21,
+        "w": 5.870916129841382,
+        "h": 0.16,
+        "d": 0.27,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 16.3,
+        "z": 4.21,
+        "w": 5.870916129841382,
+        "h": 0.16,
+        "d": 0.27,
+        "material": "trim"
+      },
+      {
+        "x": 0,
+        "y": 15.85,
+        "z": 4.14,
+        "w": 5.770916129841383,
+        "h": 0.6,
+        "d": 0.15,
+        "material": "stone"
+      },
+      {
+        "x": -2.4814939358317947,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": -1.772495668451282,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": -1.0634974010707692,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": -0.3544991336902563,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": 0.3544991336902563,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": 1.063497401070769,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": 1.772495668451282,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      },
+      {
+        "x": 2.4814939358317947,
+        "y": 16.08,
+        "z": 4.33,
+        "w": 0.14,
+        "h": 0.23,
+        "d": 0.26,
+        "material": "stone"
+      }
+    ],
+    "vertexDeform": {
+      "frontZ": 4.1,
+      "minX": -2.7954580649206915,
+      "minXSlope": 0.02719971630653364,
+      "maxX": 2.8054580649206913
+    }
+  },
+  "modelWidth": 5.770916129841383,
+  "modelDepth": 8.2,
+  "height": 16.5,
+  "center": [
+    -67.66069193785326,
+    186.91929403636541
+  ],
+  "angle": 0.3256448923792665,
+  "polygon": [
+    [
+      -69.08283223379203,
+      182.1116558196229
+    ],
+    [
+      -63.61520885429877,
+      183.95788645464177
+    ],
+    [
+      -66.2385516419145,
+      191.72693225310792
+    ],
+    [
+      -71.70617502140776,
+      189.88070161808906
+    ]
+  ],
+  "uncertaintyMeters": 8,
+  "backgroundClearance": 0.2,
+  "placementStatus": "approximate-reconstruction",
+  "kind": "building",
+  "cameraDistance": 40,
+  "modelDownload": "landmarks/hoogstraat-353/model.glb",
+  "sourceRegister": "landmarks/hoogstraat-353/BRONNEN.md",
+  "description": "Een hoog winkelhuis met drie vensterassen en vier bovenlagen, naast Monnickendam.",
+  "periodNote": "Gevel naar maart 1930; een straatfoto uit 1938 ondersteunt het voortbestaan van de rij, maar verifieert niet ieder geveldetail voor 1939.",
+  "colorNote": "Baksteen, lichte afwerking, kozijnen en winkelpui zijn naar zwart-witbeeld geïnterpreteerd; precieze historische verftinten en vlagkleuren zijn niet bewezen.",
+  "placementNote": "Hoogstraat 353, perceel 2108. Nummerkaart Z7 via vier onafhankelijke blokhoeken op de werkkaart. Plaatsing circa 8 m onzeker; hoogte, voorbouwdiepte, daken en onzichtbare achterzijde zijn benaderd.",
+  "story": "Tussen het hoekpand van Monnickendam en schoenenwinkel De Kaplaars stond dit hoge winkelhuis op Hoogstraat 353. Op de foto uit maart 1930 zijn drie vensterassen en vier bovenlagen onder een brede kroonlijst zichtbaar. Bij de pui hangt een bord MONNICKENDAM; een afzonderlijke winkelnaam voor dit pand is niet vastgesteld. Het model behandelt de eigen gevel als afzonderlijk gebouw, zonder daarmee een zelfstandige onderneming te veronderstellen.\n\nDe huisnummerkaart verbindt dit pand met de verwoeste Hoogstraatstrook op de gemeentelijke schadekaart van 1940. Daarmee is het verlies door het bombardement van 14 mei 1940 en de daaropvolgende brand op blokniveau onderbouwd; een individuele bominslag is niet vastgesteld. Een opname uit 1938 toont de straatrij nog. Hoogte, diepte, dak en achterzijde blijven benaderingen. Het getoonde hele straatfotopaar wordt met de aangrenzende locaties gedeeld en is geen onafhankelijke tweede opname.",
+  "sources": [
+    {
+      "title": "Stadsarchief Rotterdam · Monnickendam en De Kaplaars, maart 1930",
+      "url": "https://proxy.archieven.nl/0/F162F8DE6E5143EEBFE704E27192E16A",
+      "supports": "F.H. van Dijk, 1976-11286, collectie 4117, CC0. Hele hoekpand Monnickendam, tussenhuis 353 en de lagere lichte Kaplaarsgevel zichtbaar. Ondersteunt gevelindeling en leesbare winkelopschriften. De archieftitel noemt Westewagenstraat; de nummerkaart en adresboek wijzen op de Spuihoek."
+    },
+    {
+      "title": "Historische huisnummerkaart Z7 · Kadaster",
+      "url": "https://proxy.archieven.nl/0/D700FD6460F741D59E7F3F4597BFC6C6",
+      "supports": "Hoogstraat 353 op perceel 2108. Nummerkaart identificeert afzonderlijke fronten. Catalogusdatum 1938, bladnetplan uit 1926 met latere mutaties; geen zelfstandige datering van elk gebouw."
+    },
+    {
+      "title": "Gemeentelijke schadekaart I-210-01A · 1940",
+      "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+      "supports": "De Hoogstraatstrook tussen Spui en Westewagenstraat is geel als verwoest aangegeven, zonder herstelbare uitzondering. Gekoppeld aan de huisnummerkaart onderbouwt dit verlies in mei 1940 op blokniveau; geen individuele bominslag of exacte brandtijd bewezen."
+    },
+    {
+      "title": "Stadsarchief Rotterdam · Hoogstraat bij Spui in de regen, 1938",
+      "url": "https://proxy.archieven.nl/0/0234E21671014EAFA674F8778D8FDCA2",
+      "supports": "IX-1432, 4202, Groot Rotterdam/Spaarnestad. Straatrij nog aanwezig in 1938; schuin beeld, geen afzonderlijke verificatie van ieder geveldetail. Alleen onderzoeksreferentie, niet als galeriebeeld hergebruikt."
+    }
+  ],
+  "photos": [
+    {
+      "id": "hoogstraat-monnickendam-kaplaars1930",
+      "src": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg",
+      "ai": "landmarks/hoogstraat-353/foto-1-ai.webp",
+      "title": "Monnickendam, De Kaplaars en het Spui · maart 1930",
+      "date": "maart 1930",
+      "author": "François Henry (F.H.) van Dijk",
+      "source": "Stadsarchief Rotterdam",
+      "identifier": "4117 · 1976-11286",
+      "url": "https://proxy.archieven.nl/0/F162F8DE6E5143EEBFE704E27192E16A",
+      "archiveUrl": "https://proxy.archieven.nl/0/F162F8DE6E5143EEBFE704E27192E16A",
+      "license": "CC0 volgens Stadsarchief Rotterdam",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceChecked": "2026-10-03",
+      "note": "Hoogstraat 353 is de hoge gevel direct links van hoekpand Monnickendam, tussen 351 en De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui.",
+      "aiLabel": "AI in kleur · originele bordjes teruggeplaatst",
+      "aiNote": "Afzonderlijke AI-kleurinterpretatie van dezelfde historische opname. Twee kleine winkelbordjes zijn met expliciete toestemming uit het oorspronkelijke zwart-witbeeld teruggeplaatst om de bewezen MONNICKENDAM-spelling en bordvorm te behouden. Overige architectuur en scène behouden in hoofdvorm. Kleuren, vlagkleuren, winkelinhoud en fijne details blijven interpretaties. Geen historische kleurenfoto of actuele opname; het ongewijzigde origineel blijft het bewijs.",
+      "aiMaster": "landmarks/hoogstraat-353/foto-1-ai.png"
+    }
+  ],
+  "exclusionPolygon": [
+    [
+      -68.68603515625,
+      181.8656768798828
+    ],
+    [
+      -68.91519927978516,
+      181.8727264404297
+    ],
+    [
+      -68.92549896240234,
+      181.90618896484375
+    ],
+    [
+      -71.40959167480469,
+      189.98085021972656
+    ],
+    [
+      -66.31434631347656,
+      191.7013397216797
+    ],
+    [
+      -63.65901184082031,
+      183.83755493164062
+    ],
+    [
+      -63.61102294921875,
+      183.6954345703125
+    ],
+    [
+      -63.60142517089844,
+      183.66700744628906
+    ],
+    [
+      -63.78166198730469,
+      183.52171325683594
+    ],
+    [
+      -63.81645202636719,
+      183.5099639892578
+    ],
+    [
+      -67.28093719482422,
+      182.34011840820312
+    ],
+    [
+      -68.6512451171875,
+      181.87741088867188
+    ]
+  ],
+  "footprints": [
+    [
+      [
+        -68.68603515625,
+        181.8656768798828
+      ],
+      [
+        -68.91519927978516,
+        181.8727264404297
+      ],
+      [
+        -68.92549896240234,
+        181.90618896484375
+      ],
+      [
+        -71.40959167480469,
+        189.98085021972656
+      ],
+      [
+        -66.31434631347656,
+        191.7013397216797
+      ],
+      [
+        -63.65901184082031,
+        183.83755493164062
+      ],
+      [
+        -63.61102294921875,
+        183.6954345703125
+      ],
+      [
+        -63.60142517089844,
+        183.66700744628906
+      ],
+      [
+        -63.78166198730469,
+        183.52171325683594
+      ],
+      [
+        -63.81645202636719,
+        183.5099639892578
+      ],
+      [
+        -67.28093719482422,
+        182.34011840820312
+      ],
+      [
+        -68.6512451171875,
+        181.87741088867188
+      ]
+    ]
+  ]
+}

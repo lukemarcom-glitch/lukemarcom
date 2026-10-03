@@ -46,5 +46,28 @@ for i in gltf['scenes'][gltf.get('scene',0)]['nodes']:visit(i,np.eye(4))
 cx,cy=target['center'];runtime=[[[v[0]-cx,v[1],v[2]+cy] for v in t] for t in target['triangles']]
 def key(t):return tuple(sorted(tuple(round(float(v),3) for v in vertex) for vertex in t))
 r=collections.Counter(map(key,runtime));g=collections.Counter(map(key,glbtri));parity=(r==g)
-report={'id':slug,'catalogCount':len(all_mesh),'method':'World transformed exact runtime triangle projections, compared to all models and background polygons; independently parsed GLB node transforms and unordered triangle multisets rounded to 1 mm','projectedAreaM2':a.area,'outsideWorkBoundaryM2':outside,'modelOverlaps':hits,'backgroundOverlaps':bghits,'runtimeTriangles':len(runtime),'glbTriangles':len(glbtri),'glbGeometryParity':parity,'runtimeOnlyTriangles':sum((r-g).values()),'glbOnlyTriangles':sum((g-r).values()),'passed':not hits and not bghits and parity and outside<1e-6}
+# Rounding bins can split sub-micron differences exactly at a half-mm boundary.
+# Check remaining triangles one-to-one under all vertex permutations at 0.5 mm.
+maxResidualError=0.0
+if not parity and len(runtime)==len(glbtri):
+ import itertools
+ rc=r-g;gc=g-r;ra=[];ga=[]
+ for t in runtime:
+  k=key(t)
+  if rc[k]>0:ra.append(np.array(t));rc[k]-=1
+ for t in glbtri:
+  k=key(t)
+  if gc[k]>0:ga.append(np.array(t));gc[k]-=1
+ residualValid=True
+ for rt in ra:
+  candidates=[]
+  for j,gt in enumerate(ga):
+   err=min(float(np.max(np.abs(rt-gt[list(perm)]))) for perm in itertools.permutations(range(3)))
+   candidates.append((err,j))
+  if not candidates:residualValid=False;break
+  err,j=min(candidates);maxResidualError=max(maxResidualError,err)
+  if err>0.0005:residualValid=False;break
+  ga.pop(j)
+ parity=residualValid and not ga
+report={'id':slug,'catalogCount':len(all_mesh),'method':'World transformed exact runtime triangle projections, compared to all models and background polygons; independently parsed GLB node transforms and unordered triangle multisets rounded to 1 mm','projectedAreaM2':a.area,'outsideWorkBoundaryM2':outside,'modelOverlaps':hits,'backgroundOverlaps':bghits,'runtimeTriangles':len(runtime),'glbTriangles':len(glbtri),'glbGeometryParity':parity,'maxResidualCoordinateErrorM':maxResidualError,'runtimeOnlyTriangles':sum((r-g).values()),'glbOnlyTriangles':sum((g-r).values()),'passed':not hits and not bghits and parity and outside<1e-6}
 (root/f'research/sol61-controle/{slug}-mesh-qa.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2));sys.exit(0 if report['passed'] else 1)
