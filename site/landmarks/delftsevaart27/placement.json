@@ -1,0 +1,63 @@
+{
+  "researchOnly": true,
+  "slug": "delftsevaart27",
+  "sourcePixels": [
+    [
+      2618,
+      3703
+    ],
+    [
+      2654,
+      3705
+    ],
+    [
+      2661,
+      3645
+    ],
+    [
+      2625,
+      3643
+    ]
+  ],
+  "workingMapPixels": [
+    [
+      2492.9437513203607,
+      1523.2872450717186
+    ],
+    [
+      2498.7193084279797,
+      1530.642848926683
+    ],
+    [
+      2511.60658251944,
+      1521.731217047369
+    ],
+    [
+      2505.831025411821,
+      1514.3756131924047
+    ]
+  ],
+  "localPolygon": [
+    [
+      -266.4161588402742,
+      537.701923788643
+    ],
+    [
+      -262.93014466660657,
+      533.334451459956
+    ],
+    [
+      -255.2277711673662,
+      538.75453453828
+    ],
+    [
+      -258.7137853410338,
+      543.122006866967
+    ]
+  ],
+  "mapParcel": "1005",
+  "widthMeters": 5.588122167674754,
+  "illustrativeFrontDepthMeters": 9.418272564421525,
+  "uncertaintyMeters": 8,
+  "method": "Same independently identified Oppert/Stokviswater and Oppert/Sint-Jacob streetcorner fit as Chevalier. Sourcefront number read in native Z8; not fitted to existing models. Depth is deliberately conservative proposal, not proven rearwall."
+}

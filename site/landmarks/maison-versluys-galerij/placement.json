@@ -1,0 +1,83 @@
+{
+  "status": "research only; root must review parcel and source-photo mass split",
+  "sourceMap": "40110-Z8 1938",
+  "sourceUrl": "https://proxy.archieven.nl/0/2D641F4B5AE14C008740B00DF7B61BCB",
+  "sourceControls": [
+    [
+      1871.5,
+      3644.0
+    ],
+    [
+      2011.0,
+      3308.0
+    ]
+  ],
+  "workmapControls": [
+    [
+      2374.0,
+      1361.25
+    ],
+    [
+      2456.25,
+      1332.5
+    ]
+  ],
+  "sourcePolygon": [
+    [
+      1896.5,
+      3561.0
+    ],
+    [
+      1928.5,
+      3567.5
+    ],
+    [
+      1908.0,
+      3649.5
+    ],
+    [
+      1871.5,
+      3644.0
+    ],
+    [
+      1881.0,
+      3610.0
+    ],
+    [
+      1877.5,
+      3607.0
+    ]
+  ],
+  "worldPolygon": [
+    [
+      -326.98679120851443,
+      639.3528489127975
+    ],
+    [
+      -324.5978786120954,
+      635.336320113785
+    ],
+    [
+      -335.3111822849992,
+      629.5708705901
+    ],
+    [
+      -338.24002629489814,
+      633.9669901056346
+    ],
+    [
+      -333.7016232734718,
+      636.2516832703233
+    ],
+    [
+      -333.71895450778584,
+      636.9125154270248
+    ]
+  ],
+  "center": [
+    -332.0927426969608,
+    635.2318714032775
+  ],
+  "uncertaintyMeters": 5,
+  "note": "Whole parcel2161/Galerij14. Low northern frontage plus higher corner building; not all full height. No catalog mutations."
+}

@@ -1,0 +1,23 @@
+{
+  "models": {
+    "catalogCount": 202,
+    "otherMeshesPerItem": 201,
+    "overlaps": {
+      "delftsevaart26": [],
+      "delftsevaart27": [],
+      "maison-versluys-galerij": [],
+      "smederij-jufferstraat": [],
+      "delftsevaart25": []
+    }
+  },
+  "background": {
+    "backgroundCount": 990,
+    "overlaps": {
+      "delftsevaart26": [],
+      "delftsevaart27": [],
+      "maison-versluys-galerij": [],
+      "smederij-jufferstraat": [],
+      "delftsevaart25": []
+    }
+  }
+}

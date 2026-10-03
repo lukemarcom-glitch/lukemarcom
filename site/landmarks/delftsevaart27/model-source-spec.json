@@ -1,0 +1,735 @@
+{
+  "id": "delftsevaart27",
+  "name": "Winkelhuis · Delftsevaart 27",
+  "kind": "building",
+  "modelFamily": "city33",
+  "modelSpec": {
+    "colors": {
+      "brick": "#82796b",
+      "stone": "#c6beab",
+      "trim": "#d4cdb9",
+      "roof": "#585a51",
+      "glass": "#475952",
+      "dark": "#343d35"
+    },
+    "parts": [
+      {
+        "w": 5.348122167674754,
+        "d": 7.750000000000001,
+        "z": -0.525,
+        "h": 11.7,
+        "roof": "none",
+        "windows": false
+      },
+      {
+        "w": 5.348122167674754,
+        "d": 1.05,
+        "z": 3.8750000000000004,
+        "h": 3.25,
+        "roof": "none",
+        "windows": false
+      },
+      {
+        "w": 5.348122167674754,
+        "d": 1.05,
+        "z": 3.8750000000000004,
+        "base": 6.45,
+        "h": 5.249999999999999,
+        "roof": "none",
+        "windows": false
+      },
+      {
+        "w": 4.7481221676747545,
+        "d": 8.600000000000001,
+        "h": 11.7,
+        "body": false,
+        "roof": "hip",
+        "roofHeight": 0.85,
+        "windows": false
+      }
+    ],
+    "accents": [
+      {
+        "x": -2.564061083837377,
+        "y": 4.85,
+        "z": 4.300000000000001,
+        "w": 0.22,
+        "h": 3.2,
+        "d": 0.55,
+        "material": "brick"
+      },
+      {
+        "x": 2.564061083837377,
+        "y": 4.85,
+        "z": 4.300000000000001,
+        "w": 0.22,
+        "h": 3.2,
+        "d": 0.55,
+        "material": "brick"
+      },
+      {
+        "x": 0,
+        "y": 4.83,
+        "z": 3.3900000000000006,
+        "w": 4.968122167674754,
+        "h": 2.8,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 3.4,
+        "z": 4.58,
+        "w": 5.348122167674754,
+        "h": 0.18,
+        "d": 0.6,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 4.29,
+        "z": 4.7700000000000005,
+        "w": 5.228122167674754,
+        "h": 0.1,
+        "d": 0.07,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 3.67,
+        "z": 4.7700000000000005,
+        "w": 5.228122167674754,
+        "h": 0.1,
+        "d": 0.07,
+        "material": "dark"
+      },
+      {
+        "x": -2.524061083837377,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -2.2946009853067064,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -2.0651408867760357,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -1.8356807882453654,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -1.6062206897146947,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -1.376760591184024,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -1.1473004926533534,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -0.9178403941226827,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -0.688380295592012,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -0.45892019706134146,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -0.22946009853067073,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0.0,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0.2294600985306703,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0.45892019706134146,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0.6883802955920117,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0.9178403941226829,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 1.1473004926533532,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 1.3767605911840235,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 1.6062206897146942,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 1.8356807882453654,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 2.0651408867760357,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 2.294600985306706,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 2.524061083837377,
+        "y": 3.98,
+        "z": 4.7700000000000005,
+        "w": 0.048,
+        "h": 0.68,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": -1.6579178719791738,
+        "y": 5.0,
+        "z": 4.48,
+        "w": 0.07,
+        "h": 2.92,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 5.0,
+        "z": 4.48,
+        "w": 0.07,
+        "h": 2.92,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 1.6579178719791738,
+        "y": 5.0,
+        "z": 4.48,
+        "w": 0.07,
+        "h": 2.92,
+        "d": 0.06,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 6.08,
+        "z": 4.6000000000000005,
+        "w": 4.9981221676747545,
+        "h": 0.13,
+        "d": 0.58,
+        "material": "dark"
+      },
+      {
+        "x": 0,
+        "y": 6.55,
+        "z": 4.48,
+        "w": 5.348122167674754,
+        "h": 0.15,
+        "d": 0.2,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 11.54,
+        "z": 4.48,
+        "w": 5.348122167674754,
+        "h": 0.15,
+        "d": 0.2,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 11.73,
+        "z": 4.48,
+        "w": 5.348122167674754,
+        "h": 0.15,
+        "d": 0.2,
+        "material": "stone"
+      },
+      {
+        "x": 0,
+        "y": 1.58,
+        "z": 4.45,
+        "w": 5.098122167674754,
+        "h": 2.96,
+        "d": 0.09,
+        "material": "dark"
+      },
+      {
+        "x": 0.6,
+        "y": 1.73,
+        "z": 4.5200000000000005,
+        "w": 3.101910857251357,
+        "h": 2.3,
+        "d": 0.07,
+        "material": "glass"
+      },
+      {
+        "x": -1.6579178719791738,
+        "y": 1.59,
+        "z": 4.54,
+        "w": 1.03,
+        "h": 2.83,
+        "d": 0.07,
+        "material": "trim"
+      },
+      {
+        "x": -1.6579178719791738,
+        "y": 1.78,
+        "z": 4.61,
+        "w": 0.81,
+        "h": 2.13,
+        "d": 0.05,
+        "material": "glass"
+      },
+      {
+        "x": 0.6,
+        "y": 0.56,
+        "z": 4.590000000000001,
+        "w": 3.101910857251357,
+        "h": 0.57,
+        "d": 0.1,
+        "material": "stone"
+      }
+    ],
+    "facadeWindows": [
+      {
+        "x": -1.7113990936559214,
+        "y": 7.81,
+        "z": 4.42,
+        "w": 1.13,
+        "h": 1.99
+      },
+      {
+        "x": 0,
+        "y": 7.81,
+        "z": 4.42,
+        "w": 1.13,
+        "h": 1.99
+      },
+      {
+        "x": 1.7113990936559214,
+        "y": 7.81,
+        "z": 4.42,
+        "w": 1.13,
+        "h": 1.99
+      },
+      {
+        "x": -1.7113990936559214,
+        "y": 10.27,
+        "z": 4.42,
+        "w": 1.13,
+        "h": 2.01
+      },
+      {
+        "x": 0,
+        "y": 10.27,
+        "z": 4.42,
+        "w": 1.13,
+        "h": 2.01
+      },
+      {
+        "x": 1.7113990936559214,
+        "y": 10.27,
+        "z": 4.42,
+        "w": 1.13,
+        "h": 2.01
+      }
+    ],
+    "facadeReliefs": [
+      {
+        "z": 4.45,
+        "depth": 0.17,
+        "material": "stone",
+        "outline": [
+          [
+            -2.674061083837377,
+            6.13
+          ],
+          [
+            -2.674061083837377,
+            6.41
+          ],
+          [
+            -1.3370305419186885,
+            6.75
+          ],
+          [
+            0,
+            6.85
+          ],
+          [
+            1.3370305419186885,
+            6.75
+          ],
+          [
+            2.674061083837377,
+            6.41
+          ],
+          [
+            2.674061083837377,
+            6.13
+          ],
+          [
+            1.3370305419186885,
+            6.47
+          ],
+          [
+            0,
+            6.57
+          ],
+          [
+            -1.3370305419186885,
+            6.47
+          ]
+        ]
+      }
+    ]
+  },
+  "center": [
+    -261.23427234643935,
+    538.2630206655069
+  ],
+  "angle": -0.8971682088198615,
+  "height": 13.5,
+  "modelWidth": 5.348122167674754,
+  "modelDepth": 8.8,
+  "polygon": [
+    [
+      -266.4161588402742,
+      537.701923788643
+    ],
+    [
+      -262.93014466660657,
+      533.334451459956
+    ],
+    [
+      -255.2277711673662,
+      538.75453453828
+    ],
+    [
+      -258.7137853410338,
+      543.122006866967
+    ]
+  ],
+  "uncertaintyMeters": 8,
+  "cameraDistance": 44,
+  "backgroundClearance": 0.2,
+  "placementStatus": "approximate-reconstruction",
+  "description": "Een drieassig winkel- en woonhuis met een terugliggende balkonverdieping, direct naast drukkerij Chevalier.",
+  "story": "Dit huis viel op door de brede, terugliggende balkonverdieping boven de winkel. Een gebogen band omlijstte die open laag. Hogerop zaten twee verdiepingen met telkens drie ramen. Het pand stond direct tussen het latere adres van importhuis Canepa op 26 en drukkerij Chevalier op 28.\n\nHet adresboek van 1939 vermeldt op 27a de weduwe B. M. van den Anker–Lagrange. De naam van de winkel op de begane grond is niet vastgesteld. Een bovenbewoner hoeft niet dezelfde persoon te zijn als de winkelier.\n\nDe historische nummerkaart koppelt nummer 27 aan een eigen perceel. De gemeentelijke schadekaart markeert deze gevelrij als verwoest na het bombardement en de brand in mei 1940; een afzonderlijke bominslag is niet vastgesteld. Het model volgt de foto uit 1933–1937. Achterbouw, hoogte, kleuren en delen van de pui achter de boom blijven benaderingen.",
+  "periodNote": "Gevel naar foto uit 1933–1937; adres en gebruik bevestigd in 1939. Niet ieder geveldetail van 1939 is afzonderlijk geverifieerd.",
+  "colorNote": "Zwart-witbron: kleuren en onzichtbare details zijn interpretaties.",
+  "placementNote": "Historisch Delftschevaart 27, frontnummer op Z8, circa 8 m plaatsingsmarge. Alleen de voorbouw; hoogte en beperkte diepte zijn benaderd.",
+  "sources": [
+    {
+      "title": "Stadsarchief Rotterdam · IX-700, Delftsevaart 1933–1937",
+      "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=299&miadt=184&miaet=14&micode=4135&minr=39467491&miview=ldt",
+      "supports": "Willem Nijholt, Public Domain Mark 1.0. De foto toont de hele gevel van nummer 27 direct links van Chevalier. De voorgrondsloop aan het Haagseveer vond vóór de oorlog plaats."
+    },
+    {
+      "title": "Adresboek 1939 · Delftschevaart, p. 93",
+      "url": "https://proxy.archieven.nl/0/54CD62F627FD41F8B1C83375126077B2",
+      "supports": "26a J. de Winter; 26b F. Canepa & Co.; 27a weduwe B. M. van den Anker–Lagrange. Bevestigt nummering en late continuïteit."
+    },
+    {
+      "title": "Historische huisnummerkaart Z8",
+      "url": "https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB",
+      "supports": "Frontnummer 27 op perceel 1005, naast Chevalier 28. Basis voor benaderde plaatsing; volledige achterperceel is niet gereconstrueerd."
+    },
+    {
+      "title": "Gemeentelijke schadekaart I-210-01A",
+      "url": "https://hdl.handle.net/21.12133/2354F306D7C949C3B3E67AA61B2610E5",
+      "supports": "Hele oostelijke Delftsevaart-gevelrij tussen Stokvisverlaat en Raambrug geel als verwoest, zonder herstelbare uitzondering op deze fronten. Verlies door bombardement en brand op blokniveau."
+    }
+  ],
+  "photos": [
+    {
+      "id": "delftsevaart1930s-gedeeld",
+      "title": "Delftschevaart 27 naast Chevalier · 1933–1937",
+      "src": "landmarks/chevalier-delftsevaart/foto-1-origineel.jpg",
+      "ai": "landmarks/chevalier-delftsevaart/foto-1-ai.webp",
+      "source": "Stadsarchief Rotterdam · W. Nijholt",
+      "author": "Willem (W.) Nijholt",
+      "date": "1933–1937",
+      "identifier": "4135 · IX-700",
+      "url": "https://www.archieven.nl/nl/zoeken?mivast=0&mizig=299&miadt=184&miaet=14&micode=4135&minr=39467491&miview=ldt",
+      "archiveUrl": "https://proxy.archieven.nl/0/70AF53DF64E748E3BDBA4C330431269E",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceChecked": "2026-10-03",
+      "note": "Nummer 27 is het huis met drie vensterassen direct links van C. CHEVALIER, met een terugliggende balkonlaag boven de winkel. Dit volledige oorspronkelijke fotopaar wordt gedeeld met de buurpanden; het zijn geen onafhankelijke opnamen. De sloop vooraan is vooroorlogs.",
+      "aiLabel": "AI in kleur · interpretatie",
+      "aiNote": "Gedeelde kleurinterpretatie van IX-700; kleuren, etalagevoorwerpen, personen en kleine letters zijn niet bewezen. De foto toont 1933–1937 en geen actuele situatie."
+    }
+  ],
+  "footprints": [
+    [
+      [
+        -266.64944657158264,
+        537.1766651599186
+      ],
+      [
+        -266.75862396455113,
+        537.313449481386
+      ],
+      [
+        -266.52415164122095,
+        537.5005756981701
+      ],
+      [
+        -266.5241569850559,
+        537.5005823931657
+      ],
+      [
+        -266.4324671405649,
+        537.5737624174296
+      ],
+      [
+        -266.3834665252386,
+        537.6128818797342
+      ],
+      [
+        -266.3834701022762,
+        537.6128863612724
+      ],
+      [
+        -265.5393752953811,
+        538.2866303996198
+      ],
+      [
+        -259.4587992337221,
+        543.1399398498845
+      ],
+      [
+        -259.4276195473637,
+        543.1008761860464
+      ],
+      [
+        -259.3103924339656,
+        543.1944444009163
+      ],
+      [
+        -255.99903701302844,
+        539.0458049834434
+      ],
+      [
+        -256.1162705638882,
+        538.9522320318364
+      ],
+      [
+        -256.08509667154595,
+        538.9131756270675
+      ],
+      [
+        -262.16564183207413,
+        534.0598051172343
+      ],
+      [
+        -262.98631495940646,
+        533.4047559184295
+      ],
+      [
+        -262.9945598376335,
+        533.398203680256
+      ],
+      [
+        -263.0019244184773,
+        533.3923248602229
+      ],
+      [
+        -263.0019024639015,
+        533.392297354146
+      ],
+      [
+        -263.1239755695756,
+        533.2948968100228
+      ],
+      [
+        -263.38488876660733,
+        533.0866213138111
+      ],
+      [
+        -263.4940636385482,
+        533.2234024767762
+      ],
+      [
+        -263.501863659636,
+        533.2171767429659
+      ],
+      [
+        -266.65724284806294,
+        537.170441995982
+      ]
+    ]
+  ],
+  "exclusionPolygon": [
+    [
+      -263.38488876660733,
+      533.0866213138111
+    ],
+    [
+      -263.501863659636,
+      533.2171767429659
+    ],
+    [
+      -266.65724284806294,
+      537.170441995982
+    ],
+    [
+      -266.75862396455113,
+      537.313449481386
+    ],
+    [
+      -265.5393752953811,
+      538.2866303996198
+    ],
+    [
+      -259.4587992337221,
+      543.1399398498845
+    ],
+    [
+      -259.3103924339656,
+      543.1944444009163
+    ],
+    [
+      -255.99903701302844,
+      539.0458049834434
+    ],
+    [
+      -256.08509667154595,
+      538.9131756270675
+    ],
+    [
+      -263.0019024639015,
+      533.392297354146
+    ]
+  ]
+}

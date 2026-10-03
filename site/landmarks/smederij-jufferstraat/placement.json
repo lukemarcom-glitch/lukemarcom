@@ -1,0 +1,39 @@
+{
+  "workFront": [
+    [
+      2901,
+      3269
+    ],
+    [
+      2912,
+      3259
+    ]
+  ],
+  "workSideRear": [
+    2900.5,
+    3248
+  ],
+  "worldPolygon": [
+    [
+      -16.435445471365938,
+      -505.0653739701147
+    ],
+    [
+      -9.86823995221016,
+      -499.00574415934443
+    ],
+    [
+      -10.231249664874895,
+      -486.4332707815659
+    ],
+    [
+      -16.798455184030672,
+      -492.4929005923362
+    ]
+  ],
+  "width": 8.935731742527071,
+  "depth": 9.486153286029237,
+  "shear": 0.8706417427668943,
+  "positionUncertainty": 8,
+  "note": "Handmatige rooilijn werkkaart, hoekidentificatie Z11 H1052. Geschatte parallellogram-voorbouw; werkkaart generaliseert de kleine hoekknik. Hoogte en onzichtbare achterzijde onzeker."
+}

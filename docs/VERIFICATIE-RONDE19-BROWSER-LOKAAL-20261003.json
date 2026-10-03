@@ -1,0 +1,145 @@
+{
+  "status": "Geslaagd voor alle vijf; browsercontroles tijdens integratie, finale geometriecontrole bij 202 locaties.",
+  "reports": [
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "delftsevaart26",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/chevalier-delftsevaart/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/chevalier-delftsevaart/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 199,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "delftsevaart27",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/chevalier-delftsevaart/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/chevalier-delftsevaart/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 199,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "maison-versluys-galerij",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/cafe-piso-galerij/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/cafe-piso-galerij/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 200,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "smederij-jufferstraat",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/smederij-jufferstraat/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/smederij-jufferstraat/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 201,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:8765/",
+      "landmarkId": "delftsevaart25",
+      "selectionCamera": true,
+      "checkedPhotos": [
+        {
+          "index": 0,
+          "variant": "original",
+          "src": "landmarks/chevalier-delftsevaart/foto-1-origineel.jpg"
+        },
+        {
+          "index": 0,
+          "variant": "ai",
+          "src": "landmarks/chevalier-delftsevaart/foto-1-ai.webp"
+        }
+      ],
+      "buildings": 202,
+      "stories": 18,
+      "errors": [],
+      "failed": [],
+      "overflow": {
+        "page": false,
+        "panel": false
+      },
+      "photoPairs": true,
+      "modern3D": true,
+      "mobileViewer": true
+    }
+  ]
+}

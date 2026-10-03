@@ -876,3 +876,23 @@ Release `300180f46a7486557d54182c856e8bbd590c1e84` is gepubliceerd via geslaagde
 Nieuwehaven 25 en 29 zijn voltooid als lichte afzonderlijke modellen naar de gedeelde foto uit 1910; exacte gevelcontinuiteit in 1939 blijft onzeker en staat expliciet vermeld. De andere drie toevoegingen zijn Gerzee en café Wilhelmina, C. Chevalier en café A. Piso. Alle vijf zijn gecontroleerd op model- en achtergrondoverlap. Het voorstel voor buurtnavigatie is niet uitgevoerd. De reeks bereikt 90 toevoegingen; de volledige versieback-up volgt in een afzonderlijk bewijsbestand.
 
 Volledige Git-back-up bij 90 toevoegingen gemaakt en geverifieerd: tag `rdam39-20261003-90-buildings` op `85b5e7ac5d5dc752c1400dcbd9db15fe1cc4cd8c`, ook op origin gecontroleerd. Lokale bundle bevat alle tracked bestanden en volledige historie; zie BACKUP-90-20261003.json voor omvang en SHA256. Losse research en genegeerde exportcaches zijn niet inbegrepen.
+
+
+### 3 oktober 2026 — Delftsevaart 26 en 27 (round19)
+
+Twee nieuwe voorbouwen naast Chevalier: Italiaansch Importhuis F. Canepa & Co. op historisch 26b en het winkel-/woonhuis op 27. Identificatie via hele PDM-foto IX-700 (1933–1937), origineel adresboek 1939 p.93/p.115 en Z8; verlies via de gemeentelijke schadekaart. Beiden delen expliciet het volledige bestaande origineel/AI-paar van Chevalier. Geen nieuwe bedrijfsletters op de modellen; Canepa-functie komt uit1939 en is geen bewezen fototekst. Model27 heeft de open loggialaag en een lage kap van circa0,85m. Kleuren, hoogte, achterzijde en plaatsmarge circa8m blijven benaderd.
+
+Catalogus199/18 verhalen op dit controlemoment. Exact nul overlap per nieuw model met198 andere modellen en nul achtergrondoverlap989. Beide GLB's klaar; Blenderbestanden en geometrycaches buiten site in research/export-intermediates-20261003/round19-delft. Gerichte desktop-/mobiele browsercontroles voor beide panden geslaagd zonder fouten/404/overflow, inclusief origineel/AI, broninformatie, fullscreen, Nu3D en camera. Live paar en screenshots persoonlijk bekeken. Npm check +14tests groen. Geen commit/push door subagent.
+
+### Ronde 19 — Maison Versluys lokaal geïntegreerd
+
+Maison Versluys aan Galerij 14b toegevoegd als 200e locatie. Het adres en beroep volgen het visueel gecontroleerde adresboek van 1930, p. 1727. De foto uit 1934–1938, de foto van de werkzaamheden in 1939 en de schadekaart onderbouwen uiterlijk, aanwezigheid en verlies op blokniveau. Het model bevat de lage noordvleugel en hoge hoek van perceel 2161 op kaart Z8. De oorspronkelijke foto en definitieve AI-versie worden ongewijzigd gedeeld met café Piso; beide prompts en zelfstandige bronverantwoording zijn beschikbaar. Kleine AI-winkelletters en kleuren blijven expliciet interpretatie.
+
+Lichte geometrie en GLB/Blend geëxporteerd. Exacte meshcontrole: nul overlap met 199 andere modellen en 989 achtergrondpolygonen. Café Piso is niet verplaatst; minimale afstand tussen beide modellen circa 0,119 m. Gerichte browsercontrole dekt selectiecamera, fotopaar, broninformatie, fullscreen, mobiel en Nu 3D. Screenshots en live 3D-beeld persoonlijk bekeken. `npm run check` inclusief 14 tests geslaagd na verplaatsing van grote geometrische tussenbestanden buiten `site/` naar `research/export-intermediates-20261003/round19-versluys/`. Geen commit, push of publicatie door subagent; hoofdtaak verzorgt de release.
+
+
+## Lokale eindcontrole, 3 oktober 2026
+
+Delftsevaart 25 is lokaal toegevoegd als 202e locatie. Het model volgt de bron uit 1933–1937 met twee/twee/één ramen, lage kap en beperkte voorbouw. Geen bewoner of winkelnaam voor 1939 geclaimd. Het oorspronkelijke fotopaar en de gecontroleerde AI worden expliciet gedeeld met 26/27/Chevalier. De rechter achtergrens van het benaderde volume is ingesnoerd om het buurpand vrij te houden.
+
+Exacte finalecontrole van alle vijf toevoegingen in round19: nul overlap per nieuw model met 201 andere modellen en nul overlap met 990 achtergrondpolygonen. GLB gereed; Blenderproject en alle 202 geometriecaches buiten site in research/export-intermediates-20261003/round19-final202. Gerichte browsercontrole 202/18 voor desktop, mobiel, fullscreen, Nu 3D en camera geslaagd zonder fouten, 404 of overflow. Live context met 25/26/27/Chevalier en galeriebeelden persoonlijk bekeken. De hoofdtaak verzorgt globale eindchecks en publicatie; deze lokale status is geen deploymentclaim. Geen commit of push door de subagent.
