@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-03T03:40:34.358Z",
+  "release": "8d003c57308b5569bca730f2ef3c351c4b7e0588",
+  "files": [
+    {
+      "path": "landmarks/models.js",
+      "identical": true,
+      "sha256": "822c0a28133233e2b80eadad13ab8b34d608ae0ec734eef81adc7887561cbdaa"
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/model.glb",
+      "identical": true,
+      "sha256": "cecd64c8ea32ab3d72858a563e7d09f587dfecd87a4b444e618338ed5c3ff9c0"
+    },
+    {
+      "path": "landmarks/rusthuis-haringvliet/model.glb",
+      "identical": true,
+      "sha256": "28b3946050f74a13cad851cd6fe8f6074fe3c563c8213e90f731675c9c489960"
+    }
+  ]
+}

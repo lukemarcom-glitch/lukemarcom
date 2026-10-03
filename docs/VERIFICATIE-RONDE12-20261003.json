@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-10-03T03:40:16.141Z",
+  "releaseCommit": "8d003c57308b5569bca730f2ef3c351c4b7e0588",
+  "pagesRun": "37093869422",
+  "buildings": 167,
+  "ids": [
+    "oppert55",
+    "westewagenstraat2-4",
+    "westewagen23",
+    "kipstraat33-37",
+    "haringvliet48-kweekschool"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "c6703e91b0bf15205c1bb1dd1c7204533b66a3684b58d44c433a5e8ff4bec830",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "3234075fde2505803ee764736d7c906306e5cbf0d9b10a54780a67e430c9eb5e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "ef8b585e5e351e99cb8551b0015b4de4d2ee89a8c7068b41f7a84f73ba6b0e2a",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "680b27a1f27a58d38c68c44f34d36b7ea80e0daeaf33cd03f57a59a7171344bf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert55/model.glb",
+      "sha256": "65702f22d06cb14a69da523a774d76522d23fc77cfb5a81283d0add0325f26a7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert55/foto-1-origineel.jpg",
+      "sha256": "8f7cd51fa993217014cb720d6b8c2347b5c86e9f6c3742c28c6efb3f67c4cd86",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert55/foto-1-ai.webp",
+      "sha256": "a6463696f0197810ce9b8b9ee897255fe8dbd45b842331fd054945bd7ac51006",
+      "identical": true
+    },
+    {
+      "path": "landmarks/westewagenstraat2-4/model.glb",
+      "sha256": "0ce2f36e7613094aef75d0de945838fc57817bd387647f648923869f85707355",
+      "identical": true
+    },
+    {
+      "path": "landmarks/westewagenstraat2-4/foto-1-origineel.jpg",
+      "sha256": "d293c11d4cd3ee373268b3565c4c7fea35a2a8ab89ec2b8ce7395436c222ac35",
+      "identical": true
+    },
+    {
+      "path": "landmarks/westewagenstraat2-4/foto-1-ai.webp",
+      "sha256": "61377d3e96ab949b1f57135136b73e8495d5c557879c684ff013072af47caa9a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/westewagen23/model.glb",
+      "sha256": "c5902648260c7d6c1cde3b39dc92b63d45b3ff468ca87c2cde0d8d705e6c6f47",
+      "identical": true
+    },
+    {
+      "path": "landmarks/westewagen23/foto-1-origineel.jpg",
+      "sha256": "565ff7f60c844285dff67c36453cf7f4cdc28d3fb03ad1978c4efabbe1687230",
+      "identical": true
+    },
+    {
+      "path": "landmarks/westewagen23/foto-1-ai.webp",
+      "sha256": "3f3414fb30c01de16004b8e91facb34d730c99ff90511fda53edac68e333cb37",
+      "identical": true
+    },
+    {
+      "path": "landmarks/kipstraat33-37/model.glb",
+      "sha256": "88b37d1cac15be9f492b553392e1256ba0b8848d0639b9ef6d9d84c3fc699be1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/kipstraat33-37/foto-1-origineel.jpg",
+      "sha256": "bb3a37374c15dde4a5f284f3cbc23a9dea9e648537f8f8732289d4244dcc050a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/kipstraat33-37/foto-1-ai.webp",
+      "sha256": "f45619c484c4f6008d9a07c297dae1ac1c48ac591aba1cab089439929d5e5cca",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet48-kweekschool/model.glb",
+      "sha256": "95ca6e4d31a7055b1acb991ac3b0b4b4b549565cf15b2f50d0ef687b94f373a7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet44-blauwe-ster/foto-1-origineel.jpg",
+      "sha256": "9396205402c1981bc60a956e3d80a2d1e26a37e486f461c7a8f80ced25610298",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet48-kweekschool/foto-1-ai.webp",
+      "sha256": "b0240afc3892203a2f0543023d5d6b8b7e776863afd753800f379f52478c2d38",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/foto-1-origineel.jpg",
+      "sha256": "e5e4e0d010952202927cdf580627a741eb1e84068258e23e28aa46cc384e152a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/foto-1-ai.webp",
+      "sha256": "21ddf34618c77cff35c9370163c68d4d6178ddd6531638c4103126f810e605d1",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
