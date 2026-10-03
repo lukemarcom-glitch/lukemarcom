@@ -1,0 +1,111 @@
+{
+  "checkedAt": "2026-10-03T09:28:18.162Z",
+  "releaseCommit": "629c55b25514535da59147dec3d86962ac07527d",
+  "pagesRun": "37112776969",
+  "buildings": 187,
+  "ids": [
+    "schaedtler-houttuin35",
+    "woonhuis-van-veen",
+    "woonhuis-van-beekum",
+    "de-utrecht-wolfshoek4",
+    "dagblad-wolfshoek"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "05183a5e2c202689f2d72cc734107d4b33fef8d6d4f4ad5be166a6901a602f55",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "0a1370f3be53db9bd79efce77e8083af5914e72ac4331933241231239eed211c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "7abdb5a2a03cf25aa6d6fed8f78b2a2284a4db89758d0ca83941aac696fdd59f",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "c1ebd76aafe037b4c0f6cede2f8f55a44421856eff7262768c84557824b97d2e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/schaedtler-houttuin35/model.glb",
+      "sha256": "0f1dfa069997c96c482528ec90eebd03c461e84890b7aa558348be77e17dcf6c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/schaedtler-houttuin35/foto-1-origineel.jpg",
+      "sha256": "7e15beb8e32434ff56585609669111de41cf6fa720c1668500753f6fcb9286e6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/schaedtler-houttuin35/foto-1-ai.webp",
+      "sha256": "fc9d51f4ff52cc030ab879202289d2860ec25d6e5f44753e52f1b8e74d367f76",
+      "identical": true
+    },
+    {
+      "path": "landmarks/woonhuis-van-veen/model.glb",
+      "sha256": "c86295d66f11f0709fa62cadc7df1bdc988dc76154756534a8a89a1ecf94eb34",
+      "identical": true
+    },
+    {
+      "path": "landmarks/woonhuis-van-veen/foto-1-origineel.jpg",
+      "sha256": "dde1096ac5670ba443cd6a30b2e3cc7aa3bf09f4c55c16faacd77ca15e676616",
+      "identical": true
+    },
+    {
+      "path": "landmarks/woonhuis-van-veen/foto-1-ai.webp",
+      "sha256": "358510d405680e8b333e9a2e3692638b340460266ce0f6f4ad0116d3bd7ac418",
+      "identical": true
+    },
+    {
+      "path": "landmarks/woonhuis-van-beekum/model.glb",
+      "sha256": "6fbac2b1474e24762187e432bafc9fdd53fb55f5f47f2e5a100d521de6902909",
+      "identical": true
+    },
+    {
+      "path": "landmarks/woonhuis-van-beekum/foto-1-origineel.jpg",
+      "sha256": "049dc49326cb95f556e1b9283f805055f26fb3316e1c719b6c3056b983328ceb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/woonhuis-van-beekum/foto-1-ai.webp",
+      "sha256": "e51ede41ea504ba92f50c2d5f17870a56430d49d60ec2ba11996df6b252c260c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-utrecht-wolfshoek4/model.glb",
+      "sha256": "d76a062f74acfbd248ca96117445c38a36b21d4ea363d69877eacb2b104f01d7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-utrecht-wolfshoek4/foto-1-origineel.jpg",
+      "sha256": "051f178f32578ae1da9d033e68bd98379e8935b20bd60e25cabba9acb29db363",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-utrecht-wolfshoek4/foto-1-ai.webp",
+      "sha256": "fe4724793e32d4638c09423658002d761f57c9b1df2196f28dae731560f66dac",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-utrecht-wolfshoek4/foto-2-origineel.jpg",
+      "sha256": "e8525c6659aab6f600074ac3db0c63f556b889dd7a1faf71bd5f29ef9ca85539",
+      "identical": true
+    },
+    {
+      "path": "landmarks/de-utrecht-wolfshoek4/foto-2-ai.webp",
+      "sha256": "a24f76fa6ac2a24d72ba62156af1a9e91e55fc5d7b67701fc0dec77e55da01a6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/dagblad-wolfshoek/model.glb",
+      "sha256": "4520fe63d08c80921884144576bbed4ace37fcc5d4ffbca592b55b9accc7e950",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

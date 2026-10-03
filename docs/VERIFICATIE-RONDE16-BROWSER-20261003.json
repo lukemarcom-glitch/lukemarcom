@@ -1,0 +1,39 @@
+{
+  "base": "https://rdam39.nl/",
+  "landmarkId": "dagblad-wolfshoek",
+  "selectionCamera": true,
+  "checkedPhotos": [
+    {
+      "index": 0,
+      "variant": "original",
+      "src": "landmarks/de-utrecht-wolfshoek4/foto-1-origineel.jpg"
+    },
+    {
+      "index": 0,
+      "variant": "ai",
+      "src": "landmarks/de-utrecht-wolfshoek4/foto-1-ai.webp"
+    },
+    {
+      "index": 1,
+      "variant": "original",
+      "src": "landmarks/de-utrecht-wolfshoek4/foto-2-origineel.jpg"
+    },
+    {
+      "index": 1,
+      "variant": "ai",
+      "src": "landmarks/de-utrecht-wolfshoek4/foto-2-ai.webp"
+    }
+  ],
+  "buildings": 187,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true,
+  "visualReview": "Desktopviewer en mobiele galerie persoonlijk bekeken; bronbijschrift en interpretatienotitie zichtbaar."
+}

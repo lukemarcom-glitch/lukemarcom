@@ -1,0 +1,9 @@
+{
+  "tag": "rdam39-20261003-80-buildings",
+  "commit": "629c55b25514535da59147dec3d86962ac07527d",
+  "bundle": "rotterdam_1939/backups/rdam39-20261003-80-buildings.bundle",
+  "bytes": 808177013,
+  "sha256": "05604e730bcbaad282ea01374dbd8b8af79a5b9e33199455c660306ae2874442",
+  "verified": "git bundle verify geslaagd; volledige historie; tag naar origin gepusht",
+  "scope": "Alle Git-tracked bestanden en volledige Git-historie. Losse ongecommitteerde research en genegeerde exporttussenbestanden vallen hierbuiten."
+}

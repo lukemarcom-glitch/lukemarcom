@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-03T09:28:37.038Z",
+  "release": "629c55b25514535da59147dec3d86962ac07527d",
+  "files": [
+    {
+      "path": "landmarks/luthersekerk/model.glb",
+      "identical": true,
+      "sha256": "4ce2b6e81eff1c466142a38d0d81015ffafbbd7edbd3e73f58bd0cd5fccd848a"
+    },
+    {
+      "path": "landmarks/models.js",
+      "identical": true,
+      "sha256": "24b17de611843c1318c6c99efbf76969f17060dbf46d8f87c7b53e585df6ddcd"
+    },
+    {
+      "path": "landmarks/city22-models.js",
+      "identical": true,
+      "sha256": "9e0f9aa2f66572c6ef5761fb63c40e2522f68cb2fefc02175ce4d4ed820d6379"
+    }
+  ]
+}

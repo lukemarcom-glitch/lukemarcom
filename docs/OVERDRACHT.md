@@ -791,3 +791,9 @@ De Utrecht op historisch Wolfshoek 4 toegevoegd (186 locaties op dit controlemom
 187e locatie: Dagblad / Handelsdrukkerij Wolfshoek 2–3, zes raamassen, drie bovenlagen. Twee bestaande RCE/AI-paren van De Utrecht hergebruikt met eigen bronbijschriften; december 1904 duidelijk onderscheiden van de late gevel. Plaatsing G1864, late 1938-foto en adresboeken 1939, verlies als expliciete kaartketen.
 
 Bij deze toevoeging zijn De Utrecht-zijgrenzen op G11 begrensd en kerk G18 brongebonden herijkt. Geen nieuwe gebouwen bij die correcties. Alle drie GLB/Blend opnieuw; exact nul onderlinge/overige mesh-overlap en nul overlap met achtergrond. Browser 187/18 en cameracheck geslaagd. Laatste geometry-cache is door export opnieuw gemaakt; hoofdtaak ruimt die buiten de publicatiemap op en herhaalt npm check vóór commit/publicatie. Geen push uitgevoerd door subagent.
+
+## Ronde 16 openbaar geverifieerd — 80 toevoegingen
+
+Alle vijf locaties staan online op rdam39.nl: Schaedtler, Van Veen, Van Beekum, De Utrecht Wolfshoek en Dagblad Wolfshoek. Release629c55b, Pages37112776969 en Check37112776972 succesvol. 22 bestanden bytegelijk; publieke desktop/mobiele browsercontrole en visuele galeriecontrole geslaagd. 187 locaties/18 verhalen. Volledige Git-back-up en remote tag bij80 geverifieerd; volgende bij90. Zie RONDE16-20261003.md en BACKUP-80-20261003.json.
+
+Ronde17 blijft brononderzoek. Londonsche Apotheek: Leuvehaven161b/kavel1732 primair bevestigd, vrije herkenbare gevel nog ontbrekend. Kratz: aangeboden GrooteMarktfoto toont229 en is daarom afgewezen voor die locatie. Geen nieuwe runtime. Het voorstel voor buurtnavigatie is niet geïmplementeerd.
