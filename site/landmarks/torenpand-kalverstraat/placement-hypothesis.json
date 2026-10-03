@@ -1,0 +1,64 @@
+{
+  "status": "hypothese, geen modelvrijgave",
+  "sourceAnchors": [
+    [
+      1315.0,
+      1630.0
+    ],
+    [
+      1950.0,
+      2310.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      2870.0,
+      1336.0
+    ],
+    [
+      3030.0,
+      1517.0
+    ]
+  ],
+  "sourcePolygon": [
+    [
+      1451,
+      1794
+    ],
+    [
+      1508,
+      1848
+    ],
+    [
+      1567,
+      1826
+    ],
+    [
+      1547,
+      1764
+    ]
+  ],
+  "workPolygon": [
+    [
+      2904.1375768953067,
+      1379.5314137184116
+    ],
+    [
+      2918.549672202166,
+      1393.9515321299639
+    ],
+    [
+      2934.019523465704,
+      1388.6594079422382
+    ],
+    [
+      2929.2677776173286,
+      1372.4250570397112
+    ]
+  ],
+  "anchorDescriptions": [
+    "Noordpunt Botersloot/Goudschesingel",
+    "Noordwestelijke hoek Heerenstraat/Botersloot"
+  ],
+  "positionUncertaintyMeters": 10
+}

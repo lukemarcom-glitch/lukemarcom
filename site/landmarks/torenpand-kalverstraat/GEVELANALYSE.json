@@ -1,0 +1,35 @@
+{
+  "status": "beeldanalyse; geen bouwvrijgave zonder verlies en plaatsing",
+  "photo": "../round17-candidates/vandam-original.jpg",
+  "sha256": "2ad79d227bad7771f9e121fab2e31f4df79a58f1bedff3d2223959eb10e814aa",
+  "source": "SAR4117/1976-11651, F.H.vanDijk, november1933, GemeenteRotterdamCC0",
+  "observed": {
+    "front": "Asymmetrische hoge straatgevel: linker brede partij met drie gestapelde balustradebalkons; smalle centrale torenpartij met twee vensterassen en spitsboogportaal; rechter brede partij met hoge samengestelde vensters.",
+    "tower": "Boven normale gevelkroon uitstekende rechthoekige toren, gekoppelde gotische bogen in bovenopening, kroonlijst op consoles en piramidale spits met bekroning.",
+    "ground": "Links winkelpui, midden spitsboogdeur met cirkelverdeling in bovendeur; rechterpui anders vormgegeven.",
+    "materials": "Baksteen met lichte steenbanden/hoekblokken. Kleuren niet bewezen vanuit zwartwit.",
+    "depth": "Rechter zijmuur zichtbaar boven lage buur; diepte en achterkant niet gemeten.",
+    "doNotModel": "Lamp, tramdraden, foregroundKalverstraathoek en lage buurpanden horen niet automatisch bijpand."
+  },
+  "lettering": {
+    "confident": [
+      "KALVERSTRAAT",
+      "Lederhandel",
+      "W. STRIEDER",
+      "CRISPIJNLAAN 77",
+      "4e FILIAAL",
+      "LEDER"
+    ],
+    "uncertain": [
+      "Kleinste adressenregel onder linker reclamebord niet volledig leesbaar",
+      "Rechter huur/makelaarsbord onvoldoende zeker",
+      "Naam H.vanDam uit archivale beschrijving, niet als verzonnen gevelopschrift toevoegen"
+    ]
+  },
+  "next": [
+    "1939adres en perceel bewijzen",
+    "14mei1940verlies aantonen",
+    "Modelmaten aan kaartfit koppelen",
+    "Kleine letters apart bekijken voordat prompt definitief wordt"
+  ]
+}

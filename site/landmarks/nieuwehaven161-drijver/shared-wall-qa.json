@@ -1,0 +1,40 @@
+[
+  {
+    "id": "nieuwehaven163",
+    "sourceSharedSide": [
+      [
+        2204,
+        2709
+      ],
+      [
+        2204,
+        2609
+      ]
+    ],
+    "deform": {
+      "maxX": 4.677730214748408,
+      "maxXSlope": 0.08132157347983664,
+      "frontZ": 5.9999999999999964
+    },
+    "note": "Shared mapped side; each mesh stops 5 mm inside its own side to avoid numerical contact. No centre shift."
+  },
+  {
+    "id": "nieuwehaven161-drijver",
+    "sourceSharedSide": [
+      [
+        2204,
+        2709
+      ],
+      [
+        2204,
+        2609
+      ]
+    ],
+    "deform": {
+      "minX": -2.3743157199365172,
+      "minXSlope": 0.06303495218049032,
+      "frontZ": 5.50000000000001
+    },
+    "note": "Shared mapped side; each mesh stops 5 mm inside its own side to avoid numerical contact. No centre shift."
+  }
+]

@@ -811,3 +811,23 @@ Release4e70d01477626bb19de18973679e3bbdee6f4991: Pages37114083581 succesvol; cat
 ### Ronde17 — beeldonderzoek voortgezet
 
 Wolff: vooroorlogse1938KLMluchtfoto gevonden en visueel gematcht met ruïne73497. Gehele kap/hoektorentje zichtbaar naastBijenkorf; primairebeeldrechten/kavel nog verifiëren. Uitman Baan (XXV-30-00-01) en Nieuwehaven XXV-477 hebben nieuwe volledige gevelleads, exact adres/verlies nog onderzoek. VanDam buurpui VLOED gekoppeld aan Botersloot10b in1930/1939; hypothese32 ingetrokken,12/14 nog te toetsen. Geen nieuwe runtime/AI/model in deze stap. Onderzoekdossiers round17-wolff,round17-extra,round17-vandam. Gemeenteapotheek gereserveerd wegens conflict SAR-sloop1939 versus MuseumRotterdam/RJB-verlies1940; geen bouwvrijgave.
+
+### Ronde 17 — torenpand tegenover Kalverstraat lokaal toegevoegd
+
+Nieuwe locatie `torenpand-kalverstraat` met zichtbaar licht 3D-model, één volledig origineel/AI-fotopaar, broncredits en downloadbare GLB/Blender. SAR noemt NV H. van Dam; de geveltoestand is november 1933. Vermoedelijke nummers 12–14 en kaartvakken L1204/L1205 blijven expliciete gevolgtrekkingen via buur Vloed op 10b, geen exacte adresclaim. Positie ±10 m; alleen sober voorvolume. Verlies berust op de gemeentelijke schadekaart van de volledig verwoeste noorddriehoek, niet op een bewezen individuele inslag.
+
+Origineel bytegelijk; AI02 geselecteerd met zichtbare beperkingen voor kleuren, kleine letters en details. Exacte prompts, beeldcontrole, plaatsing en bronketen staan bij het item. Geometriecontrole: geen overlap met 187 andere modellen of 989 achtergrondpolygonen. Exporttussenbestanden veilig buiten site bewaard in `research/export-intermediates-20261003/round17-vandam` om de openbare bestandsomvang te beperken.
+
+`npm run check`: 188 locaties, 18 verhalen, 354 foto's, 329 AI-paren, 775 MiB; 13 tests geslaagd. Gerichte desktop/mobiele browsercontrole doorliep origineel en AI, fullscreen, camera en Nu3D zonder fouten of overflow. Bewijs in `artifacts/round17-vandam`. Dit is lokale integratie; geen commit, push of publicatie in deze stap.
+
+### Ronde 17 — Nieuwehaven 163 en 161 lokaal gecontroleerd
+
+Twee buurhuizen geïntegreerd: Schimmelpfeng/Saha op Nieuwehaven 163 en wijnhandel Drijver op 161. Historische adresketen via Z17 en primaire adresboektranscripties; verlies via gemeentelijke schadekaart. Beiden gebruiken transparant hetzelfde volledige archiefbeeld XXV-477 uit 1927 en dezelfde AI-interpretatie, met eigen gevelaanwijzing. Positie ±8 m en hoogte ±3 m, kap/achterbouw sober; geen exacte 1939-gevelclaim.
+
+GLB/Blend en achtergrond aanwezig. Exacte meshcontrole bij catalogus 190: nul overlap met 189 andere modellen; achtergrond 989 polygonen, nul overlap. Gedeelde zijwand begrensd zonder centrumverschuiving. Beide gerichte browserchecks opnieuw geslaagd bij 191 locaties/18 verhalen: origineel/AI, camera, desktop/mobiel/fullscreen en Nu3D zonder fouten. Desktop/mobile/screenshots en gezamenlijke live 3D-aanblik visueel bekeken. Beeldhashes geverifieerd. Portable CONTROLE.md en browser-qa.json bij beide modellen; lokale screenshots in artifacts/round17-nieuwehaven. Geen commit/push/publicatie door deze controleagent.
+
+### 3 oktober 2026 — ronde 17, Restaurant Wolff lokaal
+
+Restaurant Wolff (`restaurant-wolff`) is de 191e locatie in de lokale catalogus. Geïntegreerd: ongewijzigde KLM Aerocarto-luchtfoto uit 1938 met primaire PDM 1.0-registratie, aparte AI-uitsnede 02, gecontroleerde fotoletters met interpretatienotitie, bron- en rechtenmetadata, prompts en lichte hoge voorbouw met GLB/Blend. Individuele ruïnefoto 1998-999 onderbouwt Gedempte Vest 2 en bombardementsverlies; adresboek 1939 bevestigt nummer 2. Geen onzeker kadasternummer geclaimd. De lagere achtervleugel blijft buiten de reconstructie; plaatsmarge circa 7 m, hoogten en kleuren benaderd.
+
+Exacte meshcontrole: geen overlap met alle 190 andere modellen; geen overlap met 989 achtergrondpolygonen. `npm run check` slaagt (191 locaties, 18 verhalen, 13 tests). Browsercontrole voor beide fotovarianten, selectiecamera, fullscreen, mobiele overflow en Nu 3D slaagt zonder fouten. Desktop-/mobiele screenshots en het live-model zijn persoonlijk bekeken; lage camerahoeken kunnen door bestaande voorgrondbebouwing worden afgedekt, zonder geometrische doorsnijding. Bewijs staat lokaal in `research/expansion-20261003/round17-wolff/browser/`; exports tussenbestanden buiten `site/` in `research/export-intermediates-20261003/round17-wolff/`. Geen publicatiebewijs: deze stap is nog niet gecommit of gepusht.
