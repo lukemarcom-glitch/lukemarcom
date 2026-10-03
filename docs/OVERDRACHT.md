@@ -803,3 +803,7 @@ Ronde17 blijft brononderzoek. Londonsche Apotheek: Leuvehaven161b/kavel1732 prim
 Geen nieuwe locatie deze stap. Intermetaal is al opgenomen onder scheepmakershaven; duplicaat verhinderd. Actuele primaire registratie4210/2 noemt1939–30april1940 enCCBY4.0 (Commonsouder1936/CC0). Catalogus lokaal gecorrigeerd, portable broncontrole bijitem; npmcheck187/18,13tests geslaagd. Deze correctie nog niet openbaar geverifieerd.
 
 Film Havens te Rotterdam (Beeld en Geluid, PGM25555) als alternatieve bron onderzocht; frames195sLangeTorenstraat en298sLeuvehaven geven geen voldoende geïdentificeerde hele WaalseSchool/apotheekgevel. Bewijs in research/expansion-20261003/round17-waalse-film/CONTROLE.md. PromptvoorbereidingIntermetaal niet uitgevoerd; geen overbodigeAIgegenereerd. Actief nieuw onderzoek: AcademieCoolvest en H.vanDamGedempteBotersloot; geen bouwvrijgave.
+
+### Broncorrectie Boske openbaar geverifieerd
+
+Release4e70d01477626bb19de18973679e3bbdee6f4991: Pages37114083581 succesvol; catalogus en portable broncontrole op rdam39.nl anoniem opgehaald en bytegelijk. Zie VERIFICATIE-BOSKE-20261003.json. Geen nieuw gebouw, beeld of model toegevoegd.

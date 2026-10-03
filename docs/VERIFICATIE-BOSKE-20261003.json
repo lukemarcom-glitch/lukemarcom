@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-03T09:50:36.018726+00:00",
+  "release": "4e70d01477626bb19de18973679e3bbdee6f4991",
+  "pagesRun": 37114083581,
+  "pagesConclusion": "success",
+  "scope": "Bronmetadata bestaande locatie; geen nieuw beeld of model",
+  "files": [
+    {
+      "path": "landmarks/catalog.json",
+      "bytes": 6948868,
+      "sha256": "1111fd5ecd577b9248692e94273c37f4a76191654be3a0bc2a44ec6da6596209",
+      "identical": true
+    },
+    {
+      "path": "landmarks/scheepmakershaven/BRONCONTROLE-20261003.md",
+      "bytes": 987,
+      "sha256": "d96d884bd464bb97bb2bc2b99a1ca469f9965a1af84f8bf9138b5e856604c5c0",
+      "identical": true
+    }
+  ]
+}
