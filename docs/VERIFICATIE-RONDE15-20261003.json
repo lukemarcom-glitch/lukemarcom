@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-10-03T07:56:44.278Z",
+  "releaseCommit": "50af6173ccde595b180f71a83698eec25727b4b9",
+  "pagesRun": "37107868858",
+  "buildings": 182,
+  "ids": [
+    "gemeentelijke-vischhal-bagijnenstraat",
+    "bats-noordblaak77",
+    "bank-van-lening",
+    "stadstimmerhuis-haringvliet4",
+    "ijsendijk-leuvehaven"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "79e66ce7486d17b8f5d630d07c97644a90770b57927da53310c9774e125acb53",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "77afdcf4a27eeeed0b9445aaba7131a272d6013e600441d7daea3bc1f08522a0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "b5e28ac2c9b3b0073fc659eb1d646d7f955421087439872a88defb554959e461",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "45ad09f1bedad37e17a945c4fd8f29d85e730b8c9a89d783d71e353a1b5f1951",
+      "identical": true
+    },
+    {
+      "path": "landmarks/gemeentelijke-vischhal-bagijnenstraat/model.glb",
+      "sha256": "6f1720e0c9c1030ca37689876c122e74391aa85604a2db626094fadd56a9ddd7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/gemeentelijke-vischhal-bagijnenstraat/foto-1-origineel.jpg",
+      "sha256": "9b72abc32127ccb79a88fb0ba78151c8aa91c8382e5deb9878febd7484e8a8cd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/gemeentelijke-vischhal-bagijnenstraat/foto-1-ai.webp",
+      "sha256": "59279c0080291d8d97b45a4c87c505151af0da86d1f0a6479818ae7eec7a52b6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bats-noordblaak77/model.glb",
+      "sha256": "ade7d79a7f8f50add1decdd9f16e66706d395ba23eeff9c0ca922fa7024f3145",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/foto-1-origineel.jpg",
+      "sha256": "2feb69605087c98594b1d2537faca47480c4a9925d9e36597e24ea5ca183e381",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heck-city-noordblaak/foto-1-ai.webp",
+      "sha256": "fca768a404b78e5316d01dc689b31c9da3d7c1c70e5e7588f2a5cf050eaf2e31",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bank-van-lening/model.glb",
+      "sha256": "73451ea45d8b0ac907d4a2774813449acb4eb8b8f7e8c41a7f31517c21bdc8a1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bank-van-lening/foto-1-origineel.jpg",
+      "sha256": "9660d691b19d10467b97a7b5e0185395083baf5e0ec293e925a7ae0f00895b8b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bank-van-lening/foto-1-ai.webp",
+      "sha256": "721ea4f52d150de6f618e41c0639f78ed7823220d27624658dbf8e13404d27fd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/stadstimmerhuis-haringvliet4/model.glb",
+      "sha256": "1d867f9ebc6d9106d7f05bc08e0d896492c051b799e3f9e27708f3243e50455e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/stadstimmerhuis-haringvliet4/foto-1-origineel.jpg",
+      "sha256": "2a7b17dbcb07836938b7cf09cf424dacd8f47f3ddb81447b9b9825772d0add0c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/stadstimmerhuis-haringvliet4/foto-1-ai.webp",
+      "sha256": "b36c137ec7d15c8afbb0d6b5142bc8346cb164b75f3fc00e56a7c784e96279eb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/ijsendijk-leuvehaven/model.glb",
+      "sha256": "f84a2dea464e0e435a05c28b855a75dd34e90fea518268db12589b21e25ab481",
+      "identical": true
+    },
+    {
+      "path": "landmarks/ijsendijk-leuvehaven/foto-1-origineel.jpg",
+      "sha256": "9fe5cd1eb5b87d9e86d392ab1a5d0bde6797ad1a6e6072d136d5c5426305a8f2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/ijsendijk-leuvehaven/foto-1-ai.webp",
+      "sha256": "f7c129575719bd26bb01a943e51effcd775be0c38839d556baac0eea0f0e451e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/ijsendijk-leuvehaven/foto-2-origineel.jpg",
+      "sha256": "752f62f60e2f7b5437172ec7504e9509de5e7ba728c7116e59a685147a3a82a2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/ijsendijk-leuvehaven/foto-2-ai.webp",
+      "sha256": "c49e759ce1955bc0094e7d232b18f012075b4d2c495ceba9580abfecb863171b",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

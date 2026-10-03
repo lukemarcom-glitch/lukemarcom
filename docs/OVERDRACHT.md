@@ -763,3 +763,9 @@ Locatie 181 toegevoegd: F593-voorbouw, volledig vrij albumorigineel en geselecte
 ### Bronpakketcontrole ronde 15
 
 De verouderde voorlopige statussen in de beeldcontroles van Vischhal en Bank van Lening zijn bijgewerkt naar de gecontroleerde lokale integratie. De bank verwijst nu naar de werkelijk meegeleverde geselecteerde prompt 02. Het Stadstimmerhuis heeft ook op catalogusniveau de reeds onderbouwde plaatsingsmarge van 7 meter; de gedeelde fotonotitie maakt expliciet dat alleen het origineel het gehele albumblad bevat. Geen geometrie of beeldinhoud gewijzigd. Nog geen publicatie van ronde 15.
+
+## Ronde 15 — openbaar gecontroleerd, 75 toevoegingen
+
+Vischhal Bagijnenstraat, Henry Bats Noordblaak 77, Bank van Lening, Stadstimmerhuis Haringvliet 4 en koffiebranderij IJsendijk zijn gepubliceerd. Totaal 182 locaties / 18 verhalen, 346 fotovermeldingen / 321 AI-paren. Release 50af6173ccde595b180f71a83698eec25727b4b9; Pages37107868858 en check37107868842 geslaagd. 21 openbare bestanden bytegelijk en anonieme desktop/mobiele controle geslaagd, inclusief beide IJsendijk-paren en geldige selectiecamera. Zie RONDE15-20261003.md en VERIFICATIE-RONDE15-20261003.json. Publicatieselectie circa719,60MiB, tijdelijke geometrie niet inbegrepen. Volgende volledige back-up bij80; vorige bij70 is onveranderd beschikbaar.
+
+Ronde16 is brononderzoek: nieuwe albumbeelden van Van Veen (Schiekade O.Z.242) en Schaedtler (Boerensteiger), plaatsing/late continuïteit nog te verifiëren. Geen nieuwe runtime van ronde16. Menuvoorstel om Gebieden te vervangen door Ga naar een buurt is nog niet uitgevoerd.
