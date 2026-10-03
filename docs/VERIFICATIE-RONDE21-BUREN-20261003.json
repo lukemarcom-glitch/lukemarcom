@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-03T12:43:24.664Z",
+  "releaseCommit": "cd731a36979715b07ffda754c7e7668b4e76f8be",
+  "files": [
+    {
+      "path": "landmarks/lampe-hoogstraat/model.glb",
+      "sha256": "c15255a13d561e460d102f90f27622efa33c12fad503657f4e74a1d961059a6d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/bank-mees-beursplein/model.glb",
+      "sha256": "1ecd0bc18a2738b883a493cbc0026a18153ea16ce6ed090de10d61a1240d8c96",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak18/model.glb",
+      "sha256": "92381ecf8b2e8c0bf281a63a9c69dc32eb5c93fcfa793fecbbaffb95308432c7",
+      "identical": true
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-03T12:43:23.971Z",
+  "releaseCommit": "cd731a36979715b07ffda754c7e7668b4e76f8be",
+  "pagesRun": "37123672459",
+  "buildings": 212,
+  "ids": [
+    "nieuwehaven23",
+    "monnickendam-hoogstraat",
+    "kaplaars-hoogstraat",
+    "zuidblaak14",
+    "zuidblaak16"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "82f1c5b99bd050510713a9ca25592d9804a6ec934210ad5a061e762362302c0b",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "e86914fef522f302e34059e491420e2300a294aced5e509fce968fb6f41d09cf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "b00bc69314b0bb097f34acc23af91ed91208df025d6c735fa20e794dec12cd0f",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "30323519d58f4cf16196ac8518883c7106334a71c935d111589309579da64678",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven23/model.glb",
+      "sha256": "8809734bf8f98f66fbfb715a4c4c5fb255421a2d70afb4529aa3e1dc8e474bee",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven23/foto-1-origineel.jpg",
+      "sha256": "a277a504f6a8c9f62681139a0bfdeee213c52204f878f50081e9f71046ee21cb",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven23/foto-1-ai.webp",
+      "sha256": "d6053f3697a56add9f387553d0fbd67b14ccd381381fec8159924c0d8d148970",
+      "identical": true
+    },
+    {
+      "path": "landmarks/monnickendam-hoogstraat/model.glb",
+      "sha256": "c63ad3b31ea2f7eedfe66eb7ccc4bd9c4f3addfb5377fb2cec29d02784e2b367",
+      "identical": true
+    },
+    {
+      "path": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg",
+      "sha256": "f8aec159c365858c0f6f13d150bb8632cedf16139d41a4e85956816399c35ce1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/monnickendam-hoogstraat/foto-1-ai.webp",
+      "sha256": "155479a5978c422623685046f891f8110672490a8ff2237b11efbc332a2a2737",
+      "identical": true
+    },
+    {
+      "path": "landmarks/kaplaars-hoogstraat/model.glb",
+      "sha256": "6217007f231bba07ef5ea46986ed13325e156b0e04c15c6b70ebf10e0d6a578d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak14/model.glb",
+      "sha256": "a3c5de0e60941d80fba3a016de9170b4e9d7c4e96ec4cc6c1bad55edf83e3893",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak14/foto-1-origineel.jpg",
+      "sha256": "8d6e177b0eb943170d44a4634844a2a1dd875cec0afe4e518501fde988f59ae6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak14/foto-1-ai.webp",
+      "sha256": "078786342a101a76fc41454ab2aac134e9f4f1197ec876299a460f735041d596",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak16/model.glb",
+      "sha256": "8632e91891235f59f55885a47d5bece2a3dbe5cf38e7d70738ac60d66dbe8584",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak16/foto-1-origineel.jpg",
+      "sha256": "8d6e177b0eb943170d44a4634844a2a1dd875cec0afe4e518501fde988f59ae6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/zuidblaak16/foto-1-ai.webp",
+      "sha256": "078786342a101a76fc41454ab2aac134e9f4f1197ec876299a460f735041d596",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

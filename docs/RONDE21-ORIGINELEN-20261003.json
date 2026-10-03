@@ -1,0 +1,26 @@
+[
+  {
+    "id": "nieuwehaven23",
+    "sha256": "a277a504f6a8c9f62681139a0bfdeee213c52204f878f50081e9f71046ee21cb",
+    "byteIdentical": true,
+    "reference": "research/round21-control/package/foto-1-origineel.jpg"
+  },
+  {
+    "id": "monnickendam-hoogstraat",
+    "sha256": "f8aec159c365858c0f6f13d150bb8632cedf16139d41a4e85956816399c35ce1",
+    "byteIdentical": true,
+    "reference": "research/round21-a/monnickendam-original.jpg"
+  },
+  {
+    "id": "zuidblaak14",
+    "sha256": "8d6e177b0eb943170d44a4634844a2a1dd875cec0afe4e518501fde988f59ae6",
+    "byteIdentical": true,
+    "reference": "research/round21-b/zuid1915.jpg"
+  },
+  {
+    "id": "zuidblaak16",
+    "sha256": "8d6e177b0eb943170d44a4634844a2a1dd875cec0afe4e518501fde988f59ae6",
+    "byteIdentical": true,
+    "reference": "research/round21-b/zuid1915.jpg"
+  }
+]
