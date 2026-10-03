@@ -1,0 +1,21 @@
+{
+  "release": "61196ccc602dfd47c0f952e71eb048069711eee2",
+  "pagesRun": 37143995411,
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "ac85fce932e50662f485b2972870b34da7bfeae307a853a9da565e0ce439798c",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "ec2ec6fed637ece50b1691f4e3cd302363ba29a2611f76c514bb7827b6fd2c1a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "b4f15b237a07af0796ef7a87797a5f7b6ab0579074a697211998b344b3d7756d",
+      "identical": true
+    }
+  ]
+}
