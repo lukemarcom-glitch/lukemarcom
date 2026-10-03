@@ -265500,7 +265500,7 @@
       },
       {
         "title": "Verheul · architectenalbum 1916, plaat 13",
-        "url": "https://archive.org/details/jverheuldznarchi00unse",
+        "url": "https://archive.org/details/jverheuldznarchi00unse/page/n26/mode/1up",
         "supports": "Onderste opname op plaat 13 noemt woonhuis M.B. van Veen, Schiekade O.Z. Dezelfde asymmetrische gevel als op de Möglefoto. Het album vermeldt hier geen huisnummer."
       },
       {
@@ -265526,7 +265526,9 @@
       {
         "title": "Rotterdams Jaarboekje 1992 · adresafwijking, p. 217",
         "url": "https://rjb.x-cago.com/GARJB/1992/12/19921231/GARJB-19921231-0192/story.pdf",
-        "supports": "Alleen zoekindex bereikbaar: noemt Schiekade O.Z. 242. Volledige pagina niet geraadpleegd wegens onbereikbare host; verschil met kaartadres 208 blijft expliciet onopgelost en is niet als hernummering voorgesteld."
+        "supports": "Alleen zoekindex bereikbaar: noemt Schiekade O.Z. 242. Volledige pagina niet geraadpleegd wegens onbereikbare host; verschil met kaartadres 208 blijft expliciet onopgelost en is niet als hernummering voorgesteld.",
+        "unavailable": true,
+        "accessNote": "De volledige PDF is momenteel niet bereikbaar. Alleen een zoekindexvermelding kon worden gelezen; het afwijkende adres242 is daarom geen gecontroleerde plaatsingsbron."
       }
     ],
     "photos": [

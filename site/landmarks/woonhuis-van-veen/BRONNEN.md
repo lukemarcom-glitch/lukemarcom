@@ -5,7 +5,7 @@ https://hdl.handle.net/21.12133/F5104243CB69473486EE7EAAE9DBF88F
 XXV-595-01-01: gehele gevel, beide toppen, gesloten jaloezieën, erker, balkon en dakkapellen; primaire caption noemt hoekadres Hofplein 17 bij buur C.P. Meulendijk. Auteur Carl Emile Mögle, datering 1899, Public Domain Mark 1.0.
 
 Verheul · architectenalbum 1916, plaat 13
-https://archive.org/details/jverheuldznarchi00unse
+https://archive.org/details/jverheuldznarchi00unse/page/n26/mode/1up
 Onderste opname op plaat 13 noemt woonhuis M.B. van Veen, Schiekade O.Z. Dezelfde asymmetrische gevel als op de Möglefoto. Het album vermeldt hier geen huisnummer.
 
 Stadsarchief · overzicht verdwenen gebouwen van Verheul
