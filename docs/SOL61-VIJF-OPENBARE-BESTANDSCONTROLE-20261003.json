@@ -1,0 +1,251 @@
+{
+  "checkedAt": "2026-10-03T18:15:19.047Z",
+  "releaseCommit": "7a2cf06900ddba00cfa723c0d8e3a5cdf3ff440f",
+  "pagesRun": "37143375249",
+  "buildings": 218,
+  "ids": [
+    "hoogstraat-353",
+    "hoogstraat-357",
+    "haringvliet91",
+    "posthoornsteeg3",
+    "posthoornsteeg1"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "599a0fc587180152c9dd46da6a92e0ac19aa8167f8157890c9ad321e28072139",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "ce6ec7dec14a25bfac90eb869bdc07532e73ba0eccbe73ded8fe667636d1da22",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "b4f15b237a07af0796ef7a87797a5f7b6ab0579074a697211998b344b3d7756d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "8e38aef674e44ee8c036e8b6c85c5c956a6af709219fc74a9e759c625721d0d1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/models.js",
+      "sha256": "24b17de611843c1318c6c99efbf76969f17060dbf46d8f87c7b53e585df6ddcd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet89/model.glb",
+      "sha256": "3334145ef0ed3f606b80bf76d8c39d81a1b5da0c913acf469b089dabb1c25fbf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven69/model.glb",
+      "sha256": "fcec0326c95e19763ab133357e2593b52e5f2c11192a68b0bc9f7c3c922c83c8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven67/model.glb",
+      "sha256": "864e435e282f2f33d1d5f466bd71a11ec78e2df1f80783ad69d645c12ecca0f3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/model.glb",
+      "sha256": "a3c8cdcbb6a571e4c9b66f0acd13a8aa501adfe01042501a6d180388101fa43d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/model-source-spec.json",
+      "sha256": "fa5360bcf547066aa0a7143c6d38c20b0a725073e04edeb90938bea972ed08df",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/BRONNEN.md",
+      "sha256": "39178e77dcab6f7fed3407cde59f024c67d22d3f883aac282c1250a1e9050b64",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/BEELDCORRECTIE.json",
+      "sha256": "38e991ad5c58151b3d66f3f77b1e6f401515de6556906cf40e382c580963c0a7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/BEELDCORRECTIE.md",
+      "sha256": "7d61bbf0a20993fe198dc46a65137584a960148c25f8792c7c603e2b8824793a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/PROMPT-AI-01.txt",
+      "sha256": "c6f8e9ec76fa418c5f2517cdddd6ff73570080b410989c1bf033ff0c043143e6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/PROMPT-AI-20261003.md",
+      "sha256": "17b2961e16068094410cb5129d27bafc513db6a7457ce59ec9a137b81d27e09a",
+      "identical": true
+    },
+    {
+      "path": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg",
+      "sha256": "f8aec159c365858c0f6f13d150bb8632cedf16139d41a4e85956816399c35ce1",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/foto-1-ai.webp",
+      "sha256": "af8e2edbd28f9c516813c05949cdf3a02977ced7123cdbd0ce9a6a9ebe6472d7",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-353/foto-1-ai.png",
+      "sha256": "0e0320e6a543c54b05247c3834fc617ee9ad77d9724a2a7940c24ef2369d9363",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-357/model.glb",
+      "sha256": "96046dfe2419e04176b9a6237b2eb7d6a892979d690b267031a05d6d0c0e1c50",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-357/model-source-spec.json",
+      "sha256": "b09bd18233e292bc97962ac87b3c0c08278a6213453cd08d27fd9359477a3f3d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-357/BRONNEN.md",
+      "sha256": "8089a05e254c2fe83680da409ebc5f3c95c83e21974cce662e84a8b6ac288bbc",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hoogstraat-357/PROMPT-AI-01.txt",
+      "sha256": "c6f8e9ec76fa418c5f2517cdddd6ff73570080b410989c1bf033ff0c043143e6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet91/model.glb",
+      "sha256": "0534dc99d9f5572252bf22cea09d841a02efbc0bf52eef28c957f0637c8c40bd",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet91/model-source-spec.json",
+      "sha256": "e1470d72f104bcac89aec22cce891d9d97a283945d0ade5c06a3aa2c54eefda0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet91/BRONNEN.md",
+      "sha256": "f462e2f5edc721d0389739e3fb69797007516cc61cee94621df0f13f696fe8c2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet91/PROMPT-AI-01.txt",
+      "sha256": "3aa056172a271987e19bdc7370310b5a549fac88eb697a0aad1968c01b4f450d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-1-origineel.jpg",
+      "sha256": "c77e1eb81a3e76969e450a5a79f92e615964d3f611fd6325308faf74e58db46c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-1-ai.webp",
+      "sha256": "fddc768a137a8c5dd3a57f5ca46223cba039a2d04f23e205ba01a1bc550c77f8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-1-ai.png",
+      "sha256": "7ce06cd47fe41e015fa2dcba1be955eb68ee66be63fc089f10676520ff8b87b0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/model.glb",
+      "sha256": "cda2a6aa67cdbad631c8a63ed789a6e69e099bcec65cb3f2d775416f264eef02",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/model-source-spec.json",
+      "sha256": "7ee560fd254cd790f9e5cee2e5f243e30af5d760dd761a59999da1f01d9199c2",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/BRONNEN.md",
+      "sha256": "ff75bb9047cc5a1be5ffe727673cb4ebaae382e5bea26dd35655f7c5741c2b3e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/BEELDVERANTWOORDING.md",
+      "sha256": "0ce6f6fc0bc63abaf034921199e1a93ed78655225272d5164f6001923a224871",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/prompt-2-correctie.txt",
+      "sha256": "5f4c78d01049f9b9fcbf33e9f20ff0d6e9da08274375725cece5178d53252159",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/prompt-2-eerste.txt",
+      "sha256": "6db39de3d4af01073178323ddbabf3e5795f8dbde4077a0d48e81d2ee6c00034",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/foto-1-origineel.jpg",
+      "sha256": "edb28b163aec3e7ecdf7aa7db7e284116f08dfcfaa9eeee9473c9374700e11bc",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg3/foto-1-ai.webp",
+      "sha256": "cadaab070f2cf587d4cd636bae8a665893897c42f677b2501c2d3c25c8dc4c1d",
+      "identical": true
+    },
+    {
+      "path": "landmarks/wijnhaven145-moll/foto-2-ai.png",
+      "sha256": "207ae9a70d8fcab8c245e460fcf8f25ab04f9d6de15a93dd36e766623eb847d5",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/model.glb",
+      "sha256": "ee428091dca2a0d80d3300bcbec9d0cf7cd53807afd7a1a228eb0aa9a926c04e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/model-source-spec.json",
+      "sha256": "55abf8505e9fd462979b4e3da90e4e8805b917ac7472dad419479aededf34bac",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/BRONNEN.md",
+      "sha256": "734e6e217544d66ce9bc3e530aa5c693dfa11b5633197a3794b306cd347fa335",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/BEELDVERANTWOORDING.md",
+      "sha256": "0ce6f6fc0bc63abaf034921199e1a93ed78655225272d5164f6001923a224871",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/prompt-2-correctie.txt",
+      "sha256": "5f4c78d01049f9b9fcbf33e9f20ff0d6e9da08274375725cece5178d53252159",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/prompt-2-eerste.txt",
+      "sha256": "6db39de3d4af01073178323ddbabf3e5795f8dbde4077a0d48e81d2ee6c00034",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/foto-1-origineel.jpg",
+      "sha256": "edb28b163aec3e7ecdf7aa7db7e284116f08dfcfaa9eeee9473c9374700e11bc",
+      "identical": true
+    },
+    {
+      "path": "landmarks/posthoornsteeg1/foto-1-ai.webp",
+      "sha256": "cadaab070f2cf587d4cd636bae8a665893897c42f677b2501c2d3c25c8dc4c1d",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

@@ -1,0 +1,463 @@
+{
+  "checkedAt": "2026-10-03T18:17:12.483Z",
+  "releaseCommit": "7a2cf06900ddba00cfa723c0d8e3a5cdf3ff440f",
+  "pagesRun": "37143375249",
+  "base": "https://rdam39.nl/",
+  "anonymousFreshBrowserContexts": true,
+  "catalogCount": 218,
+  "storyCount": 18,
+  "items": [
+    {
+      "id": "hoogstraat-353",
+      "browser": {
+        "base": "https://rdam39.nl/",
+        "landmarkId": "hoogstraat-353",
+        "selectionCamera": true,
+        "checkedPhotos": [
+          {
+            "index": 0,
+            "variant": "original",
+            "src": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg"
+          },
+          {
+            "index": 0,
+            "variant": "ai",
+            "src": "landmarks/hoogstraat-353/foto-1-ai.webp"
+          }
+        ],
+        "buildings": 218,
+        "stories": 18,
+        "errors": [],
+        "failed": [],
+        "overflow": {
+          "page": false,
+          "panel": false
+        },
+        "photoPairs": true,
+        "modern3D": true,
+        "mobileViewer": true
+      },
+      "credits": {
+        "id": "hoogstraat-353",
+        "base": "https://rdam39.nl/",
+        "storyWords": 135,
+        "reports": [
+          {
+            "name": "desktop",
+            "variant": "original",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 — Hoogstraat 353 is de hoge gevel direct links van hoekpand Monnickendam, tussen 351 en De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui.\nHerkomst van deze foto\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "desktop",
+            "variant": "ai",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 · AI-beeldbewerking — Hoogstraat 353 is de hoge gevel direct links van hoekpand Monnickendam, tussen 351 en De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui. — Afzonderlijke AI-kleurinterpretatie van dezelfde historische opname. Twee kleine winkelbordjes zijn met expliciete toestemming uit het oorspronkelijke zwart-witbeeld teruggeplaatst om de bewezen MONNICKENDAM-spelling en bordvorm te behouden. Overige architectuur en scène behouden in hoofdvorm. Kleuren, vlagkleuren, winkelinhoud en fijne details blijven interpretaties. Geen historische kleurenfoto of actuele opname; het ongewijzigde origineel blijft het bewijs.\nBron van het oorspronkelijke beeld\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel.",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "original",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 — Hoogstraat 353 is de hoge gevel direct links van hoekpand Monnickendam, tussen 351 en De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui.\nHerkomst van deze foto\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "ai",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 · AI-beeldbewerking — Hoogstraat 353 is de hoge gevel direct links van hoekpand Monnickendam, tussen 351 en De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui. — Afzonderlijke AI-kleurinterpretatie van dezelfde historische opname. Twee kleine winkelbordjes zijn met expliciete toestemming uit het oorspronkelijke zwart-witbeeld teruggeplaatst om de bewezen MONNICKENDAM-spelling en bordvorm te behouden. Overige architectuur en scène behouden in hoofdvorm. Kleuren, vlagkleuren, winkelinhoud en fijne details blijven interpretaties. Geen historische kleurenfoto of actuele opname; het ongewijzigde origineel blijft het bewijs.\nBron van het oorspronkelijke beeld\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel.",
+            "fullscreenCredit": true
+          }
+        ],
+        "sourceClaimsVisible": true,
+        "sourceCount": 4,
+        "passed": true
+      }
+    },
+    {
+      "id": "hoogstraat-357",
+      "browser": {
+        "base": "https://rdam39.nl/",
+        "landmarkId": "hoogstraat-357",
+        "selectionCamera": true,
+        "checkedPhotos": [
+          {
+            "index": 0,
+            "variant": "original",
+            "src": "landmarks/monnickendam-hoogstraat/foto-1-origineel.jpg"
+          },
+          {
+            "index": 0,
+            "variant": "ai",
+            "src": "landmarks/hoogstraat-353/foto-1-ai.webp"
+          }
+        ],
+        "buildings": 218,
+        "stories": 18,
+        "errors": [],
+        "failed": [],
+        "overflow": {
+          "page": false,
+          "panel": false
+        },
+        "photoPairs": true,
+        "modern3D": true,
+        "mobileViewer": true
+      },
+      "credits": {
+        "id": "hoogstraat-357",
+        "base": "https://rdam39.nl/",
+        "storyWords": 148,
+        "reports": [
+          {
+            "name": "desktop",
+            "variant": "original",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 — Hoogstraat 357 is de versierde gevel met drie vensterassen direct links van De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui.\nHerkomst van deze foto\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "desktop",
+            "variant": "ai",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 · AI-beeldbewerking — Hoogstraat 357 is de versierde gevel met drie vensterassen direct links van De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui. — Afzonderlijke AI-kleurinterpretatie van dezelfde historische opname. Twee kleine winkelbordjes zijn met expliciete toestemming uit het oorspronkelijke zwart-witbeeld teruggeplaatst om de bewezen MONNICKENDAM-spelling en bordvorm te behouden. Overige architectuur en scène behouden in hoofdvorm. Kleuren, vlagkleuren, winkelinhoud en fijne details blijven interpretaties. Geen historische kleurenfoto of actuele opname; het ongewijzigde origineel blijft het bewijs.\nBron van het oorspronkelijke beeld\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel.",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "original",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 — Hoogstraat 357 is de versierde gevel met drie vensterassen direct links van De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui.\nHerkomst van deze foto\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "ai",
+            "caption": "Monnickendam, De Kaplaars en het Spui · maart 1930 · AI-beeldbewerking — Hoogstraat 357 is de versierde gevel met drie vensterassen direct links van De Kaplaars op 355. Het gehele origineel is ongewijzigd. Eén straatfotopaar wordt met de aangrenzende panden gedeeld. De archieftitel noemt Westewagenstraat; de huisnummerkaart en adresboeken plaatsen deze hoek bij het Spui. — Afzonderlijke AI-kleurinterpretatie van dezelfde historische opname. Twee kleine winkelbordjes zijn met expliciete toestemming uit het oorspronkelijke zwart-witbeeld teruggeplaatst om de bewezen MONNICKENDAM-spelling en bordvorm te behouden. Overige architectuur en scène behouden in hoofdvorm. Kleuren, vlagkleuren, winkelinhoud en fijne details blijven interpretaties. Geen historische kleurenfoto of actuele opname; het ongewijzigde origineel blijft het bewijs.\nBron van het oorspronkelijke beeld\nFrançois Henry (F.H.) van Dijk · maart 1930\nCollectienummer: 4117 · 1976-11286\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: CC0 volgens Stadsarchief Rotterdam ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel.",
+            "fullscreenCredit": true
+          }
+        ],
+        "sourceClaimsVisible": true,
+        "sourceCount": 5,
+        "passed": true
+      }
+    },
+    {
+      "id": "haringvliet91",
+      "browser": {
+        "base": "https://rdam39.nl/",
+        "landmarkId": "haringvliet91",
+        "selectionCamera": true,
+        "checkedPhotos": [
+          {
+            "index": 0,
+            "variant": "original",
+            "src": "landmarks/haringvliet87/foto-1-origineel.jpg"
+          },
+          {
+            "index": 0,
+            "variant": "ai",
+            "src": "landmarks/haringvliet87/foto-1-ai.webp"
+          }
+        ],
+        "buildings": 218,
+        "stories": 18,
+        "errors": [],
+        "failed": [],
+        "overflow": {
+          "page": false,
+          "panel": false
+        },
+        "photoPairs": true,
+        "modern3D": true,
+        "mobileViewer": true
+      },
+      "credits": {
+        "id": "haringvliet91",
+        "base": "https://rdam39.nl/",
+        "storyWords": 156,
+        "reports": [
+          {
+            "name": "desktop",
+            "variant": "original",
+            "caption": "Haringvliet 91 · drieassige gevel links van nummer 89 — Nummer 91 is het drieassige huis links van het tweeassige nummer 89; de telefoonmast bedekt een deel van de gevel en onderpui. Het volledige origineel is ongewijzigd. Ditzelfde foto-paar wordt ook bij 87 en 89 getoond; het is geen onafhankelijke extra opname. De archiefdatering 1938–1942 conflicteert met de genoemde maker, overleden in 1911.\nHerkomst van deze foto\nToegeschreven aan C. Hoogendijk; datering conflicteert · Opnamedatum onzeker\nCollectienummer: SAR 4202 / XXV-302-09\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: Public Domain Mark 1.0 volgens Stadsarchief Rotterdam. ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "desktop",
+            "variant": "ai",
+            "caption": "Haringvliet 91 · drieassige gevel links van nummer 89 · AI-beeldbewerking — Nummer 91 is het drieassige huis links van het tweeassige nummer 89; de telefoonmast bedekt een deel van de gevel en onderpui. Het volledige origineel is ongewijzigd. Ditzelfde foto-paar wordt ook bij 87 en 89 getoond; het is geen onafhankelijke extra opname. De archiefdatering 1938–1942 conflicteert met de genoemde maker, overleden in 1911. — AI-bewerking, geen historische bewijsfoto of actuele opname. Kleuren en kleine details zijn interpretatief; mast, camerastandpunt en hoofdindeling zijn behouden. Verborgen geveldelen blijven onzeker.\nBron van het oorspronkelijke beeld\nToegeschreven aan C. Hoogendijk; datering conflicteert · Opnamedatum onzeker\nCollectienummer: SAR 4202 / XXV-302-09\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: Public Domain Mark 1.0 volgens Stadsarchief Rotterdam. ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel.",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "original",
+            "caption": "Haringvliet 91 · drieassige gevel links van nummer 89 — Nummer 91 is het drieassige huis links van het tweeassige nummer 89; de telefoonmast bedekt een deel van de gevel en onderpui. Het volledige origineel is ongewijzigd. Ditzelfde foto-paar wordt ook bij 87 en 89 getoond; het is geen onafhankelijke extra opname. De archiefdatering 1938–1942 conflicteert met de genoemde maker, overleden in 1911.\nHerkomst van deze foto\nToegeschreven aan C. Hoogendijk; datering conflicteert · Opnamedatum onzeker\nCollectienummer: SAR 4202 / XXV-302-09\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: Public Domain Mark 1.0 volgens Stadsarchief Rotterdam. ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "ai",
+            "caption": "Haringvliet 91 · drieassige gevel links van nummer 89 · AI-beeldbewerking — Nummer 91 is het drieassige huis links van het tweeassige nummer 89; de telefoonmast bedekt een deel van de gevel en onderpui. Het volledige origineel is ongewijzigd. Ditzelfde foto-paar wordt ook bij 87 en 89 getoond; het is geen onafhankelijke extra opname. De archiefdatering 1938–1942 conflicteert met de genoemde maker, overleden in 1911. — AI-bewerking, geen historische bewijsfoto of actuele opname. Kleuren en kleine details zijn interpretatief; mast, camerastandpunt en hoofdindeling zijn behouden. Verborgen geveldelen blijven onzeker.\nBron van het oorspronkelijke beeld\nToegeschreven aan C. Hoogendijk; datering conflicteert · Opnamedatum onzeker\nCollectienummer: SAR 4202 / XXV-302-09\nStadsarchief Rotterdam · beeldregistratie ↗\nRechten origineel: Public Domain Mark 1.0 volgens Stadsarchief Rotterdam. ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel.",
+            "fullscreenCredit": true
+          }
+        ],
+        "sourceClaimsVisible": true,
+        "sourceCount": 4,
+        "passed": true
+      }
+    },
+    {
+      "id": "posthoornsteeg3",
+      "browser": {
+        "base": "https://rdam39.nl/",
+        "landmarkId": "posthoornsteeg3",
+        "selectionCamera": true,
+        "checkedPhotos": [
+          {
+            "index": 0,
+            "variant": "original",
+            "src": "landmarks/posthoornsteeg3/foto-1-origineel.jpg"
+          },
+          {
+            "index": 0,
+            "variant": "ai",
+            "src": "landmarks/posthoornsteeg3/foto-1-ai.webp"
+          }
+        ],
+        "buildings": 218,
+        "stories": 18,
+        "errors": [],
+        "failed": [],
+        "overflow": {
+          "page": false,
+          "panel": false
+        },
+        "photoPairs": true,
+        "modern3D": true,
+        "mobileViewer": true
+      },
+      "credits": {
+        "id": "posthoornsteeg3",
+        "base": "https://rdam39.nl/",
+        "storyWords": 175,
+        "reports": [
+          {
+            "name": "desktop",
+            "variant": "original",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll — Het drieassige pand direct na de lage zijgevel van Moll. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname.\nHerkomst van deze foto\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "desktop",
+            "variant": "ai",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll · AI-beeldbewerking — Het drieassige pand direct na de lage zijgevel van Moll. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname. — Hergebruik van de eerder vervaardigde AI-kleurinterpretatie bij Wijnhaven 145. Beide nieuwe gevels apart met het origineel vergeleken. Hoofdmassa, vensterassen, lijst en kap behouden; kleine letters, personen, materiaal- en kleurtonen zijn interpretaties. Onleesbare gevelteksten worden niet als bedrijfsnamen gebruikt. Geen historische kleurenfoto of actuele opname.\nBron van het oorspronkelijke beeld\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel. Licentie bewerking: CC BY-SA 4.0 ↗.",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "original",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll — Het drieassige pand direct na de lage zijgevel van Moll. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname.\nHerkomst van deze foto\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "ai",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll · AI-beeldbewerking — Het drieassige pand direct na de lage zijgevel van Moll. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname. — Hergebruik van de eerder vervaardigde AI-kleurinterpretatie bij Wijnhaven 145. Beide nieuwe gevels apart met het origineel vergeleken. Hoofdmassa, vensterassen, lijst en kap behouden; kleine letters, personen, materiaal- en kleurtonen zijn interpretaties. Onleesbare gevelteksten worden niet als bedrijfsnamen gebruikt. Geen historische kleurenfoto of actuele opname.\nBron van het oorspronkelijke beeld\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel. Licentie bewerking: CC BY-SA 4.0 ↗.",
+            "fullscreenCredit": true
+          }
+        ],
+        "sourceClaimsVisible": true,
+        "sourceCount": 5,
+        "passed": true
+      }
+    },
+    {
+      "id": "posthoornsteeg1",
+      "browser": {
+        "base": "https://rdam39.nl/",
+        "landmarkId": "posthoornsteeg1",
+        "selectionCamera": true,
+        "checkedPhotos": [
+          {
+            "index": 0,
+            "variant": "original",
+            "src": "landmarks/posthoornsteeg1/foto-1-origineel.jpg"
+          },
+          {
+            "index": 0,
+            "variant": "ai",
+            "src": "landmarks/posthoornsteeg1/foto-1-ai.webp"
+          }
+        ],
+        "buildings": 218,
+        "stories": 18,
+        "errors": [],
+        "failed": [],
+        "overflow": {
+          "page": false,
+          "panel": false
+        },
+        "photoPairs": true,
+        "modern3D": true,
+        "mobileViewer": true
+      },
+      "credits": {
+        "id": "posthoornsteeg1",
+        "base": "https://rdam39.nl/",
+        "storyWords": 179,
+        "reports": [
+          {
+            "name": "desktop",
+            "variant": "original",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll — Het hogere pand met vijf vensterassen en een brede winkelpui, vóór de Lutherse kerk. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname.\nHerkomst van deze foto\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "desktop",
+            "variant": "ai",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll · AI-beeldbewerking — Het hogere pand met vijf vensterassen en een brede winkelpui, vóór de Lutherse kerk. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname. — Hergebruik van de eerder vervaardigde AI-kleurinterpretatie bij Wijnhaven 145. Beide nieuwe gevels apart met het origineel vergeleken. Hoofdmassa, vensterassen, lijst en kap behouden; kleine letters, personen, materiaal- en kleurtonen zijn interpretaties. Onleesbare gevelteksten worden niet als bedrijfsnamen gebruikt. Geen historische kleurenfoto of actuele opname.\nBron van het oorspronkelijke beeld\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel. Licentie bewerking: CC BY-SA 4.0 ↗.",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "original",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll — Het hogere pand met vijf vensterassen en een brede winkelpui, vóór de Lutherse kerk. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname.\nHerkomst van deze foto\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗",
+            "fullscreenCredit": true
+          },
+          {
+            "name": "mobile",
+            "variant": "ai",
+            "caption": "Posthoornsteeg · twee handelspanden naast Moll · AI-beeldbewerking — Het hogere pand met vijf vensterassen en een brede winkelpui, vóór de Lutherse kerk. Dezelfde ongewijzigde straatopname staat ook bij het buurhuis en Wijnhaven 145; geen afzonderlijke opname. — Hergebruik van de eerder vervaardigde AI-kleurinterpretatie bij Wijnhaven 145. Beide nieuwe gevels apart met het origineel vergeleken. Hoofdmassa, vensterassen, lijst en kap behouden; kleine letters, personen, materiaal- en kleurtonen zijn interpretaties. Onleesbare gevelteksten worden niet als bedrijfsnamen gebruikt. Geen historische kleurenfoto of actuele opname.\nBron van het oorspronkelijke beeld\nC. Hoogendijk / Rijksdienst voor het Cultureel Erfgoed · Ongedateerd · vóór 1940\nCollectienummer: RCE 20192635\nWikimedia Commons · bestandsgegevens ↗\nRechten origineel: CC BY-SA 4.0 · C. Hoogendijk / RCE; AI-afgeleide onder dezelfde licentie ↗\nAI-bewerking door RDAM39; kleuren en details kunnen afwijken van het origineel. Licentie bewerking: CC BY-SA 4.0 ↗.",
+            "fullscreenCredit": true
+          }
+        ],
+        "sourceClaimsVisible": true,
+        "sourceCount": 5,
+        "passed": true
+      }
+    }
+  ],
+  "general": {
+    "base": "https://rdam39.nl/",
+    "landmarkId": "plan-c",
+    "selectionCamera": true,
+    "checkedPhotos": [
+      {
+        "index": 0,
+        "variant": "original",
+        "src": "landmarks/plan-c/overzicht.jpg"
+      },
+      {
+        "index": 0,
+        "variant": "ai",
+        "src": "landmarks/plan-c/overzicht-ai.webp"
+      },
+      {
+        "index": 1,
+        "variant": "original",
+        "src": "landmarks/plan-c/overzicht-1939.jpg"
+      },
+      {
+        "index": 1,
+        "variant": "ai",
+        "src": "landmarks/plan-c/overzicht-1939-ai.webp"
+      },
+      {
+        "index": 2,
+        "variant": "original",
+        "src": "landmarks/plan-c/kolkzijde.jpg"
+      },
+      {
+        "index": 2,
+        "variant": "ai",
+        "src": "landmarks/plan-c/kolkzijde-ai.webp"
+      },
+      {
+        "index": 3,
+        "variant": "original",
+        "src": "landmarks/plan-c/luchtfoto-1935.jpg"
+      },
+      {
+        "index": 3,
+        "variant": "ai",
+        "src": "landmarks/plan-c/luchtfoto-1935-ai.webp"
+      },
+      {
+        "index": 4,
+        "variant": "original",
+        "src": "assets/fotoproef-plan-c/origineel.jpg"
+      },
+      {
+        "index": 4,
+        "variant": "ai",
+        "src": "assets/fotoproef-plan-c/ai-kleur-v1.webp"
+      }
+    ],
+    "buildings": 218,
+    "stories": 18,
+    "errors": [],
+    "failed": [],
+    "overflow": {
+      "page": false,
+      "panel": false
+    },
+    "photoPairs": true,
+    "modern3D": true,
+    "mobileViewer": true
+  },
+  "modelGroups": [
+    {
+      "id": "hoogstraat-353",
+      "base": "https://rdam39.nl/",
+      "bounds": {
+        "min": [
+          -71.40959167480469,
+          0.3499998152256012,
+          -191.7013397216797
+        ],
+        "max": [
+          -63.60142517089844,
+          16.729999542236328,
+          -181.8656768798828
+        ]
+      },
+      "errors": [],
+      "checkedAt": "2026-10-03T18:16:02.358Z"
+    },
+    {
+      "id": "haringvliet91",
+      "base": "https://rdam39.nl/",
+      "bounds": {
+        "min": [
+          568.01318359375,
+          0.34999990463256836,
+          -120.92506408691406
+        ],
+        "max": [
+          581.521484375,
+          15.86500072479248,
+          -107.05094146728516
+        ]
+      },
+      "errors": [],
+      "checkedAt": "2026-10-03T18:15:39.787Z"
+    },
+    {
+      "id": "posthoornsteeg3",
+      "base": "https://rdam39.nl/",
+      "bounds": {
+        "min": [
+          -23.59963607788086,
+          0.3499998152256012,
+          143.36012268066406
+        ],
+        "max": [
+          -11.8609619140625,
+          16.549999237060547,
+          153.23504638671875
+        ]
+      },
+      "errors": [],
+      "checkedAt": "2026-10-03T18:15:50.789Z"
+    }
+  ],
+  "personallyViewed": "All five public mobile galleries or fullscreen, Hoogstraat desktop fullscreen and mobile credits, three public model groups.",
+  "passed": true,
+  "scope": "Public anonymous browser and visual checks. Main agent independently verifies deployed byte equality."
+}

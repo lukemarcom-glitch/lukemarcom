@@ -1,0 +1,13 @@
+{
+  "tag": "rdam39-local-20261003-111-buildings",
+  "tagScope": "local only, never pushed",
+  "commit": "7a2cf06900ddba00cfa723c0d8e3a5cdf3ff440f",
+  "bundle": "rotterdam_1939/backups/rdam39-local-20261003-111-buildings.bundle",
+  "bytes": 905464069,
+  "sha256": "1fd019413062fd1928564f8fc3628d527dab3239eed7c4ffeb01b98963b0c01b",
+  "verified": "git bundle verify: complete history, no prerequisites; GitHub tag absent",
+  "contains": "All local Git refs and full tracked history through the five-building release",
+  "excludes": "Uncommitted original checkout work, untracked research/probes/screenshots/export caches, dependency symlinks, subsequent public-verification documentation commit",
+  "remoteBackupCreated": false,
+  "policy": "User requested no more GitHub backups; local recovery bundle preserves original local-backup requirement."
+}

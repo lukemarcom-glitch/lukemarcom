@@ -2,13 +2,21 @@
 
 Bijgewerkt: 3 oktober 2026.
 
-**Actueel openbaar geverifieerd:** 213 locaties / 18 verhalen, release `d836c2f0ffa7bb01f61435f4a137a4070dc516c2`, Pages `37133872704`. De laatste opdracht was één proefgebouw: Wijnhaven 69. Zie `SOL61-PROEF-20261003.md` en `SOL61-OPENBARE-*.json`. 106 toevoegingen uit de uitbreidingsreeks zijn openbaar gecontroleerd; volledige back-up100 opnieuw geverifieerd, volgende checkpoint110. De afzonderlijke oude lokale checkout bevat nog vijf ongepubliceerde ronde22-items; deze zijn niet deel van de openbare catalogus. Oude aantallen/statussen hieronder zijn historisch logboek, geen actuele inventaris.
+**Actueel openbaar geverifieerd:** 218 locaties / 18 verhalen, release `7a2cf06900ddba00cfa723c0d8e3a5cdf3ff440f`, Pages `37143375249`. Na Wijnhaven 69 zijn vijf gebouwen toegevoegd: Hoogstraat 353 en 357, Haringvliet 91 en twee Posthoornsteeg-panden met beschrijvende namen wegens onzekere huisnummerkoppeling. Zie `SOL61-VIJF-20261003.md` en bijbehorend bron-, model-, lokaal/openbaar browser- en bestandenbewijs. 111 toevoegingen uit de uitbreidingsreeks zijn openbaar gecontroleerd. Oude aantallen en statussen hieronder zijn historisch logboek, geen actuele inventaris.
 
-## Lopende opdracht: vijf volgende gebouwen
+## Laatste opdracht en gecontroleerde release
 
-Gebruiker heeft na de ééngebouwproef nog vijf toevoegingen gevraagd. De vijf ongepubliceerde ronde22-kandidaten worden in de actuele worktree op release f3dc28b opnieuw gecontroleerd en geïntegreerd met behoud van Wijnhaven69. De oorspronkelijke vuile checkout blijft ongewijzigd; geen blind pull/reset/clean daarop uitvoeren. Huidige lokale catalogus 218 / 18 verhalen, vijf gerichte browsercontroles en PlanC geslaagd; 14 tests groen en zeven modelchecks overlapvrij/GLB-pariteit. Definitieve Hoogstraat-AI met twee originele bordjes op expliciete toestemming goedgekeurd. Openbare deployment/controle nog niet voltooid. Zie SOL61-VIJF-20261003.md.
+Alle vijf toevoegingen zijn volledig gecontroleerd: 14 tests groen, zeven relevante meshes overlapvrij en GLB-pariteit bevestigd. Vijf gerichte lokale én openbare browsercontroles, extra bronnen/credits/supports op desktop, mobiel en fullscreen en algemene PlanC-regressie geslaagd zonder JS-/HTTP-fouten of overflow. 47 openbare bestanden bytegelijk met de release. Screenshot- en fotovergelijkingen door root en onafhankelijke agents bekeken.
 
-Gebruikerswijziging 3 oktober2026: **geen nieuwe GitHub-back-ups/back-uptags meer**. Reguliere commits, pushes en Pages-publicaties blijven geautoriseerd. Eerdere back-ups blijven bestaan. De eerdere instructie een nieuwe tag bij110 naar GitHub te pushen is hierdoor vervallen.
+De twee kleine MONNICKENDAM-bordjes zijn na twee afgewezen AI-probes met expliciete toestemming uit het originele zwart-witbeeld teruggeplaatst in een aparte nieuwe AI-versie. Alleen Hoogstraat 353/357 gebruiken dit nieuwe beeld. Origineel en bestaande Monnickendam/De Kaplaars-AI blijven behouden. Prompts, methode, maskers, hashes en onzekerheden staan in `site/landmarks/hoogstraat-353/`. Historische kleuren, onzichtbare achterzijden en hoogten blijven benaderd; Posthoornsteeg-huisnummers niet als zeker gepresenteerd.
+
+## Werkbasis en bewaring
+
+Actuele integratieworktree: `rotterdam_1939/github/rdam39-sol61-test`, branch `sol61-eengebouw`; origin/main bevat de release plus daarna documentair bewijs. De oorspronkelijke `rotterdam_1939/github/lukemarcom` staat nog op de oudere main met bestaand ongecommitteerd ronde22-werk. Dat werk is bytegelijk bewaard; tracked diff SHA256 `567bfc2cebf030f15e152b0f0f3b6192bc22fb38c8f51050ff49afec3bf3a5ca`. De daar aanwezige vijf ronde22-locaties zijn inmiddels elders geïntegreerd en openbaar; tel ze niet opnieuw als vijf volgende toevoegingen. Geen blind pull/reset/clean op die vuile checkout. Vervolg op de actuele release en behoud losse research/probes/screenshots die niet zijn gecommit.
+
+## Gewijzigde back-upafspraak
+
+Gebruiker vraagt sinds 3 oktober 2026 **geen nieuwe GitHub-back-ups/back-uptags**. Reguliere commits, pushes en Pages-publicaties blijven geautoriseerd. Geen nieuwe back-uptag of bundle naar GitHub gepusht; de lokale tag is aantoonbaar afwezig op GitHub. Alleen lokaal volledige, herstelbare Git-bundle met lokale tag op de release opgeslagen en geverifieerd: `BACKUP-111-LOCAL-20261003.json`. Deze bevat de gevolgde geschiedenis tot de release, geen ongecommitteerd werk, losse onderzoeksbestanden of latere bewijscommit. Oude remote back-ups blijven bestaan. De oude opdracht hieronder een remote110-tag te maken is vervallen; volgende lokale checkpoint is 120.
 
 ## Doel en huidige staat
 
