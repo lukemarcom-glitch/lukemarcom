@@ -1,0 +1,116 @@
+{
+  "checkedAt": "2026-10-03T12:20:12.145Z",
+  "releaseCommit": "a0f08a8d9fa9090acc122d1f02a38c45551af692",
+  "pagesRun": "37122441146",
+  "buildings": 207,
+  "ids": [
+    "hellebrekers-haagseveer",
+    "henri-zwaan-haagseveer",
+    "haringvliet87",
+    "haringvliet89",
+    "heniger-kipstraat"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "e616a562db77d2384adca1c2ca24418b10a82d0fa8c626d6d6365a7a4fc696b7",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "5819f1e584a5ac54f14dbc1d2c290a5980dcc923232a539ef24cb57167150cdf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "5f3378d7b503d91a813792895ef02aa1a627a567668c82e4d53458e86ee7b389",
+      "identical": true
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "sha256": "63d0ec7129e72c189b445bf31265f792714fb3247e1eaa8758daf8d2e969369d",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "0b859406709943ae359eb535cf85254c09875133d5d456d1641dd4ac9c4f0ba0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hellebrekers-haagseveer/model.glb",
+      "sha256": "198d17058d589111a10de2ba19c2e8347ff27c22d5b3dbd999561482a483d8aa",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hellebrekers-haagseveer/foto-1-origineel.jpg",
+      "sha256": "49f61dd94e35b7a181dd16e467b02246a1c304b3ff0fd331fdc1ff044c4477db",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hellebrekers-haagseveer/foto-1-ai.webp",
+      "sha256": "4e506f38e468defca5323e4786baa5346f9d337788f3d7c3a26b78b5d7fe7a3c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hellebrekers-haagseveer/foto-2-origineel.jpg",
+      "sha256": "762d68e762bf822b13ff7f9e86b12fd44b7110a7acc2d938286358552f5dd274",
+      "identical": true
+    },
+    {
+      "path": "landmarks/hellebrekers-haagseveer/foto-2-ai.webp",
+      "sha256": "59dd66cc87712c14d728aa8ca2d04b5b8e6c25211f0997c29aca1f2e008864f0",
+      "identical": true
+    },
+    {
+      "path": "landmarks/henri-zwaan-haagseveer/model.glb",
+      "sha256": "0603f69b42ea38f97e2cf66da0e269800216108fae6a9d505361981b72596ff6",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/model.glb",
+      "sha256": "fdc75ad4059e0f92f616d83b1ca3098d481462fe44fbf99e04e2385ffdc4e0e3",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-1-origineel.jpg",
+      "sha256": "c77e1eb81a3e76969e450a5a79f92e615964d3f611fd6325308faf74e58db46c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-1-ai.webp",
+      "sha256": "fddc768a137a8c5dd3a57f5ca46223cba039a2d04f23e205ba01a1bc550c77f8",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-2-origineel.jpg",
+      "sha256": "a5256a5cc2eabc3b06d309b518cfb3bda86777d0f320d8888bd36de09f975114",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet87/foto-2-ai.webp",
+      "sha256": "5ec7a9c346508db88b73062476c0796434445c028ed21981e8d78e4987ef34cf",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet89/model.glb",
+      "sha256": "05a41b4329ce3c8d08087956e920eb6c5904785b59ce670dc4048467b9592321",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heniger-kipstraat/model.glb",
+      "sha256": "c68ebedccf77df4f2054e3e1cf52a75badd6a62ef29cd4009897acbcabcf9751",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heniger-kipstraat/foto-1-origineel.jpg",
+      "sha256": "88effee2858985d13fa65de0ec8a364a9866310175c9c9047fcfe1307a643e9e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/heniger-kipstraat/foto-1-ai.webp",
+      "sha256": "e3a0da6c191fc9dbd06a8c89093d55708071e1be8e00d86c9af94b61c0248ec9",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}
