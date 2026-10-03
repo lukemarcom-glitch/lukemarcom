@@ -1,0 +1,4 @@
+Correct this historical colour photograph with one surgical edit. The small school plaque immediately right of the black double entrance of the broad building right of the house with two statues MUST read exactly:
+KWEEKSCHOOL
+MET DEN BIJBEL
+Spell first line K W E E K S C H O O L (11 letters). Second line M E T space D E N space B I J B E L. Use plain narrow black uppercase lettering, two tidy lines on the existing small white rectangular plaque. Keep the plaque the same physical size and position. Render at high resolution (prefer 3072 pixels wide) so the lettering is actually readable; do not invent pseudo-lettering. The verified historical source states Kweekschool met den Bijbel at Haringvliet48. Every other element and every other sign in the photograph must remain unchanged; whole image, no zoom or crop. Do not touch 'de BLAUWE STER' on the left. No new architecture or objects.

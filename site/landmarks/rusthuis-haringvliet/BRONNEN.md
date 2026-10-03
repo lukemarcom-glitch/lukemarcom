@@ -35,3 +35,6 @@ Korte gerichte materiaalzoekslag Haringvliet50 + zandsteen/gevel/baksteen leverd
 Geïntegreerd als 140e gebouw, slug `rusthuis-haringvliet`. Originele SAR-foto ongewijzigd plus door root beoordeelde AI-variant. Verhaal circa 160 woorden; bronpassage PDF pagina 7 gekoppeld, archiefconflict datum/maker expliciet. Export 1540 driehoeken, 6 materialen; GLB en Blend gemaakt. Achtergrond opnieuw uitgesneden (975 contouren), inclusief uitstekende bordestrap. Geen overlap met andere losse modellen, ook niet met Huis met de Beelden. Gevel kijkt naar het Haringvliet; live screenshot daadwerkelijk bekeken. Binnenhof vrij.
 
 `npm run check`: 10 tests geslaagd, 0 fouten. Gerichte desktop/mobiel/Nu3D-controle: 140 gebouwen/18 verhalen, geen JS- of HTTP-fouten, geen horizontale overflow, fotopaar/modern3D/mobiele lichtbak geslaagd. Geen commit/push door deze agent.
+
+
+Controle 3 oktober 2026: zijvlak bij Haringvliet 48 begrensd op de eigen Z18-perceelslijn. Center, hoogte, pui en bordes behouden; geen nieuw gebouw. Onderbouwing en meshcontrole in ../haringvliet48-kweekschool/.

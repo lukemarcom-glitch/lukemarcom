@@ -1,0 +1,95 @@
+{
+  "sourceAnchors": [
+    [
+      4237.0,
+      3370.0
+    ],
+    [
+      4137.0,
+      3032.0
+    ]
+  ],
+  "workAnchors": [
+    [
+      3728.0,
+      1787.5
+    ],
+    [
+      3709.0,
+      1700.0
+    ]
+  ],
+  "facades": [
+    {
+      "name": "37 / L540",
+      "sourceFront": [
+        [
+          4130,
+          3402
+        ],
+        [
+          4165,
+          3392
+        ]
+      ],
+      "workFront": [
+        [
+          3700.293865297318,
+          1793.6017352950646
+        ],
+        [
+          3709.347863880751,
+          1791.7242200830624
+        ]
+      ]
+    },
+    {
+      "name": "35 / L1192",
+      "sourceFront": [
+        [
+          4165,
+          3392
+        ],
+        [
+          4203,
+          3381
+        ]
+      ],
+      "workFront": [
+        [
+          3709.347863880751,
+          1791.7242200830624
+        ],
+        [
+          3719.1805962460962,
+          1789.6495846881942
+        ]
+      ]
+    },
+    {
+      "name": "33 / L546",
+      "sourceFront": [
+        [
+          4203,
+          3381
+        ],
+        [
+          4237,
+          3370
+        ]
+      ],
+      "workFront": [
+        [
+          3719.1805962460962,
+          1789.6495846881942
+        ],
+        [
+          3728.0,
+          1787.5
+        ]
+      ]
+    }
+  ],
+  "uncertaintyMetres": 8,
+  "note": "Historical corner Korte Frankenstraat, not Goudschewagenstraat. Workmap block generalized/possibly later envelope; facade period unknown, not exact1939."
+}

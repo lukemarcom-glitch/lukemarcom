@@ -1,0 +1,15 @@
+{
+  "width37_35_33": [
+    5.5519924465288355,
+    6.033997158838345,
+    5.451353700486665
+  ],
+  "height37_35_33": [
+    15.8,
+    20,
+    15.6
+  ],
+  "uncertaintyHeight": 3,
+  "uncertaintyPosition": 8,
+  "hiddenRear": "Conservative front volumes only; not full parcels"
+}

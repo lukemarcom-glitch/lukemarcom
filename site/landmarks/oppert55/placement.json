@@ -1,0 +1,116 @@
+{
+  "researchOnly": true,
+  "historicAddress": "Oppert 55",
+  "parcel": "1492",
+  "sourceMap": "Z8 / 1938",
+  "sourceUrl": "https://hdl.handle.net/21.12133/2D641F4B5AE14C008740B00DF7B61BCB",
+  "sourcePixels": [
+    [
+      2730,
+      3252
+    ],
+    [
+      2758,
+      3251
+    ],
+    [
+      2759,
+      3396
+    ],
+    [
+      2730,
+      3397
+    ]
+  ],
+  "workingMapPixels": [
+    [
+      2599.982776858485,
+      1467.86983743682
+    ],
+    [
+      2604.9727199391937,
+      1473.1532114554302
+    ],
+    [
+      2576.89678970987,
+      1498.1799682587177
+    ],
+    [
+      2571.7355918110197,
+      1492.7017860673664
+    ]
+  ],
+  "localPolygon": [
+    [
+      -202.3859213525668,
+      571.5810698613672
+    ],
+    [
+      -199.3773104627437,
+      568.449453687178
+    ],
+    [
+      -216.14065898268086,
+      553.2806283624154
+    ],
+    [
+      -219.2525659154751,
+      556.5277956743989
+    ]
+  ],
+  "frontWidthMeters": 4.34266730809595,
+  "sourceFrontToRearMeters": 22.607589772774038,
+  "uncertaintyMeters": 7,
+  "method": "Two independently identified street-corner anchors; local similarity transform. No existing building models used as control. Not cadastral GIS; finer working-map parcel divisions are generalized.",
+  "anchors": [
+    {
+      "name": "Oppert west / Stokviswater south corner",
+      "source": [
+        2137.0,
+        3285.0
+      ],
+      "working": [
+        2492.0,
+        1358.0
+      ]
+    },
+    {
+      "name": "Oppert west / Sint-Jacobstraat north corner, nr89",
+      "source": [
+        3289.0,
+        3230.0
+      ],
+      "working": [
+        2700.0,
+        1573.0
+      ]
+    }
+  ],
+  "limitations": "Whole parcel proposed as geographic evidence only, not permission to fill entire depth at facade height. Rearward volume and historical roof require separate conservative interpretation.",
+  "modelDepthMeters": 10,
+  "modelHeightApproxMeters": 18.6,
+  "modelHeightUncertaintyMeters": 3,
+  "modelPolygon": [
+    [
+      -199.3773104627437,
+      568.4494536871781
+    ],
+    [
+      -202.3859213525668,
+      571.5810698613673
+    ],
+    [
+      -209.59719486723588,
+      564.6530445801899
+    ],
+    [
+      -206.58858397741278,
+      561.5214284060007
+    ]
+  ],
+  "modelCenter": [
+    -204.4872526649898,
+    566.551249133684
+  ],
+  "note": "Alleen conservatieve voorbouw 10 m; achterste circa 12,6 m van kaartperceel niet op gevelhoogte bebouwd. Frontvolgorde voor renderer omgekeerd, zodat gevel naar Oppert wijst."
+}

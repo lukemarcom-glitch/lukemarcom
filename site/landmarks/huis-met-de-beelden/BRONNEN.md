@@ -47,3 +47,6 @@ Als138e lokaal toegevoegd. Export1644driehoeken/6materialen; GLB/Blend gegeneree
 
 ### Afronding lokaal
 Twee bron/AI-paren gekoppeld; tweede archiefdatering1905–1909 expliciet onzeker vanwege auto. Geselecteerde AI-retry houdt kenteken onscherp; afgekeurde proef niet gepubliceerd. `npm run check`:10tests geslaagd,0fouten. Desktop/mobiel/Nu3D-check geslaagd zonder JS/HTTP-fouten/overflow. Aanvullende foto2loadcheck:2paren,lichtbak zichtbaar,geen pageerrors. Geen commit/push door agent.
+
+
+Controle 3 oktober 2026: zijvlak bij Haringvliet 48 begrensd op de eigen Z18-perceelslijn. Center, hoogte, pui en bordes behouden; geen nieuw gebouw. Onderbouwing en meshcontrole in ../haringvliet48-kweekschool/.

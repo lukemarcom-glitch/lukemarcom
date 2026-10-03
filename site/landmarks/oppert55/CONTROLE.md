@@ -1,0 +1,5 @@
+# Lokale controle Oppert 55, 3 oktober 2026
+
+163 locaties, 18 verhalen, 324 fotoregistraties en 300 oud/AI-paren. Npm run check: nul fouten, twaalf tests geslaagd. Origineel bytegelijk aan RCE-download; modelSpec gelijk aan gereviewde onderzoeksdraft. Alle eerdere 162 catalogusitems ongewijzigd. GLB/Blender geëxporteerd; volledige meshoppervlakte 52,3944 m², nul overlap met afzonderlijke modellen en nul achtergrondoverlap. Alleen een voorbouw, niet het hele kaartperceel bebouwd.
+
+Desktop, mobiel, fullscreen en Nu 3D laden zonder browser- of HTTP-fouten en zonder horizontale overflow. Live model-, mobiele galerie- en desktopfullscreenbeelden bekeken. Hoofdvorm, rijvolgorde 3–3–2–1 en donkere paneelregels in pui herkenbaar. Geen fantasiebedrijf of jaartal. Kaartplaatsing circa 7 m onzeker en geschatte hoogte circa 3 m onzeker blijven zichtbaar beschreven. Bronfoto is ongedateerd; geen exacte 1939-toestand geclaimd. Bronkaart- en schadecrops niet als openbare beeldassets opgenomen. Nog geen commit/publicatie door uitvoerder.

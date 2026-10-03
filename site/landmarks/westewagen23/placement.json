@@ -1,0 +1,49 @@
+{
+  "sourceMap": "Z7, 1938",
+  "sourceFront": [
+    [
+      3440,
+      1396
+    ],
+    [
+      3473,
+      1405
+    ]
+  ],
+  "workFront": [
+    [
+      2583.6705051165345,
+      1789.362346199717
+    ],
+    [
+      2587.345088231101,
+      1797.7945462574367
+    ]
+  ],
+  "width": 5.497979220672685,
+  "depth": 9,
+  "center": [
+    -214.20163018329694,
+    374.6144075603209
+  ],
+  "polygon": [
+    [
+      -208.9735204153876,
+      373.9260674318755
+    ],
+    [
+      -211.20270840975195,
+      378.95185059440155
+    ],
+    [
+      -219.42973995120627,
+      375.3027476887663
+    ],
+    [
+      -217.20055195684193,
+      370.27696452624025
+    ]
+  ],
+  "uncertaintyMeters": 8,
+  "note": "Front J1567 herlezen op native kaart; oud voorstel overlapte J2033. Alleen 9m voorbouw, geveltoekenning centrale klokgevel op RCE-adrescaption + smal/breed buurpatroon; geen leesbaar huisnummer op foto."
+}

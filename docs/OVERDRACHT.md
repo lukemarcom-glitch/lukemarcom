@@ -617,3 +617,34 @@ De hierboven beschreven tijdelijke overlapproblemen zijn opgelost: synagoge 87, 
 Release `c66be296d72879d91a10e58a6d16f5a00d0201ac`: Pages-run 37090145927 en check-run 37090145978 beide geslaagd. Negentien openbare bestanden voor de vijf nieuwe locaties bytegelijk aan de repository; daarnaast acht gewijzigde runtimebestanden en bestaande modellen afzonderlijk bytegelijk. Bewijs: `VERIFICATIE-RONDE11-20261003.json` en `VERIFICATIE-RONDE11-CORRECTIES-20261003.json`.
 
 Anonieme browsercontrole op https://rdam39.nl/: 162 locaties/18 verhalen, nul browser- of HTTP-fouten en geen mobiele overflow; oud/AI, fullscreen en Nu 3D geslaagd. Publieke mobiele galerie en fullscreen visueel bekeken. Totaal 55 toevoegingen in deze reeks, volgende volledige backup bij60. Ronde12 blijft bronnenonderzoek; nog geen volgende nieuwe panden geïmplementeerd.
+
+
+## Lokale toevoeging 56 · Oppert 55 · 3 oktober 2026
+
+Halsgevelhuis toegevoegd als 163e locatie. Vrije hele RCE-foto 20192351 met oorspronkelijke bytes en AI-paar, bron/rechten/prompt en review bewaard. Vorm volgt origineel: bovenvensters 3–3–2–1, gebogen halsprofiel, donkere paneelpui. Verlies is expliciet kaartsynthese Z8/perceel1492 + verwoeste Oppert-rij; geen individuele bominslagclaim. Twee onafhankelijke hoekankers bepalen plaats, geen moderne geocode; 7 m onzeker. Alleen 10 m voorbouw van circa 22,6 m perceeldiepte, hoogte geschat.
+
+GLB/Blend en achtergrond gereed. Exacte meshcontrole: nul model- en achtergrondoverlap. Origineel bytegelijk, modelSpec gelijk aan researchdraft, voorgaande 162 items intact. Npm check nul fouten en 12 tests; desktop/mobiel/fullscreen/Nu gecontroleerd en screenshots bekeken. Nog niet gecommit of gepubliceerd door subagent.
+
+### 3 oktober 2026 — Westewagenstraat 2–4
+
+Twee halsgevels bij de Raambrug toegevoegd als één ensemble (164 locaties op dit controlemoment). Volledig origineel RCE 20192594 en afzonderlijke AI-kleurinterpretatie, directe bronondersteuning en originele SHA-controle aanwezig. Model volgt de ongedateerde Engers-fotofase; foto uit 1934–1938 bewijst dezelfde gevels met gewijzigde reclame, geen exacte 1939-reclameclaim. Plaatsing op historische percelen J268/J2127 met Raambrug/Krattenbrug als onafhankelijke ankers; schadeplan bevestigt verwoest gebied. Raamstraat 24 niet als nummer 2 gebouwd. Hoogte, achterbouw en kleuren benaderd. GLB/Blend geëxporteerd, achtergrond opgeschoond; exacte model- en achtergrondoverlap 0 m², npm-check 12/12 en desktop/mobiele galerie/fullscreencontrole zonder fouten. Research: expansion-20261003/round12-nh. Niet afzonderlijk gepubliceerd.
+
+### 3 oktober 2026 — lokale toevoeging 58: Westewagenstraat 23
+
+Centrale klokgevel toegevoegd als locatie 165 met ongewijzigde RCE 20192595 (CC BY-SA 4.0), definitieve AI v3, drie prompts en expliciete interpretatienotitie. Vier schuiframen, dubbel zolderraam met reling, etalage en gesloten onderpaneel volgen de foto. Gevelidentiteit via adrescaption en buurpatroon; huisnummer niet leesbaar. Eigen Z7-frontcorrectie houdt alleen J1567 en 9 m voorbouw aan. Verlies onderbouwd als kaartsynthese, geen individuele inslagclaim. Plaats en kleuren blijven benaderd.
+
+GLB/Blend en achtergrond gereed; exacte meshcontrole nul model- en achtergrondoverlap, originele bytes gelijk, voorgaande 164 items intact. 165 locaties / 18 verhalen / 326 foto's / 302 paren; npm check nul fouten en 12 tests. Desktop, mobiel, fullscreen, Nu en live model gecontroleerd. Nog niet gecommit of gepubliceerd door subagent.
+
+### Kipstraat 33–37 — lokale toevoeging 3 oktober 2026
+
+Eén ensemble met drie afzonderlijk geïdentificeerde panden: Pollen op 33 (L546), het hoge middenpand 35 (L1192), en 37 (L540). Historische hoek Korte Frankenstraat, niet Goudschewagenstraat. Nummering volgt kaart Z15 uit 1938; een afwijkende beschrijving van nummer 33 uit 1915 is niet als bouwstijl- of dateringsbewijs gebruikt. De ongedateerde gevelopname is geen exacte reconstructie van 1939. Positie ongeveer ±8 m; hoogten ±3 m; achterbouw en kleuren benaderd.
+
+Eén ongewijzigd RCE-origineel met AI-afgeleide, CC BY-SA 4.0, prompts en beeldcontrole opgenomen. De tweede RCE-opname is gespiegeld en uitsluitend onderzoeksmateriaal. Directe foto-, kaart-, schade- en bedrijfsbronnen staan bij het item. Verlies is onderbouwd met de gemeentelijke schadekaart plus historische percelen en de specifieke publicatie over Pollen.
+
+GLB en Blender opnieuw geëxporteerd, achtergrond uitgesneden. Exacte geprojecteerde mesh heeft geen overlap met andere losse modellen of achtergrond. Geen buurmodel verplaatst. Technische check: 12 tests geslaagd, 166 locaties op dit controlemoment. Browsercontrole en screenshots staan in `research/expansion-20261003/round12-candidates/kip-*`. Publicatie gebeurt apart door de hoofdtaak.
+
+### 3 oktober 2026 — lokale toevoeging 60: Haringvliet 48
+
+Kweekschool met den Bijbel toegevoegd als 167e locatie, met twee oud/AI-paren: frontale RCE-opname (nieuwe gecorrigeerde AI) en gedeelde Leenheer-foto uit 1933. Originelen hergebruikt met volledige zelfstandige credits en beperkingen. Bouwjaar 1701 en meander via DBNL 1915; schooladres via primaire ledenlijst uit 1928. Verlies expliciet kaartsynthese, geen afzonderlijke inslag. Schoolbord in AI bewust onleesbaar, juiste naam in bijschrift.
+
+Volle bronfront van 48 behouden; bestaande 46/50 zijdelings op eigen bronperceel begrensd, zonder verplaatsing of hoogtewijziging en met behoud van pui en bordes. GLB/Blend van alle drie en achtergrond vernieuwd. Exacte meshcontrole bij alle drie nul model- of achtergrondoverlap. 167 locaties / 18 verhalen / 329 foto's / 305 paren; npm 12 tests en nul fouten. Browser desktop, mobiel, Nu, fullscreen en live model bekeken. Nog geen commit of publicatie. Volledige backup 60 door hoofdtaak volgt.
