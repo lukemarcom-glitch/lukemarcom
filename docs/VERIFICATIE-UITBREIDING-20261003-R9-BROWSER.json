@@ -1,0 +1,17 @@
+{
+  "base": "https://rdam39.nl/",
+  "buildings": 152,
+  "stories": 18,
+  "errors": [],
+  "failed": [],
+  "overflow": {
+    "page": false,
+    "panel": false
+  },
+  "photoPairs": true,
+  "modern3D": true,
+  "mobileViewer": true,
+  "releaseCommit": "c243eb962e1d1dc315fdcd2c161d16b9a4209cdb",
+  "landmark": "nieuwehaven169",
+  "visualReview": "Root inspected public mobile gallery and modern 3D screenshot."
+}

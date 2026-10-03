@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-10-03T00:24:50.492Z",
+  "releaseCommit": "c243eb962e1d1dc315fdcd2c161d16b9a4209cdb",
+  "pagesRun": "37081810888",
+  "buildings": 152,
+  "ids": [
+    "haringvliet44-blauwe-ster",
+    "twee-leeuwen",
+    "slagerij-verzijden-sint-laurens47",
+    "oppert93",
+    "nieuwehaven169"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "ffd88589fdcf1a5824394ed477f0bb30260b64f3df798092603406c69102aca3",
+      "identical": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "7056b58c7f18ddff53181c160aac9ece21cc325891c90b18fa04a7809923391e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/catalog.json",
+      "sha256": "b1f6aca4823b2bb671d06ea4f7de9c9e4e4a3021cf87a321579999ae2ccf61f3",
+      "identical": true
+    },
+    {
+      "path": "data/model-landmarks.json",
+      "sha256": "51e7d3a058fd640c2a0da856e6d75704fcfa90670d2aa07923573ebcf4743345",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet44-blauwe-ster/model.glb",
+      "sha256": "e0bfd6485fb80d3a62917a19dfb7d7a1e2bf76c0e944e2eb5f638f6708bea86b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet44-blauwe-ster/foto-1-origineel.jpg",
+      "sha256": "9396205402c1981bc60a956e3d80a2d1e26a37e486f461c7a8f80ced25610298",
+      "identical": true
+    },
+    {
+      "path": "landmarks/haringvliet44-blauwe-ster/foto-1-ai.webp",
+      "sha256": "274efaeb3fb3a1c9a1cd7a2b512a23995f4c69a273c0d8d92def35c2e307433c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/twee-leeuwen/model.glb",
+      "sha256": "840963af1279ee58fb3fc3404637d8b516a4d76a58e3e53f482f8ae90516c3c9",
+      "identical": true
+    },
+    {
+      "path": "landmarks/twee-leeuwen/foto-1-origineel.jpg",
+      "sha256": "086199bbb7cd0a39bf536d40427cb6d924e4ea11e27da2b02d64cef0a1009447",
+      "identical": true
+    },
+    {
+      "path": "landmarks/twee-leeuwen/foto-1-ai.webp",
+      "sha256": "6beb138d168a13a91e779aba49c610cccc360a6c77084bcd37de813ac309536e",
+      "identical": true
+    },
+    {
+      "path": "landmarks/slagerij-verzijden-sint-laurens47/model.glb",
+      "sha256": "2ba468eb2058fde99301cf5bb1f9c46a4edccf0f6937b762a60bc0a5222c0612",
+      "identical": true
+    },
+    {
+      "path": "landmarks/slagerij-verzijden-sint-laurens47/foto-1-origineel.jpg",
+      "sha256": "f8512587841bcc2608ace532bc4357dad33f653e43a53f33ac061a23f55296ac",
+      "identical": true
+    },
+    {
+      "path": "landmarks/slagerij-verzijden-sint-laurens47/foto-1-ai.webp",
+      "sha256": "af36646e9775ec471394c2d5ae475704d57237602ad29f677562667fcdb6717b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert93/model.glb",
+      "sha256": "4158389cea99fb74920acf1e653dcedd31e3e63d5f68984940c6510db630d480",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert93/foto-1-origineel.jpg",
+      "sha256": "a1e1654b43ecfedfaf4b1aff6943d976cffdb95ffaf615c0f810cbc739b5c936",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert93/foto-1-ai.webp",
+      "sha256": "7ca3e07b71fbd0ae146bdf69b00ce0eeefcd95c788ce2d38fc229b9ca0e6ca30",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert93/foto-2-origineel.jpg",
+      "sha256": "af1047b37f60d7e6f1e47b90313b33318e22d746d7961d92beb0283389b552ca",
+      "identical": true
+    },
+    {
+      "path": "landmarks/oppert93/foto-2-ai.webp",
+      "sha256": "a9f1abc29abfec133ba2d86d1bac3d031cf960a5a49e7cf7404e926f6ad36213",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven169/model.glb",
+      "sha256": "9456c703dd06ca241b7e261d890f5daf0e2fe4cb00f0abf3492fc64dee8abd8b",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven169/foto-1-origineel.jpg",
+      "sha256": "bc9ce6cec54b41e84d2bc23d311ad89cbf6597f0f7999300c9b8cf3d5ce4d01c",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven169/foto-1-ai.webp",
+      "sha256": "1fbbe087de1ffc1bb714b0f007ee0b8364e7e9b2e40212fbba6d1aff79b1e8ea",
+      "identical": true
+    },
+    {
+      "path": "landmarks/nieuwehaven169/foto-2-origineel.jpg",
+      "sha256": "acc2306172814b16652bbb7f5873fa6c07db416aa0fce968e23d9e6989827a50",
+      "identical": true
+    }
+  ],
+  "scope": "Byte comparison only; deployment success and visual browser checks verified separately."
+}

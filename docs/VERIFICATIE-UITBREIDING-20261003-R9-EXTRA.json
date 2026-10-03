@@ -1,0 +1,20 @@
+{
+  "release": "c243eb962e1d1dc315fdcd2c161d16b9a4209cdb",
+  "files": [
+    {
+      "path": "landmarks/models.js",
+      "identical": true,
+      "sha256": "1f1113e919d3ccd5bcde1110c15fabc2a634a3f142cb93f974db68b2b910e112"
+    },
+    {
+      "path": "landmarks/city32-models.js",
+      "identical": true,
+      "sha256": "382531f5db87d3f76ffa1e4f5938c8d37634b11a747249067e2867eba6d688c7"
+    },
+    {
+      "path": "landmarks/huis-met-de-beelden/model.glb",
+      "identical": true,
+      "sha256": "5ba5f344a53de0dbfb0d5f65204b8d4375af773b6e9f1384dd5971198e1c764f"
+    }
+  ]
+}
