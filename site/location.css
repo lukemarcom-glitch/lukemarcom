@@ -1,4 +1,4 @@
-/* Opt-in, one-shot location. Styled with the active era's existing palette. */
+/* Opt-in location with optional compass-following. */
 .gps-control{position:absolute;z-index:8;bottom:62px;left:50%;transform:translateX(-50%);width:max-content;max-width:min(360px,calc(100% - 32px));text-align:center;pointer-events:none}
 .gps-actions{display:flex;justify-content:center;gap:6px;pointer-events:auto;width:max-content;max-width:100%;margin:auto}
 .gps-actions button{min-height:44px;padding:10px 16px;border:1px solid var(--line);border-radius:7px;background:var(--paper);color:var(--ink);box-shadow:var(--shadow);font:600 16px/1.25 var(--ui);cursor:pointer}
@@ -13,3 +13,12 @@
  .era-modern .gps-control{bottom:calc(120px + env(safe-area-inset-bottom))}
  .landmark-open .gps-control,.menu-expanded .gps-control,body:has(.tools.expanded) .gps-control{display:none}
 }
+
+#location-follow[aria-pressed="true"]{background:#1875e5;color:white;border-color:#1875e5}
+#gps-bearing{display:inline-block;margin-top:8px;padding:5px 12px;border-radius:20px;background:var(--paper);color:var(--ink);font:600 14px/1.3 var(--ui)}
+#gps-direction{position:absolute;left:calc(50% - 12px);top:calc(50% - 32px);width:24px;height:32px;transform-origin:50% 100%;pointer-events:none}
+#gps-direction::before{content:"";position:absolute;left:0;top:0;border-left:12px solid transparent;border-right:12px solid transparent;border-bottom:21px solid #1875e5;filter:drop-shadow(0 0 2px white)}
+#gps-direction[hidden]{display:none}
+@media(max-width:420px){.gps-actions{gap:4px}.gps-actions button{padding:10px 9px;font-size:14px}#location-clear{padding:6px}}
+#gps-bearing[hidden]{display:none}
+#gps-dot{z-index:7}

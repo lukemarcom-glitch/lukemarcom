@@ -32,3 +32,18 @@ test('Real scene coordinate origin and Rotterdam fixes align; Amsterdam is rejec
  p.coords.latitude=52.3676;p.coords.longitude=4.9041;
  assert.equal(assessPosition(p,m.boundary,m.originLonLat,timestamp).status,'outside');
 });
+
+import {readHeading, smoothHeading} from '../site/location.js';
+test('Compass uses earth reference, rejects invalid data, handles upright and flat phones',()=>{
+ assert.equal(readHeading({alpha:20,beta:90,gamma:0,absolute:false}),null);
+ assert.equal(readHeading({webkitCompassHeading:-1}),null);
+ assert.equal(readHeading({webkitCompassHeading:90,webkitCompassAccuracy:80}),null);
+ assert.equal(readHeading({webkitCompassHeading:350},90),80);
+ assert.equal(readHeading({absolute:true,alpha:null,beta:90,gamma:0}),null);
+ for(const angle of [0,90,180,270]) {
+  for(const beta of [0,45,90]) assert.ok(Math.abs(readHeading({absolute:true,alpha:(360-angle)%360,beta,gamma:0})-angle)<1e-7);
+ }
+ assert.equal(readHeading({absolute:true,alpha:0,beta:0,gamma:0},90),270);
+ assert.equal(smoothHeading(359,1,.5),0);
+ assert.equal(smoothHeading(1,359,.5),0);
+});

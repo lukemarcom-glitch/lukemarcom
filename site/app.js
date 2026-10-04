@@ -1,5 +1,5 @@
 import {createHistoricWater} from './historic-water.js?v=2';
-import {createLocationControl} from './location.js?v=1';
+import {createLocationControl} from './location.js?v=compass-20261004';
 import {resolveStoryLocations} from './stories/locations.js?v=city-33';
 import {layoutMarkers} from './marker-layout.js?v=city-33';
 import * as THREE from './vendor/three.module.js';
@@ -56,11 +56,12 @@ async function start(){
  const base=new THREE.Mesh(new THREE.PlaneGeometry(18000,18000),new THREE.MeshStandardMaterial({color:'#e5e5da',roughness:1}));base.rotation.x=-Math.PI/2;base.position.y=-8;base.receiveShadow=true;scene.add(base);
  const labels=model.landmarks.filter(p=>!catalog.some(m=>m.name===p.name)).map(p=>{const el=document.createElement('div');el.className='place-label';el.textContent=p.name;$('labels').appendChild(el);return {el,position:new THREE.Vector3(p.position[0],22,-p.position[1])}});
  $('count').textContent=`${ranges.length.toLocaleString('nl-NL')} afgeleide bouwmassa’s`;
+ let locationControl=null;
  let view='3d',picked=null,highlight=null,flight=null,sourceInspection=false,focusedBridge=false;
  let era='old',modern=null,modernPromise=null,eraRequest=0;
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
  function move(target,offset,animate=true){
-  const end=target.clone().add(offset);flight=null;if(!animate||reduced){camera.position.copy(end);controls.target.copy(target);controls.update();return}
+  locationControl?.pause();const end=target.clone().add(offset);flight=null;if(!animate||reduced){camera.position.copy(end);controls.target.copy(target);controls.update();return}
   flight={start:performance.now(),from:camera.position.clone(),to:end,oldTarget:controls.target.clone(),target};
  }
  const overview=new THREE.Vector3(360,0,-20);
@@ -96,7 +97,7 @@ async function start(){
  function setMenu(open){$('places-toggle').setAttribute('aria-expanded',String(open));$('places-content').hidden=!open;document.body.classList.toggle('menu-expanded',open);}
  $('places-toggle').onclick=()=>{const open=$('places-toggle').getAttribute('aria-expanded')!=='true';if(open)panel.close(false);setMenu(open)};setMenu(innerWidth>=1000);
  gotoPlace('overview',false);
- controls.addEventListener('start',()=>flight=null);
+ controls.addEventListener('start',()=>{flight=null;locationControl?.pause()});
  document.querySelectorAll('[data-place]').forEach(b=>b.addEventListener('click',()=>{panel.close(false);gotoPlace(b.dataset.place);if(innerWidth<1000)setMenu(false)}));
  function setView(next){if(era==='old'&&next==='3d'&&sourceInspection){objects.visible=true;$('show-buildings').checked=true;if(highlight)highlight.visible=true;sourceInspection=false}view=next;const target=controls.target.clone();const d=camera.position.distanceTo(target);move(target,next==='2d'?new THREE.Vector3(0,d,.1):new THREE.Vector3(d*.27,d*.65,d*.69));$('view3d').setAttribute('aria-pressed',String(next==='3d'));$('view2d').setAttribute('aria-pressed',String(next==='2d'))}
  $('view3d').onclick=()=>setView('3d');$('view2d').onclick=()=>setView('2d');
@@ -108,6 +109,7 @@ async function start(){
  $('tools-toggle').onclick=()=>{const expanded=document.querySelector('.tools').classList.toggle('expanded');$('tools-toggle').setAttribute('aria-expanded',String(expanded))};
  $('reset').onclick=()=>{panel.close(false);gotoPlace('overview')};
  function alignNorth(){
+  locationControl?.pause();
   // Cancel movement without consuming its remaining inertia or moving the focus.
   const target=controls.target.clone(),position=camera.position.clone(),damping=controls.enableDamping;
   flight=null;controls.enableDamping=false;controls.update();controls.target.copy(target);camera.position.copy(position);controls.enableDamping=damping;controls.update();
@@ -116,14 +118,21 @@ async function start(){
   flight={type:'north',start:performance.now(),target,radius:spherical.radius,phi:spherical.phi,theta:spherical.theta};
  }
  $('north-reset').onclick=alignNorth;
- const locationControl=createLocationControl({THREE,scene,camera,model,panTo(point){
-  // Preserve the complete camera offset: GPS cannot zoom, tilt or rotate the map.
-  const target=controls.target.clone(),position=camera.position.clone(),damping=controls.enableDamping;
-  flight=null;controls.enableDamping=false;controls.update();controls.target.copy(target);camera.position.copy(position);controls.enableDamping=damping;
-  const xs=model.mapCorners.map(p=>p[0]),ys=model.mapCorners.map(p=>p[1]);
-  const x=Math.max(Math.min(...xs)+50,Math.min(Math.max(...xs)-50,point[0]));
-  const y=Math.max(Math.min(...ys)+50,Math.min(Math.max(...ys)-50,point[1]));
-  move(new THREE.Vector3(x,target.y,-y),position.sub(target));
+ locationControl=createLocationControl({THREE,scene,camera,model,panTo(point){
+  panel.close(false);setMenu(false);flight=null;
+  if(era==='old'&&sourceInspection){objects.visible=true;$('show-buildings').checked=true;if(highlight)highlight.visible=true;sourceInspection=false}
+  controls.enableDamping=false;controls.update();
+  controls.target.set(point[0],0,-point[1]);
+  camera.position.copy(controls.target).add(new THREE.Vector3(0,230,250));
+  controls.update();controls.enableDamping=true;view='3d';
+  $('view3d').setAttribute('aria-pressed','true');$('view2d').setAttribute('aria-pressed','false');
+ },lookToward(point,heading){
+  flight=null;const angle=heading*Math.PI/180;
+  const distance=camera.position.distanceTo(controls.target);
+  const height=camera.position.y-controls.target.y, horizontal=Math.sqrt(Math.max(0,distance*distance-height*height));
+  controls.target.set(point[0],0,-point[1]);
+  camera.position.set(point[0]-Math.sin(angle)*horizontal,height,-point[1]+Math.cos(angle)*horizontal);
+  const damping=controls.enableDamping;controls.enableDamping=false;controls.update();controls.enableDamping=damping;
  }});
  function zoom(factor){const distance=camera.position.distanceTo(controls.target);const delta=camera.position.clone().sub(controls.target).multiplyScalar(Math.max(controls.minDistance,Math.min(controls.maxDistance,distance*factor))/distance);move(controls.target.clone(),delta)}
  $('zoom-in').onclick=()=>zoom(.72);$('zoom-out').onclick=()=>zoom(1.38);

@@ -84,7 +84,7 @@ De browsercontrole schrijft screenshots in `artifacts/`, controleert laden, foto
 
 ## GPS / locatie op verzoek
 
-`site/location.js` bevat de afstandstoets en eenmalige locatiebediening; `site/location.css` de bediening en stip. `app.js` integreert de markerprojectie in iedere renderframe en verplaatst alleen het cameradoel. Gebruikerscoördinaten nooit opslaan, loggen of doorsturen. De huidige GPS-grens is de **voorlopige werkgrens** plus 500 m; geen claim van een ingemeten brandgrens. Zie de overdracht voor de onderzochte bronnen.
+`site/location.js` bevat de afstandstoets en eenmalige locatiebediening; `site/location.css` de bediening en stip. `app.js` integreert de markerprojectie in iedere renderframe en zet de camera op een overzicht rond de locatie (230 m hoog, 250 m achter het cameradoel). Het optionele kompas draait de camera rond dat doel; kaartbediening pauzeert het meedraaien. Kompasrichting gebruikt Safari webkitCompassHeading of absolute alpha/beta/gamma, met projectie voor een rechtop gehouden telefoon. Relatieve alpha is geen betrouwbare noordrichting en wordt geweigerd. Richting wordt afgevlakt over de kortste draai, ook over 359°/0°. Gebruikerscoördinaten nooit opslaan, loggen of doorsturen. De huidige GPS-grens is de **voorlopige werkgrens** plus 500 m; geen claim van een ingemeten brandgrens. Zie de overdracht voor de onderzochte bronnen.
 
 Gerichte regressiecontrole: `CHROME_PATH=/pad/naar/chrome node scripts/location-browser-check.mjs`. `BASE_URL` kan naar localhost, een subpad of de openbare site wijzen. Browserposities worden gesimuleerd; dit is geen echte buitentest. Afstands- en nauwkeurigheidstests draaien automatisch mee in `npm run check`.
 
