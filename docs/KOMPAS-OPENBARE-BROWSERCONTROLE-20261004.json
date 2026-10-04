@@ -1,0 +1,16 @@
+{
+  "base": "https://rdam39.nl/",
+  "passed": true,
+  "noAutomaticPermission": true,
+  "rejectedLocationsDoNotMoveCamera": true,
+  "lateCallbackIgnored": true,
+  "locationOverview": true,
+  "fullCompassTurn": true,
+  "pauseAndResume": true,
+  "manualZoomPauses": true,
+  "mobileThenAndNow": true,
+  "errors": [],
+  "realPhoneOutdoorTest": false,
+  "release": "f383c3f2ff21e45e4e4bd6ead08410c3027dd6f2",
+  "pagesRun": 37226509616
+}

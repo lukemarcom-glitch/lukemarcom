@@ -1,0 +1,28 @@
+{
+  "release": "f383c3f2ff21e45e4e4bd6ead08410c3027dd6f2",
+  "pagesRun": 37226509616,
+  "publicURL": "https://rdam39.nl/",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "f77e2ddbab7a4d8cee10480407b4876792a727980df9ed47bd4733502418b81a",
+      "matchesRelease": true
+    },
+    {
+      "path": "app.js",
+      "sha256": "ea579ab3637268ed354ab9cc34cac6b83aa678d93ff8cf355e6de7cda9ab458a",
+      "matchesRelease": true
+    },
+    {
+      "path": "location.js",
+      "sha256": "c4473efd10f60e045320dda69983785c8e0c9a79034cfece75c2eee7ecaafe92",
+      "matchesRelease": true
+    },
+    {
+      "path": "location.css",
+      "sha256": "79fff29a97c9f67836079c4ce3e989f2d0b57b0c79c62c25bc7ca22aac4233bc",
+      "matchesRelease": true
+    }
+  ],
+  "realPhoneOutdoorTest": false
+}
